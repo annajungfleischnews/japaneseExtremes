@@ -1,9 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:no_entry: EXTREME_LANGUAGE **missing**:  
-1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/annajungfleischnews/japaneseExtremes/settings/secrets/actions  
-   * Name:  **EXTREME_LANGUAGE**   
-   * Value: **Your language code here**   
+:white_check_mark: EXTREME_LANGUAGE key exists (ja)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :no_entry: EXTREME_GH_TOKEN **not working**:  
