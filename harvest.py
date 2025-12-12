@@ -520,8 +520,6 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundColumns.append(column2) 
              found = True
              max(valid,numFound) 
-       if(not found):
-
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
