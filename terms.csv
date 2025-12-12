@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.6900357981562066,1,3,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2025-12-07T03:46:00+00:00,Japan,0.5735759579493888,1,3,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2025-11-24T03:45:00+00:00,Japan,0.5452111219731404,0,2,ja,EAS,Asia
 '33641a0515',extremes,Earthquake,#870007,usgs,白糠地震,2025-11-27T03:33:00+00:00,Japan,0.5445734341069893,0,2,ja,EAS,Asia
