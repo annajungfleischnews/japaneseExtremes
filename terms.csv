@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'080e029a76',extremes,Tsunami,#690191,usgs,津波八戸,2025-12-13T03:37:00+00:00,Japan,0.663114513942548,0,2,ja,EAS,Asia
+'587bab58ed',extremes,Tsunami,#690191,usgs,,2025-12-12T03:45:00+00:00,Japan,0.6295115037131843,0,2,ja,EAS,Asia
+'1ed244aa82',extremes,Earthquake,#870007,usgs,,2025-12-09T03:40:00+00:00,Japan,0.6289369977551779,0,2,ja,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,,2025-12-07T03:46:00+00:00,Japan,0.5833071436389266,0,2,ja,EAS,Asia
+'6c46f2e628',extremes,Earthquake,#870007,usgs,,2025-11-24T03:45:00+00:00,Japan,0.5452111219731404,0,2,ja,EAS,Asia
+'33641a0515',extremes,Earthquake,#870007,usgs,,2025-11-27T03:33:00+00:00,Japan,0.5445734341069893,0,2,ja,EAS,Asia
+'29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2025-12-10T03:45:00+00:00,Japan,0.5433783956487354,0,2,ja,EAS,Asia
+'87fcc8f43f',extremes,Earthquake,#870007,usgs,,2025-12-10T03:45:00+00:00,Japan,0.5307776187179137,0,2,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.5177402025805932,0,2,ja,EAS,Asia
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.5177292586314906,0,2,ja,EAS,Asia
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
@@ -11,8 +19,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2025-11-23T03:46:00+00:00,Japan,0.4721802249557656,0,2,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.4708735376383417,1,2,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2025-12-10T03:45:00+00:00,Japan,0.4574008658897333,0,2,ja,EAS,Asia
+'85ec8b6400',extremes,Earthquake,#870007,usgs,,2025-12-13T03:37:00+00:00,Japan,0.45419942422520837,0,2,ja,EAS,Asia
+'7183b884b1',extremes,Drought,#edc291,edo,,2025-12-13T03:38:00+00:00,Japan,0.43443972962284155,0,2,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.4256689073764399,0,2,ja,EPO,Pacific Ocean
-'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.41800364948782204,1,2,ja,EAS,Asia
+'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.418003649487822,1,2,ja,EAS,Asia
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.3872417395774256,0,2,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2025-11-30T03:47:00+00:00,Palau,0.3560114981763207,0,2,ja,EPO,Pacific Ocean
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ディトワ,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,ja,EIO,Indian Ocean
