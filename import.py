@@ -46,8 +46,10 @@ def doTranslate(column, targetLanguage, tmpTopic = True, lowerCase=True):
   if(lowerCase):
     tmpSource = tmpSource.lower()
   tmpTerm = lt.getTranslatorByLanguage(column['language'],targetLanguage).translate(tmpSource)
-  print(['translate',tmpSource,tmpTerm])
-  if(tmpTopic and tmpTerm):
+  if (not isinstance(tmpTerm, str)):
+    print(['translation failed',tmpSource,tmpTerm])
+    tmpTerm = '' 
+  if(tmpTopic):
     if(':' in tmpTerm):
       tmpArray = tmpTerm.split(':', 1)
     if('：' in tmpTerm):
