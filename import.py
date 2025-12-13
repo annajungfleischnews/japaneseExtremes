@@ -103,13 +103,14 @@ def importTerms(maxImports=10, targetLanguage='de'):
             #column['term'] = GoogleTranslator(source=column['language'], target=targetLanguage).translate(text=column['term'])
             column['term'] = doTranslate(column, targetLanguage) #use context of topic
           column['language'] = targetLanguage
-          #termsDF = termsDF.append(column, ignore_index=True)
-          columnDF = pd.DataFrame.from_records([column], columns=list(column.keys()))
-          #print(columnDF)
-          if(termsDF.empty): 
-            termsDF = columnDF
-          else:
-            termsDF = pd.concat([termsDF,columnDF])
+          if(len(column['term'])>1): 
+            #termsDF = termsDF.append(column, ignore_index=True)
+            columnDF = pd.DataFrame.from_records([column], columns=list(column.keys()))
+            #print(columnDF)
+            if(termsDF.empty): 
+              termsDF = columnDF
+            else:
+              termsDF = pd.concat([termsDF,columnDF])
           #print(termsDF)
 
           countingImports += 1
