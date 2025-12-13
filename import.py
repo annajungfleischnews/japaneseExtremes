@@ -50,6 +50,7 @@ def doTranslate(column, targetLanguage, tmpTopic = True, lowerCase=True):
     print(['translation failed',tmpSource,tmpTerm])
     tmpTerm = '' 
   if(tmpTopic):
+    tmpArray = []
     if(':' in tmpTerm):
       tmpArray = tmpTerm.split(':', 1)
     if('：' in tmpTerm):
