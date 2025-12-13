@@ -1,12 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'33641a0515',extremes,Earthquake,#870007,usgs,白糠地震,2025-11-27T03:33:00+00:00,Japan,0.5445734341069893,0,2,ja,EAS,Asia
-'87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2025-12-10T03:45:00+00:00,Japan,0.5307776187179137,0,2,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.5177402025805932,0,2,ja,EAS,Asia
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.5177292586314906,0,2,ja,EAS,Asia
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
-'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2025-12-07T03:46:00+00:00,Japan,0.5097169100855711,0,2,ja,EAS,Asia
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2025-11-29T03:34:00+00:00,Japan,0.5093916650112279,0,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.507606611469842,0,2,ja,EAS,Asia
+'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2025-12-07T03:46:00+00:00,Japan,0.5056517740566064,1,2,ja,EAS,Asia
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2025-11-27T03:33:00+00:00,Japan,0.4952373918988063,0,2,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.4908039587981171,0,2,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.4809366177782173,0,2,ja,EAS,Asia
