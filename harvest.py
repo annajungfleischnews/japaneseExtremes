@@ -232,11 +232,11 @@ def storeCollection():
           txt = str(column['title']) + '. ' + str(column['description'])
           try:
             print(['inside repair: ', lng, column['de'], txt])
-            if(not column['de']):
+            if(not column['de'] or pd.isna(column['de'])):
               df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
-            if(not column['en']):
+            if(not column['en'] or pd.isna(column['en'])):
               df.loc[index,'en'] = GoogleTranslator(source=lng, target='en').translate(text=txt)
-            if(not column['la']):
+            if(not column['la'] or pd.isna(column['la'])):
               df.loc[index,'la'] = GoogleTranslator(source=lng, target='la').translate(text=txt)
           except Exception as X:
             print(["translation went wrong: ",  column]) 
