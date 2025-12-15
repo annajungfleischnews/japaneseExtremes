@@ -29,6 +29,9 @@ from dateutil import parser
 
 from CreLanguageTranslate.LanguageTranslate import LanguageTranslate 
 
+# pip3 install deep-translator
+from deep_translator import GoogleTranslator
+
 DATA_PATH = Path.cwd()
 
 dtNow = datetime.datetime.fromtimestamp(int(time.time()), datetime.UTC)
@@ -221,6 +224,22 @@ def storeCollection():
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])  
         df = removeDuplicates(df)
+
+        for index, column in df.iterrows():
+          lng = column['language']
+          if('' == lng):
+            lng = 'auto'
+          txt = str(column['title']) + '. ' + str(column['description'])
+          try:
+            if('' == column['de']):
+              df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
+            if('' == column['en']):
+              df.loc[index,'en'] = GoogleTranslator(source=lng, target='en').translate(text=txt)
+            if('' == column['la']):
+              df.loc[index,'la'] = GoogleTranslator(source=lng, target='la').translate(text=txt)
+          except Exception as X:
+            print(["translation went wrong: ",  column]) 
+
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'cxsv')):
             os.mkdir(DATA_PATH / 'cxsv')
