@@ -25,11 +25,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.3291554786408117,1,1,ja,EPO,Pacific Ocean
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ディトワ,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,1,ja,EIO,Indian Ocean
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,南オーストラリア州の火災禁止令,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,1,ja,CAU,Oceania
-'83c282088c',extremes,Precipitation,#d60d2b,acwe,大雨の北方領土,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,1,ja,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,熱波北方領土,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,1,ja,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,湿った気候のオーストラリア,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,1,ja,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,クイーンズランド州鉄砲水,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,1,ja,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,ニューサウスウェールズ州で雨が多い日,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,1,ja,EAU,Oceania
 '6977afac24',extremes,Volcano,#b83202,eonet,プラセ火山 コロンビア,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,ja,NWS,South-America
+'83c282088c',extremes,Precipitation,#d60d2b,acwe,大雨の北方領土,2025-11-26T03:37:00+00:00,Australia,0.2710868056591342,1,1,ja,CAU,Oceania
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,クイーンズランド州の洪水,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,ja,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,南オーストラリア州の鉄砲水,2025-11-27T03:34:00+00:00,Australia,0.27093019824428627,1,1,ja,SAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,南オーストラリア州の鉄砲水,2025-11-27T03:34:00+00:00,Australia,0.2709301982442862,1,1,ja,SAU,Oceania
