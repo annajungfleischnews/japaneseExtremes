@@ -231,6 +231,7 @@ def storeCollection():
             lng = 'auto'
           txt = str(column['title']) + '. ' + str(column['description'])
           try:
+            print(['inside repair: ', lng, column['de'], txt])
             if('' == column['de']):
               df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
             if('' == column['en']):
