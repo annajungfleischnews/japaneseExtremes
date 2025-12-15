@@ -541,7 +541,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords = [keyword]
              foundColumns = [column2]
              found = True
-           elif(numFound=valid):  
+           elif(numFound==valid):  
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
