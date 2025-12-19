@@ -2359,3 +2359,107 @@ Toki (Akari Takaishi) Caelum narrat (Tommy Bastow) fabulas larvas amat. Coelum e
 ex. 4
 41344
 15… [+233 chars]",,2025-12-19 02:31:32+00:00,usgs,Japan,EAS,Asia
+d9fb781f05299dc2b86c38df70759241,2025-12-03T01:02:39Z,Earthquake,八戸地震,mobilelaby.com,ja,0.3888888888888889,"Google veröffentlicht sein zweites großes Update des Jahres für Android. Unterstützt die Zusammenfassung von Benachrichtigungen durch KI. Google hat nach der ersten Veröffentlichung von Android 16 mit der Verteilung des zweiten großen Updates des Jahres begonnen.
+
+Es ist nicht so groß wie das erste Update oder die Einführung der neuen Benutzeroberfläche „Material 3 Expressive“, aber es ist ein Update, das Android-Geräte intelligenter, persönlicher und kontrollierbarer macht.
+
+
+
+KI-Verbesserung
+
+Benachrichtigungszusammenfassung durch KI
+
+Die im November 2025 für Google Pixel bereitgestellte KI-basierte Benachrichtigungszusammenfassungsfunktion wird als Standardfunktion von Android bereitgestellt.
+
+
+
+…",Google、Androidに年2回目のビッグアップデートを配信。AIによる通知要約に対応,"GoogleがAndroid 16の初回リリースに次ぐ、年2回目となるビッグアップデートの配信を開始しました。
+
+1回目のアップデートや新しいUI「Material 3 Expressive」の導入ほど大規模なものではありませんが、Androidデバイスがよりスマートに、よりパーソナルに、よりコントロールしやすくなるアップデートです。
+
+
+
+AIの強化
+
+AIによる通知要約
+
+2025年11月にGoogle Pixel向けに提供されたAIによる通知の要約機能がAndroidの標準機能として提供されます。
+
+
+
+…","Google releases its second big update of the year to Android. Supports notification summarization by AI. Google has started distributing the second big update of the year after the initial release of Android 16.
+
+It's not as big as the first update or the introduction of the new UI ""Material 3 Expressive,"" but it's an update that makes Android devices smarter, more personal, and more in control.
+
+
+
+AI enhancement
+
+Notification summary by AI
+
+The AI-based notification summary function provided for Google Pixel in November 2025 will be provided as a standard feature of Android.
+
+
+
+…","Google secunda magna renovatio anni Android ad remittit. Summam notificationem sustinet AI. Google secundum magnum annum renovatum post primam emissionem Android XVI distribuere incepit.
+
+Non tam magna est quam prima renovatio seu introductio novi UI ""Material 3 Expressiva"", sed renovatio quae MASCULINUS adinventiones mundiores facit, magis personales et plus in potestate.
+
+
+
+AI amplificationem
+
+Notification summary by AI
+
+AI-substructio notificationis munus summarium pro Google Pixel mense Novembri 2025 provisum erit ut signum notae Android praebebitur.
+
+
+
+...",https://mobilelaby.com/blog-entry-google-released-android-16-qpr-2.html,https://i0.wp.com/mobilelaby.com/wp/wp-content/uploads/google-released-android-16-qpr-2.jpg?fit=1280%2C721&ssl=1,,"AI
+AI
+202511Google PixelAIAndroid
+AIApple IntelligenceApple
+GoogleAI
+SNS
+Android
+Google
+5
+1
+HDR
+HDRHDRHDR
+UIMaterial 3 Expressive
+1
+Gboard2
+OK GoogleVoice AccessVoice Access
+Fast Pair… [+50 chars]",,2025-12-19 16:58:06+00:00,usgs,Japan,EAS,Asia
+6f857403587c3329fa3117fa3165e7c8,2025-12-04T08:00:00Z,Earthquake,陸奥地震,tjo.hatenablog.com,ja,0.5,"Ist es möglich, induktives und deduktives Denken in ausgewogener Weise in LLM/generative KI zu integrieren? In diesem Blog habe ich dieses Jahr mehrmals darüber gesprochen, dass LLM/generative KI, die auf autoregressiven Modellen wie Transformer basiert, Probleme haben, weil sie zu induktivem Denken, aber nicht zu deduktivem Denken fähig sind. Beispielsweise stellten wir in einem Juli-Artikel ein Papier vor, in dem es hieß: „Als wir viele Paare komplexer logischer Rätsel, die weltweit weithin bekannt sind, und „offensichtliche“ Rätsel, die modifizierte Teile derselben Rätsel sind, vorbereiteten und sie von einer CoT-Inferenz-Engine eines großen LLM/generativen KI beantworten ließen, war die richtige Antwortrate für die offensichtlichen Rätsel durchweg niedriger als die richtige Antwortrate für die ursprünglichen Rätsel.“ In diesem Papier „enthalten die Daten vor dem Training ...“",LLM/生成AIに帰納的推論と演繹的推論とをバランス良く統合させることは可能か？,今年のこのブログでは、何度かTransformerなど自己回帰モデルベースのLLM/生成AIには「帰納的推論は出来ても演繹的推論が出来ていないが故の問題がある」という議論を扱ってきました。 例えば7月の記事では「世間で広く知られている複雑な論理パズルと、それと同じパズルの一部を改変した『自明』なパズルとのペアを多数用意して、主要なLLM/生成AIのCoT推論エンジンに回答させたところ、自明なパズルの正答率が一貫して元のパズルの正答率よりも低かった」という論文を紹介しました。この論文では「事前学習データに含まれてい…,"Is it possible to integrate inductive and deductive reasoning in a well-balanced manner in LLM/generative AI? In this blog this year, I have discussed several times that LLM/Generative AI based on autoregressive models such as Transformer have problems because they are capable of inductive reasoning but not deductive reasoning. For example, in a July article, we introduced a paper that stated, ``When we prepared many pairs of complex logical puzzles that are widely known in the world and ``obvious'' puzzles that are modified parts of the same puzzles and had them answered by a CoT inference engine of a major LLM/generative AI, the correct answer rate for the obvious puzzles was consistently lower than the correct answer rate for the original puzzles.'' In this paper, ``the pre-training data contains...","Potestne inductiva et deductiva ratiocinatio in LLM/generativo AI modo bene librato integrare? In hoc diario hoc anno aliquoties disputavi LLM/Generative AI innixa exemplaribus autoregressivis quae Transformer difficultates habent, quia ratiocinationis inductivae sed non deductionis ratiocinationis capaces sunt. Exempli gratia, in articulo Iulio invenimus chartam quae declaravit, `Cum multa paria de complexu logicae sollicitationum quae in mundo late notae paravimus et `obvious' sollicitat quae modificantur partes eiusdem sollicitat et respondimus per CoT illationem machinam maioris LLM/generative AI, rectam responsum rate pro ""perspicuum sollicitat"" constanter inferiorem quam rectam responsionem prae se ferens. continet...",https://tjo.hatenablog.com/entry/2025/12/04/170000,https://cdn.image.st-hatena.com/image/scale/3e891a69f26cbd06bc135bbb5ba6bc997dfaafed/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FT%2FTJO%2F20251203%2F20251203105655.png,,"今年のこのブログでは、何度かTransformerなど自己回帰モデルベースのLLM/生成AIには「帰納的推論は出来ても演繹的推論が出来ていないが故の問題がある」という議論を扱ってきました。
+
+例えば7月の記事では「世間で広く知られている複雑な論理パズルと、それと同じパズルの一部を改変した『自明』なパズルとのペアを多数用意して、主要なLLM/生成AIのCoT推論エンジンに回答させたところ、自明な… [+5226 chars]",,2025-12-19 16:58:06+00:00,usgs,Japan,EAS,Asia
+340d26381f037bda15c2bb86f3d296df,2025-12-05T03:05:00Z,Earthquake,浦河地震,techblog.cartaholdings.co.jp,ja,0.5555555555555556,"Entwicklung der „1-tägigen Speed Selection Session“ der Unterstützer: Vom lehrbuchbasierten Scrum zur Erstellung unseres eigenen „Modells“. Einführung
+
+Mein Name ist Arata und ich wurde im Juli CTO von Supporters. Dieses Mal werde ich über den „Entwicklungsprozess“ und das „Trial and Error hinter den Kulissen“ sprechen, die ich während eines etwa sechsmonatigen Projekts zur Systematisierung eines „1-Tages-Speed-Screenings“ (eine Veranstaltung, bei der man mehrere Unternehmen an einem Tag interviewen kann) in die Praxis umgesetzt habe.
+
+In diesem Projekt haben wir als Team an der Scrum-Entwicklung gearbeitet. Anstatt uns jedoch an das Lehrbuch zu halten, wählten wir Übungen entsprechend der Situation des Teams aus und suchten weiter nach einer besseren Form.
+Indem Sie den Prozess teilen, können Sie fragen: „Gibt es eine andere Möglichkeit?“, „Ich...“",サポーターズの「1dayスピード選考会」開発：教科書通りのスクラムから、自分たちの「型」を作るまで,"はじめに
+
+サポーターズで7月にCTOになりました、あらたです。 今回は、「1dayスピード選考会」（1日で複数の企業と面接できるイベント）のシステム化という、およそ半年間のプロジェクトで実践した「開発プロセス」と「その裏側の試行錯誤」についてお話しします。
+
+今回のプロジェクトでは、チームでスクラム開発に取り組みました。ただし、教科書通りに遂行するのではなく、チームの状況に合わせてプラクティスを取捨選択し、より良い形を模索しながら進めていきました。
+その過程を共有することで、「そんなやり方もありなのか」「自分た…","Development of Supporters' ``1-day Speed Selection Session'': From textbook-based Scrum to creating our own ``model.'' Introduction
+
+My name is Arata and I became CTO of Supporters in July. This time, I will talk about the ``development process'' and the ``trial and error behind the scenes'' that I put into practice during a roughly six-month project to systemize a ``1-day speed screening'' (an event where you can interview multiple companies in one day).
+
+In this project, we worked on Scrum development as a team. However, rather than following the textbook, we selected practices according to the team's situation and proceeded while searching for a better form.
+By sharing the process, you can ask, ""Is there another way to do it?"", ""I...","Progressio Fautorum ``1-diei Velocitas Electionis Sessio': Ex scriptione Scrum fundato ad nostram creandam `exemplum.'' Introductio
+
+Nomen meum est Arata et factus sum CTO of Supporters in mense Iulio. Hoc tempore, de `progressione progressu' et de `iudicio et errore post scaenas' loquar, quod in usu fere sex mensium incepta ad systema ""I-diei velocitatis protegendis"" disponendum (an res, ubi plures societates in uno die convenire potes).
+
+In hoc incepto elaboravimus in Scrum progressionem ut bigas. Sed magis quam textum textum secuti, consuetudines secundum condicionem societatis delegi et meliorem formam quaerentes processimus.
+Communicando processum quaerere potes ""Aliud est iter faciendum?"", ""I...",https://techblog.cartaholdings.co.jp/entry/2025/12/05/120500,https://ogimage.blog.st-hatena.com/8454420450079359178/17179246901328772217/1764903900,,"7CTO 1day1
+6 
+SCRUM BOOT CAMP THE BOOK
+www.shoeisha.co.jp
+1. 
+2
+<table><tr><th>practice </th><th></th><th></th></tr>
+<tr><td></td><td>Google Docs</td><td></td></tr><tr><td></td><td>GitHub Proj… [+425 chars]",,2025-12-19 16:58:06+00:00,usgs,Japan,EAS,Asia
