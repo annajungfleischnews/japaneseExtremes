@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2025-12-07T03:46:00+00:00,Japan,0.5792038296229954,1,3,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.5528813698281043,1,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.5468466730919012,1,2,ja,EAS,Asia
-'9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.4984499453753567,0,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.472780696113002,1,3,ja,EAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.4658185592992921,0,2,ja,EAS,Asia
@@ -20,7 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.4290764823608016,1,1,ja,EAS,Asia
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2025-11-27T03:33:00+00:00,Japan,0.4214018281139853,1,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.418003649487822,1,2,ja,EAS,Asia
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.40705664576157025,1,1,ja,EAS,Asia
+'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.4070566457615702,1,1,ja,EAS,Asia
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2025-11-23T03:46:00+00:00,Japan,0.4051552680305406,2,1,ja,EAS,Asia
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,山火事北部地域,2025-11-27T03:34:00+00:00,Australia,0.4015420330294761,1,2,ja,CAU,Oceania
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.3981817768447619,2,1,ja,EAS,Asia
