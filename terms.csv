@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'080e029a76',extremes,Tsunami,#690191,usgs,津波八戸,2025-12-13T03:37:00+00:00,Japan,0.7013088011140279,0,2,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.5528813698281043,1,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.5468466730919012,1,2,ja,EAS,Asia
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.5218179010369183,2,3,ja,EAS,Asia
@@ -25,13 +26,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3560114981763207,0,2,ja,EPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.3554384434816395,2,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.3513293001021271,0,2,ja,EPO,Pacific Ocean
-'040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.33875454031804764,3,1,ja,EAS,Asia
+'040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.3387545403180476,3,1,ja,EAS,Asia
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,熱波北方領土,2025-11-26T03:37:00+00:00,Australia,0.3214943752198221,1,1,ja,NAU,Oceania
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,ja,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,寒波ビクトリア,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ja,SAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,ja,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,クイーンズランド州の山火事,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,ja,CAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,2,ja,NSA,North-America
+'291335c911',extremes,Drought,#edc291,edo,雨不足 ガボン,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,ja,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,トリニダード・トバゴの雨不足,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,ja,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,乾燥 タジキスタン,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,2,ja,WCA,Asia
 'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,ja,WCA,Asia
@@ -39,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,インド寒波,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,ja,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,トルクメニスタンの干ばつ,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,2,ja,WCA,Asia
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,降水量 タンザニア,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,2,ja,SEAF,Africa
+'2407b3a8ab',extremes,Drought,#edc291,edo,ブルンジの乾燥,2025-12-03T03:40:00+00:00,Burundi,0.30817215710272894,0,2,ja,SEAF,Africa
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,大雨の北方領土,2025-11-26T03:37:00+00:00,Australia,0.2710868056591342,1,1,ja,CAU,Oceania
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ディトワ,2025-11-28T03:33:00+00:00,,0.2710655518961566,1,1,ja,EIO,Indian Ocean
