@@ -19,13 +19,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.4070566457615702,1,1,ja,EAS,Asia
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2025-11-23T03:46:00+00:00,Japan,0.4051552680305406,2,1,ja,EAS,Asia
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,山火事北部地域,2025-11-27T03:34:00+00:00,Australia,0.4015420330294761,1,2,ja,CAU,Oceania
-'040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.3981817768447619,2,1,ja,EAS,Asia
 '85ec8b6400',extremes,Earthquake,#870007,usgs,地震阿弥,2025-12-13T03:37:00+00:00,Japan,0.3860695255914271,1,1,ja,EAS,Asia
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.3795890065811697,1,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.3618185712699739,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3560114981763207,0,2,ja,EPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.3554384434816395,2,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.3513293001021271,0,2,ja,EPO,Pacific Ocean
+'040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.33875454031804764,3,1,ja,EAS,Asia
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,熱波北方領土,2025-11-26T03:37:00+00:00,Australia,0.3214943752198221,1,1,ja,NAU,Oceania
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,ja,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,寒波ビクトリア,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ja,SAU,Oceania
