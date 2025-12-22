@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.5528813698281043,1,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.5468466730919012,1,2,ja,EAS,Asia
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.5218179010369183,2,3,ja,EAS,Asia
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
+'3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.5021728216266159,2,3,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.472780696113002,1,3,ja,EAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.4658185592992921,0,2,ja,EAS,Asia
 '33641a0515',extremes,Earthquake,#870007,usgs,白糠地震,2025-11-27T03:33:00+00:00,Japan,0.4628874189909409,1,1,ja,EAS,Asia
@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,熱波北方領土,2025-11-26T03:37:00+00:00,Australia,0.3214943752198221,1,1,ja,NAU,Oceania
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,ja,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,寒波ビクトリア,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ja,SAU,Oceania
-'6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,ja,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,クイーンズランド州の山火事,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,ja,CAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,2,ja,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,雨不足 ガボン,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,ja,CAF,Africa
@@ -53,6 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59b1d751',extremes,Flood,#030ba1,acwe,南オーストラリア州の鉄砲水,2025-11-27T03:34:00+00:00,Australia,0.2709301982442862,1,1,ja,SAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,クイーンズランド州鉄砲水,2025-11-26T03:37:00+00:00,Australia,0.2704460415770781,1,1,ja,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,ニューサウスウェールズ州で雨が多い日,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,ja,EAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,ja,WAF,Africa
 '5d85dc5645',extremes,Drought,#edc291,edo,ルワンダの乾燥,2025-12-16T03:47:00+00:00,Rwanda,0.2632819039941947,1,1,ja,SEAF,Africa
 'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.2624998685311933,1,1,ja,WCA,Asia
