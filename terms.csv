@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'080e029a76',extremes,Tsunami,#690191,usgs,津波八戸,2025-12-13T03:37:00+00:00,Japan,0.7013088011140279,0,2,ja,EAS,Asia
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.5218179010369183,2,3,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.5021728216266159,2,3,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2025-12-16T03:46:00+00:00,Japan,0.4756649300780193,0,2,ja,EAS,Asia
@@ -22,7 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3969963754043983,1,2,ja,EAS,Asia
 '85ec8b6400',extremes,Earthquake,#870007,usgs,地震阿弥,2025-12-13T03:37:00+00:00,Japan,0.3860695255914271,1,1,ja,EAS,Asia
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.3795890065811697,1,1,ja,EAS,Asia
-'82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.37466740736447857,2,1,ja,EAS,Asia
+'82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.3746674073644785,2,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.3618185712699739,1,1,ja,EPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.3554384434816395,2,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.3513293001021271,0,2,ja,EPO,Pacific Ocean
@@ -46,6 +47,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,豪雨アルゼンチン,2025-12-10T03:45:00+00:00,Argentina,0.3077020573235355,0,2,ja,SES,South-America
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,アイスエチオピア,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,ja,NEAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,嵐、雷雨、喘息、ビクトリア州,2025-12-12T03:46:00+00:00,Australia,0.3069466746055845,0,2,ja,SAU,Oceania
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,土砂降りのタンザニア,2025-12-11T03:46:00+00:00,Tanzania,0.30653177231993745,0,2,ja,SEAF,Africa
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,降水量 アルバニア,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,2,ja,MED,Europe
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3026097734498726,1,1,ja,EPO,Pacific Ocean
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,大雨の北方領土,2025-11-26T03:37:00+00:00,Australia,0.2710868056591342,1,1,ja,CAU,Oceania
