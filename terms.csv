@@ -45,6 +45,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,アイスカナダ,2025-12-02T03:41:00+00:00,Canada,0.3048247155195034,0,2,ja,NEN,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,2,ja,SES,South-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,オーストラリアの嵐,2025-12-07T03:47:00+00:00,Australia,0.3047047687093496,0,2,ja,SAU,Oceania
+'e190a41be9',extremes,Precipitation,#d60d2b,wmo,雨 على بعض مناطق غرب ليبيا。,2025-12-03T03:40:00+00:00,Libya,0.3046985846005302,0,2,ja,SAH,Africa
+'042968096b',extremes,Storm,#b3b2b1,wmo,アイスランドの嵐,2025-12-02T03:41:00+00:00,Iceland,0.3045606836582313,0,2,ja,GIC,Europe
+'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,ニュージーランドの雷雨,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,2,ja,NZ,Oceania
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3026097734498726,1,1,ja,EPO,Pacific Ocean
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
