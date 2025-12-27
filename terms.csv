@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.6289369977551779,0,2,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.5359112798629115,0,2,ja,EAS,Asia
 'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2025-12-07T03:46:00+00:00,Japan,0.5097169100855711,0,2,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.5047955439538843,0,2,ja,EAS,Asia
@@ -53,12 +52,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,熱波チリ,2025-12-04T03:42:00+00:00,Chile,0.3044708923289994,0,2,ja,SWS,South-America
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2025-12-02T03:41:00+00:00,South Africa,0.3044621583511946,0,2,ja,WSAF,Africa
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2025-12-04T03:42:00+00:00,Chile,0.3043701275559243,0,2,ja,SWS,South-America
-'c85db986fe',extremes,Precipitation,#d60d2b,wmo,豪雨 マダガスカル,2025-12-06T03:32:00+00:00,Madagascar,0.30435429246648593,0,2,ja,MDG,Africa
+'c85db986fe',extremes,Precipitation,#d60d2b,wmo,豪雨 マダガスカル,2025-12-06T03:32:00+00:00,Madagascar,0.3043542924664859,0,2,ja,MDG,Africa
 '9044bc0335',extremes,Earthquake,#870007,usgs,地震ジョージタウン,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,ja,EAO,Atlantic Ocean
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,マディヤ プラデーシュ州の山火事,2025-11-30T03:46:00+00:00,India,0.30434107080663475,0,2,ja,SAS,Asia
-'dc8be80c47',extremes,Drought,#edc291,edo,フェロー諸島の乾燥,2025-12-05T03:41:00+00:00,Faroe Islands,0.30429413159985474,0,2,ja,NEU,Europe
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,マディヤ プラデーシュ州の山火事,2025-11-30T03:46:00+00:00,India,0.3043410708066347,0,2,ja,SAS,Asia
+'dc8be80c47',extremes,Drought,#edc291,edo,フェロー諸島の乾燥,2025-12-05T03:41:00+00:00,Faroe Islands,0.3042941315998547,0,2,ja,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,集中豪雨 على بعض مناطق غرب ليبيا。,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,ja,SAH,Africa
-'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.30425338546101616,0,2,ja,CAF,Africa
+'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,2,ja,CAF,Africa
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3026097734498726,1,1,ja,EPO,Pacific Ocean
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
