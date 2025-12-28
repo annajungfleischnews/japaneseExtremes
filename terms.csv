@@ -17,12 +17,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2025-12-16T03:46:00+00:00,Japan,0.4043152955663163,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2025-12-10T03:45:00+00:00,Japan,0.4039265478539158,3,2,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2025-12-14T03:49:00+00:00,Japan,0.3988356218068634,2,1,ja,EAS,Asia
-'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3969963754043983,1,2,ja,EAS,Asia
 '33641a0515',extremes,Earthquake,#870007,usgs,白糠地震,2025-11-27T03:33:00+00:00,Japan,0.3934543061422997,2,1,ja,EAS,Asia
 '85ec8b6400',extremes,Earthquake,#870007,usgs,地震阿弥,2025-12-13T03:37:00+00:00,Japan,0.3860695255914271,1,1,ja,EAS,Asia
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.3764824166112518,2,1,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.3746674073644785,2,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.3618185712699739,1,1,ja,EPO,Pacific Ocean
+'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3560339727301022,2,2,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.3554384434816395,2,1,ja,EAS,Asia
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,山火事北部地域,2025-11-27T03:34:00+00:00,Australia,0.3413109530750547,2,1,ja,CAU,Oceania
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.3387545403180476,3,1,ja,EAS,Asia
@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc92de09b1',extremes,Flood,#030ba1,wmo,鉄砲水 イギリス,2025-11-30T03:46:00+00:00,United Kingdom,0.3038717010505809,0,2,ja,NEU,Europe
 '3336c980ab',extremes,Earthquake,#870007,usgs,セントヘレナ地震,2025-12-08T03:44:00+00:00,Saint Helena,0.3038589522975352,0,2,ja,EAO,Atlantic Ocean
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,カナダの鉄砲水,2025-12-03T03:40:00+00:00,Canada,0.3038022408685381,0,2,ja,NEN,North-America
-'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,モルディブ万歳,2025-12-02T03:41:00+00:00,Maldives,0.3037916892117636,0,2,ja,EIO,Indian Ocean
 '8982a15e86',extremes,Wildfire,#d60d2b,wmo,山火事ノーザンテリトリーバーキーノース,2025-12-01T04:02:00+00:00,Australia,0.3037706234717715,0,2,ja,CAU,Oceania
 '3e99480ef7',extremes,Drought,#edc291,edo,ウズベキスタンの雨不足,2025-12-06T03:32:00+00:00,Uzbekistan,0.3036980108807487,0,2,ja,WCA,Asia
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,高地と東部で土砂降り,2025-12-06T03:32:00+00:00,Madagascar,0.3036949954174709,0,2,ja,MDG,Africa
@@ -112,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,アイスランドの嵐,2025-12-02T03:41:00+00:00,Iceland,0.2588765811094966,1,1,ja,GIC,Europe
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,ニュージーランドの雷雨,2025-11-30T03:46:00+00:00,New Zealand,0.2588743444103689,1,1,ja,NZ,Oceania
 '06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2025-12-03T03:40:00+00:00,Madagascar,0.2588114659408915,1,1,ja,MDG,Africa
+'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,モルディブ万歳,2025-12-02T03:41:00+00:00,Maldives,0.25822293582999906,1,1,ja,EIO,Indian Ocean
 '6977afac24',extremes,Volcano,#b83202,eonet,プラセ火山 コロンビア,2025-12-06T03:32:00+00:00,Colombia,0.229432249739917,2,1,ja,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,ja,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,ルワンダの乾燥,2025-12-16T03:47:00+00:00,Rwanda,0.2237896183950655,2,1,ja,SEAF,Africa
