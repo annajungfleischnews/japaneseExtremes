@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.4636161152008053,3,3,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4613604862415062,2,3,ja,EAS,Asia
-'5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2025-12-10T03:45:00+00:00,Japan,0.4574008658897333,0,2,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.4556746028834748,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2025-12-10T03:45:00+00:00,Japan,0.4516110209102266,1,2,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.4502264523608016,1,2,ja,EAS,Asia
@@ -118,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,アイスランドの嵐,2025-12-02T03:41:00+00:00,Iceland,0.2588765811094966,1,1,ja,GIC,Europe
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,ニュージーランドの雷雨,2025-11-30T03:46:00+00:00,New Zealand,0.2588743444103689,1,1,ja,NZ,Oceania
 '06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2025-12-03T03:40:00+00:00,Madagascar,0.2588114659408915,1,1,ja,MDG,Africa
-'0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2025-12-04T03:42:00+00:00,Chile,0.25871462342253565,1,1,ja,SWS,South-America
+'0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2025-12-04T03:42:00+00:00,Chile,0.2587146234225356,1,1,ja,SWS,South-America
 'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,モルディブ万歳,2025-12-02T03:41:00+00:00,Maldives,0.258222935829999,1,1,ja,EIO,Indian Ocean
 '6977afac24',extremes,Volcano,#b83202,eonet,プラセ火山 コロンビア,2025-12-06T03:32:00+00:00,Colombia,0.229432249739917,2,1,ja,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,ja,SPO,Pacific Ocean
