@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.469835006032553,3,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.4568300081281159,2,1,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.4502264523608016,1,2,ja,EAS,Asia
 '48643270cd',extremes,Earthquake,#870007,usgs,羽咋地震,2025-12-15T03:53:00+00:00,Japan,0.447798269686936,1,1,ja,EAS,Asia
@@ -16,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2025-12-10T03:45:00+00:00,Japan,0.4039265478539158,3,2,ja,EAS,Asia
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.4012910983173552,4,3,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2025-12-14T03:49:00+00:00,Japan,0.3988356218068634,2,1,ja,EAS,Asia
-'33641a0515',extremes,Earthquake,#870007,usgs,白糠地震,2025-11-27T03:33:00+00:00,Japan,0.3934543061422997,2,1,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2025-12-10T03:45:00+00:00,Japan,0.3917915310062733,1,2,ja,EAS,Asia
 '85ec8b6400',extremes,Earthquake,#870007,usgs,地震阿弥,2025-12-13T03:37:00+00:00,Japan,0.3860695255914271,1,1,ja,EAS,Asia
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.3764824166112518,2,1,ja,EAS,Asia
@@ -102,13 +100,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.2885414192703404,4,1,ja,EAS,Asia
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ディトワ,2025-11-28T03:33:00+00:00,,0.2710655518961566,1,1,ja,EIO,Indian Ocean
-'8d8981ac5b',extremes,Flood,#030ba1,acwe,クイーンズランド州の洪水,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,ja,CAU,Oceania
-'641ad67faf',extremes,Wildfire,#d60d2b,acwe,南オーストラリア州の火災禁止令,2025-11-27T03:34:00+00:00,Australia,0.2709566764899405,1,1,ja,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,南オーストラリア州の鉄砲水,2025-11-27T03:34:00+00:00,Australia,0.2709301982442862,1,1,ja,SAU,Oceania
-'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,ニューサウスウェールズ州で雨が多い日,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,ja,EAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,ja,WAF,Africa
-'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,クイーンズランド州の山火事,2025-11-27T03:34:00+00:00,Australia,0.2656906049497117,1,1,ja,CAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,ja,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,雨不足 ガボン,2025-12-08T03:45:00+00:00,Gabon,0.2640961579529894,1,1,ja,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,トリニダード・トバゴの雨不足,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,ja,NSA,North-America
