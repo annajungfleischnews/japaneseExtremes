@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.5359112798629115,0,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.507606611469842,0,2,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.4568300081281159,2,1,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.4502264523608016,1,2,ja,EAS,Asia
@@ -105,11 +104,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,赤道ギニアの干ばつ,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.3019974900283422,0,2,ja,WAF,Africa
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2025-12-19T03:46:00+00:00,Bahrain,0.3019434617494929,0,2,ja,ARP,Asia
 '05ddbeae20',extremes,Earthquake,#870007,usgs,地震民主共和国,2025-11-30T03:46:00+00:00,Democratic Republic,0.3019338998946773,0,2,ja,SEAF,Africa
-'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.30190898073177247,0,2,ja,NWS,South-America
+'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.3019089807317724,0,2,ja,NWS,South-America
 '3c9166481f',extremes,Wildfire,#d60d2b,wmo,野火ビクトリア・マリー,2025-12-05T03:41:00+00:00,Australia,0.3018910352463275,0,2,ja,CAU,Oceania
-'5ec8a07269',extremes,Heat Wave,#c40202,wmo,熱波クイーンズランド湾岸田舎地区。,2025-12-05T03:41:00+00:00,Australia,0.30188363808619717,0,2,ja,CAU,Oceania
-'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,雪のエチオピア,2025-12-13T03:38:00+00:00,Ethiopia,0.30186670035220553,0,2,ja,NEAF,Africa
-'4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,凍てつくエチオピア,2025-12-12T03:45:00+00:00,Ethiopia,0.30180969948284075,0,2,ja,NEAF,Africa
+'5ec8a07269',extremes,Heat Wave,#c40202,wmo,熱波クイーンズランド湾岸田舎地区。,2025-12-05T03:41:00+00:00,Australia,0.3018836380861971,0,2,ja,CAU,Oceania
+'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,雪のエチオピア,2025-12-13T03:38:00+00:00,Ethiopia,0.3018667003522055,0,2,ja,NEAF,Africa
+'4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,凍てつくエチオピア,2025-12-12T03:45:00+00:00,Ethiopia,0.3018096994828407,0,2,ja,NEAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2025-12-14T03:49:00+00:00,Brazil,0.3018040627479539,0,2,ja,SAM,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.3017700154025986,0,2,ja,NWS,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
