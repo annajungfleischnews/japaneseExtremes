@@ -106,10 +106,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61bcd02de5',extremes,Drought,#edc291,edo,モザンビークの干ばつ,2025-12-08T03:45:00+00:00,Mozambique,0.3013813727833067,0,2,ja,ESAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2025-12-18T03:44:00+00:00,Brazil,0.3013802281357383,0,2,ja,SAM,South-America
 '5436243a4b',extremes,Wildfire,#d60d2b,wmo,山火事スタヴロポリ地方,2025-12-05T03:41:00+00:00,Russia,0.3013778264815779,0,2,ja,ESB,Europe
+'1512f21012',extremes,Precipitation,#d60d2b,wmo,沿岸の降水量,2025-12-18T03:44:00+00:00,Ecuador,0.30135924784694734,0,2,ja,NWS,South-America
+'82b998a6aa',extremes,Precipitation,#d60d2b,wmo,豪雨ワイララパ,2025-12-03T03:40:00+00:00,New Zealand,0.30131998622443523,0,2,ja,NZ,Oceania
+'fb43bdaa2f',extremes,Drought,#edc291,edo,乾燥 サンピエール・ミクロン,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,2,ja,ENA,North-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.2885414192703404,4,1,ja,EAS,Asia
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
-'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2025-12-02T03:41:00+00:00,South Africa,0.27874295459851545,1,2,ja,WSAF,Africa
+'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2025-12-02T03:41:00+00:00,South Africa,0.2787429545985154,1,2,ja,WSAF,Africa
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,ja,WAF,Africa
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,ja,NSA,North-America
@@ -164,7 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2025-12-09T03:41:00+00:00,Chile,0.2581191004165786,1,1,ja,SWS,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2025-12-06T03:32:00+00:00,Vanuatu,0.2580404535021183,1,1,ja,SPO,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,高潮エスワティニ,2025-12-06T03:32:00+00:00,Eswatini,0.2580257403756166,1,1,ja,ESAF,Africa
-'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,高潮地域国家。,2025-12-01T04:02:00+00:00,Paraguay,0.25801063621487696,1,1,ja,SES,South-America
+'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,高潮地域国家。,2025-12-01T04:02:00+00:00,Paraguay,0.2580106362148769,1,1,ja,SES,South-America
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,リビアの降水量,2025-12-04T03:42:00+00:00,Libya,0.2577650197597319,1,1,ja,SAH,Africa
 '0631ca1034',extremes,Wildfire,#d60d2b,wmo,北オセチア共和国アラニア山火事,2025-12-04T03:42:00+00:00,Russia,0.2575483261347391,1,1,ja,ESB,Europe
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,嵐ゾナシュール,2025-12-19T03:46:00+00:00,Ecuador,0.2572560819727,1,1,ja,NWS,South-America
