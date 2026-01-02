@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.4555246028834748,1,1,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.4502264523608016,1,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4500533483857293,1,2,ja,EAS,Asia
 '48643270cd',extremes,Earthquake,#870007,usgs,羽咋地震,2025-12-15T03:53:00+00:00,Japan,0.447798269686936,1,1,ja,EAS,Asia
@@ -106,8 +105,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61bcd02de5',extremes,Drought,#edc291,edo,モザンビークの干ばつ,2025-12-08T03:45:00+00:00,Mozambique,0.3013813727833067,0,2,ja,ESAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2025-12-18T03:44:00+00:00,Brazil,0.3013802281357383,0,2,ja,SAM,South-America
 '5436243a4b',extremes,Wildfire,#d60d2b,wmo,山火事スタヴロポリ地方,2025-12-05T03:41:00+00:00,Russia,0.3013778264815779,0,2,ja,ESB,Europe
-'1512f21012',extremes,Precipitation,#d60d2b,wmo,沿岸の降水量,2025-12-18T03:44:00+00:00,Ecuador,0.30135924784694734,0,2,ja,NWS,South-America
-'82b998a6aa',extremes,Precipitation,#d60d2b,wmo,豪雨ワイララパ,2025-12-03T03:40:00+00:00,New Zealand,0.30131998622443523,0,2,ja,NZ,Oceania
+'1512f21012',extremes,Precipitation,#d60d2b,wmo,沿岸の降水量,2025-12-18T03:44:00+00:00,Ecuador,0.3013592478469473,0,2,ja,NWS,South-America
+'82b998a6aa',extremes,Precipitation,#d60d2b,wmo,豪雨ワイララパ,2025-12-03T03:40:00+00:00,New Zealand,0.3013199862244352,0,2,ja,NZ,Oceania
 'fb43bdaa2f',extremes,Drought,#edc291,edo,乾燥 サンピエール・ミクロン,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,2,ja,ENA,North-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.2885414192703404,4,1,ja,EAS,Asia
