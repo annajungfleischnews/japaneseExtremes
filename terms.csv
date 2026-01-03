@@ -25,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,豪雨 マダガスカル,2025-12-06T03:32:00+00:00,Madagascar,0.3043542924664859,0,2,ja,MDG,Africa
 '9044bc0335',extremes,Earthquake,#870007,usgs,地震ジョージタウン,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,ja,EAO,Atlantic Ocean
 'dc8be80c47',extremes,Drought,#edc291,edo,フェロー諸島の乾燥,2025-12-05T03:41:00+00:00,Faroe Islands,0.3042941315998547,0,2,ja,NEU,Europe
+'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,集中豪雨 على بعض مناطق غرب ليبيا。,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,ja,SAH,Africa
 'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,2,ja,CAF,Africa
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,土砂降りのモルディブ,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,2,ja,EIO,Indian Ocean
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,ニュージーランド万歳,2025-12-02T03:41:00+00:00,New Zealand,0.3040394466418858,0,2,ja,NZ,Oceania
