@@ -20,7 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.3764824166112518,2,1,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.3746674073644785,2,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2025-12-16T03:46:00+00:00,Japan,0.3362829675466635,3,1,ja,EAS,Asia
-'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2025-12-07T03:46:00+00:00,Japan,0.33258027069266494,3,2,ja,EAS,Asia
+'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2025-12-07T03:46:00+00:00,Japan,0.3325802706926649,3,2,ja,EAS,Asia
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.3226506555939942,2,1,ja,EAS,Asia
 '99d338c49c',extremes,Drought,#edc291,edo,干ばつウズベキスタン,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,2,ja,WCA,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,2,ja,CAF,Africa
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,土砂降りのモルディブ,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,2,ja,EIO,Indian Ocean
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,ニュージーランド万歳,2025-12-02T03:41:00+00:00,New Zealand,0.3040394466418858,0,2,ja,NZ,Oceania
-'bf84083cec',extremes,Landslide,#572c03,wmo,地滑り ノルウェー,2025-12-10T03:45:00+00:00,Norway,0.303989294061139,0,2,ja,NEU,Europe
 '14ecb8c2a0',extremes,Drought,#edc291,edo,ナイジェリアの干ばつ,2025-12-08T03:45:00+00:00,Nigeria,0.3039012856350662,0,2,ja,WAF,Africa
 '912d7e568c',extremes,Precipitation,#d60d2b,wmo,豪雨 ロシア,2025-12-07T03:47:00+00:00,Russia,0.3038898036864849,0,2,ja,ESB,Europe
 'bc92de09b1',extremes,Flood,#030ba1,wmo,鉄砲水 イギリス,2025-11-30T03:46:00+00:00,United Kingdom,0.3038717010505809,0,2,ja,NEU,Europe
