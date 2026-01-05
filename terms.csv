@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.5410510984451687,0,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2025-12-10T03:45:00+00:00,Japan,0.5307776187179137,0,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4591441524766383,1,3,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.4555246028834748,1,1,ja,EAS,Asia
@@ -33,7 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,ニュージーランドの雷雨,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,2,ja,NZ,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,地震ジョージタウン,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,ja,EAO,Atlantic Ocean
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,マディヤ プラデーシュ州の山火事,2025-11-30T03:46:00+00:00,India,0.3043410708066347,0,2,ja,SAS,Asia
-'dc8be80c47',extremes,Drought,#edc291,edo,フェロー諸島の乾燥,2025-12-05T03:41:00+00:00,Faroe Islands,0.30429413159985474,0,2,ja,NEU,Europe
+'dc8be80c47',extremes,Drought,#edc291,edo,フェロー諸島の乾燥,2025-12-05T03:41:00+00:00,Faroe Islands,0.3042941315998547,0,2,ja,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,集中豪雨 على بعض مناطق غرب ليبيا。,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,ja,SAH,Africa
 'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,2,ja,CAF,Africa
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,高潮パラグアイ,2025-11-30T03:46:00+00:00,Paraguay,0.3041685363814227,0,2,ja,SES,South-America
