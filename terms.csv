@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.5177292586314906,0,2,ja,EAS,Asia
-'5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2025-12-10T03:45:00+00:00,Japan,0.45740086588973333,0,2,ja,EAS,Asia
+'5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2025-12-10T03:45:00+00:00,Japan,0.4574008658897333,0,2,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2025-12-09T03:40:00+00:00,Japan,0.456447424878116,2,1,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2025-12-15T03:53:00+00:00,Japan,0.4555246028834748,1,1,ja,EAS,Asia
 '48643270cd',extremes,Earthquake,#870007,usgs,羽咋地震,2025-12-15T03:53:00+00:00,Japan,0.4515893053488111,3,2,ja,EAS,Asia
@@ -28,9 +28,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,寒波ビクトリア,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ja,SAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,ja,WAF,Africa
-'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,2,ja,WCA,Asia
+'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,ja,WCA,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,ja,SAU,Oceania
-'99251f8aa7',extremes,Drought,#edc291,edo,雨不足 リベリア,2025-12-08T03:45:00+00:00,Liberia,0.30866324992148386,0,2,ja,WAF,Africa
+'99251f8aa7',extremes,Drought,#edc291,edo,雨不足 リベリア,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,ja,WAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,ブルンジの乾燥,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,2,ja,SEAF,Africa
 'fe75824d98',extremes,Snow&Ice,#d60d2b,wmo,凍てつくフィンランド,2025-12-01T04:02:00+00:00,Finland,0.3080718619232649,1,2,ja,NEU,Europe
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
@@ -55,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,雷雨南アフリカ,2025-12-08T03:44:00+00:00,South Africa,0.3025662425362803,0,2,ja,WSAF,Africa
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,山火事オーストラリア,2025-12-05T03:41:00+00:00,Australia,0.3025596841486156,0,2,ja,CAU,Oceania
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2025-12-14T03:49:00+00:00,Brazil,0.3025381534378981,0,2,ja,SAM,South-America
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2025-12-10T03:45:00+00:00,Russia,0.3024090499046859,0,2,ja,ESB,Europe
 '3a583bc64a',extremes,Drought,#edc291,edo,乾季の中央アフリカ共和国,2025-12-03T03:40:00+00:00,Central African Republic,0.3023828258899474,0,2,ja,CAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,地滑り ノルウェー,2025-12-12T03:45:00+00:00,Norway,0.3023490405869325,0,2,ja,NEU,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,山火事ロシア,2025-12-07T03:47:00+00:00,Russia,0.302308713280931,0,2,ja,ESB,Europe
@@ -97,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb43bdaa2f',extremes,Drought,#edc291,edo,乾燥 サンピエール・ミクロン,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,2,ja,ENA,North-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2025-12-10T03:45:00+00:00,Russia,0.27952636884755444,1,2,ja,ESB,Europe
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2025-12-02T03:41:00+00:00,South Africa,0.2787429545985154,1,2,ja,WSAF,Africa
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,ja,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,雨不足 ガボン,2025-12-08T03:45:00+00:00,Gabon,0.2640961579529894,1,1,ja,CAF,Africa
