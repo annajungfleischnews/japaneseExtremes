@@ -33,7 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,インド寒波,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,ja,SAS,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,ブルンジの乾燥,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,2,ja,SEAF,Africa
 'fe75824d98',extremes,Snow&Ice,#d60d2b,wmo,凍てつくフィンランド,2025-12-01T04:02:00+00:00,Finland,0.3080718619232649,1,2,ja,NEU,Europe
-'99d338c49c',extremes,Drought,#edc291,edo,干ばつウズベキスタン,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,2,ja,WCA,Asia
+'99d338c49c',extremes,Drought,#edc291,edo,干ばつウズベキスタン,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,2,ja,WCA,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,降水量 アルバニア,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,2,ja,MED,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,トーゴの雨不足,2025-12-08T03:45:00+00:00,Togo,0.3057250827152196,0,2,ja,WAF,Africa
@@ -52,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,雨 ソロモン諸島,2025-12-09T03:41:00+00:00,Solomon Islands,0.3032073760665366,0,2,ja,EPO,Oceania
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,南アフリカの嵐,2025-12-07T03:47:00+00:00,South Africa,0.3031929207232305,0,2,ja,WSAF,Africa
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 タンザニア,2025-12-11T03:46:00+00:00,Tanzania,0.3028026327377455,0,2,ja,SEAF,Africa
-'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,オーストラリア台風,2025-12-07T03:47:00+00:00,Australia,0.30271521459474,0,2,ja,NAU,Oceania
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,悪天候の南アフリカ,2025-12-12T03:45:00+00:00,South Africa,0.302587752800368,0,2,ja,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,雷雨南アフリカ,2025-12-08T03:44:00+00:00,South Africa,0.3025662425362803,0,2,ja,WSAF,Africa
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,山火事オーストラリア,2025-12-05T03:41:00+00:00,Australia,0.3025596841486156,0,2,ja,CAU,Oceania
@@ -100,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.2797821568446899,2,1,ja,EPO,Pacific Ocean
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2025-12-10T03:45:00+00:00,Russia,0.2795263688475544,1,2,ja,ESB,Europe
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2025-12-02T03:41:00+00:00,South Africa,0.2787429545985154,1,2,ja,WSAF,Africa
+'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,オーストラリア台風,2025-12-07T03:47:00+00:00,Australia,0.2707965889439905,1,2,ja,NAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,トリニダード・トバゴの干ばつ,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,ja,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,雨不足 ガボン,2025-12-08T03:45:00+00:00,Gabon,0.2640961579529894,1,1,ja,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,トリニダード・トバゴの雨不足,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,ja,NSA,North-America
