@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.5131882187979436,0,2,ja,EAS,Asia
 'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.4405199148367669,1,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4364168047493656,1,3,ja,EAS,Asia
+'1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.43620998597825206,1,1,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.4353884592843209,4,3,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.4335580673131974,1,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.4256689073764399,0,2,ja,EPO,Pacific Ocean
@@ -10,7 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.4127537170646486,2,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.4100567057615703,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2025-12-10T03:45:00+00:00,Japan,0.4055020110236926,2,1,ja,EAS,Asia
-'29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2025-12-10T03:45:00+00:00,Japan,0.4039265478539158,3,2,ja,EAS,Asia
+'29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2025-12-10T03:45:00+00:00,Japan,0.40294402123138395,4,3,ja,EAS,Asia
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.4012910983173552,4,3,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2025-12-14T03:49:00+00:00,Japan,0.3988356218068634,2,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2025-12-13T03:38:00+00:00,Japan,0.3978663524622635,2,3,ja,EAS,Asia
@@ -27,10 +27,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,ja,WAF,Africa
 'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,ja,WCA,Asia
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,ja,SAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,雨不足 リベリア,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,ja,WAF,Africa
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,インド寒波,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,ja,SAS,Asia
-'fe75824d98',extremes,Snow&Ice,#d60d2b,wmo,凍てつくフィンランド,2025-12-01T04:02:00+00:00,Finland,0.3080718619232649,1,2,ja,NEU,Europe
 '99d338c49c',extremes,Drought,#edc291,edo,干ばつウズベキスタン,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,2,ja,WCA,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,降水量 アルバニア,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,2,ja,MED,Europe
@@ -44,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,アイスランドの嵐,2025-12-02T03:41:00+00:00,Iceland,0.3045606836582313,0,2,ja,GIC,Europe
 '06285e171c',extremes,Flood,#030ba1,wmo,ノルウェーの洪水,2025-12-02T03:41:00+00:00,Norway,0.3036267732979363,0,2,ja,NEU,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,アイスランド南東の嵐,2025-12-01T04:02:00+00:00,Iceland,0.3034633194315844,0,2,ja,GIC,Europe
-'5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 タンザニア,2025-12-11T03:46:00+00:00,Tanzania,0.3028026327377455,0,2,ja,SEAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,雷雨南アフリカ,2025-12-08T03:44:00+00:00,South Africa,0.3025662425362803,0,2,ja,WSAF,Africa
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,山火事オーストラリア,2025-12-05T03:41:00+00:00,Australia,0.3025596841486156,0,2,ja,CAU,Oceania
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2025-12-14T03:49:00+00:00,Brazil,0.3025381534378981,0,2,ja,SAM,South-America
@@ -112,10 +109,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2c72301a8',extremes,Drought,#edc291,edo,干ばつカメルーン,2025-12-08T03:45:00+00:00,Cameroon,0.2586153776418636,1,1,ja,CAF,Africa
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,オーストラリアの熱波,2025-12-09T03:41:00+00:00,Australia,0.2585559775837133,1,2,ja,CAU,Oceania
 '912d7e568c',extremes,Precipitation,#d60d2b,wmo,豪雨 ロシア,2025-12-07T03:47:00+00:00,Russia,0.2584563481335121,1,2,ja,ESB,Europe
-'14ecb8c2a0',extremes,Drought,#edc291,edo,ナイジェリアの干ばつ,2025-12-08T03:45:00+00:00,Nigeria,0.2583160927898063,1,1,ja,WAF,Africa
 '3336c980ab',extremes,Earthquake,#870007,usgs,セントヘレナ地震,2025-12-08T03:44:00+00:00,Saint Helena,0.2582801094529049,1,1,ja,EAO,Atlantic Ocean
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2025-12-09T03:41:00+00:00,Chile,0.2581191004165786,1,1,ja,SWS,South-America
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,悪天候の南アフリカ,2025-12-12T03:45:00+00:00,South Africa,0.2577996498803128,1,2,ja,WSAF,Africa
+'5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 タンザニア,2025-12-11T03:46:00+00:00,Tanzania,0.25738223782708364,1,1,ja,SEAF,Africa
 '8f00e2675b',extremes,Snow&Ice,#d60d2b,wmo,フロストエチオピア,2025-12-11T03:46:00+00:00,Ethiopia,0.2573599199365894,1,1,ja,NEAF,Africa
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,嵐ゾナシュール,2025-12-19T03:46:00+00:00,Ecuador,0.2572560819727,1,1,ja,NWS,South-America
 '2876c1c93a',extremes,Landslide,#572c03,wmo,土砂崩れ ノルウェー,2025-12-10T03:45:00+00:00,Norway,0.2572083599071635,1,1,ja,NEU,Europe
