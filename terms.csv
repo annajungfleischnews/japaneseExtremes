@@ -1,8 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2025-12-11T03:46:00+00:00,Japan,0.5410510984451687,0,2,ja,EAS,Asia
+'82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2025-12-02T03:41:00+00:00,Japan,0.5177402025805932,0,2,ja,EAS,Asia
+'e276c6d52d',extremes,Earthquake,#870007,usgs,阿蘇地震,2025-12-04T03:42:00+00:00,Japan,0.5177292586314906,0,2,ja,EAS,Asia
+'9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4395418326733244,2,3,ja,EAS,Asia
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.436209985978252,1,1,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.4353884592843209,4,3,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2025-12-10T03:45:00+00:00,Japan,0.4335580673131974,1,1,ja,EAS,Asia
+'3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2025-12-09T03:41:00+00:00,Palau,0.4271246388560653,0,2,ja,EPO,Pacific Ocean
+'30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2025-12-04T03:42:00+00:00,Palau,0.4256689073764399,0,2,ja,EPO,Pacific Ocean
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2025-12-07T03:46:00+00:00,Japan,0.4190160872674399,5,3,ja,EAS,Asia
 '080e029a76',extremes,Tsunami,#690191,usgs,津波八戸,2025-12-13T03:37:00+00:00,Japan,0.415485816896359,4,2,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.4127537170646486,2,2,ja,EAS,Asia
@@ -17,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48643270cd',extremes,Earthquake,#870007,usgs,羽咋地震,2025-12-15T03:53:00+00:00,Japan,0.3838509395464894,4,1,ja,EAS,Asia
 '85ec8b6400',extremes,Earthquake,#870007,usgs,地震阿弥,2025-12-13T03:37:00+00:00,Japan,0.3724337770479572,2,1,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2025-12-16T03:47:00+00:00,Japan,0.3662451135066814,2,1,ja,EAS,Asia
+'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2025-11-30T03:47:00+00:00,Palau,0.3560114981763207,0,2,ja,EPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,寒波ビクトリア,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ja,SAU,Oceania
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,アルバニアの洪水,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,ja,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,ja,WAF,Africa
