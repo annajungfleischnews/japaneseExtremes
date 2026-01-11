@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.5115452336256602,0,2,ja,EAS,Asia
+'9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2025-12-01T04:02:00+00:00,Japan,0.47291350858181114,1,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2025-12-03T03:40:00+00:00,Japan,0.4395418326733244,2,3,ja,EAS,Asia
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2025-12-14T03:49:00+00:00,Japan,0.436209985978252,1,1,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2025-12-09T03:40:00+00:00,Japan,0.4353884592843209,4,3,ja,EAS,Asia
@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,ja,WAF,Africa
 'da5c6d0821',extremes,Drought,#edc291,edo,キルギスの雨不足,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,ja,WCA,Asia
 '99251f8aa7',extremes,Drought,#edc291,edo,雨不足 リベリア,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,ja,WAF,Africa
-'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,インド寒波,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,ja,SAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,降水量 アルバニア,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,2,ja,MED,Europe
 'c72865acbd',extremes,Drought,#edc291,edo,トーゴの雨不足,2025-12-08T03:45:00+00:00,Togo,0.3057250827152196,0,2,ja,WAF,Africa
@@ -63,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,カイコウラ海岸は土砂降り,2025-12-03T03:40:00+00:00,New Zealand,0.3016711411500021,0,2,ja,NZ,Oceania
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,セイシェルひょう,2025-12-16T03:47:00+00:00,Seychelles,0.3016619793959226,0,2,ja,EIO,Africa
 '3640cbbb22',extremes,Flood,#030ba1,wmo,イングランド南西部の洪水,2025-12-09T03:41:00+00:00,United Kingdom,0.3016400955726229,0,2,ja,NEU,Europe
-'3dea46c095',extremes,Flood,#030ba1,wmo,鉄砲水、米国,2025-12-08T03:44:00+00:00,United States,0.301624098600564,0,2,ja,CNA,North-America
 '9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,アディゲ野火共和国,2025-12-03T03:40:00+00:00,Russia,0.3016041416195411,0,2,ja,ESB,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.3015839633435489,0,2,ja,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2025-12-18T03:44:00+00:00,Chile,0.3015581086993469,0,2,ja,SWS,South-America
