@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,赤道ギニアの干ばつ,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.3019974900283422,0,2,ja,WAF,Africa
 '3c9166481f',extremes,Wildfire,#d60d2b,wmo,野火ビクトリア・マリー,2025-12-05T03:41:00+00:00,Australia,0.3018910352463275,0,2,ja,CAU,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,熱波クイーンズランド湾岸田舎地区。,2025-12-05T03:41:00+00:00,Australia,0.3018836380861971,0,2,ja,CAU,Oceania
-'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2025-12-14T03:49:00+00:00,Argentina,0.3016860899264215,0,2,ja,SES,South-America
 'ce2d4957e5',extremes,Fog,#d60d2b,wmo,霧のクウェート,2025-12-12T03:45:00+00:00,Kuwait,0.3016845338284077,0,2,ja,ARP,Asia
 '1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,カイコウラ海岸は土砂降り,2025-12-03T03:40:00+00:00,New Zealand,0.3016711411500021,0,2,ja,NZ,Oceania
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,セイシェルひょう,2025-12-16T03:47:00+00:00,Seychelles,0.3016619793959226,0,2,ja,EIO,Africa
@@ -71,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2025-12-14T03:49:00+00:00,Brazil,0.2571574304222133,1,1,ja,SAM,South-America
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,悪天候のモルディブ,2025-12-18T03:44:00+00:00,Maldives,0.256758686048425,1,1,ja,EIO,Indian Ocean
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2025-12-14T03:49:00+00:00,Argentina,0.2567373039148942,1,1,ja,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2025-12-14T03:49:00+00:00,Argentina,0.2567332064374583,1,2,ja,SES,South-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2025-12-19T03:46:00+00:00,Bahrain,0.2566519424870689,1,1,ja,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.2566226336220065,1,1,ja,NWS,South-America
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,雪のエチオピア,2025-12-13T03:38:00+00:00,Ethiopia,0.2565866952993746,1,1,ja,NEAF,Africa
