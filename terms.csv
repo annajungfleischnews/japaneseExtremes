@@ -68,8 +68,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2025-12-19T03:46:00+00:00,Bahrain,0.2566519424870689,1,1,ja,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.2566226336220065,1,1,ja,NWS,South-America
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,雪のエチオピア,2025-12-13T03:38:00+00:00,Ethiopia,0.2565866952993746,1,1,ja,NEAF,Africa
+'95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,ja,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2025-12-14T03:49:00+00:00,Brazil,0.2565334833357608,1,1,ja,SAM,South-America
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ja,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,ja,NWS,South-America
+'633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,ja,,
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,セイシェルひょう,2025-12-16T03:47:00+00:00,Seychelles,0.2564126824865342,1,1,ja,EIO,Africa
+'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,ja,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,ja,,
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,ja,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,ルワンダの乾燥,2025-12-16T03:47:00+00:00,Rwanda,0.2237896183950655,2,1,ja,SEAF,Africa
