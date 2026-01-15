@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c72865acbd',extremes,Drought,#edc291,edo,トーゴの雨不足,2025-12-08T03:45:00+00:00,Togo,0.3057250827152196,0,2,ja,WAF,Africa
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,熱波クイーンズランド湾岸田舎地区。,2025-12-05T03:41:00+00:00,Australia,0.3018836380861971,0,2,ja,CAU,Oceania
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.3015839633435489,0,2,ja,NWS,South-America
-'d709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2025-12-18T03:44:00+00:00,Chile,0.3015581086993469,0,2,ja,SWS,South-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,オーストラリアに上陸,2025-12-08T03:45:00+00:00,Australia,0.3015548756473718,0,2,ja,NAU,Oceania
 'aa56a8832c',extremes,Snow&Ice,#d60d2b,wmo,雪崩エチオピア,2025-12-14T03:49:00+00:00,Ethiopia,0.3014512670449349,0,2,ja,NEAF,Africa
 '61bcd02de5',extremes,Drought,#edc291,edo,モザンビークの干ばつ,2025-12-08T03:45:00+00:00,Mozambique,0.3013813727833067,0,2,ja,ESAF,Africa
@@ -66,9 +65,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2025-12-14T03:49:00+00:00,Argentina,0.2567332064374583,1,2,ja,SES,South-America
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,カタールの雹,2025-12-13T03:38:00+00:00,Qatar,0.256707335901335,1,1,ja,ARP,Asia
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2025-12-19T03:46:00+00:00,Bahrain,0.2566519424870689,1,1,ja,ARP,Asia
+'d709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2025-12-18T03:44:00+00:00,Chile,0.2566244223944449,1,2,ja,SWS,South-America
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.2566226336220065,1,1,ja,NWS,South-America
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,雪のエチオピア,2025-12-13T03:38:00+00:00,Ethiopia,0.2565866952993746,1,1,ja,NEAF,Africa
-'95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,ja,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,ja,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2025-12-14T03:49:00+00:00,Brazil,0.2565334833357608,1,1,ja,SAM,South-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ja,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,ja,NWS,South-America
