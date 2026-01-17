@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2025-12-18T03:44:00+00:00,Brazil,0.3013802281357383,0,2,ja,SAM,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,沿岸の降水量,2025-12-18T03:44:00+00:00,Ecuador,0.3013592478469473,0,2,ja,NWS,South-America
 'fb43bdaa2f',extremes,Drought,#edc291,edo,乾燥 サンピエール・ミクロン,2025-12-06T03:32:00+00:00,Saint Pierre and Miquelon,0.3013192013029018,0,2,ja,ENA,North-America
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.3007693883410344,1,2,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2025-12-14T03:49:00+00:00,Palau,0.298629905086808,1,1,ja,EPO,Pacific Ocean
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2025-12-10T03:45:00+00:00,Russia,0.2795263688475544,1,2,ja,ESB,Europe
 '53af3d9646',extremes,Drought,#edc291,edo,トルクメニスタンの干ばつ,2025-12-15T03:54:00+00:00,Turkmenistan,0.2621197790438807,1,1,ja,WCA,Asia
@@ -61,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2025-12-18T03:44:00+00:00,Chile,0.2566244223944449,1,2,ja,SWS,South-America
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,高潮 アマゾン エクアトリアナ,2025-12-18T03:44:00+00:00,Ecuador,0.2566226336220065,1,1,ja,NWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2025-12-14T03:49:00+00:00,Brazil,0.2565334833357608,1,1,ja,SAM,South-America
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ja,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,ja,NWS,South-America
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,ja,,
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,セイシェルひょう,2025-12-16T03:47:00+00:00,Seychelles,0.2564126824865342,1,1,ja,EIO,Africa
