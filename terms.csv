@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.7908506276604929,0,1,ja,EAS,Asia
+'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.7893112411614895,0,1,ja,EAS,Asia
 '68eb7178de',extremes,Earthquake,#870007,usgs,安来町地震,2026-01-15T10:56:00+00:00,Japan,0.6882577954472393,1,1,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-01-15T10:56:00+00:00,Japan,0.6722365721975805,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-01-15T10:56:00+00:00,Japan,0.6357770876837304,2,1,ja,EAS,Asia
