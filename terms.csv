@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.7908506276604929,0,1,ja,EAS,Asia
-'68eb7178de',extremes,Earthquake,#870007,usgs,安来町地震,2026-01-15T10:56:00+00:00,Japan,0.7903031122908698,0,1,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.7731114815241279,1,3,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.7122293913509024,1,2,ja,EAS,Asia
+'68eb7178de',extremes,Earthquake,#870007,usgs,安来町地震,2026-01-15T10:56:00+00:00,Japan,0.7006805377199665,1,1,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-01-15T10:56:00+00:00,Japan,0.6722365721975805,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-01-15T10:56:00+00:00,Japan,0.6357770876837304,2,1,ja,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-01-15T10:56:00+00:00,Japan,0.594219279995357,2,1,ja,EAS,Asia
@@ -13,9 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56368a7c0e',extremes,Earthquake,#870007,usgs,松江地震,2026-01-17T03:44:00+00:00,Japan,0.4601396651096385,1,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-01-15T10:56:00+00:00,Japan,0.4561111013465094,0,1,ja,EAS,Asia
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
-'48643270cd',extremes,Earthquake,#870007,usgs,羽咋地震,2025-12-15T03:53:00+00:00,Japan,0.4477982846869359,1,1,ja,EAS,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2025-12-16T03:46:00+00:00,,0.4277917123741623,1,3,ja,,
-'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2025-12-12T03:45:00+00:00,Japan,0.4127537170646486,2,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.4100567057615703,1,2,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4099477889902277,0,1,ja,,
 '587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2025-12-12T03:45:00+00:00,Japan,0.4012910983173552,4,3,ja,EAS,Asia
@@ -26,18 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3609393311387803,1,1,ja,EAS,Asia
 '0efa034224',extremes,Earthquake,#870007,usgs,穂高地震,2026-01-15T10:56:00+00:00,Japan,0.3560097925879964,1,1,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-01-15T10:20:00+00:00,,0.3544556319450684,1,3,ja,,
-'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,山火事中国,2025-12-05T03:41:00+00:00,China,0.3434914350892953,1,3,ja,EAS,Asia
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.3184956739722786,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2025-12-18T03:44:00+00:00,Japan,0.3075795518205869,3,2,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.3007693883410344,1,2,ja,,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-01-15T10:56:00+00:00,Japan,0.2978159949532279,2,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,土砂降りのゾナ・シュール,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,ja,NWS,South-America
-'88f49d6040',extremes,Storm,#b3b2b1,wmo,嵐ゾナシュール,2025-12-19T03:46:00+00:00,Ecuador,0.2572560819727,1,1,ja,NWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2025-12-14T03:49:00+00:00,Argentina,0.2567332064374583,1,2,ja,SES,South-America
-'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2025-12-19T03:46:00+00:00,Bahrain,0.2566519424870689,1,1,ja,ARP,Asia
 'd709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2025-12-18T03:44:00+00:00,Chile,0.2566244223944449,1,2,ja,SWS,South-America
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,1,1,ja,NWS,South-America
-'3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2025-12-19T03:46:00+00:00,Ecuador,0.2563463688420165,1,1,ja,NWS,South-America
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-01-15T10:20:00+00:00,,0.2177658540866849,1,1,ja,,
