@@ -1,326 +1,269 @@
 ,phrase,label,sentiment,subjectivity,language,count
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.00852369765447292,0.6147118599663628,en,15.202380952380949
-NHK General/NHK BS/,NHK General/NHK BS/,ORG,0.2855298577157612,0.22207877822336985,en,7.880086580086578
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.00013377365643135362,0.620167670833623,en,15.552380952380949
+NHK General/NHK BS/,NHK General/NHK BS/,ORG,0.25921400428906305,0.20161089222482684,en,8.680086580086575
 The Japan Meteorological Agency,The Japan Meteorological Agency,ORG,0.04754166666666668,0.5347500000000003,en,7.142857142857141
-AI,AI,ORG,0.03727226032264221,0.8953635916988457,en,5.611278195488721
-iPhone,iPhone,ORG,0.27536111111111117,0.9136944444444445,en,4.545454545454545
+AI,AI,ORG,0.06788610831857278,0.988493744714124,en,5.71127819548872
+iPhone,iPhone,ORG,0.3770656664492282,1.0016579691237226,en,4.645454545454545
 NTV NEWS NNN,NTV NEWS NNN,ORG,0.024841915085817522,0.6160794941282747,en,4.472727272727273
 NTT East,NTT East,ORG,-0.04106337061016284,1.05760496370414,en,3.7340659340659337
 the Prime Minister's Office,the Prime Minister's Office,ORG,-0.04248366013071895,0.11764705882352941,en,3.4000000000000004
 Amazon,Amazon,ORG,0.5599948931203035,0.7835613190340703,en,3.347252747252747
 The Metropolitan Police Department,The Metropolitan Police Department,ORG,-4.303190017926964e-18,0.21705426356589147,en,3.2249999999999996
 the Cabinet Office,the Cabinet Office,ORG,0.15625,0.20833333333333331,en,3.2
+the Metropolitan Police Department's,the Metropolitan Police Department's,ORG,-0.1349206349206349,0.4497354497354497,en,3.15
 Iwate,Iwate,ORG,0.21678966789667897,0.6289667896678967,en,3.011111111111111
 Hachinohe,Hachinohe,ORG,-0.041944444444444444,0.13194444444444445,en,3.0
 Minato-ku,Minato-ku,ORG,-0.008374372319506216,0.3148656167598036,en,2.944230769230769
-the Metropolitan Police Department's,the Metropolitan Police Department's,ORG,-0.06034482758620689,0.4022988505747126,en,2.9
+Diet,Diet,ORG,0.5688775510204082,1.0778061224489794,en,2.8000000000000003
 VK,VK,ORG,0.09576427255985268,0.11970534069981584,en,2.7846153846153845
 Yahoo,Yahoo,ORG,0.14285714285714285,0.22857142857142856,en,2.5
+Japan Meteorological Agency,Japan Meteorological Agency,ORG,-0.12746512746512745,0.6137566137566137,en,2.475
 Advent Calendar,Advent Calendar,ORG,0.20833333333333331,0.5208333333333333,en,2.4000000000000004
 Hokkaido/Sanriku,Hokkaido/Sanriku,ORG,0.10416666666666667,0.0,en,2.4
 Google,Google,ORG,0.5315841830390451,0.3898284008952997,en,2.3514619883040933
 the Metropolitan Police Department,the Metropolitan Police Department,ORG,0.3440860215053763,0.17204301075268816,en,2.325
 "Market Research Center Co.,","Market Research Center Co.,",ORG,-0.040692228524276515,0.18285569202450094,en,2.2442307692307693
-Japan Meteorological Agency,Japan Meteorological Agency,ORG,-0.1080791867308721,0.45799892990904223,en,2.225
+Fuji,Fuji,ORG,0.24719101123595508,0.1797752808988764,en,2.225
 Disaster Management Division,Disaster Management Division,ORG,0.034090909090909095,0.41666666666666663,en,2.2
 the Self-Defense Forces,the Self-Defense Forces,ORG,0.07046979865771812,0.2348993288590604,en,2.1285714285714286
+Trump,Trump,ORG,-0.19028871391076116,0.31496062992125984,en,2.1166666666666667
 the Ministry of Defense,the Ministry of Defense,ORG,-0.10687830687830693,1.1452380952380952,en,2.1
 Hereinafter,Hereinafter,ORG,-0.28723404255319146,0.7180851063829787,en,2.088888888888889
 Sanyo,Sanyo,ORG,-0.09811827956989248,0.27553763440860224,en,2.0666666666666664
 GLM-4.7,GLM-4.7,ORG,0.08282051282051284,0.5667521367521369,en,2.052631578947368
-the University of Tokyo,the University of Tokyo,ORG,-0.028134920634920624,0.7124107142857143,en,2.0
-The Bank of Japan,The Bank of Japan,ORG,-0.006249999999999995,0.16666666666666666,en,2.0
-MUJI,MUJI,ORG,-0.13749999999999998,0.6625000000000001,en,2.0
 Iwate Prefecture,Iwate Prefecture,ORG,0.65,0.2625,en,2.0
+MUJI,MUJI,ORG,-0.13749999999999998,0.6625000000000001,en,2.0
+The Bank of Japan,The Bank of Japan,ORG,-0.006249999999999995,0.16666666666666666,en,2.0
+the University of Tokyo,the University of Tokyo,ORG,-0.028134920634920624,0.7124107142857143,en,2.0
 NTT,NTT,ORG,0.2682481751824818,0.11070559610705598,en,1.9571428571428569
 the Self-Defense Forces Tokyo Regional Cooperation Headquarters,the Self-Defense Forces Tokyo Regional Cooperation Headquarters,ORG,0.09506172839506175,0.0,en,1.9285714285714284
 @tokyo_pco,@tokyo_pco,ORG,0.09506172839506175,0.0,en,1.9285714285714284
-Trump,Trump,ORG,-0.2101449275362319,0.34782608695652173,en,1.9166666666666665
+The Kobe Muslim Mosque,The Kobe Muslim Mosque,ORG,0.4210526315789474,0.0,en,1.9
+Collaborative Research between Disaster Prevention Researchers and Designers - Aiming,Collaborative Research between Disaster Prevention Researchers and Designers - Aiming,ORG,0.42690058479532167,0.28508771929824567,en,1.9
+Typhoon Club's,Typhoon Club's,ORG,0.017088174982911822,0.10347985347985347,en,1.9
+"Geotechnologies Co.,","Geotechnologies Co.,",ORG,0.0,0.017543859649122806,en,1.9
 Shin-Aomori Station,Shin-Aomori Station,ORG,-0.0756578947368421,0.19846491228070176,en,1.9
+Apple TV,Apple TV,ORG,0.4210526315789474,0.2105263157894737,en,1.9
+Universal,Universal,ORG,0.42690058479532167,0.28508771929824567,en,1.9
+JR,JR,ORG,0.039473684210526314,0.0,en,1.9
 Kanto,Kanto,ORG,-0.13710144927536233,0.5681266774020396,en,1.8818181818181818
-Twitter,Twitter,ORG,-0.2976190476190475,0.5304232804232804,en,1.8000000000000003
 Konecht,Konecht,ORG,0.027777777777777766,0.5277777777777777,en,1.8000000000000003
-The National Police Agency,The National Police Agency,ORG,0.0,0.05555555555555556,en,1.8
-Japan Airlines,Japan Airlines,ORG,0.05555555555555555,0.2083333333333333,en,1.8
-Tohoku University,Tohoku University,ORG,0.3417422524565382,0.3472222222222222,en,1.8
+Twitter,Twitter,ORG,-0.2976190476190475,0.5304232804232804,en,1.8000000000000003
 Cabinet Office,Cabinet Office,ORG,0.41975308641975306,0.2901234567901234,en,1.8
+Japan Airlines,Japan Airlines,ORG,0.05555555555555555,0.2083333333333333,en,1.8
+The National Police Agency,The National Police Agency,ORG,0.0,0.05555555555555556,en,1.8
+Tohoku University,Tohoku University,ORG,0.3417422524565382,0.3472222222222222,en,1.8
+Takaichi,Takaichi,ORG,0.07718696397941681,0.25728987993138935,en,1.7666666666666666
 Defense,Defense,ORG,0.19362745098039214,0.664705882352941,en,1.7000000000000002
-Okawa Elementary School,Okawa Elementary School,ORG,0.39999999999999997,0.31176470588235294,en,1.7
-Crispy,Crispy,ORG,0.0,0.0,en,1.7
-Japan Nuclear Fuel,Japan Nuclear Fuel,ORG,-0.07720588235294118,0.1727941176470588,en,1.7
 Dodgers,Dodgers,ORG,0.0,0.0,en,1.7
+Japan Nuclear Fuel,Japan Nuclear Fuel,ORG,-0.07720588235294118,0.1727941176470588,en,1.7
 NHK,NHK,ORG,1.0588235294117647,0.4411764705882353,en,1.7
+Crispy,Crispy,ORG,0.0,0.0,en,1.7
+Okawa Elementary School,Okawa Elementary School,ORG,0.39999999999999997,0.31176470588235294,en,1.7
 Xiaomi,Xiaomi,ORG,0.0,0.0,en,1.6842105263157894
-REDMI Note,REDMI Note,ORG,0.0,0.0,en,1.6842105263157894
 Osaifu-Keitai,Osaifu-Keitai,ORG,-0.029687500000000002,0.23750000000000002,en,1.6842105263157894
-Takaichi,Takaichi,ORG,0.08181818181818182,0.27272727272727276,en,1.6666666666666665
+REDMI Note,REDMI Note,ORG,0.0,0.0,en,1.6842105263157894
 SwitchBot,SwitchBot,ORG,0.44738305675805673,0.46278759820426485,en,1.6615384615384616
 General/NHK BS,General/NHK BS,ORG,0.0,0.0,en,1.619047619047619
 the League of Nations,the League of Nations,ORG,0.0,0.0,en,1.5999999999999999
+Chubu Electric Power,Chubu Electric Power,ORG,0.3727341389728098,0.6503021148036254,en,1.576190476190476
 Scrum,Scrum,ORG,0.3857142857142857,0.0,en,1.5555555555555556
-Aomori Hachinohe City Museum of Art,Aomori Hachinohe City Museum of Art,ORG,0.052777777777777785,0.19166666666666665,en,1.5
-Bank of Japan,Bank of Japan,ORG,-0.3333333333333333,0.6666666666666666,en,1.5
-Médecins Sans Frontières,Médecins Sans Frontières,ORG,0.05000000000000001,0.13333333333333333,en,1.5
-Copilot,Copilot,ORG,0.65,0.6666666666666666,en,1.5
-Kayak,Kayak,ORG,0.0,0.0,en,1.5
-GitHub Copilot's,GitHub Copilot's,ORG,0.0,0.0,en,1.5
+Weather News,Weather News,ORG,0.4565217391304347,0.8478260869565217,en,1.5333333333333334
 Asset Management,Asset Management,ORG,-0.008333333333333326,0.1111111111111111,en,1.5
+LLM,LLM,ORG,0.06916666666666667,0.2783333333333333,en,1.5
+Macadamia Nut Oil,Macadamia Nut Oil,ORG,-0.15,0.6,en,1.5
+The Tokyo Regional Cooperation Headquarters,The Tokyo Regional Cooperation Headquarters,ORG,-0.24999999999999992,0.6666666666666666,en,1.5
 Self-Defense Force,Self-Defense Force,ORG,0.0,0.35000000000000003,en,1.5
 Fixed Income Management Department,Fixed Income Management Department,ORG,-0.008333333333333326,0.1111111111111111,en,1.5
-The Tokyo Regional Cooperation Headquarters,The Tokyo Regional Cooperation Headquarters,ORG,-0.24999999999999992,0.6666666666666666,en,1.5
-LLM,LLM,ORG,0.06916666666666667,0.2783333333333333,en,1.5
+GitHub Copilot's,GitHub Copilot's,ORG,0.0,0.0,en,1.5
+Central Disaster Prevention Council,Central Disaster Prevention Council,ORG,0.12505050505050505,0.212972582972583,en,1.5
+Bank of Japan,Bank of Japan,ORG,-0.3333333333333333,0.6666666666666666,en,1.5
 Jira,Jira,ORG,0.0,0.0,en,1.5
-Miyagi,Miyagi,ORG,0.1111111111111111,0.18666666666666665,en,1.5
-Kyodo News,Kyodo News,ORG,0.2333333333333333,0.3666666666666667,en,1.5
+Copilot,Copilot,ORG,0.65,0.6666666666666666,en,1.5
+Kayak,Kayak,ORG,0.0,0.0,en,1.5
+Médecins Sans Frontières,Médecins Sans Frontières,ORG,0.05000000000000001,0.13333333333333333,en,1.5
 ISS,ISS,ORG,0.0,0.0,en,1.5
-Macadamia Nut Oil,Macadamia Nut Oil,ORG,-0.15,0.6,en,1.5
+Kyodo News,Kyodo News,ORG,0.2333333333333333,0.3666666666666667,en,1.5
+Miyagi,Miyagi,ORG,0.1111111111111111,0.18666666666666665,en,1.5
+Aomori Hachinohe City Museum of Art,Aomori Hachinohe City Museum of Art,ORG,0.052777777777777785,0.19166666666666665,en,1.5
 the Chinese Ministry of Foreign Affairs,the Chinese Ministry of Foreign Affairs,ORG,-0.2254807692307692,0.24455128205128204,en,1.4857142857142858
-Chubu Electric Power,Chubu Electric Power,ORG,0.426209677419355,0.3838709677419356,en,1.4761904761904758
 "Market Research Center Co., Ltd.","Market Research Center Co., Ltd.",ORG,-0.08200161420500403,0.16271186440677965,en,1.475
 AI Overviews,AI Overviews,ORG,0.296875,0.3392857142857143,en,1.4736842105263157
 Santa Claus,Santa Claus,ORG,0.10227272727272727,0.3068181818181818,en,1.4666666666666668
 YOIIYO,YOIIYO,ORG,0.38315789473684214,0.3215789473684211,en,1.4615384615384615
 FGO,FGO,ORG,0.17142857142857143,1.2,en,1.4583333333333333
 Observability,Observability,ORG,0.060576923076923084,0.3,en,1.4444444444444444
-Weather News,Weather News,ORG,0.1395348837209302,0.5581395348837209,en,1.4333333333333333
 House of Councilors,House of Councilors,ORG,-0.03730620155038761,0.5193798449612403,en,1.4333333333333333
-Huffington Post Japan,Huffington Post Japan,ORG,1.12,0.525,en,1.4285714285714284
 Karato,Karato,ORG,0.0,0.0,en,1.4285714285714284
-Diet,Diet,ORG,0.7984693877551019,1.5306122448979587,en,1.4000000000000004
-the Bank of Japan,the Bank of Japan,ORG,0.07142857142857144,0.11607142857142859,en,1.4
+Huffington Post Japan,Huffington Post Japan,ORG,1.12,0.525,en,1.4285714285714284
+Instagram,Instagram,ORG,0.2797619047619047,0.5773809523809523,en,1.4000000000000001
 Ichiro,Ichiro,ORG,-0.009740259740259744,0.125,en,1.4
 KUL Disaster Prevention Exhibition,KUL Disaster Prevention Exhibition,ORG,0.0,0.0,en,1.4
+the Bank of Japan,the Bank of Japan,ORG,0.07142857142857144,0.11607142857142859,en,1.4
 UI,UI,ORG,0.4948831168831169,0.3278961038961039,en,1.3888888888888888
+SNS,SNS,ORG,-0.36410496719775076,0.6144954701655733,en,1.3857142857142857
+Funassyi,Funassyi,ORG,0.07575757575757576,0.2585858585858586,en,1.375
+The Tokyo Metropolitan Police Department's,The Tokyo Metropolitan Police Department's,ORG,0.038429752066115694,0.5508264462809918,en,1.375
+Mt.,Mt.,ORG,0.0,0.0,en,1.375
 Kyoto University,Kyoto University,ORG,0.0,0.10714285714285714,en,1.3333333333333333
 The Japan Meteorological Agency's,The Japan Meteorological Agency's,ORG,-0.12500000000000003,0.4038461538461539,en,1.333333333333333
+Apple,Apple,ORG,0.20146520146520144,0.7985347985347983,en,1.3000000000000003
 the National Police Agency,the National Police Agency,ORG,0.0,0.0,en,1.3
-Instagram,Instagram,ORG,0.0,0.05128205128205128,en,1.3
-DEAN & DELUCA,DEAN & DELUCA,ORG,0.27685185185185185,0.3074074074074074,en,1.2857142857142856
-SNS,SNS,ORG,-0.42777777777777787,0.5444444444444445,en,1.2857142857142856
 Japan Post Insurance,Japan Post Insurance,ORG,0.0,0.0,en,1.2857142857142856
+DEAN & DELUCA,DEAN & DELUCA,ORG,0.27685185185185185,0.3074074074074074,en,1.2857142857142856
 TBS NEWS,TBS NEWS,ORG,0.6696217494089832,0.7346335697399526,en,1.281818181818182
 Neuro-sama,Neuro-sama,ORG,0.32986111111111116,0.5365740740740741,en,1.263157894736842
+Mita,Mita,ORG,0.0,0.0,en,1.25
+Sponichi Annex,Sponichi Annex,ORG,0.27999999999999997,0.44000000000000006,en,1.25
+Disaster Countermeasures Division,Disaster Countermeasures Division,ORG,-0.4,0.2,en,1.25
 Kawasaki Frontale,Kawasaki Frontale,ORG,0.0,0.0,en,1.25
 Hokuriku,Hokuriku,ORG,0.0,0.8163265306122448,en,1.225
-NVIDIA,NVIDIA,ORG,0.1997474747474747,1.0148989898989897,en,1.2000000000000002
-ZEH,ZEH,ORG,0.27777777777777773,0.5416666666666666,en,1.2000000000000002
-the House of Representatives Budget Committee,the House of Representatives Budget Committee,ORG,-0.041666666666666664,0.20833333333333331,en,1.2000000000000002
+House of Representatives,House of Representatives,ORG,0.06250000000000001,0.47222222222222215,en,1.2000000000000002
 Ministry of Foreign Affairs,Ministry of Foreign Affairs,ORG,-0.22048611111111108,0.3871527777777777,en,1.2000000000000002
-the Tokyo High Court,the Tokyo High Court,ORG,0.2821759259259259,0.636574074074074,en,1.2000000000000002
-the Earthquake Research Institute,the Earthquake Research Institute,ORG,-0.046891534391534366,1.1873511904761904,en,1.2000000000000002
-Kesa,Kesa,ORG,0.5381944444444444,0.8513888888888889,en,1.2000000000000002
+NISA,NISA,ORG,-0.25,0.5833333333333333,en,1.2000000000000002
+ZEH,ZEH,ORG,0.27777777777777773,0.5416666666666666,en,1.2000000000000002
+eMAXIS,eMAXIS,ORG,0.0,0.0,en,1.2000000000000002
+NVIDIA,NVIDIA,ORG,0.1997474747474747,1.0148989898989897,en,1.2000000000000002
+the House of Representatives Budget Committee,the House of Representatives Budget Committee,ORG,-0.041666666666666664,0.20833333333333331,en,1.2000000000000002
 Eufy,Eufy,ORG,0.03030303030303028,0.39502164502164494,en,1.2000000000000002
-Starbucks,Starbucks,ORG,0.18939393939393936,0.3787878787878788,en,1.2
+the Earthquake Research Institute,the Earthquake Research Institute,ORG,-0.046891534391534366,1.1873511904761904,en,1.2000000000000002
+Mukou,Mukou,ORG,0.0,0.0,en,1.2000000000000002
+the Tokyo High Court,the Tokyo High Court,ORG,0.2821759259259259,0.636574074074074,en,1.2000000000000002
+Kesa,Kesa,ORG,0.5381944444444444,0.8513888888888889,en,1.2000000000000002
 Apple Books,Apple Books,ORG,0.3591269841269842,0.23809523809523808,en,1.2
-TikTok,TikTok,ORG,-0.4166666666666668,0.0,en,1.2
+Starbucks,Starbucks,ORG,0.18939393939393936,0.3787878787878788,en,1.2
 the Tokyo District Court,the Tokyo District Court,ORG,0.0815386002886003,0.5703703703703704,en,1.2
+TikTok,TikTok,ORG,-0.4166666666666668,0.0,en,1.2
 Sapporo,Sapporo,ORG,0.2961538461538461,0.4442307692307692,en,1.1818181818181819
-the White House,the White House,ORG,0.30000000000000004,0.0,en,1.1666666666666665
-Chizu Noda's,Chizu Noda's,ORG,0.16753246753246753,0.5902597402597403,en,1.1666666666666665
 the Nuclear Regulation Authority,the Nuclear Regulation Authority,ORG,0.0,0.0,en,1.1666666666666665
+Chizu Noda's,Chizu Noda's,ORG,0.16753246753246753,0.5902597402597403,en,1.1666666666666665
 the United Nations Framework Convention on Climate Change,the United Nations Framework Convention on Climate Change,ORG,-0.08571428571428573,0.17142857142857146,en,1.1666666666666665
-Kosugi Core Park,Kosugi Core Park,ORG,0.0,0.0,en,1.1428571428571428
-Senshu University,Senshu University,ORG,0.0,0.0,en,1.1428571428571428
-KOSUGI,KOSUGI,ORG,0.0,0.0,en,1.1428571428571428
+the White House,the White House,ORG,0.30000000000000004,0.0,en,1.1666666666666665
+Sanyo Broadcasting,Sanyo Broadcasting,ORG,-0.05238095238095238,0.17142857142857146,en,1.1666666666666665
 HuffPost Japan,HuffPost Japan,ORG,0.0,0.0,en,1.1428571428571428
 GenZ,GenZ,ORG,-0.2625,0.6125,en,1.1428571428571428
 Musashi-Kosugi Station,Musashi-Kosugi Station,ORG,-0.0875,0.0,en,1.1428571428571428
-The Tokyo Metropolitan Police Department's,The Tokyo Metropolitan Police Department's,ORG,0.10555555555555556,0.35000000000000003,en,1.125
-SET,SET,ORG,0.23002754820936638,0.41287878787878785,en,1.1
-Japan Mobile Architecture Association,Japan Mobile Architecture Association,ORG,-0.27272727272727276,0.3409090909090909,en,1.1
-HEATTECH,HEATTECH,ORG,0.7077922077922076,0.6818181818181818,en,1.1
-Liberal Democratic Party,Liberal Democratic Party,ORG,0.3272727272727272,0.4909090909090908,en,1.1
-Broccoli,Broccoli,ORG,0.7613636363636364,0.625,en,1.1
-Hiroyuki,Hiroyuki,ORG,-0.7107438016528924,0.5303030303030302,en,1.1
-Curel,Curel,ORG,0.45454545454545453,0.0,en,1.1
+Senshu University,Senshu University,ORG,0.0,0.0,en,1.1428571428571428
+KOSUGI,KOSUGI,ORG,0.0,0.0,en,1.1428571428571428
+Kosugi Core Park,Kosugi Core Park,ORG,0.0,0.0,en,1.1428571428571428
+JNN,JNN,ORG,0.0,0.0606060606060606,en,1.1
+Sushiro,Sushiro,ORG,0.06198347107438015,0.0,en,1.1
 the Disaster Prevention Agency,the Disaster Prevention Agency,ORG,0.0,0.11363636363636363,en,1.1
-the Financial Instruments and Exchange Act,the Financial Instruments and Exchange Act,ORG,0.11363636363636363,0.1515151515151515,en,1.1
-Fuji,Fuji,ORG,0.5,0.36363636363636365,en,1.1
-eMAXIS,eMAXIS,ORG,0.0,0.0,en,1.1
-SBI Sumishin Net Bank,SBI Sumishin Net Bank,ORG,0.0,0.0,en,1.1
 Orkan,Orkan,ORG,0.2045454545454545,0.25757575757575757,en,1.1
+Fukuda-cho,Fukuda-cho,ORG,-0.5454545454545454,0.9090909090909091,en,1.1
+Alphabet,Alphabet,ORG,0.35123966942148754,0.303030303030303,en,1.1
+GODIVA,GODIVA,ORG,0.43441558441558437,0.4663518299881936,en,1.1
+HEATTECH,HEATTECH,ORG,0.7077922077922076,0.6818181818181818,en,1.1
+Tokyu Dresse Todoroki Arena,Tokyu Dresse Todoroki Arena,ORG,-0.1647727272727273,0.25946969696969696,en,1.1
+Hiroyuki,Hiroyuki,ORG,-0.7107438016528924,0.5303030303030302,en,1.1
+Broccoli,Broccoli,ORG,0.7613636363636364,0.625,en,1.1
+SBI Sumishin Net Bank,SBI Sumishin Net Bank,ORG,0.0,0.0,en,1.1
+TRANXPHIT,TRANXPHIT,ORG,0.09090909090909093,0.36363636363636365,en,1.1
+the Financial Instruments and Exchange Act,the Financial Instruments and Exchange Act,ORG,0.11363636363636363,0.1515151515151515,en,1.1
+Liberal Democratic Party,Liberal Democratic Party,ORG,0.3272727272727272,0.4909090909090908,en,1.1
+Japan Mobile Architecture Association,Japan Mobile Architecture Association,ORG,-0.27272727272727276,0.3409090909090909,en,1.1
+Disney,Disney,ORG,0.1743801652892562,0.29220779220779214,en,1.1
+SET,SET,ORG,0.23002754820936638,0.41287878787878785,en,1.1
+Nuki,Nuki,ORG,0.44588744588744583,0.3733766233766233,en,1.1
+zettel,zettel,ORG,-0.12987012987012986,0.42532467532467527,en,1.1
+COP30,COP30,ORG,-0.045454545454545456,0.0,en,1.1
 Amazon Black,Amazon Black,ORG,0.2765151515151515,0.3787878787878788,en,1.1
 "Royal Host, Joyful","Royal Host, Joyful",ORG,0.06198347107438015,0.0,en,1.1
-zettel,zettel,ORG,-0.12987012987012986,0.42532467532467527,en,1.1
-eastern,eastern,ORG,0.06800144300144302,0.38095238095238093,en,1.1
-COP30,COP30,ORG,-0.045454545454545456,0.0,en,1.1
-TRANXPHIT,TRANXPHIT,ORG,0.09090909090909093,0.36363636363636365,en,1.1
 Japan Meteorological Agency's,Japan Meteorological Agency's,ORG,-0.21212121212121207,0.606060606060606,en,1.1
-Sushiro,Sushiro,ORG,0.06198347107438015,0.0,en,1.1
-Kappa Sushi,Kappa Sushi,ORG,0.06198347107438015,0.0,en,1.1
-JNN,JNN,ORG,0.0,0.0606060606060606,en,1.1
 Cabinet,Cabinet,ORG,0.14242424242424243,0.4696969696969697,en,1.1
-Alphabet,Alphabet,ORG,0.35123966942148754,0.303030303030303,en,1.1
-East Japan Broadcasting,East Japan Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
-@mashiike,@mashiike,ORG,0.0,0.0,en,1.0
-Miyagi Television Broadcasting,Miyagi Television Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
-Sendai Broadcasting Station,Sendai Broadcasting Station,ORG,0.4000000000000001,0.0,en,1.0
-Sendai Broadcasting,Sendai Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
-"Tohoku Broadcasting, NHK","Tohoku Broadcasting, NHK",ORG,0.4000000000000001,0.0,en,1.0
-the Central Disaster Prevention Council,the Central Disaster Prevention Council,ORG,0.06818181818181818,0.0,en,1.0
-Bano,Bano,ORG,0.010000000000000031,0.0,en,1.0
-AI Agents,AI Agents,ORG,0.05,0.0,en,1.0
-"the ""Asia Tour Sunbur","the ""Asia Tour Sunbur",ORG,0.08333333333333333,0.0,en,1.0
-Kyushu Sanko Group,Kyushu Sanko Group,ORG,0.0,0.0,en,1.0
-SEO,SEO,ORG,0.0,0.0,en,1.0
-Suchmos Asia Tour,Suchmos Asia Tour,ORG,0.06818181818181818,0.0,en,1.0
-Ice Age Blog,Ice Age Blog,ORG,0.0,0.0,en,1.0
-Doctor Doom,Doctor Doom,ORG,0.3333333333333333,0.0,en,1.0
-JR East,JR East,ORG,0.0,0.0,en,1.0
-MCU,MCU,ORG,0.3333333333333333,0.0,en,1.0
-the JR Hachinohe Line,the JR Hachinohe Line,ORG,0.0,0.0,en,1.0
-The Hachinohe Line,The Hachinohe Line,ORG,-0.4,0.0,en,1.0
-the Far East - Occupation of Takeshima,the Far East - Occupation of Takeshima,ORG,0.1,0.0,en,1.0
-"Kyushu Sanko Tourism Co.,","Kyushu Sanko Tourism Co.,",ORG,0.0,0.0,en,1.0
-Nomura,Nomura,ORG,0.11818181818181818,0.0,en,1.0
-EU,EU,ORG,0.0,0.0,en,1.0
-ImageWhen,ImageWhen,ORG,0.11875,0.0,en,1.0
-Super Mechagodzilla,Super Mechagodzilla,ORG,0.17083333333333334,0.0,en,1.0
-mocopi Professional mode & XYN Motion Studio Review,mocopi Professional mode & XYN Motion Studio Review,ORG,0.1,0.0,en,1.0
-the Science Museum,the Science Museum,ORG,0.0,0.0,en,1.0
-Sony,Sony,ORG,0.3,0.0,en,1.0
-Wanderly,Wanderly,ORG,0.4333333333333333,0.0,en,1.0
-"Diplomacy A, Technology S","Diplomacy A, Technology S",ORG,0.0,0.0,en,1.0
-Earth Pharmaceutical,Earth Pharmaceutical,ORG,-0.125,0.1875,en,1.0
-bad'',bad'',ORG,-0.11759259259259254,0.0,en,1.0
-the Japan Agency,the Japan Agency,ORG,0.2729166666666667,0.0,en,1.0
-@Astro_Kimiya,@Astro_Kimiya,ORG,0.35714285714285715,0.0,en,1.0
-Chikyu,Chikyu,ORG,0.2729166666666667,0.0,en,1.0
-Naosuke Hanzawa Forest Publishing,Naosuke Hanzawa Forest Publishing,ORG,0.4,0.0,en,1.0
-JAXA,JAXA,ORG,0.35714285714285715,0.0,en,1.0
-The Japan Air and Water Sanitation Promotion Organization,The Japan Air and Water Sanitation Promotion Organization,ORG,0.0625,0.0,en,1.0
-the Journal of the Japanese Society of Preventive Medicine,the Journal of the Japanese Society of Preventive Medicine,ORG,0.0,0.0,en,1.0
-Japan Post Insurance Salesman's,Japan Post Insurance Salesman's,ORG,0.0,0.0,en,1.0
+Curel,Curel,ORG,0.45454545454545453,0.0,en,1.1
+eastern,eastern,ORG,0.06800144300144302,0.38095238095238093,en,1.1
+Kappa Sushi,Kappa Sushi,ORG,0.06198347107438015,0.0,en,1.1
+Heigo,Heigo,ORG,0.0,0.0,en,1.0
+Liverpool,Liverpool,ORG,0.21666666666666665,0.0,en,1.0
 Kabuto Shrimp'',Kabuto Shrimp'',ORG,0.0,0.0,en,1.0
-Japan Post Insurance's,Japan Post Insurance's,ORG,-0.23055555555555554,0.0,en,1.0
-Tokai,Tokai,ORG,0.0,0.0,en,1.0
-Iron Man,Iron Man,ORG,0.3333333333333333,0.0,en,1.0
-Generation Z,Generation Z,ORG,0.0,0.0,en,1.0
-the Gurunavi Wedding Development Team,the Gurunavi Wedding Development Team,ORG,0.0,0.0,en,1.0
-Private,Private,ORG,-0.05,0.0,en,1.0
-the Tohoku Regional Development Bureau,the Tohoku Regional Development Bureau,ORG,0.0,0.0,en,1.0
-Self-Defense Forces',Self-Defense Forces',ORG,-0.8333333333333333,0.0,en,1.0
-Shiseido,Shiseido,ORG,0.12222222222222223,0.0,en,1.0
-K.E.,K.E.,ORG,0.0,0.0,en,1.0
-"the Bank of Japan,","the Bank of Japan,",ORG,-0.05,0.0,en,1.0
-Amami,Amami,ORG,-0.08666666666666667,0.0,en,1.0
-Tagadai Elementary School,Tagadai Elementary School,ORG,0.252,0.0,en,1.0
-Ueda,Ueda,ORG,-0.05,0.0,en,1.0
-Auxerre,Auxerre,ORG,0.01666666666666667,0.0,en,1.0
-the North and Central America World Cup,the North and Central America World Cup,ORG,-0.1761904761904762,0.0,en,1.0
-@kashmir88ks,@kashmir88ks,ORG,-0.05,0.0,en,1.0
-10:28:04,10:28:04,ORG,0.125,0.0,en,1.0
 Monaco,Monaco,ORG,0.0,0.0,en,1.0
-The JR Hachinohe Line,The JR Hachinohe Line,ORG,-0.3,0.0,en,1.0
+the North and Central America World Cup,the North and Central America World Cup,ORG,-0.1761904761904762,0.0,en,1.0
 Investigation Committee,Investigation Committee,ORG,-0.25,0.0,en,1.0
+Aomori Prefecture,Aomori Prefecture,ORG,0.3,0.0,en,1.0
+Tagadai Elementary School,Tagadai Elementary School,ORG,0.252,0.0,en,1.0
+Mineral White,Mineral White,ORG,0.0,0.0,en,1.0
+Kaweco ART SPORT's,Kaweco ART SPORT's,ORG,0.0,0.0,en,1.0
+Amami,Amami,ORG,-0.08666666666666667,0.0,en,1.0
+Earthquake Investigation Committee,Earthquake Investigation Committee,ORG,0.036111111111111094,0.0,en,1.0
+Shiseido,Shiseido,ORG,0.12222222222222223,0.0,en,1.0
+the Tohoku Regional Development Bureau,the Tohoku Regional Development Bureau,ORG,0.0,0.0,en,1.0
+Auxerre,Auxerre,ORG,0.01666666666666667,0.0,en,1.0
+Sharing Technology,Sharing Technology,ORG,0.0,0.0,en,1.0
+Saizeriya,Saizeriya,ORG,0.010000000000000031,0.0,en,1.0
+@kashmir88ks,@kashmir88ks,ORG,-0.05,0.0,en,1.0
+MacBooks,MacBooks,ORG,0.2571428571428572,0.0,en,1.0
+"the ""SwitchBot New Year's First Sale","the ""SwitchBot New Year's First Sale",ORG,0.19318181818181818,0.0,en,1.0
+"the Bank of Japan,","the Bank of Japan,",ORG,-0.05,0.0,en,1.0
+Ueda,Ueda,ORG,-0.05,0.0,en,1.0
+"INSIGHT WORKS Co., Ltd.","INSIGHT WORKS Co., Ltd.",ORG,-0.6,0.0,en,1.0
+Taiwan Sugar Industry Museum,Taiwan Sugar Industry Museum,ORG,0.4,0.0,en,1.0
+Earth Pharmaceutical,Earth Pharmaceutical,ORG,-0.125,0.1875,en,1.0
+"Diplomacy A, Technology S","Diplomacy A, Technology S",ORG,0.0,0.0,en,1.0
+ImageThe Japan Meteorological Agency,ImageThe Japan Meteorological Agency,ORG,-0.06590909090909092,0.0,en,1.0
+Rust,Rust,ORG,0.08750000000000001,0.0,en,1.0
+Private,Private,ORG,-0.05,0.0,en,1.0
+The JR Hachinohe Line,The JR Hachinohe Line,ORG,-0.3,0.0,en,1.0
+Bano,Bano,ORG,0.010000000000000031,0.0,en,1.0
+"Rust, Terraform, AI","Rust, Terraform, AI",ORG,0.08522727272727272,0.0,en,1.0
+the Science Museum,the Science Museum,ORG,0.0,0.0,en,1.0
 Docomo SMTB Net Bank,Docomo SMTB Net Bank,ORG,0.0,0.0,en,1.0
 DQN-n,DQN-n,ORG,-0.11249999999999999,0.0,en,1.0
+Krugman,Krugman,ORG,0.1,0.0,en,1.0
+Super Mechagodzilla,Super Mechagodzilla,ORG,0.17083333333333334,0.0,en,1.0
+Q&A,Q&A,ORG,0.06818181818181818,0.0,en,1.0
 Dify Issues,Dify Issues,ORG,0.0,0.0,en,1.0
 DX,DX,ORG,0.0,0.0,en,1.0
 Dify,Dify,ORG,0.0,0.0,en,1.0
-Sharing Technology,Sharing Technology,ORG,0.0,0.0,en,1.0
-Liverpool,Liverpool,ORG,0.21666666666666665,0.0,en,1.0
-@nhk_news,@nhk_news,ORG,-0.0034090909090909102,0.0,en,1.0
 National Highway Office,National Highway Office,ORG,0.0,0.0,en,1.0
-NHK News,NHK News,ORG,-0.0034090909090909102,0.0,en,1.0
-Hatena Bookmark,Hatena Bookmark,ORG,0.1,0.0,en,1.0
-Saizeriya,Saizeriya,ORG,0.010000000000000031,0.0,en,1.0
-JILPT,JILPT,ORG,0.5,0.0,en,1.0
-the German Embassy's,the German Embassy's,ORG,0.0,0.0,en,1.0
-Disaster Prevention,Disaster Prevention,ORG,0.4,0.0,en,1.0
-Central Disaster Prevention Council,Central Disaster Prevention Council,ORG,0.11666666666666665,0.0,en,1.0
-the Tokyo Metropolitan Police Department's,the Tokyo Metropolitan Police Department's,ORG,0.0,0.0,en,1.0
-Bayes,Bayes,ORG,0.21428571428571427,0.0,en,1.0
-the Metropolitan Police Department Disaster Countermeasures Division,the Metropolitan Police Department Disaster Countermeasures Division,ORG,0.18333333333333335,0.0,en,1.0
-Nivea,Nivea,ORG,1.0,0.0,en,1.0
-UV,UV,ORG,0.2888888888888889,0.0,en,1.0
-Netflix,Netflix,ORG,0.16666666666666666,0.0,en,1.0
-"Pu0h
-","Pu0h
-",ORG,-0.03125,0.0,en,1.0
-Sun,Sun,ORG,0.0,0.0,en,1.0
-12:58:38,12:58:38,ORG,0.0,0.0,en,1.0
-Softbank,Softbank,ORG,0.0013888888888888978,0.0,en,1.0
-"Uchida ""Pax America","Uchida ""Pax America",ORG,0.0,0.0,en,1.0
-Docomo,Docomo,ORG,0.0013888888888888978,0.0,en,1.0
-Rakuten Mobile,Rakuten Mobile,ORG,0.0013888888888888978,0.0,en,1.0
-Post-America's,Post-America's,ORG,0.0,0.0,en,1.0
-Aomori Hachinohe Steel,Aomori Hachinohe Steel,ORG,0.25,0.0,en,1.0
-Osaka TBS NEWS,Osaka TBS NEWS,ORG,0.175,0.0,en,1.0
-Nikkan Eiji Oishi's,Nikkan Eiji Oishi's,ORG,0.4285714285714286,0.0,en,1.0
-Pokemon,Pokemon,ORG,0.0,0.0,en,1.0
-Earthquake Investigation Committee,Earthquake Investigation Committee,ORG,0.036111111111111094,0.0,en,1.0
-the Takauchi Cabinet,the Takauchi Cabinet,ORG,-0.15,0.0,en,1.0
-Setsu,Setsu,ORG,0.0,0.0,en,1.0
-Toki,Toki,ORG,0.0,0.0,en,1.0
-ChatGPT,ChatGPT,ORG,-0.049999999999999996,0.0,en,1.0
-Digiday,Digiday,ORG,0.1,0.0,en,1.0
-U.S. Supreme Court,U.S. Supreme Court,ORG,-0.5,0.0,en,1.0
-Nagaoka University of Technology,Nagaoka University of Technology,ORG,-0.03333333333333333,0.0,en,1.0
-Nuclear Regulation Authority,Nuclear Regulation Authority,ORG,-0.03333333333333333,0.0,en,1.0
-li>2025,li>2025,ORG,-0.028472222222222218,0.0,en,1.0
-Gorilla Clinic Ginza ANNEX,Gorilla Clinic Ginza ANNEX,ORG,0.25,0.0,en,1.0
-Honmachi,Honmachi,ORG,0.0,0.0,en,1.0
-"KUL Co.,","KUL Co.,",ORG,0.0,0.0,en,1.0
-"KUL Co., Ltd.","KUL Co., Ltd.",ORG,0.0,0.0,en,1.0
-69th/2026/1/8),69th/2026/1/8),ORG,0.35,0.0,en,1.0
-Travel Institute,Travel Institute,ORG,0.475,0.0,en,1.0
-Takauchikakaku,Takauchikakaku,ORG,0.0,0.0,en,1.0
-Okubo,Okubo,ORG,0.0,0.0,en,1.0
-The Liberal Democratic Party,The Liberal Democratic Party,ORG,0.05625000000000001,0.0,en,1.0
-drizzling.・The Pacific,drizzling.・The Pacific,ORG,-0.08333333333333333,0.0,en,1.0
-Dry Cream,Dry Cream,ORG,-0.06666666666666665,0.0,en,1.0
-sources).Generative AI,sources).Generative AI,ORG,0.5166666666666666,0.0,en,1.0
-Kuril Sea Kyodo News,Kuril Sea Kyodo News,ORG,0.0,0.0,en,1.0
-68th/2026/1/7) Impressions,68th/2026/1/7) Impressions,ORG,0.0,0.0,en,1.0
-"the ""Tsukimi Chicken Skin Kimchi","the ""Tsukimi Chicken Skin Kimchi",ORG,-0.3,0.0,en,1.0
-Hotei-chan's,Hotei-chan's,ORG,0.13125,0.0,en,1.0
-Hote-chan,Hote-chan,ORG,0.4,0.0,en,1.0
-CBC TV,CBC TV,ORG,0.0,0.0,en,1.0
-GLM-4.7-Air,GLM-4.7-Air,ORG,0.3333333333333333,0.0,en,1.0
-MIT,MIT,ORG,0.0,0.0,en,1.0
-Tottori Prefecture,Tottori Prefecture,ORG,-0.0625,0.0,en,1.0
-Nippon TV NEWS,Nippon TV NEWS,ORG,0.5,0.0,en,1.0
-FNN,FNN,ORG,0.10000000000000002,0.0,en,1.0
-Nanbu Town,Nanbu Town,ORG,-0.125,0.0,en,1.0
-LITALICO Institute 2nd,LITALICO Institute 2nd,ORG,0.11833333333333333,0.0,en,1.0
-MBC News,MBC News,ORG,0.19444444444444442,0.0,en,1.0
-Sunbright,Sunbright,ORG,0.2708333333333333,0.0,en,1.0
-Philippines...https://asahi.5ch.net/test/read.cgi/newsplus/1768486496/,Philippines...https://asahi.5ch.net/test/read.cgi/newsplus/1768486496/,ORG,0.0,0.0,en,1.0
-Mendelssohn,Mendelssohn,ORG,0.0,0.0,en,1.0
-Japan Weather Association Head Office,Japan Weather Association Head Office,ORG,0.0,0.0,en,1.0
-"GF Co.,","GF Co.,",ORG,0.0,0.0,en,1.0
-Neighborhood Association,Neighborhood Association,ORG,-0.05,0.0,en,1.0
-Tokushima University,Tokushima University,ORG,-0.05,0.0,en,1.0
-"GF Co., Ltd.","GF Co., Ltd.",ORG,-0.05,0.0,en,1.0
-NHK General,NHK General,ORG,0.02500000000000001,0.0,en,1.0
-Chofu City Fire Brigade,Chofu City Fire Brigade,ORG,0.14384469696969696,0.0,en,1.0
-Nigaryo-shuku Kawara,Nigaryo-shuku Kawara,ORG,0.14384469696969696,0.0,en,1.0
-Kosugi Ekimae,Kosugi Ekimae,ORG,0.0,0.0,en,1.0
-Ito-Yokado,Ito-Yokado,ORG,0.0,0.0,en,1.0
-Kawasaki Frontale's,Kawasaki Frontale's,ORG,0.0,0.0,en,1.0
-the Japan Meteorological Agency's,the Japan Meteorological Agency's,ORG,0.0,0.0,en,1.0
-Kujukuri Town,Kujukuri Town,ORG,0.0,0.0,en,1.0
-Billos 64-megapixel compact digital,Billos 64-megapixel compact digital,ORG,0.26666666666666666,0.0,en,1.0
-Omama,Omama,ORG,0.0,0.0,en,1.0
-"Gear Co., Ltd.","Gear Co., Ltd.",ORG,0.0,0.0,en,1.0
-Aisapo,Aisapo,ORG,0.13636363636363635,0.0,en,1.0
-JPCZ,JPCZ,ORG,-0.013888888888888886,0.0,en,1.0
-United Nations,United Nations,ORG,0.0,0.0,en,1.0
-the Intergovernmental Panel on Climate Change,the Intergovernmental Panel on Climate Change,ORG,0.0,0.0,en,1.0
-IPCC,IPCC,ORG,0.0,0.0,en,1.0
-Ibaraki,Ibaraki,ORG,0.0175,0.0,en,1.0
-National High School Soccer Championship,National High School Soccer Championship,ORG,0.0175,0.0,en,1.0
-Ba/Cho,Ba/Cho,ORG,0.25,0.0,en,1.0
-Osuka,Osuka,ORG,0.25,0.0,en,1.0
-Nikon,Nikon,ORG,0.0,0.0,en,1.0
-Chonan Town,Chonan Town,ORG,0.0,0.0,en,1.0
-the Weather Report,the Weather Report,ORG,0.008134920634920642,0.0,en,1.0
-JR Matsue Station,JR Matsue Station,ORG,0.05,0.0,en,1.0
 the Bank of Japan's,the Bank of Japan's,ORG,0.024999999999999994,0.0,en,1.0
+the Tokyo Metropolitan Police Department's,the Tokyo Metropolitan Police Department's,ORG,0.0,0.0,en,1.0
+Aomori Hachinohe Steel,Aomori Hachinohe Steel,ORG,0.25,0.0,en,1.0
+Doctor Doom,Doctor Doom,ORG,0.3333333333333333,0.0,en,1.0
+Toya,Toya,ORG,0.0,0.0,en,1.0
+United Cinema Aqua City,United Cinema Aqua City,ORG,0.3625,0.0,en,1.0
 Shinyashiki-cho,Shinyashiki-cho,ORG,0.0,0.0,en,1.0
+Ice Age Blog,Ice Age Blog,ORG,0.0,0.0,en,1.0
+Anker Store,Anker Store,ORG,0.1,0.0,en,1.0
+Suchmos Asia Tour,Suchmos Asia Tour,ORG,0.06818181818181818,0.0,en,1.0
+"the ""Asia Tour Sunbur","the ""Asia Tour Sunbur",ORG,0.08333333333333333,0.0,en,1.0
+"Tohoku Broadcasting, NHK","Tohoku Broadcasting, NHK",ORG,0.4000000000000001,0.0,en,1.0
+Sendai Broadcasting Station,Sendai Broadcasting Station,ORG,0.4000000000000001,0.0,en,1.0
+Anker,Anker,ORG,0.0,0.0,en,1.0
+Cosme Kitchen,Cosme Kitchen,ORG,0.1875,0.0,en,1.0
+Sephora,Sephora,ORG,0.1875,0.0,en,1.0
+Hachinohe Evacuation,Hachinohe Evacuation,ORG,0.0,0.0,en,1.0
+DAMDAM,DAMDAM,ORG,0.23888888888888893,0.0,en,1.0
+Sunday Times,Sunday Times,ORG,0.0018750000000000017,0.0,en,1.0
+Miyagi Television Broadcasting,Miyagi Television Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
+Guardian,Guardian,ORG,0.0018750000000000017,0.0,en,1.0
+the Wall Street Journal,the Wall Street Journal,ORG,0.0018750000000000017,0.0,en,1.0
+Fukuoka,Fukuoka,ORG,0.0625,0.0,en,1.0
+East Japan Broadcasting,East Japan Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
+Sendai Broadcasting,Sendai Broadcasting,ORG,0.4000000000000001,0.0,en,1.0
+"DONUTS Co.,","DONUTS Co.,",ORG,0.10727272727272727,0.0,en,1.0
+SEO,SEO,ORG,0.0,0.0,en,1.0
+MUJI MUJI's,MUJI MUJI's,ORG,0.7,0.0,en,1.0
+《Usage Review,《Usage Review,ORG,0.0,0.0,en,1.0
+Fukuyama,Fukuyama,ORG,0.0,0.0,en,1.0
+MC,MC,ORG,0.0,0.0,en,1.0
+Tettere,Tettere,ORG,-0.25,0.0,en,1.0
+MCU,MCU,ORG,0.3333333333333333,0.0,en,1.0
+Post-America's,Post-America's,ORG,0.0,0.0,en,1.0
+kaweco,kaweco,ORG,0.0,0.0,en,1.0
+kaweco ART SPORT,kaweco ART SPORT,ORG,0.0,0.0,en,1.0
+"Uchida ""Pax America","Uchida ""Pax America",ORG,0.0,0.0,en,1.0
+the Metropolitan Police Department Disaster Countermeasures Division,the Metropolitan Police Department Disaster Countermeasures Division,ORG,0.18333333333333335,0.0,en,1.0
+The Japan Air and Water Sanitation Promotion Organization,The Japan Air and Water Sanitation Promotion Organization,ORG,0.0625,0.0,en,1.0
+Nippon Television's,Nippon Television's,ORG,0.0,0.0,en,1.0
+Pokemon,Pokemon,ORG,0.0,0.0,en,1.0
+the Journal of the Japanese Society of Preventive Medicine,the Journal of the Japanese Society of Preventive Medicine,ORG,0.0,0.0,en,1.0
+Generation Z,Generation Z,ORG,0.0,0.0,en,1.0
+the Gurunavi Wedding Development Team,the Gurunavi Wedding Development Team,ORG,0.0,0.0,en,1.0
+Hokuriku Full,Hokuriku Full,ORG,-0.125,0.0,en,1.0
 Storage,Storage,ORG,0.0,0.0,en,1.0
 Flatbedcart,Flatbedcart,ORG,0.0,0.0,en,1.0
+@Astro_Kimiya,@Astro_Kimiya,ORG,0.35714285714285715,0.0,en,1.0
 the National Institute of Population and Social Security Research's,the National Institute of Population and Social Security Research's,ORG,0.03333333333333333,0.0,en,1.0
 the FT (Financial Times,the FT (Financial Times,ORG,0.0,0.0,en,1.0
 the Palestinian Journalists Union,the Palestinian Journalists Union,ORG,-0.25,0.0,en,1.0
@@ -328,104 +271,240 @@ the Palestinian Journalists Union,the Palestinian Journalists Union,ORG,-0.25,0.
 the Omote Rokko Driveway,the Omote Rokko Driveway,ORG,0.0,0.0,en,1.0
 Croquette,Croquette,ORG,0.05,0.0,en,1.0
 idol,idol,ORG,0.16,0.0,en,1.0
-Okinawa Full,Okinawa Full,ORG,0.3,0.0,en,1.0
-MC,MC,ORG,0.0,0.0,en,1.0
-Fukuyama,Fukuyama,ORG,0.0,0.0,en,1.0
-Toya,Toya,ORG,0.0,0.0,en,1.0
-United Cinema Aqua City,United Cinema Aqua City,ORG,0.3625,0.0,en,1.0
-Anker Store,Anker Store,ORG,0.1,0.0,en,1.0
-Est,Est,ORG,0.0,0.0,en,1.0
-Anker,Anker,ORG,0.0,0.0,en,1.0
-Cosme Kitchen,Cosme Kitchen,ORG,0.1875,0.0,en,1.0
-Sephora,Sephora,ORG,0.1875,0.0,en,1.0
-DAMDAM,DAMDAM,ORG,0.23888888888888893,0.0,en,1.0
-Sunday Times,Sunday Times,ORG,0.0018750000000000017,0.0,en,1.0
-Guardian,Guardian,ORG,0.0018750000000000017,0.0,en,1.0
-the Wall Street Journal,the Wall Street Journal,ORG,0.0018750000000000017,0.0,en,1.0
-Fukuoka,Fukuoka,ORG,0.0625,0.0,en,1.0
-MUJI MUJI's,MUJI MUJI's,ORG,0.7,0.0,en,1.0
-《Usage Review,《Usage Review,ORG,0.0,0.0,en,1.0
-"DONUTS Co.,","DONUTS Co.,",ORG,0.10727272727272727,0.0,en,1.0
-Hachinohe Evacuation,Hachinohe Evacuation,ORG,0.0,0.0,en,1.0
 Bourbon,Bourbon,ORG,0.0,0.0,en,1.0
-Nippon Television's,Nippon Television's,ORG,0.0,0.0,en,1.0
-Hokuriku Full,Hokuriku Full,ORG,-0.125,0.0,en,1.0
-kaweco ART SPORT,kaweco ART SPORT,ORG,0.0,0.0,en,1.0
-NRA,NRA,ORG,-0.05,0.0,en,1.0
-Deep Research,Deep Research,ORG,0.125,0.0,en,1.0
-the Hamaoka Nuclear Power Plant,the Hamaoka Nuclear Power Plant,ORG,0.0,0.0,en,1.0
-the Nuclear Regulation Authority's,the Nuclear Regulation Authority's,ORG,0.0,0.0,en,1.0
-Chubu Electric Power 2230 -210,Chubu Electric Power 2230 -210,ORG,-0.125,0.0,en,1.0
-&lt;9502&gt,&lt;9502&gt,ORG,-0.125,0.0,en,1.0
-Shin-Osaka Station,Shin-Osaka Station,ORG,-0.14027777777777778,0.0,en,1.0
-REDMI Titan,REDMI Titan,ORG,-0.011111111111111118,0.0,en,1.0
-Maebashi,Maebashi,ORG,-0.07333333333333332,0.0,en,1.0
-the Faculty of Engineering,the Faculty of Engineering,ORG,0.0,0.0,en,1.0
-the Kyoto University Graduate School of Informatics,the Kyoto University Graduate School of Informatics,ORG,0.0,0.0,en,1.0
-Graduate School of Informatics,Graduate School of Informatics,ORG,0.0,0.0,en,1.0
-Department of Physical Statistics,Department of Physical Statistics,ORG,0.0,0.0,en,1.0
-the Tokyo Metropolitan Council,the Tokyo Metropolitan Council,ORG,-0.0625,0.0,en,1.0
-Nakahara Ward,Nakahara Ward,ORG,0.2875,0.0,en,1.0
-Deep Reseach-kun,Deep Reseach-kun,ORG,0.0,0.0,en,1.0
-the Japan International Volunteer Center,the Japan International Volunteer Center,ORG,0.07500000000000001,0.0,en,1.0
-kaweco,kaweco,ORG,0.0,0.0,en,1.0
+Okinawa Full,Okinawa Full,ORG,0.3,0.0,en,1.0
+Iron Man,Iron Man,ORG,0.3333333333333333,0.0,en,1.0
+JAXA,JAXA,ORG,0.35714285714285715,0.0,en,1.0
+LITALICO Institute 2nd,LITALICO Institute 2nd,ORG,0.11833333333333333,0.0,en,1.0
 MSF,MSF,ORG,0.07500000000000001,0.0,en,1.0
-MacBooks,MacBooks,ORG,0.2571428571428572,0.0,en,1.0
-"the ""SwitchBot New Year's First Sale","the ""SwitchBot New Year's First Sale",ORG,0.19318181818181818,0.0,en,1.0
-Taiwan Sugar Industry Museum,Taiwan Sugar Industry Museum,ORG,0.4,0.0,en,1.0
-Rust,Rust,ORG,0.08750000000000001,0.0,en,1.0
-"Rust, Terraform, AI","Rust, Terraform, AI",ORG,0.08522727272727272,0.0,en,1.0
-Krugman,Krugman,ORG,0.1,0.0,en,1.0
-Q&A,Q&A,ORG,0.06818181818181818,0.0,en,1.0
-Heigo,Heigo,ORG,0.0,0.0,en,1.0
-House of Representatives,House of Representatives,ORG,0.02500000000000001,0.0,en,1.0
-Aomori Prefecture,Aomori Prefecture,ORG,0.3,0.0,en,1.0
-Mineral White,Mineral White,ORG,0.0,0.0,en,1.0
-Kaweco ART SPORT's,Kaweco ART SPORT's,ORG,0.0,0.0,en,1.0
-Tettere,Tettere,ORG,-0.25,0.0,en,1.0
-The European Union,The European Union,ORG,0.26666666666666666,0.0,en,1.0
-fjord-calendar.jpThis,fjord-calendar.jpThis,ORG,0.0,0.0,en,1.0
-the NPO Cleaning Customers Support,the NPO Cleaning Customers Support,ORG,0.2375,0.0,en,1.0
-Fumi,Fumi,ORG,0.13636363636363635,0.0,en,1.0
-Nomura Dermatology Clinic,Nomura Dermatology Clinic,ORG,0.0,0.0,en,1.0
-HFRT-1309,HFRT-1309,ORG,1.0,0.0,en,1.0
-QOL,QOL,ORG,0.0,0.0,en,1.0
-NPO Cleaning Customer Support,NPO Cleaning Customer Support,ORG,-0.075,0.0,en,1.0
-the world Review,the world Review,ORG,0.3666666666666667,0.0,en,1.0
-49th/12/4/2025,49th/12/4/2025,ORG,0.0,0.0,en,1.0
-LLM/Generative AI,LLM/Generative AI,ORG,0.06666666666666667,0.0,en,1.0
+"GF Co., Ltd.","GF Co., Ltd.",ORG,-0.05,0.0,en,1.0
+Nigaryo-shuku Kawara,Nigaryo-shuku Kawara,ORG,0.14384469696969696,0.0,en,1.0
+Chofu City Fire Brigade,Chofu City Fire Brigade,ORG,0.14384469696969696,0.0,en,1.0
+The Nuclear Regulation Authority,The Nuclear Regulation Authority,ORG,-0.041666666666666664,0.0,en,1.0
+Chubu Electric Power's,Chubu Electric Power's,ORG,-0.041666666666666664,0.0,en,1.0
+NHK General,NHK General,ORG,0.02500000000000001,0.0,en,1.0
+Magma,Magma,ORG,0.125,0.0,en,1.0
+Tokyu Dresse Todoroki Arena's,Tokyu Dresse Todoroki Arena's,ORG,0.0,0.0,en,1.0
+Tokushima University,Tokushima University,ORG,-0.05,0.0,en,1.0
+Ito-Yokado,Ito-Yokado,ORG,0.0,0.0,en,1.0
+Neighborhood Association,Neighborhood Association,ORG,-0.05,0.0,en,1.0
+"GF Co.,","GF Co.,",ORG,0.0,0.0,en,1.0
+[Okayama City Lawsuit,[Okayama City Lawsuit,ORG,0.0,0.0,en,1.0
+| Sakuramachi Surveying,| Sakuramachi Surveying,ORG,0.0,0.0,en,1.0
+"Subbe Surveying, Development and Design Office","Subbe Surveying, Development and Design Office",ORG,0.2,0.0,en,1.0
+Japan Weather Association Head Office,Japan Weather Association Head Office,ORG,0.0,0.0,en,1.0
+Mendelssohn,Mendelssohn,ORG,0.0,0.0,en,1.0
+Kosugi Ekimae,Kosugi Ekimae,ORG,0.0,0.0,en,1.0
+Kawasaki Frontale's,Kawasaki Frontale's,ORG,0.0,0.0,en,1.0
+Ba/Cho,Ba/Cho,ORG,0.25,0.0,en,1.0
+Ama Town,Ama Town,ORG,-0.026442307692307696,0.0,en,1.0
+-Survival,-Survival,ORG,0.3,0.0,en,1.0
+National High School Soccer Championship,National High School Soccer Championship,ORG,0.0175,0.0,en,1.0
+Ibaraki,Ibaraki,ORG,0.0175,0.0,en,1.0
+IPCC,IPCC,ORG,0.0,0.0,en,1.0
+the Intergovernmental Panel on Climate Change,the Intergovernmental Panel on Climate Change,ORG,0.0,0.0,en,1.0
+United Nations,United Nations,ORG,0.0,0.0,en,1.0
+JPCZ,JPCZ,ORG,-0.013888888888888886,0.0,en,1.0
+RAW Following,RAW Following,ORG,-0.026442307692307696,0.0,en,1.0
+MBC News,MBC News,ORG,0.19444444444444442,0.0,en,1.0
+Aisapo,Aisapo,ORG,0.13636363636363635,0.0,en,1.0
+"Gear Co., Ltd.","Gear Co., Ltd.",ORG,0.0,0.0,en,1.0
+Omama,Omama,ORG,0.0,0.0,en,1.0
+Billos 64-megapixel compact digital,Billos 64-megapixel compact digital,ORG,0.26666666666666666,0.0,en,1.0
+Samsung,Samsung,ORG,-0.06000000000000001,0.0,en,1.0
+SIM,SIM,ORG,0.17857142857142858,0.0,en,1.0
+the Japan Meteorological Agency's,the Japan Meteorological Agency's,ORG,0.0,0.0,en,1.0
+Philippines...https://asahi.5ch.net/test/read.cgi/newsplus/1768486496/,Philippines...https://asahi.5ch.net/test/read.cgi/newsplus/1768486496/,ORG,0.0,0.0,en,1.0
+Sunbright,Sunbright,ORG,0.2708333333333333,0.0,en,1.0
+Noda Chizu,Noda Chizu,ORG,0.21428571428571427,0.0,en,1.0
+JDN,JDN,ORG,0.3833333333333333,0.0,en,1.0
+Nippon Foundation Volunteer Center Kesennuma,Nippon Foundation Volunteer Center Kesennuma,ORG,0.35000000000000003,0.0,en,1.0
+https://digitalpr.jp/simg/1892/126697/500_289_2026012110230269702a76e5d2e.jpg,https://digitalpr.jp/simg/1892/126697/500_289_2026012110230269702a76e5d2e.jpg,ORG,0.35000000000000003,0.0,en,1.0
+Nippon Foundation Borasen,Nippon Foundation Borasen,ORG,0.35000000000000003,0.0,en,1.0
+Eto,Eto,ORG,0.0,0.0,en,1.0
+Collaborative Research between Disaster Prevention Researchers and Designers,Collaborative Research between Disaster Prevention Researchers and Designers,ORG,0.0,0.0,en,1.0
+Ritsumeikan University's,Ritsumeikan University's,ORG,0.0,0.0,en,1.0
+Research Institute for Disaster Prevention for Historical Cities,Research Institute for Disaster Prevention for Historical Cities,ORG,0.0,0.0,en,1.0
+JAF,JAF,ORG,0.4777777777777778,0.0,en,1.0
+Hanshin,Hanshin,ORG,0.08,0.0,en,1.0
+the Shiratori Club,the Shiratori Club,ORG,-0.2,0.0,en,1.0
+Avispa Fukuoka,Avispa Fukuoka,ORG,0.1125,0.0,en,1.0
+the J League,the J League,ORG,0.08333333333333333,0.0,en,1.0
+Nishi Sports,Nishi Sports,ORG,0.0,0.0,en,1.0
+Red Cross,Red Cross,ORG,-0.0125,0.0,en,1.0
+the Japanese Red Cross Society,the Japanese Red Cross Society,ORG,-0.0125,0.0,en,1.0
+the Japan Red Cross,the Japan Red Cross,ORG,-0.0125,0.0,en,1.0
+Sundai Preparatory School,Sundai Preparatory School,ORG,0.0625,0.0,en,1.0
+Sundai,Sundai,ORG,0.0,0.0,en,1.0
+Soya,Soya,ORG,0.0,0.0,en,1.0
+Kanda University of International Studies,Kanda University of International Studies,ORG,0.0,0.0,en,1.0
+Orix,Orix,ORG,0.0,0.0,en,1.0
+the Kanto Soccer League First Division,the Kanto Soccer League First Division,ORG,-0.09444444444444444,0.0,en,1.0
+PR,PR,ORG,0.0,0.0,en,1.0
+Suisan University,Suisan University,ORG,0.0,0.0,en,1.0
+"Comprehensive History, Inquiry","Comprehensive History, Inquiry",ORG,-0.15,0.0,en,1.0
+University Entrance Common Test,University Entrance Common Test,ORG,-0.15,0.0,en,1.0
+Wakura Onsen,Wakura Onsen,ORG,0.0,0.0,en,1.0
+castella cakes,castella cakes,ORG,-0.05,0.0,en,1.0
+the National Research Institute,the National Research Institute,ORG,0.31666666666666665,0.0,en,1.0
+the Ministry of Education,the Ministry of Education,ORG,0.31666666666666665,0.0,en,1.0
+"Culture, Sports","Culture, Sports",ORG,0.31666666666666665,0.0,en,1.0
+Science and Technology,Science and Technology,ORG,0.31666666666666665,0.0,en,1.0
+Haruho,Haruho,ORG,0.39166666666666666,0.0,en,1.0
+Kanda University of Foreign Studies,Kanda University of Foreign Studies,ORG,0.3375,0.0,en,1.0
+Kanda Gaigo Group,Kanda Gaigo Group,ORG,0.8,0.0,en,1.0
+Tabekko Animal,Tabekko Animal,ORG,0.1774891774891775,0.0,en,1.0
+Osuka,Osuka,ORG,0.25,0.0,en,1.0
+the Japan International Volunteer Center,the Japan International Volunteer Center,ORG,0.07500000000000001,0.0,en,1.0
+Self-Defense Forces',Self-Defense Forces',ORG,-0.8333333333333333,0.0,en,1.0
+NRA,NRA,ORG,-0.05,0.0,en,1.0
+JR Matsue Station,JR Matsue Station,ORG,0.05,0.0,en,1.0
+the Matsue City Fire Department,the Matsue City Fire Department,ORG,-0.008333333333333331,0.0,en,1.0
+Okayama - Yonago/Matsue/Izumo City Station,Okayama - Yonago/Matsue/Izumo City Station,ORG,-0.125,0.0,en,1.0
+the Ryobi Group,the Ryobi Group,ORG,-0.125,0.0,en,1.0
+Tottori/Shimane,Tottori/Shimane,ORG,-0.125,0.0,en,1.0
+Okayama - Izumo,Okayama - Izumo,ORG,-0.125,0.0,en,1.0
+the Weather Report,the Weather Report,ORG,0.008134920634920642,0.0,en,1.0
+the Nuclear Regulation Authority's,the Nuclear Regulation Authority's,ORG,0.0,0.0,en,1.0
+Okayama/Kagawa News,Okayama/Kagawa News,ORG,0.05,0.0,en,1.0
+Nippon TV NEWS,Nippon TV NEWS,ORG,0.5,0.0,en,1.0
+Tottori Prefecture,Tottori Prefecture,ORG,-0.0625,0.0,en,1.0
+MIT,MIT,ORG,0.0,0.0,en,1.0
+GLM-4.7-Air,GLM-4.7-Air,ORG,0.3333333333333333,0.0,en,1.0
+CBC TV,CBC TV,ORG,0.0,0.0,en,1.0
+Asakadai Station,Asakadai Station,ORG,0.015625,0.0,en,1.0
+the Hamaoka Nuclear Power Plant,the Hamaoka Nuclear Power Plant,ORG,0.0,0.0,en,1.0
+Chubu Electric Power 2230 -210,Chubu Electric Power 2230 -210,ORG,-0.125,0.0,en,1.0
+Nikon,Nikon,ORG,0.0,0.0,en,1.0
+the Faculty of Engineering,the Faculty of Engineering,ORG,0.0,0.0,en,1.0
+Deep Research,Deep Research,ORG,0.125,0.0,en,1.0
+Deep Reseach-kun,Deep Reseach-kun,ORG,0.0,0.0,en,1.0
+Nakahara Ward,Nakahara Ward,ORG,0.2875,0.0,en,1.0
+the Tokyo Metropolitan Council,the Tokyo Metropolitan Council,ORG,-0.0625,0.0,en,1.0
+Department of Physical Statistics,Department of Physical Statistics,ORG,0.0,0.0,en,1.0
+Graduate School of Informatics,Graduate School of Informatics,ORG,0.0,0.0,en,1.0
+the Kyoto University Graduate School of Informatics,the Kyoto University Graduate School of Informatics,ORG,0.0,0.0,en,1.0
+Maebashi,Maebashi,ORG,-0.07333333333333332,0.0,en,1.0
+&lt;9502&gt,&lt;9502&gt,ORG,-0.125,0.0,en,1.0
+REDMI Titan,REDMI Titan,ORG,-0.011111111111111118,0.0,en,1.0
+Ltd.,Ltd.,ORG,0.0,0.0,en,1.0
+Tohoku University International Research Institute of Disaster Science,Tohoku University International Research Institute of Disaster Science,ORG,0.14,0.0,en,1.0
+the University of Tokyo Advanced Science and Technology Research Center,the University of Tokyo Advanced Science and Technology Research Center,ORG,0.14,0.0,en,1.0
+Chugoku Electric Power,Chugoku Electric Power,ORG,0.0,0.0,en,1.0
+the Liberal Democratic Party,the Liberal Democratic Party,ORG,0.0,0.0,en,1.0
+Shin-Osaka Station,Shin-Osaka Station,ORG,-0.14027777777777778,0.0,en,1.0
+the Tojo Line,the Tojo Line,ORG,0.015625,0.0,en,1.0
+Hote-chan,Hote-chan,ORG,0.4,0.0,en,1.0
+Hotei-chan's,Hotei-chan's,ORG,0.13125,0.0,en,1.0
+Digiday,Digiday,ORG,0.1,0.0,en,1.0
+Gorilla Clinic Ginza ANNEX,Gorilla Clinic Ginza ANNEX,ORG,0.25,0.0,en,1.0
+li>2025,li>2025,ORG,-0.028472222222222218,0.0,en,1.0
+All Country) Exchange Traded Fund,All Country) Exchange Traded Fund,ORG,0.0,0.0,en,1.0
+TSE,TSE,ORG,0.0,0.0,en,1.0
+U.S. Supreme Court,U.S. Supreme Court,ORG,-0.5,0.0,en,1.0
+Nuclear Regulation Authority,Nuclear Regulation Authority,ORG,-0.03333333333333333,0.0,en,1.0
+Nagaoka University of Technology,Nagaoka University of Technology,ORG,-0.03333333333333333,0.0,en,1.0
+ChatGPT,ChatGPT,ORG,-0.049999999999999996,0.0,en,1.0
+"the ""Tsukimi Chicken Skin Kimchi","the ""Tsukimi Chicken Skin Kimchi",ORG,-0.3,0.0,en,1.0
+Toki,Toki,ORG,0.0,0.0,en,1.0
+Setsu,Setsu,ORG,0.0,0.0,en,1.0
+FNN,FNN,ORG,0.10000000000000002,0.0,en,1.0
+Okubo,Okubo,ORG,0.0,0.0,en,1.0
+Nanbu Town,Nanbu Town,ORG,-0.125,0.0,en,1.0
+Kujukuri Town,Kujukuri Town,ORG,0.0,0.0,en,1.0
+Chonan Town,Chonan Town,ORG,0.0,0.0,en,1.0
+Honmachi,Honmachi,ORG,0.0,0.0,en,1.0
+"KUL Co.,","KUL Co.,",ORG,0.0,0.0,en,1.0
+"KUL Co., Ltd.","KUL Co., Ltd.",ORG,0.0,0.0,en,1.0
+69th/2026/1/8),69th/2026/1/8),ORG,0.35,0.0,en,1.0
+"CARTA ZERO Co., Ltd.","CARTA ZERO Co., Ltd.",ORG,-0.017857142857142863,0.0,en,1.0
+68th/2026/1/7) Impressions,68th/2026/1/7) Impressions,ORG,0.0,0.0,en,1.0
+Fantasia) Collaboration,Fantasia) Collaboration,ORG,0.22753246753246756,0.0,en,1.0
+Horse,Horse,ORG,0.25032467532467534,0.0,en,1.0
+Fantasia,Fantasia,ORG,-0.03571428571428571,0.0,en,1.0
+Kuril Sea Kyodo News,Kuril Sea Kyodo News,ORG,0.0,0.0,en,1.0
+sources).Generative AI,sources).Generative AI,ORG,0.5166666666666666,0.0,en,1.0
+Dry Cream,Dry Cream,ORG,-0.06666666666666665,0.0,en,1.0
+drizzling.・The Pacific,drizzling.・The Pacific,ORG,-0.08333333333333333,0.0,en,1.0
+The Liberal Democratic Party,The Liberal Democratic Party,ORG,0.05625000000000001,0.0,en,1.0
+Takauchikakaku,Takauchikakaku,ORG,0.0,0.0,en,1.0
+the Takauchi Cabinet,the Takauchi Cabinet,ORG,-0.15,0.0,en,1.0
+Travel Institute,Travel Institute,ORG,0.475,0.0,en,1.0
+Gunma,Gunma,ORG,0.0,0.0,en,1.0
+the Noto Earthquake Relief Fund,the Noto Earthquake Relief Fund,ORG,0.25,0.0,en,1.0
+K.E.,K.E.,ORG,0.0,0.0,en,1.0
+Nikkan Eiji Oishi's,Nikkan Eiji Oishi's,ORG,0.4285714285714286,0.0,en,1.0
+@nhk_news,@nhk_news,ORG,-0.0034090909090909102,0.0,en,1.0
+the Marketing Department of Sekisui Chemical Housing Company,the Marketing Department of Sekisui Chemical Housing Company,ORG,0.25,0.0,en,1.0
+Kotani,Kotani,ORG,0.25,0.0,en,1.0
 CTO,CTO,ORG,0.0,0.0,en,1.0
-CoT,CoT,ORG,0.10375000000000001,0.0,en,1.0
-Xinhua News Agency,Xinhua News Agency,ORG,-0.041666666666666664,0.0,en,1.0
-Noto,Noto,ORG,0.0,0.0,en,1.0
-the Kanazawa General Bureau,the Kanazawa General Bureau,ORG,0.05000000000000002,0.0,en,1.0
+SBI Securities Investment Trust Regular Sale Service,SBI Securities Investment Trust Regular Sale Service,ORG,0.0,0.0,en,1.0
+"SBI Securities
+
+","SBI Securities
+
+",ORG,0.0,0.0,en,1.0
+Shin-Kobe Tunnel,Shin-Kobe Tunnel,ORG,0.0,0.0,en,1.0
+Sekisui Chemical,Sekisui Chemical,ORG,0.0,0.0,en,1.0
+ZETCH,ZETCH,ORG,0.0,0.0,en,1.0
+the Joint Investigation Headquarters,the Joint Investigation Headquarters,ORG,-0.03333333333333333,0.0,en,1.0
 Asahi Shimbun Publishing,Asahi Shimbun Publishing,ORG,0.05000000000000002,0.0,en,1.0
+the Tokyo Metropolitan Police Department,the Tokyo Metropolitan Police Department,ORG,-0.03333333333333333,0.0,en,1.0
+the Unauthorized Computer Access Act,the Unauthorized Computer Access Act,ORG,0.125,0.0,en,1.0
+Air Self-Defense Force,Air Self-Defense Force,ORG,0.10888888888888888,0.0,en,1.0
+the Chinese Navy's,the Chinese Navy's,ORG,0.0,0.0,en,1.0
+The Ministry of Defense,The Ministry of Defense,ORG,-0.08333333333333334,0.0,en,1.0
+the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,0.10952380952380951,0.0,en,1.0
+SP500,SP500,ORG,0.39,0.4699999999999999,en,1.0
 Digital,Digital,ORG,0.0,0.0,en,1.0
-Google Pixel,Google Pixel,ORG,0.0,0.0,en,1.0
+the Kanazawa General Bureau,the Kanazawa General Bureau,ORG,0.05000000000000002,0.0,en,1.0
+the Magnificent Seven + 1,the Magnificent Seven + 1,ORG,0.19,0.0,en,1.0
+HFRT-1309,HFRT-1309,ORG,1.0,0.0,en,1.0
+Dormer,Dormer,ORG,0.25,0.0,en,1.0
+TV Asahi,TV Asahi,ORG,0.1,0.0,en,1.0
+Bunta,Bunta,ORG,0.35,0.0,en,1.0
+Android,Android,ORG,0.31233766233766236,0.0,en,1.0
 "AI
 
 ","AI
 
 ",ORG,0.0,0.0,en,1.0
-Android,Android,ORG,0.31233766233766236,0.0,en,1.0
-Bunta,Bunta,ORG,0.35,0.0,en,1.0
-TV Asahi,TV Asahi,ORG,0.1,0.0,en,1.0
-Dormer,Dormer,ORG,0.25,0.0,en,1.0
-Urakami,Urakami,ORG,0.13636363636363635,0.0,en,1.0
-Shizuoka,Shizuoka,ORG,0.0,0.0,en,1.0
-CloudFront + Lambda + S3,CloudFront + Lambda + S3,ORG,0.0,0.0,en,1.0
-the Kayak Technology Department,the Kayak Technology Department,ORG,0.0,0.0,en,1.0
-Takeda,Takeda,ORG,0.0,0.0,en,1.0
-"Daito Kentaku Co.,","Daito Kentaku Co.,",ORG,0.0,0.0,en,1.0
-Daito Trust,Daito Trust,ORG,0.0,0.0,en,1.0
-Noto Town,Noto Town,ORG,0.0,0.0861111111111111,en,1.0
-GitHub Copilot,GitHub Copilot,ORG,-0.09375,0.0,en,1.0
-Matsue Junior High School,Matsue Junior High School,ORG,0.16,0.0,en,1.0
-WebAssembly,WebAssembly,ORG,-0.4,0.0,en,1.0
-Kotani,Kotani,ORG,0.25,0.0,en,1.0
-SBI Securities Investment Trust Regular Sale Service,SBI Securities Investment Trust Regular Sale Service,ORG,0.0,0.0,en,1.0
-Certified,Certified,ORG,0.11250000000000002,0.0,en,1.0
+Google Pixel,Google Pixel,ORG,0.0,0.0,en,1.0
+Nomura Dermatology Clinic,Nomura Dermatology Clinic,ORG,0.0,0.0,en,1.0
+QOL,QOL,ORG,0.0,0.0,en,1.0
+Noto,Noto,ORG,0.0,0.0,en,1.0
+NPO Cleaning Customer Support,NPO Cleaning Customer Support,ORG,-0.075,0.0,en,1.0
+the world Review,the world Review,ORG,0.3666666666666667,0.0,en,1.0
+49th/12/4/2025,49th/12/4/2025,ORG,0.0,0.0,en,1.0
+Fumi,Fumi,ORG,0.13636363636363635,0.0,en,1.0
+LLM/Generative AI,LLM/Generative AI,ORG,0.06666666666666667,0.0,en,1.0
+CoT,CoT,ORG,0.10375000000000001,0.0,en,1.0
+Xinhua News Agency,Xinhua News Agency,ORG,-0.041666666666666664,0.0,en,1.0
+note.com,note.com,ORG,0.19,0.0,en,1.0
+Kewpie,Kewpie,ORG,0.21666666666666667,0.0,en,1.0
+National Geographic Explorer,National Geographic Explorer,ORG,0.0,0.0,en,1.0
+The Self-Defense Forces,The Self-Defense Forces,ORG,0.0,0.0,en,1.0
+"the Land, Sea","the Land, Sea",ORG,0.06666666666666667,0.0,en,1.0
+Air Self-Defense Forces,Air Self-Defense Forces,ORG,0.06666666666666667,0.0,en,1.0
+a Ministry of Defense Disaster Management Office,a Ministry of Defense Disaster Management Office,ORG,0.0,0.0,en,1.0
+STV News Hokkaido,STV News Hokkaido,ORG,0.35,0.0,en,1.0
+"the Ministry of Land, Infrastructure, Transport and Tourism","the Ministry of Land, Infrastructure, Transport and Tourism",ORG,0.0,0.0,en,1.0
+Tomakomai West Port,Tomakomai West Port,ORG,0.0,0.0,en,1.0
+Kachiko,Kachiko,ORG,0.0,0.0,en,1.0
+"the ""LIFEHACK Channel""","the ""LIFEHACK Channel""",ORG,0.15,0.0,en,1.0
+Self-Defense Forces,Self-Defense Forces,ORG,0.2476190476190476,0.0,en,1.0
+Disaster Prevention Division,Disaster Prevention Division,ORG,0.0,0.0,en,1.0
+Metropolitan Police Department,Metropolitan Police Department,ORG,-0.05,0.0,en,1.0
+Disposable,Disposable,ORG,0.0,0.0,en,1.0
+Iwate Garrison,Iwate Garrison,ORG,0.2,0.0,en,1.0
+MSDF Hachinohe Air Base,MSDF Hachinohe Air Base,ORG,-0.6000000000000001,0.0,en,1.0
+"the ""Hokkaido/Sanriku Offshore Earthquake Warning Information""","the ""Hokkaido/Sanriku Offshore Earthquake Warning Information""",ORG,0.0,0.0,en,1.0
+Morioka Station,Morioka Station,ORG,-0.018750000000000003,0.0,en,1.0
+Japan Coast Guard,Japan Coast Guard,ORG,0.2476190476190476,0.0,en,1.0
+Tohoku Electric Power,Tohoku Electric Power,ORG,-0.4,0.0,en,1.0
+Iwate Otsuchi Town,Iwate Otsuchi Town,ORG,0.04814814814814814,0.0,en,1.0
 Urakawa Town,Urakawa Town,ORG,0.0,0.0,en,1.0
+Arima,Arima,ORG,0.6,0.0,en,1.0
 Matsue,Matsue,ORG,0.13636363636363635,0.0,en,1.0
 Konecht Advent Calendar 2025,Konecht Advent Calendar 2025,ORG,0.0,0.0,en,1.0
 Cold,Cold,ORG,-0.6,0.0,en,1.0
@@ -433,95 +512,80 @@ The Port and Airport Technology Research Institute,The Port and Airport Technolo
 the Tokyo Stock Exchange Management Department,the Tokyo Stock Exchange Management Department,ORG,0.0,0.0,en,1.0
 a Response Office,a Response Office,ORG,0.0,0.0,en,1.0
 Ministry of Defense Gathering,Ministry of Defense Gathering,ORG,0.0,0.0,en,1.0
-"SBI Securities
-
-","SBI Securities
-
-",ORG,0.0,0.0,en,1.0
+the National Security Agency,the National Security Agency,ORG,0.0,0.0,en,1.0
 F2,F2,ORG,-0.8000000000000002,0.0,en,1.0
 the Air Self-Defense Force,the Air Self-Defense Force,ORG,-0.8000000000000002,0.0,en,1.0
 the Maritime Self-Defense Force Ominato Air Base,the Maritime Self-Defense Force Ominato Air Base,ORG,-0.8000000000000002,0.0,en,1.0
 the Air Self-Defense Force Misawa Air Base,the Air Self-Defense Force Misawa Air Base,ORG,-0.8000000000000002,0.0,en,1.0
 UH1,UH1,ORG,-0.8000000000000002,0.0,en,1.0
 the Ground Self-Defense Force Hachinohe Garrison,the Ground Self-Defense Force Hachinohe Garrison,ORG,-0.8000000000000002,0.0,en,1.0
-Arima,Arima,ORG,0.6,0.0,en,1.0
-Iwate Otsuchi Town,Iwate Otsuchi Town,ORG,0.04814814814814814,0.0,en,1.0
-Kewpie,Kewpie,ORG,0.21666666666666667,0.0,en,1.0
-the Magnificent Seven + 1,the Magnificent Seven + 1,ORG,0.19,0.0,en,1.0
-note.com,note.com,ORG,0.19,0.0,en,1.0
-SP500,SP500,ORG,0.39,0.4699999999999999,en,1.0
-the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,0.10952380952380951,0.0,en,1.0
-The Ministry of Defense,The Ministry of Defense,ORG,-0.08333333333333334,0.0,en,1.0
-the Chinese Navy's,the Chinese Navy's,ORG,0.0,0.0,en,1.0
-Air Self-Defense Force,Air Self-Defense Force,ORG,0.10888888888888888,0.0,en,1.0
-the Unauthorized Computer Access Act,the Unauthorized Computer Access Act,ORG,0.125,0.0,en,1.0
-the Tokyo Metropolitan Police Department,the Tokyo Metropolitan Police Department,ORG,-0.03333333333333333,0.0,en,1.0
-the Joint Investigation Headquarters,the Joint Investigation Headquarters,ORG,-0.03333333333333333,0.0,en,1.0
-the Marketing Department of Sekisui Chemical Housing Company,the Marketing Department of Sekisui Chemical Housing Company,ORG,0.25,0.0,en,1.0
-ZETCH,ZETCH,ORG,0.0,0.0,en,1.0
-Sekisui Chemical,Sekisui Chemical,ORG,0.0,0.0,en,1.0
-Shin-Kobe Tunnel,Shin-Kobe Tunnel,ORG,0.0,0.0,en,1.0
-the Asahi Shimbun,the Asahi Shimbun,ORG,0.006250000000000001,0.0,en,1.0
-the 2025 Association Award,the 2025 Association Award,ORG,0.5,0.0,en,1.0
-the National Security Agency,the National Security Agency,ORG,0.0,0.0,en,1.0
-a House of Councilors Cabinet Committee,a House of Councilors Cabinet Committee,ORG,0.0,0.0,en,1.0
-Japan Meteorological Agency:,Japan Meteorological Agency:,ORG,0.0,0.0,en,1.0
-Tokyu Malls Development,Tokyu Malls Development,ORG,0.0,0.0,en,1.0
-Gmail,Gmail,ORG,0.5,0.0,en,1.0
+the Director-General,the Director-General,ORG,0.0,0.0,en,1.0
+Urakami,Urakami,ORG,0.13636363636363635,0.0,en,1.0
+Shizuoka,Shizuoka,ORG,0.0,0.0,en,1.0
+CloudFront + Lambda + S3,CloudFront + Lambda + S3,ORG,0.0,0.0,en,1.0
+・I am,・I am,ORG,-0.08333333333333333,0.0,en,1.0
 Japan Japan Meteorological Agency,Japan Japan Meteorological Agency,ORG,0.0,0.0,en,1.0
 Bormio,Bormio,ORG,0.0,0.0,en,1.0
 Livigno,Livigno,ORG,0.0,0.0,en,1.0
+a House of Councilors Cabinet Committee,a House of Councilors Cabinet Committee,ORG,0.0,0.0,en,1.0
 Rakuten,Rakuten,ORG,0.06944444444444446,0.0,en,1.0
-pic.twitter.com/gTJDw2LrFL,pic.twitter.com/gTJDw2LrFL,ORG,-0.14444444444444443,0.0,en,1.0
 Xiaomi 165W Power Bank,Xiaomi 165W Power Bank,ORG,0.42500000000000004,0.0,en,1.0
 Integrated Cable,Integrated Cable,ORG,0.42500000000000004,0.0,en,1.0
-・I am,・I am,ORG,-0.08333333333333333,0.0,en,1.0
 SF,SF,ORG,-0.3333333333333333,0.0,en,1.0
+Tokyu Malls Development,Tokyu Malls Development,ORG,0.0,0.0,en,1.0
 Futurology,Futurology,ORG,-0.3333333333333333,0.0,en,1.0
 Patriotic Spring,Patriotic Spring,ORG,0.0,0.0,en,1.0
-SF Lem's,SF Lem's,ORG,-0.4666666666666666,0.0,en,1.0
-Introduction Overview of,Introduction Overview of,ORG,-0.4666666666666666,0.0,en,1.0
-Heaven,Heaven,ORG,0.0,0.0,en,1.0
-NHK General/NHK BS/Premium 4,NHK General/NHK BS/Premium 4,ORG,0.0,0.0,en,1.0
-NPO,NPO,ORG,0.0,0.0,en,1.0
-the Conservative Party,the Conservative Party,ORG,0.08333333333333333,0.0,en,1.0
-The Chinese Consul General,The Chinese Consul General,ORG,0.02500000000000001,0.0,en,1.0
-National Research Institute,National Research Institute,ORG,0.09166666666666667,0.0,en,1.0
-Future Advanced Technology,Future Advanced Technology,ORG,0.09166666666666667,0.0,en,1.0
-Nikkei,Nikkei,ORG,0.0,0.0,en,1.0
-the Constitutional Democratic Party of Japan,the Constitutional Democratic Party of Japan,ORG,0.0,0.0,en,1.0
-the Urawa Reds,the Urawa Reds,ORG,0.8,0.0,en,1.0
-Urawa Reds',Urawa Reds',ORG,-0.1,0.0,en,1.0
-K / Serial TV,K / Serial TV,ORG,0.05000000000000002,0.0,en,1.0
-NHK General / NHK BS / Premium 4,NHK General / NHK BS / Premium 4,ORG,0.05000000000000002,0.0,en,1.0
-Earthquake Research Committee,Earthquake Research Committee,ORG,0.11666666666666665,0.0,en,1.0
-Their Majesties,Their Majesties,ORG,0.26666666666666666,0.0,en,1.0
 Bunya-san's,Bunya-san's,ORG,0.0,0.0,en,1.0
+pic.twitter.com/gTJDw2LrFL,pic.twitter.com/gTJDw2LrFL,ORG,-0.14444444444444443,0.0,en,1.0
 @Kkf4PJZSoZ2t1CQ,@Kkf4PJZSoZ2t1CQ,ORG,-0.14444444444444443,0.0,en,1.0
-the Kansai Photojournalists Association,the Kansai Photojournalists Association,ORG,0.5,0.0,en,1.0
-Osaka Gas Network,Osaka Gas Network,ORG,0.0,0.0,en,1.0
-The International Fund for Tropical Forest Conservation,The International Fund for Tropical Forest Conservation,ORG,0.0,0.0,en,1.0
-TFFF,TFFF,ORG,0.0,0.0,en,1.0
-Shiroka,Shiroka,ORG,0.0,0.0,en,1.0
-Konishi,Konishi,ORG,0.0,0.0,en,1.0
-Cy-PSIRT,Cy-PSIRT,ORG,0.0,0.0,en,1.0
-Ryukoku University,Ryukoku University,ORG,0.0,0.0,en,1.0
-Ryukoku University (Headquarters,Ryukoku University (Headquarters,ORG,0.35000000000000003,0.0,en,1.0
 All Nippon Airways,All Nippon Airways,ORG,0.049999999999999996,0.0,en,1.0
-Shiga University,Shiga University,ORG,-0.5,0.0,en,1.0
+"stepdays Co.,","stepdays Co.,",ORG,0.4000000000000001,0.0,en,1.0
+Gmail,Gmail,ORG,0.5,0.0,en,1.0
+Japan Meteorological Agency:,Japan Meteorological Agency:,ORG,0.0,0.0,en,1.0
+the Kayak Technology Department,the Kayak Technology Department,ORG,0.0,0.0,en,1.0
+Nikkei,Nikkei,ORG,0.0,0.0,en,1.0
+Their Majesties,Their Majesties,ORG,0.26666666666666666,0.0,en,1.0
+Earthquake Research Committee,Earthquake Research Committee,ORG,0.11666666666666665,0.0,en,1.0
+NHK General / NHK BS / Premium 4,NHK General / NHK BS / Premium 4,ORG,0.05000000000000002,0.0,en,1.0
+K / Serial TV,K / Serial TV,ORG,0.05000000000000002,0.0,en,1.0
+Urawa Reds',Urawa Reds',ORG,-0.1,0.0,en,1.0
+the Urawa Reds,the Urawa Reds,ORG,0.8,0.0,en,1.0
+the Constitutional Democratic Party of Japan,the Constitutional Democratic Party of Japan,ORG,0.0,0.0,en,1.0
+Future Advanced Technology,Future Advanced Technology,ORG,0.09166666666666667,0.0,en,1.0
+SF Lem's,SF Lem's,ORG,-0.4666666666666666,0.0,en,1.0
+National Research Institute,National Research Institute,ORG,0.09166666666666667,0.0,en,1.0
+The Chinese Consul General,The Chinese Consul General,ORG,0.02500000000000001,0.0,en,1.0
+the Conservative Party,the Conservative Party,ORG,0.08333333333333333,0.0,en,1.0
+NPO,NPO,ORG,0.0,0.0,en,1.0
+NHK General/NHK BS/Premium 4,NHK General/NHK BS/Premium 4,ORG,0.0,0.0,en,1.0
+Heaven,Heaven,ORG,0.0,0.0,en,1.0
+Introduction Overview of,Introduction Overview of,ORG,-0.4666666666666666,0.0,en,1.0
+"Stepdays Co., Ltd.","Stepdays Co., Ltd.",ORG,0.0,0.0,en,1.0
+the Kyoto University Volcano Research Center,the Kyoto University Volcano Research Center,ORG,-0.1,0.0,en,1.0
+Phritz,Phritz,ORG,0.1375,0.0,en,1.0
+Certified,Certified,ORG,0.11250000000000002,0.0,en,1.0
 Ryukoku University's,Ryukoku University's,ORG,0.0,0.0,en,1.0
 Cybozu,Cybozu,ORG,0.0,0.0,en,1.0
 TPAC,TPAC,ORG,0.19999999999999998,0.0,en,1.0
 High Court,High Court,ORG,0.255,0.0,en,1.0
 the Kansai Photojournalists Association Award,the Kansai Photojournalists Association Award,ORG,0.0,0.0,en,1.0
-SADIA,SADIA,ORG,0.0,0.0,en,1.0
-Sarawak Dayak Iban Association,Sarawak Dayak Iban Association,ORG,0.0,0.0,en,1.0
-Apple,Apple,ORG,0.25,0.0,en,1.0
-Nvidia,Nvidia,ORG,0.0,0.0,en,1.0
-Nishikori,Nishikori,ORG,0.5,0.0,en,1.0
-Brava,Brava,ORG,0.012121212121212114,0.0,en,1.0
-eufy,eufy,ORG,0.012121212121212114,0.0,en,1.0
-Anker Eufy,Anker Eufy,ORG,0.3277777777777778,0.0,en,1.0
+the Kansai Photojournalists Association,the Kansai Photojournalists Association,ORG,0.5,0.0,en,1.0
+the 2025 Association Award,the 2025 Association Award,ORG,0.5,0.0,en,1.0
+the Asahi Shimbun,the Asahi Shimbun,ORG,0.006250000000000001,0.0,en,1.0
+Senshu University's,Senshu University's,ORG,0.7,0.0,en,1.0
+WebAssembly,WebAssembly,ORG,-0.4,0.0,en,1.0
+Matsue Junior High School,Matsue Junior High School,ORG,0.16,0.0,en,1.0
+GitHub Copilot,GitHub Copilot,ORG,-0.09375,0.0,en,1.0
+Noto Town,Noto Town,ORG,0.0,0.0861111111111111,en,1.0
+Daito Trust,Daito Trust,ORG,0.0,0.0,en,1.0
+"Daito Kentaku Co.,","Daito Kentaku Co.,",ORG,0.0,0.0,en,1.0
+Takeda,Takeda,ORG,0.0,0.0,en,1.0
+Shiga University,Shiga University,ORG,-0.5,0.0,en,1.0
+Ryukoku University (Headquarters,Ryukoku University (Headquarters,ORG,0.35000000000000003,0.0,en,1.0
+Osaka Gas Network,Osaka Gas Network,ORG,0.0,0.0,en,1.0
+Ryukoku University,Ryukoku University,ORG,0.0,0.0,en,1.0
+the Kawasaki Citizen Activity Center,the Kawasaki Citizen Activity Center,ORG,0.09166666666666667,0.0,en,1.0
+Rara Terrace Musashi-Kosugi,Rara Terrace Musashi-Kosugi,ORG,0.09166666666666667,0.0,en,1.0
 "the Kawasaki Citizen Activity Center
  
 
@@ -529,158 +593,183 @@ Anker Eufy,Anker Eufy,ORG,0.3277777777777778,0.0,en,1.0
  
 
 ",ORG,0.3,0.0,en,1.0
-Rara Terrace Musashi-Kosugi,Rara Terrace Musashi-Kosugi,ORG,0.09166666666666667,0.0,en,1.0
-the Kawasaki Citizen Activity Center,the Kawasaki Citizen Activity Center,ORG,0.09166666666666667,0.0,en,1.0
-Senshu University's,Senshu University's,ORG,0.7,0.0,en,1.0
-Phritz,Phritz,ORG,0.1375,0.0,en,1.0
-Mt.,Mt.,ORG,0.0,0.0,en,1.0
-the Kyoto University Volcano Research Center,the Kyoto University Volcano Research Center,ORG,-0.1,0.0,en,1.0
-"Stepdays Co., Ltd.","Stepdays Co., Ltd.",ORG,0.0,0.0,en,1.0
-"stepdays Co.,","stepdays Co.,",ORG,0.4000000000000001,0.0,en,1.0
-the Director-General,the Director-General,ORG,0.0,0.0,en,1.0
-Tohoku Electric Power,Tohoku Electric Power,ORG,-0.4,0.0,en,1.0
-Kanazawa,Kanazawa,ORG,0.175,0.0,en,1.0
-NEC Red Rockets Kawasaki's,NEC Red Rockets Kawasaki's,ORG,0.0,0.0,en,1.0
-the Narita Airport Company,the Narita Airport Company,ORG,0.0,0.0,en,1.0
-Tokyo Station,Tokyo Station,ORG,-0.125,0.0,en,1.0
-Hokuriku Shinkansen,Hokuriku Shinkansen,ORG,-0.125,0.0,en,1.0
-the Japan Atomic Energy Agency,the Japan Atomic Energy Agency,ORG,0.13999999999999999,0.0,en,1.0
-NTT East's,NTT East's,ORG,-0.0888888888888889,0.0,en,1.0
-earthquake?An,earthquake?An,ORG,0.15625,0.0,en,1.0
-Santa,Santa,ORG,0.125,0.0,en,1.0
-NTT East Building's,NTT East Building's,ORG,-0.1,0.0,en,1.0
-NEC Red Rockets Kawasaki,NEC Red Rockets Kawasaki,ORG,0.125,0.0,en,1.0
-Fjord Bootcamp,Fjord Bootcamp,ORG,-0.08333333333333333,0.0,en,1.0
-"Earth Infinity Co., Ltd.","Earth Infinity Co., Ltd.",ORG,0.0,0.0,en,1.0
-"Marks Intelligence Co., Ltd.","Marks Intelligence Co., Ltd.",ORG,0.0,0.0,en,1.0
-Catingan Regency,Catingan Regency,ORG,-0.022222222222222216,0.0,en,1.0
-"Marks Intelligent Co., Ltd.","Marks Intelligent Co., Ltd.",ORG,0.8,0.0,en,1.0
-JR,JR,ORG,0.075,0.0,en,1.0
-the Japan Atomic Power Company,the Japan Atomic Power Company,ORG,0.29375,0.0,en,1.0
-Mutsu General Hospital,Mutsu General Hospital,ORG,-0.049999999999999996,0.0,en,1.0
-Recovery,Recovery,ORG,0.15000000000000002,0.0,en,1.0
-the Visually Impaired Life Support Organization,the Visually Impaired Life Support Organization,ORG,0.03333333333333333,0.0,en,1.0
-VIWA,VIWA,ORG,0.03333333333333333,0.0,en,1.0
-Kao,Kao,ORG,0.0,0.0,en,1.0
-The Hachinohe City Museum of Art,The Hachinohe City Museum of Art,ORG,0.0,0.0,en,1.0
-Hachinohe City Museum of Art's Ancient Egyptian Exhibition,Hachinohe City Museum of Art's Ancient Egyptian Exhibition,ORG,0.0,0.0,en,1.0
-@oricon,@oricon,ORG,-0.012499999999999997,0.0,en,1.0
-Oricon News,Oricon News,ORG,-0.012499999999999997,0.0,en,1.0
-Hachinohe City Museum of Art,Hachinohe City Museum of Art,ORG,-0.012499999999999997,0.0,en,1.0
-`Ancient Egyptian Museum Exhibition'',`Ancient Egyptian Museum Exhibition'',ORG,0.09166666666666667,0.0,en,1.0
-"Satofuru Co., Ltd.","Satofuru Co., Ltd.",ORG,0.0,0.0,en,1.0
-"Satoful Co., Ltd.","Satoful Co., Ltd.",ORG,0.0,0.0,en,1.0
-Ishikawa Prefecture'',Ishikawa Prefecture'',ORG,-0.1,0.0,en,1.0
-The Japan Mobile Architecture Association,The Japan Mobile Architecture Association,ORG,-0.1,0.0,en,1.0
-Collins,Collins,ORG,0.0,0.0,en,1.0
-``School & Parents License,``School & Parents License,ORG,-0.08181818181818182,0.0,en,1.0
-Koshien,Koshien,ORG,0.16,0.0,en,1.0
-"the Ministry of Land, Infrastructure, Transport and Tourism's","the Ministry of Land, Infrastructure, Transport and Tourism's",ORG,0.0,0.0,en,1.0
+Anker Eufy,Anker Eufy,ORG,0.3277777777777778,0.0,en,1.0
+eufy,eufy,ORG,0.012121212121212114,0.0,en,1.0
+Brava,Brava,ORG,0.012121212121212114,0.0,en,1.0
+Nishikori,Nishikori,ORG,0.5,0.0,en,1.0
+Nvidia,Nvidia,ORG,0.0,0.0,en,1.0
+Sarawak Dayak Iban Association,Sarawak Dayak Iban Association,ORG,0.0,0.0,en,1.0
+SADIA,SADIA,ORG,0.0,0.0,en,1.0
+The International Fund for Tropical Forest Conservation,The International Fund for Tropical Forest Conservation,ORG,0.0,0.0,en,1.0
+TFFF,TFFF,ORG,0.0,0.0,en,1.0
+Shiroka,Shiroka,ORG,0.0,0.0,en,1.0
+Konishi,Konishi,ORG,0.0,0.0,en,1.0
+Cy-PSIRT,Cy-PSIRT,ORG,0.0,0.0,en,1.0
+World Heritage Site,World Heritage Site,ORG,0.25,0.0,en,1.0
+Kanto-Kuu,Kanto-Kuu,ORG,0.037500000000000006,0.0,en,1.0
+NHK News,NHK News,ORG,-0.0034090909090909102,0.0,en,1.0
+Hokuriku Regional Development Bureau Noto Reconstruction Office,Hokuriku Regional Development Bureau Noto Reconstruction Office,ORG,0.0,0.0,en,1.0
 the Earthquake Prediction Research Institute,the Earthquake Prediction Research Institute,ORG,0.13142857142857142,0.0,en,1.0
 the China Earthquake Bureau,the China Earthquake Bureau,ORG,0.13142857142857142,0.0,en,1.0
 National Central University of Taiwan,National Central University of Taiwan,ORG,0.13142857142857142,0.0,en,1.0
 Japan National Land Development,Japan National Land Development,ORG,0.5,0.0,en,1.0
 "the Ministry of Land, Infrastructure, Transport and Tourism and Noto Town","the Ministry of Land, Infrastructure, Transport and Tourism and Noto Town",ORG,-0.4,0.0,en,1.0
 "the ""R6 Noetsu Road Wajima Road Slope Restoration Work""","the ""R6 Noetsu Road Wajima Road Slope Restoration Work""",ORG,0.0,0.0,en,1.0
-Hokuriku Regional Development Bureau Noto Reconstruction Office,Hokuriku Regional Development Bureau Noto Reconstruction Office,ORG,0.0,0.0,en,1.0
-Takahashi,Takahashi,ORG,0.0,0.0,en,1.0
+"the Ministry of Land, Infrastructure, Transport and Tourism's","the Ministry of Land, Infrastructure, Transport and Tourism's",ORG,0.0,0.0,en,1.0
 the Lytton Investigation Team,the Lytton Investigation Team,ORG,0.0,0.0,en,1.0
+the Chiba University Graduate School of Science and,the Chiba University Graduate School of Science and,ORG,0.13142857142857142,0.0,en,1.0
 the League of Nations General Assembly,the League of Nations General Assembly,ORG,0.05000000000000002,0.0,en,1.0
 Global Trust Networks,Global Trust Networks,ORG,0.0,0.0,en,1.0
 GTN,GTN,ORG,-0.2,0.0,en,1.0
 Baku,Baku,ORG,0.2,0.0,en,1.0
 Morioka,Morioka,ORG,0.175,0.0,en,1.0
+Kanazawa,Kanazawa,ORG,0.175,0.0,en,1.0
+the NPO Cleaning Customers Support,the NPO Cleaning Customers Support,ORG,0.2375,0.0,en,1.0
 the University's International Advanced Research Center,the University's International Advanced Research Center,ORG,0.13142857142857142,0.0,en,1.0
-the Chiba University Graduate School of Science and,the Chiba University Graduate School of Science and,ORG,0.13142857142857142,0.0,en,1.0
 "National University Corporation]
 ","National University Corporation]
 ",ORG,0.13142857142857142,0.0,en,1.0
-Chiba University,Chiba University,ORG,0.13142857142857142,0.0,en,1.0
-the Nihon University School of Medicine's Critical Care Center,the Nihon University School of Medicine's Critical Care Center,ORG,-0.05,0.0,en,1.0
-Reservation Service Dev,Reservation Service Dev,ORG,0.0,0.0,en,1.0
-Sato,Sato,ORG,0.0,0.0,en,1.0
-Yokohama Tsurumi Rehabilitation Hospital,Yokohama Tsurumi Rehabilitation Hospital,ORG,0.16666666666666666,0.0,en,1.0
-"Yamasue Co., Ltd.","Yamasue Co., Ltd.",ORG,0.0,0.0,en,1.0
-Crab,Crab,ORG,0.6,0.0,en,1.0
-APM (Application Performance Monitoring) Subcommittee,APM (Application Performance Monitoring) Subcommittee,ORG,0.0,0.0,en,1.0
-Design,Design,ORG,0.0,0.0,en,1.0
+The European Union,The European Union,ORG,0.26666666666666666,0.0,en,1.0
 Gurunavi,Gurunavi,ORG,0.0,0.0,en,1.0
-NPO SET,NPO SET,ORG,0.13636363636363635,0.0,en,1.0
+NTT East Building's,NTT East Building's,ORG,-0.1,0.0,en,1.0
+``School & Parents License,``School & Parents License,ORG,-0.08181818181818182,0.0,en,1.0
+Takahashi,Takahashi,ORG,0.0,0.0,en,1.0
+the Cybozu Editorial Department,the Cybozu Editorial Department,ORG,0.0,0.0,en,1.0
+Fukasawa,Fukasawa,ORG,0.0,0.0,en,1.0
 "Takahashi
 
 Business","Takahashi
 
 Business",ORG,0.0,0.0,en,1.0
-Fukasawa,Fukasawa,ORG,0.0,0.0,en,1.0
-the Cybozu Editorial Department,the Cybozu Editorial Department,ORG,0.0,0.0,en,1.0
-Sendai Ikuei High School,Sendai Ikuei High School,ORG,0.16,0.0,en,1.0
-Volleyball National Team,Volleyball National Team,ORG,1.0,0.0,en,1.0
-Self-Defense Forces,Self-Defense Forces,ORG,0.2476190476190476,0.0,en,1.0
-6-upper M7.5,6-upper M7.5,ORG,0.0,0.0,en,1.0
-Morioka Station,Morioka Station,ORG,-0.018750000000000003,0.0,en,1.0
-World Heritage Site,World Heritage Site,ORG,0.25,0.0,en,1.0
-National Geographic Explorer,National Geographic Explorer,ORG,0.0,0.0,en,1.0
-Kanto-Kuu,Kanto-Kuu,ORG,0.037500000000000006,0.0,en,1.0
+NPO SET,NPO SET,ORG,0.13636363636363635,0.0,en,1.0
+Design,Design,ORG,0.0,0.0,en,1.0
+Chiba University,Chiba University,ORG,0.13142857142857142,0.0,en,1.0
+APM (Application Performance Monitoring) Subcommittee,APM (Application Performance Monitoring) Subcommittee,ORG,0.0,0.0,en,1.0
+Crab,Crab,ORG,0.6,0.0,en,1.0
+"Yamasue Co., Ltd.","Yamasue Co., Ltd.",ORG,0.0,0.0,en,1.0
+Yokohama Tsurumi Rehabilitation Hospital,Yokohama Tsurumi Rehabilitation Hospital,ORG,0.16666666666666666,0.0,en,1.0
+Sato,Sato,ORG,0.0,0.0,en,1.0
+Reservation Service Dev,Reservation Service Dev,ORG,0.0,0.0,en,1.0
+the Nihon University School of Medicine's Critical Care Center,the Nihon University School of Medicine's Critical Care Center,ORG,-0.05,0.0,en,1.0
+Est,Est,ORG,0.0,0.0,en,1.0
+mocopi Professional mode & XYN Motion Studio Review,mocopi Professional mode & XYN Motion Studio Review,ORG,0.1,0.0,en,1.0
 Gozarea,Gozarea,ORG,0.0,0.0,en,1.0
-️Sukayu,️Sukayu,ORG,0.4333333333333333,0.0,en,1.0
-Japan Nuclear Fuel Ltd.,Japan Nuclear Fuel Ltd.,ORG,0.0,0.0,en,1.0
-TBS,TBS,ORG,0.1416666666666667,0.0,en,1.0
-"the ""Economy Watcher Survey""","the ""Economy Watcher Survey""",ORG,-0.08333333333333333,0.0,en,1.0
-Nippon Television,Nippon Television,ORG,0.0,0.0,en,1.0
-[Certified Specified Nonprofit Corporation SET],[Certified Specified Nonprofit Corporation SET],ORG,0.2590909090909091,0.0,en,1.0
-PowerPoint,PowerPoint,ORG,0.3125,0.0,en,1.0
-The Geospatial Information Authority of Japan,The Geospatial Information Authority of Japan,ORG,0.0,0.0,en,1.0
-Tokachi-oki Earthquake,Tokachi-oki Earthquake,ORG,0.0,0.0,en,1.0
-"the ""Hokkaido/Sanriku Offshore Earthquake Warning Information""","the ""Hokkaido/Sanriku Offshore Earthquake Warning Information""",ORG,0.0,0.0,en,1.0
-MSDF Hachinohe Air Base,MSDF Hachinohe Air Base,ORG,-0.6000000000000001,0.0,en,1.0
-Iwate Garrison,Iwate Garrison,ORG,0.2,0.0,en,1.0
-Disaster Countermeasures Division,Disaster Countermeasures Division,ORG,-0.25,0.0,en,1.0
-Disposable,Disposable,ORG,0.0,0.0,en,1.0
-Metropolitan Police Department,Metropolitan Police Department,ORG,-0.05,0.0,en,1.0
-Disaster Prevention Division,Disaster Prevention Division,ORG,0.0,0.0,en,1.0
-"the ""LIFEHACK Channel""","the ""LIFEHACK Channel""",ORG,0.15,0.0,en,1.0
-The Self-Defense Forces,The Self-Defense Forces,ORG,0.0,0.0,en,1.0
-Kachiko,Kachiko,ORG,0.0,0.0,en,1.0
-Tomakomai West Port,Tomakomai West Port,ORG,0.0,0.0,en,1.0
-"the Ministry of Land, Infrastructure, Transport and Tourism","the Ministry of Land, Infrastructure, Transport and Tourism",ORG,0.0,0.0,en,1.0
-STV News Hokkaido,STV News Hokkaido,ORG,0.35,0.0,en,1.0
-a Ministry of Defense Disaster Management Office,a Ministry of Defense Disaster Management Office,ORG,0.0,0.0,en,1.0
-Air Self-Defense Forces,Air Self-Defense Forces,ORG,0.06666666666666667,0.0,en,1.0
-"the Land, Sea","the Land, Sea",ORG,0.06666666666666667,0.0,en,1.0
-Japan Coast Guard,Japan Coast Guard,ORG,0.2476190476190476,0.0,en,1.0
-Namie Town,Namie Town,ORG,0.020833333333333332,0.0,en,1.0
-hitohada,hitohada,ORG,0.1,0.0,en,1.0
-the Japan Women's,the Japan Women's,ORG,1.0,0.0,en,1.0
-&#160Full,&#160Full,ORG,0.0,0.0,en,1.0
+Netflix,Netflix,ORG,0.16666666666666666,0.0,en,1.0
+10:28:04,10:28:04,ORG,0.125,0.0,en,1.0
+JILPT,JILPT,ORG,0.5,0.0,en,1.0
+the German Embassy's,the German Embassy's,ORG,0.0,0.0,en,1.0
+Disaster Prevention,Disaster Prevention,ORG,0.4,0.0,en,1.0
+Bayes,Bayes,ORG,0.21428571428571427,0.0,en,1.0
+Nivea,Nivea,ORG,1.0,0.0,en,1.0
+UV,UV,ORG,0.2888888888888889,0.0,en,1.0
+"Pu0h
+","Pu0h
+",ORG,-0.03125,0.0,en,1.0
+The Hachinohe Line,The Hachinohe Line,ORG,-0.4,0.0,en,1.0
+Sun,Sun,ORG,0.0,0.0,en,1.0
+12:58:38,12:58:38,ORG,0.0,0.0,en,1.0
+Softbank,Softbank,ORG,0.0013888888888888978,0.0,en,1.0
+Docomo,Docomo,ORG,0.0013888888888888978,0.0,en,1.0
+Rakuten Mobile,Rakuten Mobile,ORG,0.0013888888888888978,0.0,en,1.0
+Osaka TBS NEWS,Osaka TBS NEWS,ORG,0.175,0.0,en,1.0
+Hatena Bookmark,Hatena Bookmark,ORG,0.1,0.0,en,1.0
+the Far East - Occupation of Takeshima,the Far East - Occupation of Takeshima,ORG,0.1,0.0,en,1.0
+the JR Hachinohe Line,the JR Hachinohe Line,ORG,0.0,0.0,en,1.0
+Sony,Sony,ORG,0.3,0.0,en,1.0
+Tokai,Tokai,ORG,0.0,0.0,en,1.0
+Wanderly,Wanderly,ORG,0.4333333333333333,0.0,en,1.0
+bad'',bad'',ORG,-0.11759259259259254,0.0,en,1.0
+the Japan Agency,the Japan Agency,ORG,0.2729166666666667,0.0,en,1.0
+Chikyu,Chikyu,ORG,0.2729166666666667,0.0,en,1.0
+Naosuke Hanzawa Forest Publishing,Naosuke Hanzawa Forest Publishing,ORG,0.4,0.0,en,1.0
+Japan Post Insurance Salesman's,Japan Post Insurance Salesman's,ORG,0.0,0.0,en,1.0
+Japan Post Insurance's,Japan Post Insurance's,ORG,-0.23055555555555554,0.0,en,1.0
+Nomura,Nomura,ORG,0.11818181818181818,0.0,en,1.0
+JR East,JR East,ORG,0.0,0.0,en,1.0
+ImageWhen,ImageWhen,ORG,0.11875,0.0,en,1.0
+EU,EU,ORG,0.0,0.0,en,1.0
+the Central Disaster Prevention Council,the Central Disaster Prevention Council,ORG,0.06818181818181818,0.0,en,1.0
+@mashiike,@mashiike,ORG,0.0,0.0,en,1.0
+AI Agents,AI Agents,ORG,0.05,0.0,en,1.0
+Kyushu Sanko Group,Kyushu Sanko Group,ORG,0.0,0.0,en,1.0
+"Kyushu Sanko Tourism Co.,","Kyushu Sanko Tourism Co.,",ORG,0.0,0.0,en,1.0
+Collins,Collins,ORG,0.0,0.0,en,1.0
+"Marks Intelligent Co., Ltd.","Marks Intelligent Co., Ltd.",ORG,0.8,0.0,en,1.0
+Catingan Regency,Catingan Regency,ORG,-0.022222222222222216,0.0,en,1.0
+``Hokkaido/Sanriku Offshore Earthquake Warning'',``Hokkaido/Sanriku Offshore Earthquake Warning'',ORG,0.07500000000000001,0.0,en,1.0
+"The Ministry of Land, Infrastructure, Transport and Tourism's National Institute for Land and Infrastructure Management","The Ministry of Land, Infrastructure, Transport and Tourism's National Institute for Land and Infrastructure Management",ORG,0.075,0.0,en,1.0
+National Institute of Land and Infrastructure Management,National Institute of Land and Infrastructure Management,ORG,0.075,0.0,en,1.0
+The National Institute of Technology and Evaluation (,The National Institute of Technology and Evaluation (,ORG,0.0,0.0,en,1.0
+Alinco,Alinco,ORG,0.0,0.0,en,1.0
+JoongAng,JoongAng,ORG,0.03125,0.0,en,1.0
+Konakano Community Center,Konakano Community Center,ORG,-0.1,0.0,en,1.0
+Navy,Navy,ORG,0.0,0.0,en,1.0
+the Japanese Red Cross Hokkaido College of Nursing,the Japanese Red Cross Hokkaido College of Nursing,ORG,-0.045,0.0,en,1.0
+the Meiji Restoration,the Meiji Restoration,ORG,0.15,0.0,en,1.0
+Nihon University,Nihon University,ORG,0.0,0.0,en,1.0
 All Country,All Country,ORG,0.0,0.0,en,1.0
 NTT Aomori Hachinohe Building,NTT Aomori Hachinohe Building,ORG,0.0,0.0,en,1.0
 ATV Aomori Television,ATV Aomori Television,ORG,0.0,0.0,en,1.0
 Hachinohe City National Route 45,Hachinohe City National Route 45,ORG,0.0,0.0,en,1.0
 "[Sui ing Co., Ltd.","[Sui ing Co., Ltd.",ORG,0.06666666666666667,0.0,en,1.0
 Head Office,Head Office,ORG,0.06666666666666667,0.0,en,1.0
-mark⁉,mark⁉,ORG,0.1375,0.0,en,1.0
+Okinawa Prefectural Library's,Okinawa Prefectural Library's,ORG,0.0,0.0,en,1.0
+the Okinawa Prefectural Library,the Okinawa Prefectural Library,ORG,0.0,0.0,en,1.0
+"Marks Intelligence Co., Ltd.","Marks Intelligence Co., Ltd.",ORG,0.0,0.0,en,1.0
+The Geospatial Information Authority of Japan,The Geospatial Information Authority of Japan,ORG,0.0,0.0,en,1.0
+️Sukayu,️Sukayu,ORG,0.4333333333333333,0.0,en,1.0
+6-upper M7.5,6-upper M7.5,ORG,0.0,0.0,en,1.0
+Japan Nuclear Fuel Ltd.,Japan Nuclear Fuel Ltd.,ORG,0.0,0.0,en,1.0
+"the ""Economy Watcher Survey""","the ""Economy Watcher Survey""",ORG,-0.08333333333333333,0.0,en,1.0
+Nippon Television,Nippon Television,ORG,0.0,0.0,en,1.0
+[Certified Specified Nonprofit Corporation SET],[Certified Specified Nonprofit Corporation SET],ORG,0.2590909090909091,0.0,en,1.0
+PowerPoint,PowerPoint,ORG,0.3125,0.0,en,1.0
+Tokachi-oki Earthquake,Tokachi-oki Earthquake,ORG,0.0,0.0,en,1.0
+Headquarters,Headquarters,ORG,0.11666666666666668,0.0,en,1.0
+Namie Town,Namie Town,ORG,0.020833333333333332,0.0,en,1.0
+TBS,TBS,ORG,0.1416666666666667,0.0,en,1.0
+hitohada,hitohada,ORG,0.1,0.0,en,1.0
 Mynavi Woman,Mynavi Woman,ORG,0.35,0.0,en,1.0
+UNIQLO x Japan Sumo Association,UNIQLO x Japan Sumo Association,ORG,0.47857142857142854,0.0,en,1.0
+UNIQLO,UNIQLO,ORG,0.3,0.0,en,1.0
+the Japan Sumo Association,the Japan Sumo Association,ORG,0.0,0.0,en,1.0
+&#160Full,&#160Full,ORG,0.0,0.0,en,1.0
+mark⁉,mark⁉,ORG,0.1375,0.0,en,1.0
 Tecchan,Tecchan,ORG,0.0,0.0,en,1.0
+the Japan Atomic Energy Agency,the Japan Atomic Energy Agency,ORG,0.13999999999999999,0.0,en,1.0
+the Visually Impaired Life Support Organization,the Visually Impaired Life Support Organization,ORG,0.03333333333333333,0.0,en,1.0
+Recovery,Recovery,ORG,0.15000000000000002,0.0,en,1.0
+Mutsu General Hospital,Mutsu General Hospital,ORG,-0.049999999999999996,0.0,en,1.0
+the Japan Atomic Power Company,the Japan Atomic Power Company,ORG,0.29375,0.0,en,1.0
+the Narita Airport Company,the Narita Airport Company,ORG,0.0,0.0,en,1.0
+Tokyo Station,Tokyo Station,ORG,-0.125,0.0,en,1.0
+Hokuriku Shinkansen,Hokuriku Shinkansen,ORG,-0.125,0.0,en,1.0
+NTT East's,NTT East's,ORG,-0.0888888888888889,0.0,en,1.0
 West Sports,West Sports,ORG,0.4375,0.0,en,1.0
+earthquake?An,earthquake?An,ORG,0.15625,0.0,en,1.0
+NEC Red Rockets Kawasaki's,NEC Red Rockets Kawasaki's,ORG,0.0,0.0,en,1.0
+Santa,Santa,ORG,0.125,0.0,en,1.0
+NEC Red Rockets Kawasaki,NEC Red Rockets Kawasaki,ORG,0.125,0.0,en,1.0
+fjord-calendar.jpThis,fjord-calendar.jpThis,ORG,0.0,0.0,en,1.0
+Fjord Bootcamp,Fjord Bootcamp,ORG,-0.08333333333333333,0.0,en,1.0
+"Earth Infinity Co., Ltd.","Earth Infinity Co., Ltd.",ORG,0.0,0.0,en,1.0
+VIWA,VIWA,ORG,0.03333333333333333,0.0,en,1.0
+Kao,Kao,ORG,0.0,0.0,en,1.0
+The Hachinohe City Museum of Art,The Hachinohe City Museum of Art,ORG,0.0,0.0,en,1.0
+Hachinohe City Museum of Art's Ancient Egyptian Exhibition,Hachinohe City Museum of Art's Ancient Egyptian Exhibition,ORG,0.0,0.0,en,1.0
 Iekei,Iekei,ORG,0.5416666666666666,0.0,en,1.0
-NISA,NISA,ORG,0.1,0.0,en,1.0
 Great East Japan Earthquake occurs・Final edition→Kumamoto,Great East Japan Earthquake occurs・Final edition→Kumamoto,ORG,0.390625,0.0,en,1.0
 the Sendai Ikuei Ace,the Sendai Ikuei Ace,ORG,0.21875,0.0,en,1.0
-Nihon University,Nihon University,ORG,0.0,0.0,en,1.0
-the Japanese Red Cross Hokkaido College of Nursing,the Japanese Red Cross Hokkaido College of Nursing,ORG,-0.045,0.0,en,1.0
-``Hokkaido/Sanriku Offshore Earthquake Warning'',``Hokkaido/Sanriku Offshore Earthquake Warning'',ORG,0.07500000000000001,0.0,en,1.0
-Navy,Navy,ORG,0.0,0.0,en,1.0
-Konakano Community Center,Konakano Community Center,ORG,-0.1,0.0,en,1.0
-JoongAng,JoongAng,ORG,0.03125,0.0,en,1.0
-Alinco,Alinco,ORG,0.0,0.0,en,1.0
-The National Institute of Technology and Evaluation (,The National Institute of Technology and Evaluation (,ORG,0.0,0.0,en,1.0
-National Institute of Land and Infrastructure Management,National Institute of Land and Infrastructure Management,ORG,0.075,0.0,en,1.0
-"The Ministry of Land, Infrastructure, Transport and Tourism's National Institute for Land and Infrastructure Management","The Ministry of Land, Infrastructure, Transport and Tourism's National Institute for Land and Infrastructure Management",ORG,0.075,0.0,en,1.0
-Okinawa Prefectural Library's,Okinawa Prefectural Library's,ORG,0.0,0.0,en,1.0
-the Meiji Restoration,the Meiji Restoration,ORG,0.15,0.0,en,1.0
-the Okinawa Prefectural Library,the Okinawa Prefectural Library,ORG,0.0,0.0,en,1.0
-Headquarters,Headquarters,ORG,0.11666666666666668,0.0,en,1.0
-the Japan Sumo Association,the Japan Sumo Association,ORG,0.0,0.0,en,1.0
-UNIQLO,UNIQLO,ORG,0.3,0.0,en,1.0
-UNIQLO x Japan Sumo Association,UNIQLO x Japan Sumo Association,ORG,0.47857142857142854,0.0,en,1.0
-Noda Chizu,Noda Chizu,ORG,0.21428571428571427,0.0,en,1.0
+the Japan Women's,the Japan Women's,ORG,1.0,0.0,en,1.0
+Volleyball National Team,Volleyball National Team,ORG,1.0,0.0,en,1.0
+Koshien,Koshien,ORG,0.16,0.0,en,1.0
+Sendai Ikuei High School,Sendai Ikuei High School,ORG,0.16,0.0,en,1.0
+The Japan Mobile Architecture Association,The Japan Mobile Architecture Association,ORG,-0.1,0.0,en,1.0
+Ishikawa Prefecture'',Ishikawa Prefecture'',ORG,-0.1,0.0,en,1.0
+"Satoful Co., Ltd.","Satoful Co., Ltd.",ORG,0.0,0.0,en,1.0
+"Satofuru Co., Ltd.","Satofuru Co., Ltd.",ORG,0.0,0.0,en,1.0
+`Ancient Egyptian Museum Exhibition'',`Ancient Egyptian Museum Exhibition'',ORG,0.09166666666666667,0.0,en,1.0
+Hachinohe City Museum of Art,Hachinohe City Museum of Art,ORG,-0.012499999999999997,0.0,en,1.0
+Oricon News,Oricon News,ORG,-0.012499999999999997,0.0,en,1.0
+@oricon,@oricon,ORG,-0.012499999999999997,0.0,en,1.0
+Hyogo Earthquake Memorial,Hyogo Earthquake Memorial,ORG,0.32,0.0,en,1.0
