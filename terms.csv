@@ -15,12 +15,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4650629566440142,1,1,ja,EAS,Asia
 '56368a7c0e',extremes,Earthquake,#870007,usgs,松江地震,2026-01-17T03:44:00+00:00,Japan,0.4601396651096385,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
+'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-01-15T10:39:00+00:00,,0.4578528973645572,1,3,ja,,
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4392056956416935,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2025-12-16T03:46:00+00:00,,0.4277917123741623,1,3,ja,,
 'c266e23417',extremes,Earthquake,#870007,usgs,千葉地震,2026-01-19T04:02:00+00:00,Japan,0.4196152119057117,1,1,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2025-12-18T03:44:00+00:00,Japan,0.4100567057615703,1,2,ja,EAS,Asia
-'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-01-15T10:39:00+00:00,,0.4098305739048267,0,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,ja,,
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-01-15T10:56:00+00:00,Japan,0.4057112378111996,1,1,ja,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-01-20T03:55:00+00:00,,0.3996584864980431,0,1,ja,,
@@ -34,7 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-01-15T10:56:00+00:00,Japan,0.3807609019547067,2,1,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,ja,,
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.37270796341855356,0,1,ja,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,ja,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,ja,,
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3609393311387803,1,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
