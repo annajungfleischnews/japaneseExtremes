@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-01-15T10:39:00+00:00,,0.4942761916476754,1,3,ja,,
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.4850580648914193,1,3,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-01-15T10:39:00+00:00,,0.4761591939996685,1,3,ja,,
+'52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.47511356564316976,1,3,ja,,
 '1a2f7d542b',extremes,Earthquake,#870007,usgs,大山地震,2026-01-22T03:59:00+00:00,Japan,0.4711891803984561,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4650629566440142,1,1,ja,EAS,Asia
 '56368a7c0e',extremes,Earthquake,#870007,usgs,松江地震,2026-01-17T03:44:00+00:00,Japan,0.4601396651096385,1,1,ja,EAS,Asia
@@ -25,7 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-01-15T10:56:00+00:00,Japan,0.4057112378111996,1,1,ja,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-01-20T03:55:00+00:00,,0.3996584864980431,0,1,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2025-12-13T03:38:00+00:00,Japan,0.3978663524622635,2,3,ja,EAS,Asia
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.39748902644162987,0,1,ja,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.3974890264416298,0,1,ja,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-01-15T10:20:00+00:00,,0.3971495880623991,2,3,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-01-22T03:59:00+00:00,,0.3956642285786956,0,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-01-19T04:02:00+00:00,,0.3939758062301081,0,1,ja,,
@@ -34,11 +35,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,ja,,
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-01-15T10:56:00+00:00,Japan,0.3807609019547067,2,1,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,ja,,
-'52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,ja,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3682311994791814,0,1,ja,,
-'15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.36684095177242887,0,1,ja,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.3668409517724288,0,1,ja,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-01-21T03:55:00+00:00,,0.3657646127310858,0,1,ja,,
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3609393311387803,1,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
