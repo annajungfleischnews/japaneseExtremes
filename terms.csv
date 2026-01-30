@@ -7,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-01-15T10:56:00+00:00,Japan,0.5791106445311709,3,1,ja,EAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-01-15T10:39:00+00:00,,0.5571965642163136,2,3,ja,,
+'040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-01-30T04:21:00+00:00,Japan,0.5115686957541442,0,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.5101318733757794,0,1,ja,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-01-15T10:56:00+00:00,Japan,0.5056864479960534,3,1,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-01-17T03:44:00+00:00,Japan,0.5029665061735092,0,1,ja,EAS,Asia
@@ -38,7 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-01-25T04:05:00+00:00,,0.4001027786464418,1,1,ja,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-01-15T10:20:00+00:00,,0.3971495880623991,2,3,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-01-23T04:02:00+00:00,,0.3968181392091505,1,3,ja,,
-'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-01-18T03:56:00+00:00,,0.39647486058104364,1,3,ja,,
+'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-01-18T03:56:00+00:00,,0.3964748605810436,1,3,ja,,
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-01-15T10:56:00+00:00,Japan,0.3807609019547067,2,1,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
@@ -73,11 +74,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,ja,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.3184956739722786,1,3,ja,,
-'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.30948664366345363,1,1,ja,EPO,Pacific Ocean
+'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,ja,,
-'9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-01-21T03:55:00+00:00,,0.30253460252810405,1,1,ja,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.3007693883410344,1,2,ja,,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-01-15T10:56:00+00:00,Japan,0.2978159949532279,2,1,ja,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.2954448205880036,2,1,ja,,
