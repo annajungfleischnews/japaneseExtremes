@@ -33,12 +33,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-01-26T04:08:00+00:00,,0.4489564602251044,1,2,ja,,
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-01-15T10:56:00+00:00,,0.4445609699530787,1,2,ja,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.43922631986769145,1,3,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4392056956416935,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2025-12-16T03:46:00+00:00,,0.4277917123741623,1,3,ja,,
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-01-18T03:56:00+00:00,,0.4271199786124283,1,3,ja,,
 'c266e23417',extremes,Earthquake,#870007,usgs,千葉地震,2026-01-19T04:02:00+00:00,Japan,0.4196152119057117,1,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-01-27T03:58:00+00:00,,0.4182350820292492,1,2,ja,,
-'28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.41075929569596925,1,1,ja,EAS,Asia
+'28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.4107592956959692,1,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-01-15T10:56:00+00:00,Japan,0.4057112378111996,1,1,ja,EAS,Asia
 'ec5f6eaf6d',extremes,Earthquake,#870007,usgs,岩泉地震,2026-01-28T03:56:00+00:00,Japan,0.4037095087947406,1,1,ja,EAS,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-01-25T04:05:00+00:00,,0.4001027786464418,1,1,ja,,
@@ -61,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,ja,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-01-20T03:55:00+00:00,,0.3480532759672765,0,1,ja,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,ja,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,ja,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,ja,,
