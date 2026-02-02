@@ -29,11 +29,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-01-15T10:39:00+00:00,,0.4578528973645572,1,3,ja,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.4576768699156554,1,3,ja,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-01-15T12:13:00+00:00,,0.4576166844129821,1,3,ja,,
-'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-01-29T04:18:00+00:00,Japan,0.45494104286822007,0,1,ja,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-01-20T03:55:00+00:00,,0.4492105230687911,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-01-26T04:08:00+00:00,,0.4489564602251044,1,2,ja,,
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-01-15T10:56:00+00:00,,0.4445609699530787,1,2,ja,,
+'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-01-29T04:18:00+00:00,Japan,0.444150006437987,1,1,ja,EAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.4392263198676914,1,3,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4392056956416935,1,2,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-01-15T12:13:00+00:00,,0.4372862366175053,1,2,ja,,
