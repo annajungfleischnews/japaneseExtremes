@@ -63,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3634465645573042,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
 '0efa034224',extremes,Earthquake,#870007,usgs,穂高地震,2026-01-15T10:56:00+00:00,Japan,0.3560097925879964,1,1,ja,EAS,Asia
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-01-17T03:44:00+00:00,,0.35508263291771036,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-01-22T04:00:00+00:00,Palau,0.3520781907346496,0,1,ja,EPO,Pacific Ocean
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-01-17T03:44:00+00:00,Palau,0.3508857762947402,1,1,ja,EPO,Pacific Ocean
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,ja,,
@@ -78,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,ja,,
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-01-15T10:56:00+00:00,,0.3331322465222953,1,1,ja,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,ja,,
 '69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,ja,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,ja,,
