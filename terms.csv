@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-01-29T04:18:00+00:00,,0.4858596850248309,1,2,ja,,
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.4850580648914193,1,3,ja,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-01-17T03:44:00+00:00,,0.4809128765783996,1,3,ja,,
+'82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-02-02T04:36:00+00:00,Japan,0.480434979951095,0,1,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-01-15T10:39:00+00:00,,0.4761591939996685,1,3,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.4751135656431697,1,3,ja,,
 '1a2f7d542b',extremes,Earthquake,#870007,usgs,大山地震,2026-01-22T03:59:00+00:00,Japan,0.4711891803984561,1,2,ja,EAS,Asia
@@ -63,7 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3634465645573042,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
 '0efa034224',extremes,Earthquake,#870007,usgs,穂高地震,2026-01-15T10:56:00+00:00,Japan,0.3560097925879964,1,1,ja,EAS,Asia
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-01-17T03:44:00+00:00,,0.35508263291771036,1,2,ja,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-01-17T03:44:00+00:00,,0.3550826329177103,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-01-22T04:00:00+00:00,Palau,0.3520781907346496,0,1,ja,EPO,Pacific Ocean
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-01-17T03:44:00+00:00,Palau,0.3508857762947402,1,1,ja,EPO,Pacific Ocean
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,ja,,
@@ -84,7 +85,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,ja,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,ja,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,ja,ENA,North-America
+'45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,ja,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,アンブリム火山バヌアツ,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,ja,SPO,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,ja,EAU,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.3184956739722786,1,3,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
