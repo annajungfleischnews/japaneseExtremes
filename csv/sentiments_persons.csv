@@ -1,310 +1,445 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Tommy Bastow,Tommy Bastow,PERSON,0.10574187924389801,1.1761944087600174,en,9.435497835497832
+Tommy Bastow,Tommy Bastow,PERSON,0.08279045736364457,1.1673480696079315,en,9.635497835497832
 Anonymous @ Open,Anonymous @ Open,PERSON,0.16747311827956987,2.4660618279569895,en,3.5428571428571427
 Ryo Yoshizawa,Ryo Yoshizawa,PERSON,-0.18311667469106083,1.906435564114909,en,2.697402597402598
 Sanae Takaichi,Sanae Takaichi,PERSON,0.11660464292043236,0.46145667198298773,en,2.442857142857143
 Anonymous @Open,Anonymous @Open,PERSON,0.1955670103092783,1.2542268041237112,en,2.3095238095238098
+JR East,JR East,PERSON,-0.3288216560509554,0.9195859872611465,en,2.242857142857143
 Yakumo Koizumi,Yakumo Koizumi,PERSON,0.22842639593908629,0.27411167512690354,en,2.188888888888889
+Hatena Bookmark,Hatena Bookmark,PERSON,0.1431818181818182,0.09545454545454547,en,2.095238095238095
 Lafcadio Hearn,Lafcadio Hearn,PERSON,0.0,0.0,en,2.088888888888889
-JR East,JR East,PERSON,-0.18356643356643357,0.5506993006993007,en,2.0428571428571427
 Tommy Barstow,Tommy Barstow,PERSON,-0.17006033182503766,0.7092760180995473,en,2.0090909090909093
 Yugiku Takahashi,Yugiku Takahashi,PERSON,0.14015151515151514,0.2626262626262626,en,2.0
 Asahi Shimbun,Asahi Shimbun,PERSON,0.16842105263157897,0.15789473684210525,en,1.9
+Hibiware Koujitsu,Hibiware Koujitsu,PERSON,0.0,0.0,en,1.9
+Kimiko Date,Kimiko Date,PERSON,-0.04824561403508771,0.5131578947368421,en,1.9
+Hunter Furusawa,Hunter Furusawa,PERSON,0.8076923076923078,0.8076923076923078,en,1.8571428571428568
 Chizuru Ikewaki,Chizuru Ikewaki,PERSON,0.3431372549019608,0.7303921568627451,en,1.8545454545454545
 Mariana Enriquez,Mariana Enriquez,PERSON,0.2595486111111111,0.23472222222222222,en,1.8461538461538463
 Fumiyo Kohinata,Fumiyo Kohinata,PERSON,-0.2441095890410959,0.41589041095890417,en,1.8434343434343434
+Hanamaru Udon,Hanamaru Udon,PERSON,0.07547050226676211,0.2247077069911715,en,1.8142857142857145
 Yukito Hidaka,Yukito Hidaka,PERSON,0.0,0.0,en,1.7619047619047619
+Wan Marui,Wan Marui,PERSON,-0.32772020725388595,0.5984455958549222,en,1.7545454545454549
+Santa Claus,Santa Claus,PERSON,-0.1141304347826087,0.4565217391304348,en,1.7523809523809524
 Shunsuke Mitsui,Shunsuke Mitsui,PERSON,0.2961038961038961,0.4584415584415584,en,1.75
 Roki Sasaki,Roki Sasaki,PERSON,0.0,0.0,en,1.7
-Wan Marui,Wan Marui,PERSON,-0.22664835164835162,0.5439560439560439,en,1.6545454545454548
-Hatena Bookmark,Hatena Bookmark,PERSON,0.18805970149253734,0.12537313432835825,en,1.595238095238095
-Ki Yamane,Ki Yamane,PERSON,0.19242424242424241,0.36515151515151517,en,1.5
-the Nankai Trough Earthquake,the Nankai Trough Earthquake,PERSON,0.2708333333333333,0.9416666666666668,en,1.5
-Takumi Minamino,Takumi Minamino,PERSON,0.26666666666666666,0.6666666666666666,en,1.5
-Kishu Nankoume,Kishu Nankoume,PERSON,0.3185185185185186,0.8000000000000002,en,1.5
-Taketomo Shimizu,Taketomo Shimizu,PERSON,-0.008333333333333326,0.2222222222222222,en,1.5
-Yukiku Takahashi,Yukiku Takahashi,PERSON,0.0,0.0,en,1.5
-Aomori Hachinohe,Aomori Hachinohe,PERSON,0.43333333333333335,1.0,en,1.5
+Hatena Bookmark Number Ranking,Hatena Bookmark Number Ranking,PERSON,0.15000000000000002,0.2,en,1.6666666666666665
+Arie Aoki,Arie Aoki,PERSON,0.31106505102040805,1.9364370748299313,en,1.6000000000000005
 Vanrare Hachinohe,Vanrare Hachinohe,PERSON,0.0,0.0,en,1.5
+Kishu Nankoume,Kishu Nankoume,PERSON,0.3185185185185186,0.8000000000000002,en,1.5
 Shinya Tsukahara,Shinya Tsukahara,PERSON,0.15,0.25277777777777777,en,1.5
+Takumi Minamino,Takumi Minamino,PERSON,0.26666666666666666,0.6666666666666666,en,1.5
+Yukiku Takahashi,Yukiku Takahashi,PERSON,0.0,0.0,en,1.5
+Ki Yamane,Ki Yamane,PERSON,0.19242424242424241,0.36515151515151517,en,1.5
+Aomori Hachinohe,Aomori Hachinohe,PERSON,0.43333333333333335,1.0,en,1.5
+Taketomo Shimizu,Taketomo Shimizu,PERSON,-0.008333333333333326,0.2222222222222222,en,1.5
+the Nankai Trough Earthquake,the Nankai Trough Earthquake,PERSON,0.2708333333333333,0.9416666666666668,en,1.5
 Miyagi Prefecture,Miyagi Prefecture,PERSON,-0.1724137931034482,0.9827586206896551,en,1.4500000000000002
+Kei Tanaka,Kei Tanaka,PERSON,-0.14,0.24500000000000002,en,1.4285714285714284
 Donto Dam,Donto Dam,PERSON,0.0,0.0,en,1.4285714285714284
+IRIS OHYAMA,IRIS OHYAMA,PERSON,0.061224489795918394,1.1297376093294462,en,1.4
 Ramendo Sendaikko,Ramendo Sendaikko,PERSON,0.5428571428571429,1.0285714285714287,en,1.4
+Menya Aishin,Menya Aishin,PERSON,0.125,0.25,en,1.3333333333333333
 Masaki Okada,Masaki Okada,PERSON,0.2692307692307692,1.0769230769230769,en,1.3
 Kazuyuki Suzuki,Kazuyuki Suzuki,PERSON,0.12638888888888888,0.9819444444444447,en,1.2857142857142856
 Iekei Ramen,Iekei Ramen,PERSON,0.1814814814814815,0.9419753086419753,en,1.2857142857142856
+Higer SNE402,Higer SNE402,PERSON,0.31111111111111117,0.6222222222222223,en,1.2857142857142856
 Kawasaki Daishi,Kawasaki Daishi,PERSON,-0.08,0.08,en,1.25
-Madoka Magica,Madoka Magica,PERSON,0.7031249999999999,1.395833333333333,en,1.2000000000000002
-JR Hachinohe Line,JR Hachinohe Line,PERSON,-0.20833333333333331,0.6249999999999999,en,1.2000000000000002
-Kashima Gakuen,Kashima Gakuen,PERSON,-0.014351851851851815,1.00162037037037,en,1.2000000000000002
-Masamine Fukao,Masamine Fukao,PERSON,0.29166666666666663,0.412037037037037,en,1.2000000000000002
-Ryutsu Keizai Oakashiwa,Ryutsu Keizai Oakashiwa,PERSON,0.10717592592592592,0.6127314814814814,en,1.2000000000000002
 Shinichi Sakai,Shinichi Sakai,PERSON,-0.046891534391534366,1.3956845238095235,en,1.2000000000000002
-Hatena Bookmark Number Ranking,Hatena Bookmark Number Ranking,PERSON,0.2142857142857143,0.28571428571428575,en,1.1666666666666665
-Roki Junpo,Roki Junpo,PERSON,-0.21875,0.328125,en,1.1428571428571428
+Warren Buffett,Warren Buffett,PERSON,-0.0069444444444444475,0.6041666666666665,en,1.2000000000000002
+Kashima Gakuen,Kashima Gakuen,PERSON,-0.014351851851851815,1.00162037037037,en,1.2000000000000002
+Ryutsu Keizai Oakashiwa,Ryutsu Keizai Oakashiwa,PERSON,0.10717592592592592,0.6127314814814814,en,1.2000000000000002
+JR Hachinohe Line,JR Hachinohe Line,PERSON,-0.20833333333333331,0.6249999999999999,en,1.2000000000000002
+Ryota Yamagata,Ryota Yamagata,PERSON,0.0,0.05059523809523809,en,1.2000000000000002
+Golden Kamuy,Golden Kamuy,PERSON,0.5575396825396826,1.232142857142857,en,1.2000000000000002
+Masamine Fukao,Masamine Fukao,PERSON,0.29166666666666663,0.412037037037037,en,1.2000000000000002
+Madoka Magica,Madoka Magica,PERSON,0.7031249999999999,1.395833333333333,en,1.2000000000000002
+Ryusei Ashizawa,Ryusei Ashizawa,PERSON,0.08333333333333331,0.2962962962962963,en,1.2000000000000002
+Summilux ASPH,Summilux ASPH,PERSON,0.09556242368742365,0.9460279304029301,en,1.2000000000000002
+Junko Yamaguchi,Junko Yamaguchi,PERSON,-0.06944444444444446,0.9027777777777778,en,1.2
+Takuya Kimura,Takuya Kimura,PERSON,0.5208333333333334,0.9537037037037037,en,1.2
 Yuta Yamaguchi,Yuta Yamaguchi,PERSON,0.015624999999999993,0.51875,en,1.1428571428571428
+Roki Junpo,Roki Junpo,PERSON,-0.21875,0.328125,en,1.1428571428571428
 Hokuriku Shinkansen,Hokuriku Shinkansen,PERSON,-0.21875,0.21875,en,1.1428571428571428
 Taiki Katayama,Taiki Katayama,PERSON,0.7822222222222223,0.9066666666666667,en,1.125
-Hiroko Tsugumo,Hiroko Tsugumo,PERSON,1.1079545454545454,0.7386363636363635,en,1.1
-Hiroyuki Nishimura,Hiroyuki Nishimura,PERSON,-0.22727272727272718,0.4848484848484848,en,1.1
-Summilux ASPH,Summilux ASPH,PERSON,0.3006368631368631,0.775620213120213,en,1.1
-Hideki Oe,Hideki Oe,PERSON,0.16942148760330575,0.45867768595041314,en,1.1
-Elizabeth Bisland,Elizabeth Bisland,PERSON,1.0681818181818181,1.3076923076923075,en,1.1
-Daisuke Ikemoto Chuokoron,Daisuke Ikemoto Chuokoron,PERSON,0.3143939393939394,0.5037878787878788,en,1.1
 Shiba Inu,Shiba Inu,PERSON,0.5909090909090908,1.2272727272727273,en,1.1
-Ryohei Michibuchi,Ryohei Michibuchi,PERSON,-0.09343434343434343,0.39393939393939387,en,1.1
-Ray Cop,Ray Cop,PERSON,0.0,0.0,en,1.1
+Iwanami Bunko,Iwanami Bunko,PERSON,0.3863636363636364,1.0064935064935063,en,1.1
+Mao Ichiyama,Mao Ichiyama,PERSON,-0.2424242424242424,1.0909090909090908,en,1.1
+Hiroyuki Nishimura,Hiroyuki Nishimura,PERSON,-0.22727272727272718,0.4848484848484848,en,1.1
+Ayano Ide,Ayano Ide,PERSON,-0.2424242424242424,1.0909090909090908,en,1.1
+Marugame Seimen,Marugame Seimen,PERSON,0.0,0.0,en,1.1
+Elizabeth Bisland,Elizabeth Bisland,PERSON,1.0681818181818181,1.3076923076923075,en,1.1
+Honami Sato,Honami Sato,PERSON,-0.11363636363636363,0.25,en,1.1
+Daisuke Ikemoto Chuokoron,Daisuke Ikemoto Chuokoron,PERSON,0.3143939393939394,0.5037878787878788,en,1.1
+Hiroko Tsugumo,Hiroko Tsugumo,PERSON,1.1079545454545454,0.7386363636363635,en,1.1
+Menya Raimi,Menya Raimi,PERSON,0.0,0.0,en,1.1
 Katsuya Okada,Katsuya Okada,PERSON,0.4935064935064935,0.6980519480519479,en,1.1
-Stanisław Lem,Stanisław Lem,PERSON,-0.606060606060606,0.3333333333333333,en,1.1
-Shiro Sano,Shiro Sano,PERSON,0.45454545454545453,0.5454545454545454,en,1.1
+Ryohei Michibuchi,Ryohei Michibuchi,PERSON,-0.09343434343434343,0.39393939393939387,en,1.1
 Masayuki Tamura,Masayuki Tamura,PERSON,0.0,0.0,en,1.1
-Takeshi Tomizawa,Takeshi Tomizawa,PERSON,0.2,0.5399999999999999,en,1.0
-Muga Tsukaji,Muga Tsukaji,PERSON,0.2,0.5399999999999999,en,1.0
-◆ Gotenki,◆ Gotenki,PERSON,0.25,0.5,en,1.0
-Hokuto Umeda,Hokuto Umeda,PERSON,0.0,0.0,en,1.0
-Itaya Pass,Itaya Pass,PERSON,0.1,0.3,en,1.0
-Jun Fukuyama,Jun Fukuyama,PERSON,0.0,0.0,en,1.0
-Yuichiro Umehara,Yuichiro Umehara,PERSON,0.0,0.0,en,1.0
-Shuichi Nakatsu,Shuichi Nakatsu,PERSON,0.0,0.0,en,1.0
-Jimon Terakado,Jimon Terakado,PERSON,0.2,0.5399999999999999,en,1.0
-kokolo sauna(R,kokolo sauna(R,PERSON,0.0,0.0,en,1.0
-Yowami Asada,Yowami Asada,PERSON,-0.06666666666666665,0.6,en,1.0
-Izumi Sano,Izumi Sano,PERSON,0.0,0.0,en,1.0
-Iginari Tohokusan,Iginari Tohokusan,PERSON,0.16,0.5399999999999999,en,1.0
-dan 2nd dan,dan 2nd dan,PERSON,0.08433333333333333,0.163,en,1.0
-Yodai Yamamoto,Yodai Yamamoto,PERSON,-0.125,0.375,en,1.0
-Anonymous @o,Anonymous @o,PERSON,0.0,0.0,en,1.0
-Masayuki Morisaki,Masayuki Morisaki,PERSON,0.0,0.0,en,1.0
-dan Present,dan Present,PERSON,0.08433333333333333,0.163,en,1.0
-Rokko Tunnel,Rokko Tunnel,PERSON,0.0,1.0,en,1.0
-Aiko Tatsuta,Aiko Tatsuta,PERSON,0.35,0.65,en,1.0
-■Manabu Sakai,■Manabu Sakai,PERSON,0.4,1.0,en,1.0
-Sendai Beware,Sendai Beware,PERSON,-0.08888888888888886,0.5222222222222223,en,1.0
-Taku Yashiro,Taku Yashiro,PERSON,0.0,0.0,en,1.0
-Mizuki Ashiya,Mizuki Ashiya,PERSON,0.0,0.0,en,1.0
-Zepp Haneda,Zepp Haneda,PERSON,0.06818181818181818,0.45,en,1.0
-Kimiya Yui,Kimiya Yui,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
-Robert Downey Jr,Robert Downey Jr,PERSON,0.3333333333333333,0.7333333333333334,en,1.0
-Ika Goto,Ika Goto,PERSON,-0.125,0.325,en,1.0
-Sanhachi Kamikita,Sanhachi Kamikita,PERSON,0.0,0.0,en,1.0
-Gen Z,Gen Z,PERSON,0.0,0.0,en,1.0
-Volodymyr Zelenskiy,Volodymyr Zelenskiy,PERSON,0.0,0.06666666666666667,en,1.0
-Diane Tsuda,Diane Tsuda,PERSON,0.0,0.06666666666666667,en,1.0
-Yokatai Maing,Yokatai Maing,PERSON,0.0,0.0,en,1.0
-Atsuhiro Tsuda,Atsuhiro Tsuda,PERSON,0.0,0.0,en,1.0
-Shiseido “,Shiseido “,PERSON,0.14523809523809525,0.5857142857142856,en,1.0
-Ryusei Onishi,Ryusei Onishi,PERSON,0.0,0.75,en,1.0
-[Forecast Temperature] Temperatures,[Forecast Temperature] Temperatures,PERSON,-0.3,0.65,en,1.0
-Shima Shoka,Shima Shoka,PERSON,0.0,0.0,en,1.0
-Michikado Lemon,Michikado Lemon,PERSON,-0.061111111111111095,0.5333333333333333,en,1.0
-Yoichi Takahashi Ichiichi Bank,Yoichi Takahashi Ichiichi Bank,PERSON,-0.25,0.6749999999999999,en,1.0
-Saya Anzai Keeping,Saya Anzai Keeping,PERSON,-0.033333333333333326,0.44999999999999996,en,1.0
-Philippe Terrien,Philippe Terrien,PERSON,0.0,0.0,en,1.0
-Atazana Building,Atazana Building,PERSON,0.0,0.0,en,1.0
-・ART Golden Gai,・ART Golden Gai,PERSON,0.3,0.5,en,1.0
-Hisaya Nakajo,Hisaya Nakajo,PERSON,0.3625,0.65,en,1.0
-Amami Oshima,Amami Oshima,PERSON,-0.16666666666666669,0.525,en,1.0
-Maru Nouchi,Maru Nouchi,PERSON,0.0,0.0,en,1.0
-Ahmed Abu Mutair,Ahmed Abu Mutair,PERSON,-0.2,0.0,en,1.0
-Oshidate Dondo-yaki,Oshidate Dondo-yaki,PERSON,0.09494949494949494,0.3646464646464646,en,1.0
-Tiborang Grace,Tiborang Grace,PERSON,0.0,0.4,en,1.0
+Zaim Shinrikyo,Zaim Shinrikyo,PERSON,0.0,0.0,en,1.1
+M1E3 Abrams,M1E3 Abrams,PERSON,0.12314049586776857,0.5983471074380164,en,1.1
+Bikkuri Donkey,Bikkuri Donkey,PERSON,-0.019283746556473837,0.25895316804407714,en,1.1
+Hideki Oe,Hideki Oe,PERSON,0.16942148760330575,0.45867768595041314,en,1.1
+Shiro Sano,Shiro Sano,PERSON,0.45454545454545453,0.5454545454545454,en,1.1
+Stanisław Lem,Stanisław Lem,PERSON,-0.606060606060606,0.3333333333333333,en,1.1
+Ray Cop,Ray Cop,PERSON,0.0,0.0,en,1.1
+Mita Seimenjo,Mita Seimenjo,PERSON,0.2636904761904762,0.46428571428571425,en,1.0
+Doraemon the Movie,Doraemon the Movie,PERSON,0.15000000000000002,0.825,en,1.0
+Hiroyuki Ota,Hiroyuki Ota,PERSON,0.25,0.25,en,1.0
+Creator Network,Creator Network,PERSON,0.0,0.75,en,1.0
+Sakuyama Choco Jiro,Sakuyama Choco Jiro,PERSON,0.15000000000000002,0.825,en,1.0
+Gyoza King,Gyoza King,PERSON,0.2636904761904762,0.46428571428571425,en,1.0
+Kazuo Yamagishi,Kazuo Yamagishi,PERSON,0.0,0.0,en,1.0
+Shigeru Yoshida,Shigeru Yoshida,PERSON,0.0,0.0,en,1.0
+Ikuo Ishimaru,Ikuo Ishimaru,PERSON,0.05,0.325,en,1.0
+Masaki Suda,Masaki Suda,PERSON,0.425,0.6166666666666667,en,1.0
+Tekko Kaikan,Tekko Kaikan,PERSON,0.25,1.0,en,1.0
+Winter Poi,Winter Poi,PERSON,0.0,0.0,en,1.0
 Shinobu Watanabe,Shinobu Watanabe,PERSON,0.2708333333333333,0.5416666666666666,en,1.0
 Typhoon Nocane,Typhoon Nocane,PERSON,0.0,0.0,en,1.0
-Koji Fujisaki,Koji Fujisaki,PERSON,0.0,0.25,en,1.0
-Sano Shiro,Sano Shiro,PERSON,0.0,0.0,en,1.0
-Fuchu Oshidate Dondo-yaki,Fuchu Oshidate Dondo-yaki,PERSON,0.14384469696969696,0.40066287878787876,en,1.0
-Hajime Kawahara,Hajime Kawahara,PERSON,0.0,0.0,en,1.0
-Hiroshi Yamagata,Hiroshi Yamagata,PERSON,-0.03333333333333333,0.13333333333333333,en,1.0
-Oki Leica M10P,Oki Leica M10P,PERSON,-0.026442307692307696,0.3174679487179487,en,1.0
-Kazuo Yamagishi,Kazuo Yamagishi,PERSON,0.0,0.0,en,1.0
-Maruchan Tsukemen,Maruchan Tsukemen,PERSON,0.0,0.0,en,1.0
-GK Yasuto Fujita,GK Yasuto Fujita,PERSON,0.7,0.6000000000000001,en,1.0
-Fujichrome RDPIII,Fujichrome RDPIII,PERSON,0.3,0.45,en,1.0
-Manami Ogaki,Manami Ogaki,PERSON,0.25,0.8500000000000001,en,1.0
-Hideki Noda,Hideki Noda,PERSON,0.21428571428571427,0.45714285714285713,en,1.0
-Hanshin Bullpen,Hanshin Bullpen,PERSON,0.8,0.75,en,1.0
-Katsumi Yamazaki,Katsumi Yamazaki,PERSON,0.0,0.125,en,1.0
-Vegalta Sendai,Vegalta Sendai,PERSON,-0.09444444444444444,0.39999999999999997,en,1.0
-Hokuriku Direct,Hokuriku Direct,PERSON,0.1,0.4,en,1.0
-JR West,JR West,PERSON,0.1,0.4,en,1.0
-Yuri Yamamoto,Yuri Yamamoto,PERSON,-0.0625,0.4,en,1.0
-Mitsuomi Takahashi,Mitsuomi Takahashi,PERSON,0.0,0.0,en,1.0
-Bill Magritz,Bill Magritz,PERSON,0.0,0.0,en,1.0
-Motoyasu Sano,Motoyasu Sano,PERSON,0.8,0.75,en,1.0
-Surugadai Gakuen,Surugadai Gakuen,PERSON,0.0625,0.375,en,1.0
-Honami Sato,Honami Sato,PERSON,-0.125,0.275,en,1.0
-Devil Zoa,Devil Zoa,PERSON,0.0,0.0,en,1.0
-Yasushi Yamawaki,Yasushi Yamawaki,PERSON,0.35000000000000003,0.425,en,1.0
-Shigeoka Baku,Shigeoka Baku,PERSON,0.0,0.0,en,1.0
-Avispa Fukuoka,Avispa Fukuoka,PERSON,0.1125,0.18958333333333333,en,1.0
-Serika Ito,Serika Ito,PERSON,0.0,0.4,en,1.0
-Takashi Okabe,Takashi Okabe,PERSON,0.0,0.0,en,1.0
-Creator Network,Creator Network,PERSON,0.0,0.75,en,1.0
-Abdalhkem Abu Riash,Abdalhkem Abu Riash,PERSON,-0.25,0.2,en,1.0
-Habebe LN-08A - Warm,Habebe LN-08A - Warm,PERSON,0.5,0.7,en,1.0
-Nakahara Ward,Nakahara Ward,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
-Shinmei Okami,Shinmei Okami,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
-Hanada Ryokan,Hanada Ryokan,PERSON,0.8,0.2,en,1.0
-Maruko Sanno Hie Shrine,Maruko Sanno Hie Shrine,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
-SMARTCOBY Pro,SMARTCOBY Pro,PERSON,0.0,0.0,en,1.0
-Anonymous @,Anonymous @,PERSON,0.0,0.0,en,1.0
-Waraimon ni Fuku,Waraimon ni Fuku,PERSON,0.3,0.5384615384615384,en,1.0
-Hiroyuki Ota,Hiroyuki Ota,PERSON,0.25,0.25,en,1.0
-◆ Hachinohe,◆ Hachinohe,PERSON,0.3,0.525,en,1.0
-Gonohe Town,Gonohe Town,PERSON,0.0,0.0,en,1.0
-Guru Maga | Summary,Guru Maga | Summary,PERSON,0.5,0.5,en,1.0
-Santa Claus,Santa Claus,PERSON,0.0,0.5,en,1.0
-omelet rice,omelet rice,PERSON,0.0,0.0,en,1.0
-Tomoko Takeuchi,Tomoko Takeuchi,PERSON,0.0,0.0,en,1.0
-Abe Sadao,Abe Sadao,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Aito Sakamoto,Aito Sakamoto,PERSON,-0.15,0.175,en,1.0
-Junko Taira,Junko Taira,PERSON,-0.0625,0.2375,en,1.0
-Noriko Eguchi,Noriko Eguchi,PERSON,-0.0625,0.2375,en,1.0
-Shuichi Takizawa,Shuichi Takizawa,PERSON,0.0,0.0,en,1.0
-Takeshi Umeno,Takeshi Umeno,PERSON,0.0,0.14285714285714285,en,1.0
-Shingo Yamamoto,Shingo Yamamoto,PERSON,0.0,0.14285714285714285,en,1.0
-Xiaomi Japan,Xiaomi Japan,PERSON,0.16666666666666666,0.3416666666666666,en,1.0
-Yoichiro Yoichiro,Yoichiro Yoichiro,PERSON,0.14,0.31,en,1.0
-◆ Yasugi City,◆ Yasugi City,PERSON,0.3,0.525,en,1.0
-Tottori Prefecture Full,Tottori Prefecture Full,PERSON,0.3,0.525,en,1.0
-Shinkansen Shin-Osaka-Hakata,Shinkansen Shin-Osaka-Hakata,PERSON,-0.125,0.375,en,1.0
-Shimane Matsue,Shimane Matsue,PERSON,0.0,0.0,en,1.0
-JR Bus Chugoku,JR Bus Chugoku,PERSON,-0.1111111111111111,0.25555555555555554,en,1.0
+Meltwater Turns Iceberg,Meltwater Turns Iceberg,PERSON,0.0,0.1,en,1.0
+Hirohiko Ejiri,Hirohiko Ejiri,PERSON,0.05,0.325,en,1.0
 Daiki Enomoto,Daiki Enomoto,PERSON,0.11833333333333333,0.26,en,1.0
+Chinkokuji Munakata Leica M10P,Chinkokuji Munakata Leica M10P,PERSON,-0.21602564102564104,0.28205128205128205,en,1.0
+Tiborang Grace,Tiborang Grace,PERSON,0.0,0.4,en,1.0
 Yukiko Kamata,Yukiko Kamata,PERSON,0.0,0.3,en,1.0
-Shigeru Yoshida,Shigeru Yoshida,PERSON,0.0,0.0,en,1.0
-Katsuhisa Namase,Katsuhisa Namase,PERSON,0.8,0.2,en,1.0
-Nakanoto Town,Nakanoto Town,PERSON,0.0,0.0,en,1.0
-Daiyuji Temple,Daiyuji Temple,PERSON,0.0,0.0,en,1.0
-Karatsu Kagamiyama,Karatsu Kagamiyama,PERSON,0.625,0.5,en,1.0
-Berkshire Hathaway,Berkshire Hathaway,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Mattek Jelum,Mattek Jelum,PERSON,0.0,0.25,en,1.0
-Hokke-ji Temple,Hokke-ji Temple,PERSON,0.1,0.2,en,1.0
-Hokkeyama Ichijo-ji Temple,Hokkeyama Ichijo-ji Temple,PERSON,0.19999999999999998,0.4666666666666666,en,1.0
-Soga Iruka,Soga Iruka,PERSON,0.0,0.0,en,1.0
-Emperor Jomei,Emperor Jomei,PERSON,0.0,0.0,en,1.0
-Prince Naka,Prince Naka,PERSON,0.0,0.0,en,1.0
-Akari Takaishi,Akari Takaishi,PERSON,0.5,1.0,en,1.0
-Ayumi Higashi,Ayumi Higashi,PERSON,0.0011111111111111044,0.22388888888888886,en,1.0
-Masamitsu Suzuki,Masamitsu Suzuki,PERSON,0.0,0.0,en,1.0
-Maemon Inagaki,Maemon Inagaki,PERSON,-0.25,0.6166666666666667,en,1.0
-Taro Yamamoto,Taro Yamamoto,PERSON,0.06666666666666667,0.6,en,1.0
-Reiwa Shinsengumi,Reiwa Shinsengumi,PERSON,0.10000000000000003,0.875,en,1.0
-``The Great East Japan Earthquake,``The Great East Japan Earthquake,PERSON,0.10000000000000003,0.875,en,1.0
-Claude Code,Claude Code,PERSON,0.0,0.0,en,1.0
+Shuichi Takizawa,Shuichi Takizawa,PERSON,0.0,0.0,en,1.0
+Hideki Noda,Hideki Noda,PERSON,0.21428571428571427,0.45714285714285713,en,1.0
+Noriko Eguchi,Noriko Eguchi,PERSON,-0.0625,0.2375,en,1.0
+Hanshin Bullpen,Hanshin Bullpen,PERSON,0.8,0.75,en,1.0
+Junko Taira,Junko Taira,PERSON,-0.0625,0.2375,en,1.0
+Aito Sakamoto,Aito Sakamoto,PERSON,-0.15,0.175,en,1.0
+Nama Toki,Nama Toki,PERSON,0.5,0.9,en,1.0
+Katsumi Yamazaki,Katsumi Yamazaki,PERSON,0.0,0.125,en,1.0
+tsumami rice,tsumami rice,PERSON,0.0,0.0,en,1.0
+Kaori Momoi,Kaori Momoi,PERSON,0.0,0.0,en,1.0
+Vegalta Sendai,Vegalta Sendai,PERSON,-0.09444444444444444,0.39999999999999997,en,1.0
+Kishua Zelretch,Kishua Zelretch,PERSON,-0.2,0.4,en,1.0
+Koji Fujisaki,Koji Fujisaki,PERSON,0.0,0.25,en,1.0
+Takeshi Umeno,Takeshi Umeno,PERSON,0.0,0.14285714285714285,en,1.0
+Maruchan Tsukemen,Maruchan Tsukemen,PERSON,0.0,0.0,en,1.0
+Oki Leica M10P,Oki Leica M10P,PERSON,-0.026442307692307696,0.3174679487179487,en,1.0
+GK Yasuto Fujita,GK Yasuto Fujita,PERSON,0.7,0.6000000000000001,en,1.0
+Bell Fine,Bell Fine,PERSON,0.12833333333333335,0.43499999999999994,en,1.0
+Kim Da-mi,Kim Da-mi,PERSON,0.13636363636363635,0.5,en,1.0
+Rena Fukami,Rena Fukami,PERSON,0.0,0.0,en,1.0
+Wakaba Mark,Wakaba Mark,PERSON,0.15625,0.55,en,1.0
+Shishigaya Kirika,Shishigaya Kirika,PERSON,0.0,0.0,en,1.0
+◆ Yasugi City,◆ Yasugi City,PERSON,0.3,0.525,en,1.0
+Yoichiro Yoichiro,Yoichiro Yoichiro,PERSON,0.14,0.31,en,1.0
+Tottori Prefecture Full,Tottori Prefecture Full,PERSON,0.3,0.525,en,1.0
+Miho Moriya,Miho Moriya,PERSON,-0.08,0.13999999999999999,en,1.0
+Koya Matsui,Koya Matsui,PERSON,-0.08,0.13999999999999999,en,1.0
+Takanobu Tamura,Takanobu Tamura,PERSON,0.19,0.4833333333333333,en,1.0
+Shinkansen Shin-Osaka-Hakata,Shinkansen Shin-Osaka-Hakata,PERSON,-0.125,0.375,en,1.0
+Hokuriku Direct,Hokuriku Direct,PERSON,0.1,0.4,en,1.0
+Hajime Kawahara,Hajime Kawahara,PERSON,0.0,0.0,en,1.0
+Xiaomi Japan,Xiaomi Japan,PERSON,0.16666666666666666,0.3416666666666666,en,1.0
+Hiroshi Yamagata,Hiroshi Yamagata,PERSON,-0.03333333333333333,0.13333333333333333,en,1.0
+Sano Shiro,Sano Shiro,PERSON,0.0,0.0,en,1.0
+Takashi Okabe,Takashi Okabe,PERSON,0.0,0.0,en,1.0
+Manami Ogaki,Manami Ogaki,PERSON,0.25,0.8500000000000001,en,1.0
+Lee Jae-myung,Lee Jae-myung,PERSON,0.05333333333333334,0.29666666666666663,en,1.0
+Hatena Tateyama,Hatena Tateyama,PERSON,0.3638888888888889,0.5666666666666667,en,1.0
+Fine Tune,Fine Tune,PERSON,0.3638888888888889,0.5666666666666667,en,1.0
+Xi Jinping,Xi Jinping,PERSON,-0.30000000000000004,0.475,en,1.0
+JR Bus Chugoku,JR Bus Chugoku,PERSON,-0.1111111111111111,0.25555555555555554,en,1.0
+Tsumami Meshi,Tsumami Meshi,PERSON,0.6000000000000001,0.9,en,1.0
+Fujichrome RDPIII,Fujichrome RDPIII,PERSON,0.3,0.45,en,1.0
+Fuchu Oshidate Dondo-yaki,Fuchu Oshidate Dondo-yaki,PERSON,0.14384469696969696,0.40066287878787876,en,1.0
+Shingo Yamamoto,Shingo Yamamoto,PERSON,0.0,0.14285714285714285,en,1.0
+Oshidate Dondo-yaki,Oshidate Dondo-yaki,PERSON,0.09494949494949494,0.3646464646464646,en,1.0
+Minatogawa Park,Minatogawa Park,PERSON,0.0,0.0,en,1.0
+Shimane Matsue,Shimane Matsue,PERSON,0.0,0.0,en,1.0
+Juan Guaidó,Juan Guaidó,PERSON,0.4333333333333333,0.7333333333333333,en,1.0
+Yoshimoto Kogyo,Yoshimoto Kogyo,PERSON,0.0,0.0,en,1.0
+JR West,JR West,PERSON,0.1,0.4,en,1.0
+Hokka Hokkatei,Hokka Hokkatei,PERSON,0.13692505411255412,0.40768398268398265,en,1.0
+Jeff Horwitz,Jeff Horwitz,PERSON,0.0,0.0,en,1.0
+Takuro Morinaga,Takuro Morinaga,PERSON,0.0,0.5,en,1.0
+Takafumi Horie,Takafumi Horie,PERSON,0.0,0.5,en,1.0
+Yusaku Maezawa,Yusaku Maezawa,PERSON,0.0,0.5,en,1.0
+Kosuke Takahashi,Kosuke Takahashi,PERSON,-0.21666666666666667,0.5166666666666667,en,1.0
+Takatsu Ward,Takatsu Ward,PERSON,0.0,0.0,en,1.0
+Ajiko Kojima,Ajiko Kojima,PERSON,0.0,0.0,en,1.0
+Kotoriyu Hoshino,Kotoriyu Hoshino,PERSON,0.75,0.9,en,1.0
+Rikuhachima Al,Rikuhachima Al,PERSON,0.5375,0.35000000000000003,en,1.0
+Rikuhama Al”,Rikuhama Al”,PERSON,0.0,0.0,en,1.0
+Anna Shinonome,Anna Shinonome,PERSON,0.4361111111111111,0.7722222222222221,en,1.0
+Aya Watanabe,Aya Watanabe,PERSON,0.15625,0.375,en,1.0
+Shizune Hisaka,Shizune Hisaka,PERSON,0.15625,0.375,en,1.0
+Mary Salvator,Mary Salvator,PERSON,0.15625,0.375,en,1.0
+Tatsuta Burger,Tatsuta Burger,PERSON,-0.06666666666666667,0.16666666666666666,en,1.0
+Tetsuya Kobayashi,Tetsuya Kobayashi,PERSON,0.0,0.0,en,1.0
+Erika Toda,Erika Toda,PERSON,-0.7,0.85,en,1.0
+Yukiya Kitamura,Yukiya Kitamura,PERSON,0.0,0.0,en,1.0
+Ryohei Suzuki,Ryohei Suzuki,PERSON,0.0,0.0,en,1.0
+Otter Ati-kun,Otter Ati-kun,PERSON,0.0,0.0,en,1.0
+Sugumi Kanagata,Sugumi Kanagata,PERSON,0.0,0.0,en,1.0
+Miki Castle (Miki City,Miki Castle (Miki City,PERSON,-0.125,0.375,en,1.0
+Tottori Castle,Tottori Castle,PERSON,-0.125,0.375,en,1.0
+Hijiri Shiraishi,Hijiri Shiraishi,PERSON,0.2569444444444445,0.38888888888888884,en,1.0
+Ansei Nankai,Ansei Nankai,PERSON,0.0,0.0,en,1.0
+Naozumi Tatematsu,Naozumi Tatematsu,PERSON,0.05510204081632654,0.29081632653061223,en,1.0
+Flores Arie,Flores Arie,PERSON,0.21875,0.25,en,1.0
+Arie Aoki Interview,Arie Aoki Interview,PERSON,0.21875,0.25,en,1.0
+Yamada Asaemon Sam,Yamada Asaemon Sam,PERSON,0.0,0.0,en,1.0
+Hideyo Kawarada,Hideyo Kawarada,PERSON,0.0,0.0,en,1.0
+Arata Takebe,Arata Takebe,PERSON,0.0,0.0,en,1.0
+Saya Anzai,Saya Anzai,PERSON,-0.30000000000000004,0.5375,en,1.0
+Shigeo Takahashi,Shigeo Takahashi,PERSON,0.125,0.42500000000000004,en,1.0
+Mai Yamazaki,Mai Yamazaki,PERSON,-0.6,1.0,en,1.0
+Hideo Katahata,Hideo Katahata,PERSON,0.05000000000000002,0.5,en,1.0
+Izakaya Sakura,Izakaya Sakura,PERSON,0.07499999999999998,0.535,en,1.0
+Wakayama Branch,Wakayama Branch,PERSON,0.05000000000000002,0.5,en,1.0
+[JAF Wakayama,[JAF Wakayama,PERSON,0.0,0.0,en,1.0
+Fujino Higashi-Nakanoyama,Fujino Higashi-Nakanoyama,PERSON,0.0,0.0,en,1.0
+Chuka Soba,Chuka Soba,PERSON,0.0,0.0,en,1.0
+Akari Hasegawa,Akari Hasegawa,PERSON,0.0,0.0,en,1.0
+Mitsubishi Logisnext,Mitsubishi Logisnext,PERSON,-0.25,0.5,en,1.0
+Bryan Adams,Bryan Adams,PERSON,0.0,0.0,en,1.0
+Miyata Orimono,Miyata Orimono,PERSON,0.3666666666666667,0.5,en,1.0
+Wild Bomb Kukki,Wild Bomb Kukki,PERSON,0.125,0.4,en,1.0
+Nadeshiko Kakamigahara,Nadeshiko Kakamigahara,PERSON,0.0,0.4,en,1.0
+Oshi Meshi Grand Prix,Oshi Meshi Grand Prix,PERSON,0.5,0.75,en,1.0
+Shingo Mizusawa,Shingo Mizusawa,PERSON,0.0,0.0,en,1.0
+Ryosuke Nariki,Ryosuke Nariki,PERSON,0.0,0.0,en,1.0
+Manal Mohammed,Manal Mohammed,PERSON,-0.3,0.5,en,1.0
+Jens Wissing,Jens Wissing,PERSON,-0.4,0.4,en,1.0
+Shonan Bellmare,Shonan Bellmare,PERSON,0.0,0.0,en,1.0
+Gamba Osaka,Gamba Osaka,PERSON,0.0,0.0,en,1.0
+Shimofuri Myojo,Shimofuri Myojo,PERSON,0.0,0.0,en,1.0
+Nakahara Ward,Nakahara Ward,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
+Denden Denpa,Denden Denpa,PERSON,0.0,0.0,en,1.0
+Yasushi Yamawaki,Yasushi Yamawaki,PERSON,0.35000000000000003,0.425,en,1.0
+Devil Zoa,Devil Zoa,PERSON,0.0,0.0,en,1.0
+Surugadai Gakuen,Surugadai Gakuen,PERSON,0.0625,0.375,en,1.0
+Anpanman Good Night,Anpanman Good Night,PERSON,0.7,0.6000000000000001,en,1.0
+Comet Hale-Bopp,Comet Hale-Bopp,PERSON,0.15333333333333332,0.48,en,1.0
+Motoyasu Sano,Motoyasu Sano,PERSON,0.8,0.75,en,1.0
+Bruce Springsteen,Bruce Springsteen,PERSON,0.06704545454545455,0.5693181818181818,en,1.0
+Nikaryo Kamigawara Weir - Inada Embankment,Nikaryo Kamigawara Weir - Inada Embankment,PERSON,0.0,0.0,en,1.0
+Nosuke Noborito,Nosuke Noborito,PERSON,0.0,0.0,en,1.0
+shukugawara weir,shukugawara weir,PERSON,0.2857142857142857,0.5357142857142857,en,1.0
+Bill Magritz,Bill Magritz,PERSON,0.0,0.0,en,1.0
+Mitsuomi Takahashi,Mitsuomi Takahashi,PERSON,0.0,0.0,en,1.0
+Yuri Yamamoto,Yuri Yamamoto,PERSON,-0.0625,0.4,en,1.0
+Tatsuya Sugimoto,Tatsuya Sugimoto,PERSON,0.0,0.0,en,1.0
+Sendai Moniwa,Sendai Moniwa,PERSON,0.35,0.55,en,1.0
+Kei Muromachi,Kei Muromachi,PERSON,0.0,0.0,en,1.0
+Avispa Fukuoka,Avispa Fukuoka,PERSON,0.1125,0.18958333333333333,en,1.0
+Koji Okura,Koji Okura,PERSON,0.0,0.0,en,1.0
+Toshinori Shimizu,Toshinori Shimizu,PERSON,0.0,0.0,en,1.0
+Yoshiyuki Morishita,Yoshiyuki Morishita,PERSON,0.0,0.75,en,1.0
+Ryuhei Matsuda,Ryuhei Matsuda,PERSON,0.0,0.75,en,1.0
+Yosuke Ichinose,Yosuke Ichinose,PERSON,0.0,0.75,en,1.0
+Ken Mitsuishi,Ken Mitsuishi,PERSON,0.0,0.75,en,1.0
+Keitaro Shundo,Keitaro Shundo,PERSON,0.0,0.75,en,1.0
+Koji Fukada,Koji Fukada,PERSON,0.0,0.0,en,1.0
+Serika Ito,Serika Ito,PERSON,0.0,0.4,en,1.0
+Shigeoka Baku,Shigeoka Baku,PERSON,0.0,0.0,en,1.0
+Cardcaptor Sakura,Cardcaptor Sakura,PERSON,0.15000000000000002,0.4616666666666666,en,1.0
+Yuma Kai,Yuma Kai,PERSON,0.125,0.16666666666666666,en,1.0
+Ryogoku Kokugikan,Ryogoku Kokugikan,PERSON,0.125,0.16666666666666666,en,1.0
+Yuuma Kai,Yuuma Kai,PERSON,0.2,0.4,en,1.0
+Hunter Cub,Hunter Cub,PERSON,-0.5,1.0,en,1.0
+Suigetsu Ame Moondrop MARIGOLD,Suigetsu Ame Moondrop MARIGOLD,PERSON,0.0,0.0,en,1.0
+Suigetsu Ame,Suigetsu Ame,PERSON,0.0,0.0,en,1.0
+Takaichi LDP,Takaichi LDP,PERSON,0.7,0.5,en,1.0
+Sakura Kinomoto,Sakura Kinomoto,PERSON,0.0,0.0,en,1.0
+Tomoyo Daidouji,Tomoyo Daidouji,PERSON,0.15000000000000002,0.4616666666666666,en,1.0
+Abe Sadao,Abe Sadao,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Maru Nouchi,Maru Nouchi,PERSON,0.0,0.0,en,1.0
+Shinmei Okami,Shinmei Okami,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
+Edgeworth Kuiper Belt,Edgeworth Kuiper Belt,PERSON,0.0,0.0,en,1.0
+Kanda Myojin,Kanda Myojin,PERSON,0.75,0.95,en,1.0
+Ieyasu Tokugawa,Ieyasu Tokugawa,PERSON,0.08249999999999999,0.4133333333333333,en,1.0
+Gearthot PC-5001 - 360,Gearthot PC-5001 - 360,PERSON,0.0,0.0,en,1.0
+Tetsuya Hayashi,Tetsuya Hayashi,PERSON,0.25,0.65,en,1.0
 Masaaki Ashio,Masaaki Ashio,PERSON,0.25,0.65,en,1.0
-Haruo Kotani,Haruo Kotani,PERSON,-0.43999999999999995,1.54,en,1.0
-JA Mikkabi,JA Mikkabi,PERSON,0.240625,0.4166666666666667,en,1.0
-Kei Takeuchi,Kei Takeuchi,PERSON,0.0,0.0861111111111111,en,1.0
-Akira Katayama,Akira Katayama,PERSON,-0.15,0.25,en,1.0
-Shiratori Kazuo,Shiratori Kazuo,PERSON,0.0,0.0,en,1.0
-Kazuo Shiratori Asahi,Kazuo Shiratori Asahi,PERSON,0.0,0.0,en,1.0
-Kita Kana,Kita Kana,PERSON,0.5,0.6,en,1.0
-Hiroshi Oizumi,Hiroshi Oizumi,PERSON,0.35,0.65,en,1.0
-Aoi Miyazaki,Aoi Miyazaki,PERSON,0.35,0.65,en,1.0
-Dean Fujioka,Dean Fujioka,PERSON,0.0,0.125,en,1.0
-Takumi Kitamura,Takumi Kitamura,PERSON,0.0,0.125,en,1.0
-Yuko Nomura,Yuko Nomura,PERSON,0.0,0.0,en,1.0
-Mayumi Ueda,Mayumi Ueda,PERSON,0.05000000000000002,0.5,en,1.0
+Yamada History Mook,Yamada History Mook,PERSON,0.0,0.0,en,1.0
 Rodo Shinbun,Rodo Shinbun,PERSON,0.0,0.75,en,1.0
+Mayumi Ueda,Mayumi Ueda,PERSON,0.05000000000000002,0.5,en,1.0
+Yuko Nomura,Yuko Nomura,PERSON,0.0,0.0,en,1.0
+Takumi Kitamura,Takumi Kitamura,PERSON,0.0,0.125,en,1.0
+Dean Fujioka,Dean Fujioka,PERSON,0.0,0.125,en,1.0
+Aoi Miyazaki,Aoi Miyazaki,PERSON,0.35,0.65,en,1.0
+Hiroshi Oizumi,Hiroshi Oizumi,PERSON,0.35,0.65,en,1.0
+Kita Kana,Kita Kana,PERSON,0.5,0.6,en,1.0
+Kazuo Shiratori Asahi,Kazuo Shiratori Asahi,PERSON,0.0,0.0,en,1.0
+Shiratori Kazuo,Shiratori Kazuo,PERSON,0.0,0.0,en,1.0
+Akira Katayama,Akira Katayama,PERSON,-0.15,0.25,en,1.0
+Kei Takeuchi,Kei Takeuchi,PERSON,0.0,0.0861111111111111,en,1.0
+JA Mikkabi,JA Mikkabi,PERSON,0.240625,0.4166666666666667,en,1.0
+Haruo Kotani,Haruo Kotani,PERSON,-0.43999999999999995,1.54,en,1.0
+Claude Code,Claude Code,PERSON,0.0,0.0,en,1.0
+Kanda Myojin Shrine,Kanda Myojin Shrine,PERSON,-0.03571428571428571,0.5714285714285714,en,1.0
+Donald Trump,Donald Trump,PERSON,0.4,0.4,en,1.0
+Konecht Android Engine,Konecht Android Engine,PERSON,-0.25,0.25,en,1.0
+Hidetoshi Fujii,Hidetoshi Fujii,PERSON,-0.049999999999999996,0.30833333333333335,en,1.0
+Masaki Yasuda,Masaki Yasuda,PERSON,0.06666666666666667,0.5166666666666667,en,1.0
+Masahiro Nemoto,Masahiro Nemoto,PERSON,-0.045,0.3,en,1.0
+Kuji Station,Kuji Station,PERSON,-0.125,0.375,en,1.0
+Shinjiro Koizumi,Shinjiro Koizumi,PERSON,-0.0625,0.125,en,1.0
+Ilbo Japanese,Ilbo Japanese,PERSON,0.03125,0.25,en,1.0
+Chanko nabe,Chanko nabe,PERSON,0.47857142857142854,0.5857142857142856,en,1.0
+Yoshihiro Ito,Yoshihiro Ito,PERSON,0.16666666666666669,0.4420512820512821,en,1.0
+Kei Ando,Kei Ando,PERSON,0.16666666666666669,0.4420512820512821,en,1.0
+Yun Seok-yeol,Yun Seok-yeol,PERSON,-0.4,0.7,en,1.0
+Yoichi Kise,Yoichi Kise,PERSON,0.0,0.0,en,1.0
+Suzu Ishikawa,Suzu Ishikawa,PERSON,0.0,0.0,en,1.0
+Paul Salopek,Paul Salopek,PERSON,0.0,0.0,en,1.0
+Madalin Saleh,Madalin Saleh,PERSON,0.25,0.3333333333333333,en,1.0
+Erimo Konno,Erimo Konno,PERSON,0.0,0.0,en,1.0
+Urakawa Urakawa,Urakawa Urakawa,PERSON,0.0,0.0,en,1.0
+Kushiro Kushiro,Kushiro Kushiro,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Fumihiko Imamura,Fumihiko Imamura,PERSON,0.65,0.625,en,1.0
+Tomoko Maebutsu,Tomoko Maebutsu,PERSON,0.0,0.0,en,1.0
+SOLOEVER KR001 - Cold,SOLOEVER KR001 - Cold,PERSON,-0.6,1.0,en,1.0
+Sonia van den,Sonia van den,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
+Karatsu Kagamiyama,Karatsu Kagamiyama,PERSON,0.625,0.5,en,1.0
+``The Great East Japan Earthquake,``The Great East Japan Earthquake,PERSON,0.10000000000000003,0.875,en,1.0
+Reiwa Shinsengumi,Reiwa Shinsengumi,PERSON,0.10000000000000003,0.875,en,1.0
+Raffadio Hahn,Raffadio Hahn,PERSON,0.3,0.5384615384615384,en,1.0
+Kyohei Shimokawa,Kyohei Shimokawa,PERSON,-1.04,2.54,en,1.0
+Riki Otsu,Riki Otsu,PERSON,0.0,0.1,en,1.0
+Nanhara Tandai,Nanhara Tandai,PERSON,0.0,0.022222222222222223,en,1.0
+Nao Omori,Nao Omori,PERSON,0.2333333333333333,0.41111111111111115,en,1.0
+Ryota Furusawa,Ryota Furusawa,PERSON,0.2333333333333333,0.41111111111111115,en,1.0
+Kenjiro Tsuda,Kenjiro Tsuda,PERSON,0.4583333333333333,0.8611111111111112,en,1.0
+Takashi Sorimachi,Takashi Sorimachi,PERSON,0.4583333333333333,0.8611111111111112,en,1.0
+[Moriyama Yasu Civic Exchange Plaza,[Moriyama Yasu Civic Exchange Plaza,PERSON,0.05000000000000002,0.5,en,1.0
+Musashikosugi Tokyu Square,Musashikosugi Tokyu Square,PERSON,0.0,0.0,en,1.0
+Charlotte Kate Fox,Charlotte Kate Fox,PERSON,0.625,1.15,en,1.0
+Gensuke Okamoto,Gensuke Okamoto,PERSON,0.0,0.0,en,1.0
+Eliza Bersland,Eliza Bersland,PERSON,0.875,0.9,en,1.0
+Margaret Thatcher,Margaret Thatcher,PERSON,0.04583333333333333,0.20416666666666666,en,1.0
+Chukō Shinsho,Chukō Shinsho,PERSON,0.04583333333333333,0.20416666666666666,en,1.0
+Shinsha Amazon Kindle,Shinsha Amazon Kindle,PERSON,0.30000000000000004,0.35000000000000003,en,1.0
+Xue Jian,Xue Jian,PERSON,0.02500000000000001,0.25,en,1.0
+Taizo Sugimura,Taizo Sugimura,PERSON,0.0,0.125,en,1.0
+Tomokazu Murase,Tomokazu Murase,PERSON,0.0,0.4,en,1.0
+Keiko Kitagawa,Keiko Kitagawa,PERSON,-0.125,0.375,en,1.0
+Udai Iwasaki,Udai Iwasaki,PERSON,0.0,0.0,en,1.0
+Rain Sugita,Rain Sugita,PERSON,0.0,0.0,en,1.0
+Kana Kana,Kana Kana,PERSON,-0.25,1.0,en,1.0
+Taro Yamamoto,Taro Yamamoto,PERSON,0.06666666666666667,0.6,en,1.0
+Mattek Jelum,Mattek Jelum,PERSON,0.0,0.25,en,1.0
+Maemon Inagaki,Maemon Inagaki,PERSON,-0.25,0.6166666666666667,en,1.0
+Masamitsu Suzuki,Masamitsu Suzuki,PERSON,0.0,0.0,en,1.0
+Ayumi Higashi,Ayumi Higashi,PERSON,0.0011111111111111044,0.22388888888888886,en,1.0
+Akari Takaishi,Akari Takaishi,PERSON,0.5,1.0,en,1.0
+Prince Naka,Prince Naka,PERSON,0.0,0.0,en,1.0
+Emperor Jomei,Emperor Jomei,PERSON,0.0,0.0,en,1.0
+Soga Iruka,Soga Iruka,PERSON,0.0,0.0,en,1.0
+Hokkeyama Ichijo-ji Temple,Hokkeyama Ichijo-ji Temple,PERSON,0.19999999999999998,0.4666666666666666,en,1.0
+Hokke-ji Temple,Hokke-ji Temple,PERSON,0.1,0.2,en,1.0
+Berkshire Hathaway,Berkshire Hathaway,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Anonymous @ Tears,Anonymous @ Tears,PERSON,0.0,0.0,en,1.0
 Rikuzentakata Minpaku,Rikuzentakata Minpaku,PERSON,0.0,0.0,en,1.0
 Goen Rakuichi,Goen Rakuichi,PERSON,0.3,0.5,en,1.0
 Terrace Musashikosugi,Terrace Musashikosugi,PERSON,0.125,0.41666666666666663,en,1.0
 Takahiro Okura,Takahiro Okura,PERSON,-0.1,0.1,en,1.0
-Udai Iwasaki,Udai Iwasaki,PERSON,0.0,0.0,en,1.0
-Keiko Kitagawa,Keiko Kitagawa,PERSON,-0.125,0.375,en,1.0
-Tomokazu Murase,Tomokazu Murase,PERSON,0.0,0.4,en,1.0
-Taizo Sugimura,Taizo Sugimura,PERSON,0.0,0.125,en,1.0
-Xue Jian,Xue Jian,PERSON,0.02500000000000001,0.25,en,1.0
-Shinsha Amazon Kindle,Shinsha Amazon Kindle,PERSON,0.30000000000000004,0.35000000000000003,en,1.0
-Chukō Shinsho,Chukō Shinsho,PERSON,0.04583333333333333,0.20416666666666666,en,1.0
-Margaret Thatcher,Margaret Thatcher,PERSON,0.04583333333333333,0.20416666666666666,en,1.0
-Eliza Bersland,Eliza Bersland,PERSON,0.875,0.9,en,1.0
-Charlotte Kate Fox,Charlotte Kate Fox,PERSON,0.625,1.15,en,1.0
-Raffadio Hahn,Raffadio Hahn,PERSON,0.3,0.5384615384615384,en,1.0
-Musashikosugi Tokyu Square,Musashikosugi Tokyu Square,PERSON,0.0,0.0,en,1.0
-[Moriyama Yasu Civic Exchange Plaza,[Moriyama Yasu Civic Exchange Plaza,PERSON,0.05000000000000002,0.5,en,1.0
-Takashi Sorimachi,Takashi Sorimachi,PERSON,0.4583333333333333,0.8611111111111112,en,1.0
-Kenjiro Tsuda,Kenjiro Tsuda,PERSON,0.4583333333333333,0.8611111111111112,en,1.0
-Ryota Furusawa,Ryota Furusawa,PERSON,0.2333333333333333,0.41111111111111115,en,1.0
-Nao Omori,Nao Omori,PERSON,0.2333333333333333,0.41111111111111115,en,1.0
-Nanhara Tandai,Nanhara Tandai,PERSON,0.0,0.022222222222222223,en,1.0
-Riki Otsu,Riki Otsu,PERSON,0.0,0.1,en,1.0
-Kyohei Shimokawa,Kyohei Shimokawa,PERSON,-1.04,2.54,en,1.0
-Rain Sugita,Rain Sugita,PERSON,0.0,0.0,en,1.0
-Gensuke Okamoto,Gensuke Okamoto,PERSON,0.0,0.0,en,1.0
-Kana Kana,Kana Kana,PERSON,-0.25,1.0,en,1.0
-Anonymous @ Tears,Anonymous @ Tears,PERSON,0.0,0.0,en,1.0
-Kana Kita,Kana Kita,PERSON,0.75,1.85,en,1.0
-Takaaki Okamoto,Takaaki Okamoto,PERSON,-0.14444444444444443,0.5222222222222223,en,1.0
-Shinji Toda,Shinji Toda,PERSON,-0.034863945578231297,0.5076530612244897,en,1.0
-Nao Hirata,Nao Hirata,PERSON,0.0,0.0,en,1.0
 Toshihiro Kitta,Toshihiro Kitta,PERSON,0.0,0.1,en,1.0
-Yamada History Mook,Yamada History Mook,PERSON,0.0,0.0,en,1.0
-Tetsuya Hayashi,Tetsuya Hayashi,PERSON,0.25,0.65,en,1.0
-Tottori Futon,Tottori Futon,PERSON,0.4375,0.55,en,1.0
-Shuichiro Fukasawa,Shuichiro Fukasawa,PERSON,-0.08181818181818182,0.4772727272727273,en,1.0
-evove BW109 - Compact,evove BW109 - Compact,PERSON,0.4,0.8,en,1.0
-Yoshiko Koteda,Yoshiko Koteda,PERSON,0.19999999999999998,0.358974358974359,en,1.0
-Yohiro Yoshikawa,Yohiro Yoshikawa,PERSON,0.16,0.5399999999999999,en,1.0
-Nobuhiro Ishizaki,Nobuhiro Ishizaki,PERSON,-0.0625,0.1875,en,1.0
-Nobuhiro Ishi,Nobuhiro Ishi,PERSON,-0.0625,0.1875,en,1.0
-Tomomi Inada,Tomomi Inada,PERSON,0.0,0.0,en,1.0
-Toshinari Nagasaka,Toshinari Nagasaka,PERSON,-0.1,0.375,en,1.0
-Aomori Mutsu,Aomori Mutsu,PERSON,0.0,0.0,en,1.0
+Nao Hirata,Nao Hirata,PERSON,0.0,0.0,en,1.0
+Shinji Toda,Shinji Toda,PERSON,-0.034863945578231297,0.5076530612244897,en,1.0
+Takaaki Okamoto,Takaaki Okamoto,PERSON,-0.14444444444444443,0.5222222222222223,en,1.0
+Kana Kita,Kana Kita,PERSON,0.75,1.85,en,1.0
+Okabe Ta,Okabe Ta,PERSON,0.0,0.0,en,1.0
+Joji Yokozawa,Joji Yokozawa,PERSON,0.19999999999999998,0.6666666666666666,en,1.0
+Maruko Sanno Hie Shrine,Maruko Sanno Hie Shrine,PERSON,0.23484848484848483,0.6439393939393939,en,1.0
+Kuriya Bokunoji,Kuriya Bokunoji,PERSON,-0.6,1.0,en,1.0
+Izumi Sano,Izumi Sano,PERSON,0.0,0.0,en,1.0
+Taku Yashiro,Taku Yashiro,PERSON,0.0,0.0,en,1.0
+Mizuki Ashiya,Mizuki Ashiya,PERSON,0.0,0.0,en,1.0
+Hisaya Nakajo,Hisaya Nakajo,PERSON,0.3625,0.65,en,1.0
+・ART Golden Gai,・ART Golden Gai,PERSON,0.3,0.5,en,1.0
+Atazana Building,Atazana Building,PERSON,0.0,0.0,en,1.0
+Philippe Terrien,Philippe Terrien,PERSON,0.0,0.0,en,1.0
+Shima Shoka,Shima Shoka,PERSON,0.0,0.0,en,1.0
+[Forecast Temperature] Temperatures,[Forecast Temperature] Temperatures,PERSON,-0.3,0.65,en,1.0
+Ryusei Onishi,Ryusei Onishi,PERSON,0.0,0.75,en,1.0
+Atsuhiro Tsuda,Atsuhiro Tsuda,PERSON,0.0,0.0,en,1.0
+Diane Tsuda,Diane Tsuda,PERSON,0.0,0.06666666666666667,en,1.0
+Sanhachi Kamikita,Sanhachi Kamikita,PERSON,0.0,0.0,en,1.0
+Kimiya Yui,Kimiya Yui,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
+kokolo sauna(R,kokolo sauna(R,PERSON,0.0,0.0,en,1.0
+Zepp Haneda,Zepp Haneda,PERSON,0.06818181818181818,0.45,en,1.0
+Robert Downey Jr,Robert Downey Jr,PERSON,0.3333333333333333,0.7333333333333334,en,1.0
+Ika Goto,Ika Goto,PERSON,-0.125,0.325,en,1.0
+Gen Z,Gen Z,PERSON,0.0,0.0,en,1.0
+Volodymyr Zelenskiy,Volodymyr Zelenskiy,PERSON,0.0,0.06666666666666667,en,1.0
+Yokatai Maing,Yokatai Maing,PERSON,0.0,0.0,en,1.0
+Shuichi Nakatsu,Shuichi Nakatsu,PERSON,0.0,0.0,en,1.0
+Yuichiro Umehara,Yuichiro Umehara,PERSON,0.0,0.0,en,1.0
+Jun Fukuyama,Jun Fukuyama,PERSON,0.0,0.0,en,1.0
+Tomoko Takeuchi,Tomoko Takeuchi,PERSON,0.0,0.0,en,1.0
+SMARTCOBY Pro,SMARTCOBY Pro,PERSON,0.0,0.0,en,1.0
+Anonymous @,Anonymous @,PERSON,0.0,0.0,en,1.0
+Habebe LN-08A - Warm,Habebe LN-08A - Warm,PERSON,0.5,0.7,en,1.0
+Waraimon ni Fuku,Waraimon ni Fuku,PERSON,0.3,0.5384615384615384,en,1.0
+◆ Hachinohe,◆ Hachinohe,PERSON,0.3,0.525,en,1.0
+Gonohe Town,Gonohe Town,PERSON,0.0,0.0,en,1.0
+Guru Maga | Summary,Guru Maga | Summary,PERSON,0.5,0.5,en,1.0
+Rukiya Abo,Rukiya Abo,PERSON,0.0,0.0,en,1.0
+omelet rice,omelet rice,PERSON,0.0,0.0,en,1.0
+Abdalhkem Abu Riash,Abdalhkem Abu Riash,PERSON,-0.25,0.2,en,1.0
+Hokuto Umeda,Hokuto Umeda,PERSON,0.0,0.0,en,1.0
+Ahmed Abu Mutair,Ahmed Abu Mutair,PERSON,-0.2,0.0,en,1.0
+Amami Oshima,Amami Oshima,PERSON,-0.16666666666666669,0.525,en,1.0
+Aiko Tatsuta,Aiko Tatsuta,PERSON,0.35,0.65,en,1.0
+Rokko Tunnel,Rokko Tunnel,PERSON,0.0,1.0,en,1.0
+dan Present,dan Present,PERSON,0.08433333333333333,0.163,en,1.0
+dan 2nd dan,dan 2nd dan,PERSON,0.08433333333333333,0.163,en,1.0
+Iginari Tohokusan,Iginari Tohokusan,PERSON,0.16,0.5399999999999999,en,1.0
+Jimon Terakado,Jimon Terakado,PERSON,0.2,0.5399999999999999,en,1.0
+Muga Tsukaji,Muga Tsukaji,PERSON,0.2,0.5399999999999999,en,1.0
+Shiseido “,Shiseido “,PERSON,0.14523809523809525,0.5857142857142856,en,1.0
+Michikado Lemon,Michikado Lemon,PERSON,-0.061111111111111095,0.5333333333333333,en,1.0
+Yoichi Takahashi Ichiichi Bank,Yoichi Takahashi Ichiichi Bank,PERSON,-0.25,0.6749999999999999,en,1.0
 Soichiro Miyashita,Soichiro Miyashita,PERSON,-0.0888888888888889,0.6444444444444444,en,1.0
-Aomori Hachinohe - Steel,Aomori Hachinohe - Steel,PERSON,0.4,1.0,en,1.0
-Shincho Bunko,Shincho Bunko,PERSON,0.4791666666666667,0.43333333333333335,en,1.0
-Maki Miyazaki Shinchosha Amazon,Maki Miyazaki Shinchosha Amazon,PERSON,0.4791666666666667,0.43333333333333335,en,1.0
-Junichi Ito,Junichi Ito,PERSON,0.0,0.0,en,1.0
-Koizumi Yakumo,Koizumi Yakumo,PERSON,0.2,0.30000000000000004,en,1.0
-Keita Kuriyama,Keita Kuriyama,PERSON,0.0,0.0,en,1.0
-Gearthot PC-5001 - 360,Gearthot PC-5001 - 360,PERSON,0.0,0.0,en,1.0
 Tsugunori Shinohara,Tsugunori Shinohara,PERSON,0.0,0.5,en,1.0
-Hideki Matsuyama,Hideki Matsuyama,PERSON,0.175,0.275,en,1.0
+Keita Kuriyama,Keita Kuriyama,PERSON,0.0,0.0,en,1.0
+Shuichiro Fukasawa,Shuichiro Fukasawa,PERSON,-0.08181818181818182,0.4772727272727273,en,1.0
+Koizumi Yakumo,Koizumi Yakumo,PERSON,0.2,0.30000000000000004,en,1.0
+Junichi Ito,Junichi Ito,PERSON,0.0,0.0,en,1.0
+Nakanoto Town,Nakanoto Town,PERSON,0.0,0.0,en,1.0
+Maki Miyazaki Shinchosha Amazon,Maki Miyazaki Shinchosha Amazon,PERSON,0.4791666666666667,0.43333333333333335,en,1.0
+Shincho Bunko,Shincho Bunko,PERSON,0.4791666666666667,0.43333333333333335,en,1.0
+Aomori Hachinohe - Steel,Aomori Hachinohe - Steel,PERSON,0.4,1.0,en,1.0
+Aomori Mutsu,Aomori Mutsu,PERSON,0.0,0.0,en,1.0
 Masato Ibu,Masato Ibu,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
-Katsuaki Yoshida,Katsuaki Yoshida,PERSON,0.16666666666666666,0.3333333333333333,en,1.0
-Junko Yamaguchi,Junko Yamaguchi,PERSON,-0.05,0.45,en,1.0
-Katsumi Hattori,Katsumi Hattori,PERSON,0.13142857142857142,0.30428571428571427,en,1.0
-Song Rui,Song Rui,PERSON,0.13142857142857142,0.30428571428571427,en,1.0
-Yosuke Matsuoka,Yosuke Matsuoka,PERSON,0.0,0.0,en,1.0
-[Rice Cooker Recipes,[Rice Cooker Recipes,PERSON,0.7166666666666667,0.9166666666666667,en,1.0
-Hiroyuki Goto,Hiroyuki Goto,PERSON,0.0,0.0,en,1.0
-Lorenzo Maria Pacini,Lorenzo Maria Pacini,PERSON,0.05,0.2,en,1.0
-Wanderly YS001 - One,Wanderly YS001 - One,PERSON,0.0,0.0,en,1.0
-Hanzawa Naosuke Sangokan Shinsha,Hanzawa Naosuke Sangokan Shinsha,PERSON,0.0,0.0,en,1.0
-Fumiyuki Nakanishi,Fumiyuki Nakanishi,PERSON,0.1,0.7,en,1.0
+Toshinari Nagasaka,Toshinari Nagasaka,PERSON,-0.1,0.375,en,1.0
+Tomomi Inada,Tomomi Inada,PERSON,0.0,0.0,en,1.0
+Nobuhiro Ishi,Nobuhiro Ishi,PERSON,-0.0625,0.1875,en,1.0
+Nobuhiro Ishizaki,Nobuhiro Ishizaki,PERSON,-0.0625,0.1875,en,1.0
+Yohiro Yoshikawa,Yohiro Yoshikawa,PERSON,0.16,0.5399999999999999,en,1.0
+Yoshiko Koteda,Yoshiko Koteda,PERSON,0.19999999999999998,0.358974358974359,en,1.0
+evove BW109 - Compact,evove BW109 - Compact,PERSON,0.4,0.8,en,1.0
 story→Typhoon+earthquake+tsunami warning・time,story→Typhoon+earthquake+tsunami warning・time,PERSON,0.390625,0.5875,en,1.0
 Machida Shoten,Machida Shoten,PERSON,0.0,0.125,en,1.0
-Kuriya Bokunoji,Kuriya Bokunoji,PERSON,-0.6,1.0,en,1.0
-Joji Yokozawa,Joji Yokozawa,PERSON,0.19999999999999998,0.6666666666666666,en,1.0
-Ieyasu Tokugawa,Ieyasu Tokugawa,PERSON,0.08249999999999999,0.4133333333333333,en,1.0
-Kanda Myojin,Kanda Myojin,PERSON,0.75,0.95,en,1.0
-Kanda Myojin Shrine,Kanda Myojin Shrine,PERSON,-0.03571428571428571,0.5714285714285714,en,1.0
-Donald Trump,Donald Trump,PERSON,0.4,0.4,en,1.0
-Konecht Android Engine,Konecht Android Engine,PERSON,-0.25,0.25,en,1.0
-Suzu Ishikawa,Suzu Ishikawa,PERSON,0.0,0.0,en,1.0
-Sonia van den,Sonia van den,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
-SOLOEVER KR001 - Cold,SOLOEVER KR001 - Cold,PERSON,-0.6,1.0,en,1.0
-Tomoko Maebutsu,Tomoko Maebutsu,PERSON,0.0,0.0,en,1.0
-Fumihiko Imamura,Fumihiko Imamura,PERSON,0.65,0.625,en,1.0
-Kushiro Kushiro,Kushiro Kushiro,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Urakawa Urakawa,Urakawa Urakawa,PERSON,0.0,0.0,en,1.0
-Erimo Konno,Erimo Konno,PERSON,0.0,0.0,en,1.0
-Madalin Saleh,Madalin Saleh,PERSON,0.25,0.3333333333333333,en,1.0
-Paul Salopek,Paul Salopek,PERSON,0.0,0.0,en,1.0
-Menya Aishin,Menya Aishin,PERSON,0.16666666666666666,0.3333333333333333,en,1.0
-Yoichi Kise,Yoichi Kise,PERSON,0.0,0.0,en,1.0
-Hidetoshi Fujii,Hidetoshi Fujii,PERSON,-0.049999999999999996,0.30833333333333335,en,1.0
-Yun Seok-yeol,Yun Seok-yeol,PERSON,-0.4,0.7,en,1.0
-Kei Ando,Kei Ando,PERSON,0.16666666666666669,0.4420512820512821,en,1.0
-Yoshihiro Ito,Yoshihiro Ito,PERSON,0.16666666666666669,0.4420512820512821,en,1.0
-Chanko nabe,Chanko nabe,PERSON,0.47857142857142854,0.5857142857142856,en,1.0
-Ilbo Japanese,Ilbo Japanese,PERSON,0.03125,0.25,en,1.0
-Shinjiro Koizumi,Shinjiro Koizumi,PERSON,-0.0625,0.125,en,1.0
-Kuji Station,Kuji Station,PERSON,-0.125,0.375,en,1.0
-Masahiro Nemoto,Masahiro Nemoto,PERSON,-0.045,0.3,en,1.0
-Masaki Yasuda,Masaki Yasuda,PERSON,0.06666666666666667,0.5166666666666667,en,1.0
-Okabe Ta,Okabe Ta,PERSON,0.0,0.0,en,1.0
-Edgeworth Kuiper Belt,Edgeworth Kuiper Belt,PERSON,0.0,0.0,en,1.0
-Koji Fukada,Koji Fukada,PERSON,0.0,0.0,en,1.0
+Hideki Matsuyama,Hideki Matsuyama,PERSON,0.175,0.275,en,1.0
+Katsuaki Yoshida,Katsuaki Yoshida,PERSON,0.16666666666666666,0.3333333333333333,en,1.0
+Saya Anzai Keeping,Saya Anzai Keeping,PERSON,-0.033333333333333326,0.44999999999999996,en,1.0
+Hanada Ryokan,Hanada Ryokan,PERSON,0.8,0.2,en,1.0
+Sendai Beware,Sendai Beware,PERSON,-0.08888888888888886,0.5222222222222223,en,1.0
+◆ Gotenki,◆ Gotenki,PERSON,0.25,0.5,en,1.0
+Itaya Pass,Itaya Pass,PERSON,0.1,0.3,en,1.0
+Yowami Asada,Yowami Asada,PERSON,-0.06666666666666665,0.6,en,1.0
+■Manabu Sakai,■Manabu Sakai,PERSON,0.4,1.0,en,1.0
+Yodai Yamamoto,Yodai Yamamoto,PERSON,-0.125,0.375,en,1.0
+Anonymous @o,Anonymous @o,PERSON,0.0,0.0,en,1.0
+Masayuki Morisaki,Masayuki Morisaki,PERSON,0.0,0.0,en,1.0
+Katsuhisa Namase,Katsuhisa Namase,PERSON,0.8,0.2,en,1.0
+Daiyuji Temple,Daiyuji Temple,PERSON,0.0,0.0,en,1.0
+Katsumi Hattori,Katsumi Hattori,PERSON,0.13142857142857142,0.30428571428571427,en,1.0
+Tottori Futon,Tottori Futon,PERSON,0.4375,0.55,en,1.0
+Fumiyuki Nakanishi,Fumiyuki Nakanishi,PERSON,0.1,0.7,en,1.0
+Hanzawa Naosuke Sangokan Shinsha,Hanzawa Naosuke Sangokan Shinsha,PERSON,0.0,0.0,en,1.0
+Wanderly YS001 - One,Wanderly YS001 - One,PERSON,0.0,0.0,en,1.0
+Lorenzo Maria Pacini,Lorenzo Maria Pacini,PERSON,0.05,0.2,en,1.0
+Hiroyuki Goto,Hiroyuki Goto,PERSON,0.0,0.0,en,1.0
+[Rice Cooker Recipes,[Rice Cooker Recipes,PERSON,0.7166666666666667,0.9166666666666667,en,1.0
+Yosuke Matsuoka,Yosuke Matsuoka,PERSON,0.0,0.0,en,1.0
+Song Rui,Song Rui,PERSON,0.13142857142857142,0.30428571428571427,en,1.0
+Takeshi Tomizawa,Takeshi Tomizawa,PERSON,0.2,0.5399999999999999,en,1.0
