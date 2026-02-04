@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-01-15T12:13:00+00:00,,0.4576166844129821,1,3,ja,,
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-01-20T03:55:00+00:00,,0.4492105230687911,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-01-26T04:08:00+00:00,,0.4489564602251044,1,2,ja,,
-'142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-04T04:21:00+00:00,Japan,0.4486243141247029,0,1,ja,EAS,Asia
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-01-15T10:56:00+00:00,,0.4445609699530787,1,2,ja,,
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-01-29T04:18:00+00:00,Japan,0.444150006437987,1,1,ja,EAS,Asia
@@ -49,6 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f7179aa00',extremes,Volcano,#b83202,eonet,フィリピン火山,2026-01-15T10:56:00+00:00,Philippines,0.4222808906448024,1,2,ja,SEA,Asia
 'c266e23417',extremes,Earthquake,#870007,usgs,千葉地震,2026-01-19T04:02:00+00:00,Japan,0.4196152119057117,1,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-01-27T03:58:00+00:00,,0.4182350820292492,1,2,ja,,
+'142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-04T04:21:00+00:00,Japan,0.4120807420059974,1,1,ja,EAS,Asia
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.4107592956959692,1,1,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-02-02T04:36:00+00:00,Japan,0.4083697329584307,1,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-01-15T10:56:00+00:00,Japan,0.4057112378111996,1,1,ja,EAS,Asia
@@ -94,8 +94,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,ja,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,コルシャン地震,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,ja,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,ペルーの地震,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,ja,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,地震 ollagüe,2026-01-15T10:56:00+00:00,Chile,0.31985656272615726,0,1,ja,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.31985378893005517,0,1,ja,SES,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,地震 ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,ja,SWS,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,ja,SES,South-America
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.3184956739722786,1,3,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
