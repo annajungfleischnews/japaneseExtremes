@@ -64,9 +64,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-01-17T03:44:00+00:00,,0.391299603127642,1,2,ja,,
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-01-15T10:56:00+00:00,Japan,0.3807609019547067,2,1,ja,EAS,Asia
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-02-03T04:27:00+00:00,Japan,0.3788309670665012,1,1,ja,EAS,Asia
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,ja,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-01-22T03:59:00+00:00,,0.36948537942463744,1,1,ja,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-01-21T03:55:00+00:00,,0.3657646127310858,0,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-01-15T10:56:00+00:00,,0.3638794102459015,0,1,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3634465645573042,1,1,ja,,
