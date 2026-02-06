@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.669436956739176,2,3,ja,EAS,Asia
+'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.6821224632282996,3,3,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.6198233445227814,2,3,ja,EAS,Asia
 '68eb7178de',extremes,Earthquake,#870007,usgs,安来町地震,2026-01-15T10:56:00+00:00,Japan,0.6135952587286382,2,1,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
@@ -77,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-01-17T03:44:00+00:00,Palau,0.3508857762947402,1,1,ja,EPO,Pacific Ocean
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,ja,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,ja,,
-'3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-01-20T03:55:00+00:00,,0.3480532759672765,0,1,ja,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,ja,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,ja,,
@@ -107,6 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-01-15T10:20:00+00:00,,0.3007693883410344,1,2,ja,,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-01-15T10:56:00+00:00,Japan,0.2978159949532279,2,1,ja,EAS,Asia
+'3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-01-15T10:39:00+00:00,,0.29615324622156625,2,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.2954448205880036,2,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
 '45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
