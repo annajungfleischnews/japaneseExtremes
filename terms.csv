@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab96b56b56',extremes,Earthquake,#870007,usgs,浜頓別地震,2026-01-29T04:18:00+00:00,Japan,0.541671896045193,2,1,ja,RFE,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5387422091268832,2,3,ja,,
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2026-02-04T04:21:00+00:00,Japan,0.5287444722330399,1,2,ja,EAS,Asia
+'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-02-06T04:27:00+00:00,Japan,0.5283844760276856,0,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-01-15T10:56:00+00:00,Japan,0.5117400239237708,5,1,ja,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-01-15T10:56:00+00:00,Japan,0.5056864479960534,3,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
