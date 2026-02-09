@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.6821224632282996,3,3,ja,EAS,Asia
+'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.6620277810167818,4,3,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.6198233445227814,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
 '2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.5713895784847061,2,1,ja,EAS,Asia
@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4650629566440142,1,1,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.4647680853395362,1,2,ja,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-01-23T04:02:00+00:00,,0.46121810814599,1,2,ja,,
-'8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-02-09T04:39:00+00:00,Japan,0.46069067128373864,0,1,ja,EAS,Asia
+'8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-02-09T04:39:00+00:00,Japan,0.4606906712837386,0,1,ja,EAS,Asia
 '56368a7c0e',extremes,Earthquake,#870007,usgs,松江地震,2026-01-17T03:44:00+00:00,Japan,0.4601396651096385,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.4576768699156554,1,3,ja,,
@@ -96,7 +96,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,ja,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,ja,SIO,Indian Ocean
 '3a67915e02',extremes,Earthquake,#870007,usgs,ペルーの地震,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,ja,NWS,South-America
-'76ad379230',extremes,Earthquake,#870007,usgs,ペトロパブロフスク・カムチャツキー地震,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,ja,RFE,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧フィティア,2026-01-31T04:16:00+00:00,,0.3187607686933643,0,1,ja,ESAF,Africa
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-01-15T10:20:00+00:00,,0.3184956739722786,1,3,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,ja,,
@@ -108,7 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,嵐 ノースシドニー あられ嵐 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,ja,EAU,Oceania
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,ビルマ ミャンマー地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,0,1,ja,SAS,Asia
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,ビクトリアの温暖な気候,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,ja,SAU,Oceania
-'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 17s,2026-01-24T03:48:00+00:00,,0.31523351288374885,0,1,ja,NAU,Oceania
+'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 17s,2026-01-24T03:48:00+00:00,,0.3152335128837488,0,1,ja,NAU,Oceania
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
@@ -132,6 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,地震 ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,ja,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,ja,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,津波トベロ,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,ja,SEA,Asia
+'76ad379230',extremes,Earthquake,#870007,usgs,ペトロパブロフスク・カムチャツキー地震,2026-01-15T10:56:00+00:00,Russia,0.2718656567756997,1,1,ja,RFE,Asia
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,ja,SPO,Pacific Ocean
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,ja,MED,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-01-15T10:20:00+00:00,,0.2177658540866849,1,1,ja,,
