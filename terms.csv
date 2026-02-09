@@ -85,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-04T04:21:00+00:00,Japan,0.3508686907050978,2,1,ja,EAS,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,ja,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,ja,,
-'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-01-22T03:59:00+00:00,,0.3363145942918912,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,ja,,
@@ -105,7 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-02-05T04:28:00+00:00,Australia,0.3156641398649547,0,1,ja,SAU,Oceania
 '55e8cccd81',extremes,Earthquake,#870007,usgs,サンファン地震,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,ja,SWS,South-America
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,嵐 ノースシドニー あられ嵐 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,ja,EAU,Oceania
-'fc0fd225f3',extremes,Earthquake,#870007,usgs,ビルマ ミャンマー地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531004,0,1,ja,SAS,Asia
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,ビルマ ミャンマー地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,0,1,ja,SAS,Asia
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,ビクトリアの温暖な気候,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,ja,SAU,Oceania
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
@@ -118,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-01-15T10:39:00+00:00,,0.2961532462215662,2,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.2954448205880036,2,1,ja,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-01-15T10:56:00+00:00,,0.2919004901910539,1,1,ja,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-01-18T03:56:00+00:00,,0.2886434313704752,1,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
 '45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
