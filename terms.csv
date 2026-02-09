@@ -103,6 +103,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,ja,CAU,Oceania
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,洪水 元熱帯低気圧による深刻な洪水 ティファニー 南オーストラリア州 2022,2026-02-08T04:44:00+00:00,Australia,0.3157225988168198,0,1,ja,SAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-02-05T04:28:00+00:00,Australia,0.3156641398649547,0,1,ja,SAU,Oceania
+'55e8cccd81',extremes,Earthquake,#870007,usgs,サンファン地震,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,ja,SWS,South-America
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,嵐 ノースシドニー あられ嵐 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,ja,EAU,Oceania
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,ビルマ ミャンマー地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531004,0,1,ja,SAS,Asia
+'1a066ba374',extremes,Heat Wave,#c40202,acwe,ビクトリアの温暖な気候,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,ja,SAU,Oceania
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
@@ -115,8 +119,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.2954448205880036,2,1,ja,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-01-15T10:56:00+00:00,,0.2919004901910539,1,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,アンブリム火山バヌアツ,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ja,SPO,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ja,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ja,EAU,Oceania
