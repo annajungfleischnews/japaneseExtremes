@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
-'2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.5713895784847061,2,1,ja,EAS,Asia
 '3ab16eefc6',extremes,Earthquake,#870007,usgs,塩尻地震,2026-01-15T12:13:00+00:00,Japan,0.5708603408221701,2,1,ja,EAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-01-15T10:39:00+00:00,,0.5571965642163136,2,3,ja,,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.5559941632618975,6,3,ja,EAS,Asia
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-01-15T10:56:00+00:00,Japan,0.4862459789127519,3,1,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-01-29T04:18:00+00:00,,0.4858596850248309,1,2,ja,,
+'2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.48568114171200016,3,1,ja,EAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.4850580648914193,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-02-06T04:27:00+00:00,Japan,0.4808485481949612,1,2,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.4751135656431697,1,3,ja,,
@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-01-15T10:56:00+00:00,,0.4356307143308171,1,2,ja,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-01-28T03:56:00+00:00,,0.4352185117509022,1,2,ja,,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-01-15T10:39:00+00:00,,0.4350351486689645,2,3,ja,,
-'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-02-10T04:42:00+00:00,Japan,0.4317545010762498,0,1,ja,EAS,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-02-07T04:19:00+00:00,,0.4315655470246947,1,3,ja,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-01-15T10:56:00+00:00,,0.4309235421236935,1,3,ja,,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-02-06T04:27:00+00:00,,0.4302477449075617,1,3,ja,,
@@ -78,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-02-03T04:27:00+00:00,Japan,0.3788309670665012,1,1,ja,EAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-01-22T03:59:00+00:00,,0.3694853794246374,1,1,ja,,
+'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-02-10T04:42:00+00:00,Japan,0.3674413709148123,1,1,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3634465645573042,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
 '0efa034224',extremes,Earthquake,#870007,usgs,穂高地震,2026-01-15T10:56:00+00:00,Japan,0.3560097925879964,1,1,ja,EAS,Asia
@@ -89,13 +89,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-02-10T04:42:00+00:00,,0.343563588876916,0,1,ja,,
 '1e74382429',extremes,Earthquake,#870007,usgs,高萩地震,2026-02-08T04:43:00+00:00,Japan,0.3394994763957399,2,1,ja,EAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-01-22T03:59:00+00:00,,0.3363145942918912,1,1,ja,,
-'9436706611',extremes,Earthquake,#870007,usgs,地震ナルト,2026-02-05T04:27:00+00:00,Japan,0.33529877694973514,2,1,ja,EAS,Asia
+'9436706611',extremes,Earthquake,#870007,usgs,地震ナルト,2026-02-05T04:27:00+00:00,Japan,0.3352987769497351,2,1,ja,EAS,Asia
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,ja,,
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-01-15T10:56:00+00:00,,0.3331322465222953,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,ja,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,ja,EAU,Oceania
-'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,ja,SIO,Indian Ocean
 '3a67915e02',extremes,Earthquake,#870007,usgs,ペルーの地震,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,ja,NWS,South-America
 'e9af766ecf',extremes,Earthquake,#870007,usgs,釜石地震,2026-02-07T04:19:00+00:00,Japan,0.3189924769272331,2,1,ja,EAS,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧フィティア,2026-01-31T04:16:00+00:00,,0.3187607686933643,0,1,ja,ESAF,Africa
@@ -136,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ja,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ja,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,オーストラリアの洪水,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,ja,CAU,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,ja,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,コルシャン地震,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,ja,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,地震 ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,ja,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,ja,SES,South-America
