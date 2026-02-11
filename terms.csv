@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.6198233445227814,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
 '2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.5713895784847061,2,1,ja,EAS,Asia
 '3ab16eefc6',extremes,Earthquake,#870007,usgs,塩尻地震,2026-01-15T12:13:00+00:00,Japan,0.5708603408221701,2,1,ja,EAS,Asia
@@ -8,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68eb7178de',extremes,Earthquake,#870007,usgs,安来町地震,2026-01-15T10:56:00+00:00,Japan,0.5523060449193424,3,1,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-01-17T03:44:00+00:00,Japan,0.5461088538838464,1,3,ja,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-01-17T03:44:00+00:00,,0.5455463769098214,2,3,ja,,
+'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.5448676345110308,3,3,ja,EAS,Asia
 'ab96b56b56',extremes,Earthquake,#870007,usgs,浜頓別地震,2026-01-29T04:18:00+00:00,Japan,0.541671896045193,2,1,ja,RFE,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5387422091268832,2,3,ja,,
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2026-02-04T04:21:00+00:00,Japan,0.5287444722330399,1,2,ja,EAS,Asia
@@ -24,7 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a2f7d542b',extremes,Earthquake,#870007,usgs,大山地震,2026-01-22T03:59:00+00:00,Japan,0.4711891803984561,1,2,ja,EAS,Asia
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.4710995356861749,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4706035431474121,2,2,ja,EAS,Asia
-'606d10fe95',extremes,Earthquake,#870007,usgs,白岡地震,2026-02-10T04:42:00+00:00,Japan,0.46840223363167155,2,2,ja,EAS,Asia
+'606d10fe95',extremes,Earthquake,#870007,usgs,白岡地震,2026-02-10T04:42:00+00:00,Japan,0.4684022336316715,2,2,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-01-30T04:21:00+00:00,Japan,0.4655834663910225,1,1,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.4647680853395362,1,2,ja,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-01-23T04:02:00+00:00,,0.46121810814599,1,2,ja,,
