@@ -110,6 +110,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,aidr,オーストラリアの洪水,2026-02-05T04:28:00+00:00,Australia,0.3154147599862211,0,1,ja,EAU,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,南サンドイッチ諸島地域の地震,2026-02-05T04:27:00+00:00,,0.3153393376474946,0,1,ja,SOO,Antarctica
 '5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 17s,2026-01-24T03:48:00+00:00,,0.3152335128837488,0,1,ja,NAU,Oceania
+'255621cc4c',extremes,Earthquake,#870007,usgs,パングナ地震,2026-01-31T04:16:00+00:00,Papua New Guinea,0.3152302515713779,0,1,ja,EPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,アークレイリ地震,2026-01-25T04:05:00+00:00,Iceland,0.3151483773883602,0,1,ja,GIC,Europe
 '924236ebf8',extremes,Earthquake,#870007,usgs,イェナンヤン地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3151332194060324,0,1,ja,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,アラスカ地震,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,ja,NPO,Pacific Ocean
@@ -117,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,ja,SPO,Pacific Ocean
 '40726d14cc',extremes,Tsunami,#690191,usgs,津波アダク,2026-01-30T04:21:00+00:00,Alaska,0.3150398318435446,0,1,ja,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,バタガイ地震,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,1,ja,RAR,Europe
+'381ceff412',extremes,Earthquake,#870007,usgs,地震キンベ,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
@@ -131,8 +133,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-01-18T03:56:00+00:00,,0.2886434313704752,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.2871858216040775,2,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,アンブリム火山バヌアツ,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ja,SPO,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ja,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ja,EAU,Oceania
