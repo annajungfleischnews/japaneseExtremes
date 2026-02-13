@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5797058538991167,1,1,ja,EAS,Asia
+'22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.6186500658142492,2,2,ja,EAS,Asia
 '3ab16eefc6',extremes,Earthquake,#870007,usgs,塩尻地震,2026-01-15T12:13:00+00:00,Japan,0.5708603408221701,2,1,ja,EAS,Asia
 'ab96b56b56',extremes,Earthquake,#870007,usgs,浜頓別地震,2026-01-29T04:18:00+00:00,Japan,0.569001080333754,5,1,ja,RFE,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-01-15T10:39:00+00:00,,0.5571965642163136,2,3,ja,,
