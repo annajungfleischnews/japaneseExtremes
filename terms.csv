@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5387422091268832,2,3,ja,,
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2026-02-04T04:21:00+00:00,Japan,0.5287444722330399,1,2,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-01-17T03:44:00+00:00,Japan,0.5196933208012695,2,3,ja,EAS,Asia
-'d1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-01-15T10:56:00+00:00,Japan,0.5117400239237708,5,1,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-01-15T10:39:00+00:00,,0.5005961758088091,2,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-01-15T10:56:00+00:00,Japan,0.4862459789127519,3,1,ja,EAS,Asia
@@ -79,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-01-29T04:18:00+00:00,Japan,0.377977550472289,2,1,ja,EAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-01-22T03:59:00+00:00,,0.3694853794246374,1,1,ja,,
+'57c3ca9f77',extremes,Earthquake,#870007,usgs,南極地震,2026-02-04T04:21:00+00:00,,0.36828181694472173,1,2,ja,EAN,
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-02-10T04:42:00+00:00,Japan,0.3674413709148123,1,1,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-01-20T03:55:00+00:00,,0.3634465645573042,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-01-15T10:57:00+00:00,Palau,0.3561209595458016,1,1,ja,EPO,Pacific Ocean
@@ -109,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6faf696dd9',extremes,Earthquake,#870007,usgs,アークレイリ地震,2026-01-25T04:05:00+00:00,Iceland,0.3151483773883602,0,1,ja,GIC,Europe
 '924236ebf8',extremes,Earthquake,#870007,usgs,イェナンヤン地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3151332194060324,0,1,ja,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,アラスカ地震,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,ja,NPO,Pacific Ocean
-'57c3ca9f77',extremes,Earthquake,#870007,usgs,南極地震,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,ja,EAN,
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,ja,SPO,Pacific Ocean
 '23ad2bb822',extremes,Earthquake,#870007,usgs,ロシアの地震,2026-02-05T04:27:00+00:00,Russia,0.3149056904388365,0,1,ja,NPO,Pacific Ocean
 '381ceff412',extremes,Earthquake,#870007,usgs,地震キンベ,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,ja,EPO,Pacific Ocean
@@ -146,17 +145,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,ja,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,津波トベロ,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,ja,SEA,Asia
 '76ad379230',extremes,Earthquake,#870007,usgs,ペトロパブロフスク・カムチャツキー地震,2026-01-15T10:56:00+00:00,Russia,0.2718656567756997,1,1,ja,RFE,Asia
-'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧フィティア,2026-01-31T04:16:00+00:00,,0.27094665338935964,1,1,ja,ESAF,Africa
+'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧フィティア,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,ja,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,ja,SPO,Pacific Ocean
-'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.26865244237006497,1,1,ja,CAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,ja,CAU,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,ニューサウスウェールズ州の洪水 2022,2026-02-01T04:41:00+00:00,Australia,0.2682169020241674,1,1,ja,EAU,Oceania
-'eabe6169ab',extremes,Earthquake,#870007,usgs,トンガ地震,2026-02-05T04:27:00+00:00,Tonga,0.26817079300260516,1,1,ja,SPO,Pacific Ocean
+'eabe6169ab',extremes,Earthquake,#870007,usgs,トンガ地震,2026-02-05T04:27:00+00:00,Tonga,0.2681707930026051,1,1,ja,SPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,ビルマ ミャンマー地震,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2681080399540135,1,1,ja,SAS,Asia
 '65b4a087de',extremes,Earthquake,#870007,usgs,カランシーヤ地震,2026-02-05T04:27:00+00:00,Yemen,0.2679620714354747,1,1,ja,ARS,Indian Ocean
 '40726d14cc',extremes,Tsunami,#690191,usgs,津波アダク,2026-01-30T04:21:00+00:00,Alaska,0.2677838570670129,1,1,ja,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,バタガイ地震,2026-01-31T04:16:00+00:00,Russia,0.2676292832318591,1,1,ja,RAR,Europe
-'4ea40cfaf4',extremes,Earthquake,#870007,usgs,プリンスエドワード諸島地域の地震,2026-02-05T04:27:00+00:00,,0.26755428877510057,1,1,ja,SOO,Antarctica
+'4ea40cfaf4',extremes,Earthquake,#870007,usgs,プリンスエドワード諸島地域の地震,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,ja,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,ヴィリュチンスク地震,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,ja,RFE,Asia
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-01-15T10:39:00+00:00,,0.251128097499803,3,1,ja,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,ja,MED,Europe
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-01-15T10:20:00+00:00,,0.2177658540866849,1,1,ja,,
