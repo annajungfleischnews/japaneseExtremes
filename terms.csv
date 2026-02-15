@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-01-17T03:44:00+00:00,,0.5455463769098214,2,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.5448676345110308,3,3,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5387422091268832,2,3,ja,,
+'52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.5315267585239669,2,3,ja,,
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2026-02-04T04:21:00+00:00,Japan,0.5287444722330399,1,2,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-01-17T03:44:00+00:00,Japan,0.5196933208012695,2,3,ja,EAS,Asia
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-02-14T04:21:00+00:00,Japan,0.5153320550854078,1,1,ja,NPO,Pacific Ocean
@@ -20,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.4850580648914193,1,3,ja,,
 'ab96b56b56',extremes,Earthquake,#870007,usgs,浜頓別地震,2026-01-29T04:18:00+00:00,Japan,0.4839509482836908,6,1,ja,RFE,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-02-06T04:27:00+00:00,Japan,0.4808485481949612,1,2,ja,EAS,Asia
-'52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.4751135656431697,1,3,ja,,
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.4710995356861749,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4706035431474121,2,2,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-01-30T04:21:00+00:00,Japan,0.4655834663910225,1,1,ja,EAS,Asia
