@@ -125,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,洪水降雨と洪水クイーンズランド州 2022 年 2 月 3 月,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,ja,EAU,Oceania
 '85a135fac3',extremes,Earthquake,#870007,usgs,地震オゼルノフスキー,2026-02-05T04:27:00+00:00,Russia,0.3127341842794927,0,1,ja,NPO,Pacific Ocean
 '34fd30e809',extremes,Earthquake,#870007,usgs,地震カラマ,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,0,1,ja,SWS,South-America
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,地震ココポ,2026-02-05T04:27:00+00:00,Papua New Guinea,0.312081541659678,0,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-01-15T10:56:00+00:00,Japan,0.3070984614679632,2,1,ja,EAS,Asia
 '0a62da33da',extremes,Earthquake,#870007,usgs,中頓別地震,2026-01-15T10:56:00+00:00,Japan,0.3066391760242305,2,1,ja,RFE,Asia
@@ -140,8 +141,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.2871858216040775,2,1,ja,,
 '9436706611',extremes,Earthquake,#870007,usgs,地震ナルト,2026-02-05T04:27:00+00:00,Japan,0.2850039604072748,3,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,アンブリム火山バヌアツ,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ja,SPO,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ja,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ja,EAU,Oceania
