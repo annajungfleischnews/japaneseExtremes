@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56368a7c0e',extremes,Earthquake,#870007,usgs,松江地震,2026-01-17T03:44:00+00:00,Japan,0.4601396651096385,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.4576768699156554,1,3,ja,,
+'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.45649803803041855,0,1,ja,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-01-20T03:55:00+00:00,,0.4492105230687911,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-01-26T04:08:00+00:00,,0.4489564602251044,1,2,ja,,
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
@@ -114,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,アラスカ地震,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,ja,NPO,Pacific Ocean
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,ja,SPO,Pacific Ocean
 '381ceff412',extremes,Earthquake,#870007,usgs,地震キンベ,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,ja,EPO,Pacific Ocean
+'02f56319a7',extremes,Flood,#030ba1,aidr,オーストラリアの洪水,2026-02-05T04:28:00+00:00,Australia,0.31458359134429636,0,1,ja,EAU,Oceania
 '90e6558608',extremes,Earthquake,#870007,usgs,大西洋中部中部南部の地震,2026-02-05T04:27:00+00:00,,0.3143907668644234,0,1,ja,SAO,Atlantic Ocean
 '685995fcc4',extremes,Earthquake,#870007,usgs,マッコーリー島の西で地震,2026-02-05T04:27:00+00:00,,0.3137478705269341,0,1,ja,SOO,Antarctica
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-02-16T04:37:00+00:00,,0.313195137262845,0,1,ja,,
