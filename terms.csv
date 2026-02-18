@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.5457279069544311,7,3,ja,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-01-17T03:44:00+00:00,,0.5455463769098214,2,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-01-15T10:56:00+00:00,Japan,0.5448676345110308,3,3,ja,EAS,Asia
+'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.5354341283395245,2,3,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.5315267585239669,2,3,ja,,
 '82b578b3aa',extremes,Earthquake,#870007,usgs,北茨城地震,2026-02-04T04:21:00+00:00,Japan,0.5287444722330399,1,2,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-01-15T12:14:00+00:00,Japan,0.5258526459421118,3,1,ja,EAS,Asia
@@ -15,10 +16,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9af8262b7',extremes,Earthquake,#870007,usgs,地震まき,2026-02-15T04:34:00+00:00,Japan,0.508596789515325,1,3,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-01-15T10:39:00+00:00,,0.5005961758088091,2,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
-'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-01-15T10:56:00+00:00,Japan,0.4862459789127519,3,1,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-01-29T04:18:00+00:00,,0.4858596850248309,1,2,ja,,
 '2725619969',extremes,Earthquake,#870007,usgs,地震花輪,2026-01-15T12:13:00+00:00,Japan,0.4856811417120001,3,1,ja,EAS,Asia
-'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-01-15T10:39:00+00:00,,0.4850580648914193,1,3,ja,,
 'ab96b56b56',extremes,Earthquake,#870007,usgs,浜頓別地震,2026-01-29T04:18:00+00:00,Japan,0.4839509482836908,6,1,ja,RFE,Asia
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.4710995356861749,1,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-01-19T04:02:00+00:00,Japan,0.4706035431474121,2,2,ja,EAS,Asia
@@ -74,7 +73,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-01-24T03:48:00+00:00,,0.3867979383510891,1,3,ja,,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-02-15T04:34:00+00:00,,0.3856293044545967,0,1,ja,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-01-25T04:05:00+00:00,,0.3826466177585664,2,1,ja,,
-'1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-01-15T10:56:00+00:00,Japan,0.3807609019547067,2,1,ja,EAS,Asia
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-01-29T04:18:00+00:00,Japan,0.377977550472289,2,1,ja,EAS,Asia
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-02-14T04:21:00+00:00,Japan,0.376730763360895,2,1,ja,EAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
@@ -140,19 +138,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-01-21T03:55:00+00:00,,0.2871858216040775,2,1,ja,,
 '9436706611',extremes,Earthquake,#870007,usgs,地震ナルト,2026-02-05T04:27:00+00:00,Japan,0.2850039604072748,3,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-01-15T10:20:00+00:00,,0.2754048417680758,1,1,ja,,
-'45f861329d',extremes,Landslide,#572c03,aidr,地滑り アデレードヒルズ 南オーストラリア州,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ja,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,北アメリカの冬の嵐、ニューヨーク,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ja,ENA,North-America
-'a241cba1ba',extremes,Volcano,#b83202,eonet,アンブリム火山バヌアツ,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ja,SPO,Oceania
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,オーストラリアの川の氾濫,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ja,EAU,Oceania
-'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,ja,EAU,Oceania
-'02f56319a7',extremes,Flood,#030ba1,wmo,オーストラリアの洪水,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,ja,CAU,Oceania
-'3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,ja,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,ja,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,コルシャン地震,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,ja,SWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,地震 ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,ja,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,サン・アグスティン・デ・ヴァッレ・フェルティル地震,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,ja,SES,South-America
-'1a17358ebb',extremes,Tsunami,#690191,usgs,津波トベロ,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,ja,SEA,Asia
-'76ad379230',extremes,Earthquake,#870007,usgs,ペトロパブロフスク・カムチャツキー地震,2026-01-15T10:56:00+00:00,Russia,0.2718656567756997,1,1,ja,RFE,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧フィティア,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,ja,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,ja,SPO,Pacific Ocean
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,ja,CAU,Oceania
