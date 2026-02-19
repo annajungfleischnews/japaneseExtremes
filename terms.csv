@@ -51,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c266e23417',extremes,Earthquake,#870007,usgs,千葉地震,2026-01-19T04:02:00+00:00,Japan,0.4196152119057117,1,1,ja,EAS,Asia
 'ec5f6eaf6d',extremes,Earthquake,#870007,usgs,岩泉地震,2026-01-28T03:56:00+00:00,Japan,0.4184531124755295,2,2,ja,EAS,Asia
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-01-15T10:56:00+00:00,,0.4119623630019894,1,3,ja,,
+'1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-02-05T04:27:00+00:00,Japan,0.41185172128650976,0,1,ja,EAS,Asia
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.4107592956959692,1,1,ja,EAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-01-15T10:56:00+00:00,,0.4097475437090162,1,2,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-02-06T04:27:00+00:00,Japan,0.408721505965717,2,1,ja,EAS,Asia
@@ -160,7 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 20s,2026-02-07T04:19:00+00:00,,0.2666602826443421,1,1,ja,NAU,Oceania
 '06972a2776',extremes,Flood,#030ba1,acwe,鉄砲水ニューサウスウェールズ州,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,ja,EAU,Oceania
 '85a135fac3',extremes,Earthquake,#870007,usgs,地震オゼルノフスキー,2026-02-05T04:27:00+00:00,Russia,0.2658240566375687,1,1,ja,NPO,Pacific Ocean
-'34fd30e809',extremes,Earthquake,#870007,usgs,地震カラマ,2026-02-05T04:27:00+00:00,Chile,0.26572087518581855,1,1,ja,SWS,South-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,地震カラマ,2026-02-05T04:27:00+00:00,Chile,0.2657208751858185,1,1,ja,SWS,South-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,ja,MED,Europe
 '65b4a087de',extremes,Earthquake,#870007,usgs,カランシーヤ地震,2026-02-05T04:27:00+00:00,Yemen,0.2277677607201534,2,1,ja,ARS,Indian Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,ヴィリュチンスク地震,2026-02-05T04:27:00+00:00,Russia,0.2270497301715421,2,1,ja,RFE,Asia
