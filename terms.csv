@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-01-30T04:21:00+00:00,Japan,0.4461959914323691,2,1,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-01-15T10:56:00+00:00,,0.4445609699530787,1,2,ja,,
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-01-17T03:44:00+00:00,Japan,0.4427550425336998,1,1,ja,EAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-01-20T03:55:00+00:00,,0.4417050654812759,1,3,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.4392263198676914,1,3,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4392056956416935,1,2,ja,,
@@ -170,4 +169,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,ja,MED,Europe
 '65b4a087de',extremes,Earthquake,#870007,usgs,カランシーヤ地震,2026-02-05T04:27:00+00:00,Yemen,0.2277677607201534,2,1,ja,ARS,Indian Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,ヴィリュチンスク地震,2026-02-05T04:27:00+00:00,Russia,0.2270497301715421,2,1,ja,RFE,Asia
-'06972a2776',extremes,Flood,#030ba1,acwe,鉄砲水ニューサウスウェールズ州,2026-01-31T04:17:00+00:00,Australia,0.22618582285548544,2,1,ja,EAU,Oceania
+'06972a2776',extremes,Flood,#030ba1,acwe,鉄砲水ニューサウスウェールズ州,2026-01-31T04:17:00+00:00,Australia,0.2261858228554854,2,1,ja,EAU,Oceania
