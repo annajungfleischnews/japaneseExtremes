@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5674936834350822,4,3,ja,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-01-15T12:13:00+00:00,,0.5661633186020159,3,3,ja,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-01-15T10:39:00+00:00,,0.5571965642163136,2,3,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.5562119465699048,2,3,ja,,
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-01-22T03:59:00+00:00,,0.5555035791016381,5,3,ja,,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-01-15T10:57:00+00:00,Japan,0.5457279069544311,7,3,ja,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-01-17T03:44:00+00:00,,0.5455463769098214,2,3,ja,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.5453529025386057,2,2,ja,,
