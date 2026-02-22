@@ -3103,3 +3103,155 @@ T-J2140
 2026223
 background illustr… [+33 chars]",,2026-02-21 15:42:57+00:00,random,,,
 f1083635f5e14fd41b5c1249c7584823,2026-02-06T01:00:00Z,Heat Wave,最も暑い夏,www.gizmodo.jp,ja,0.1,"Hitzebeständig bis 800 Grad! Ein brennbarer Koffer für mobile Akkus, der Sie vor Notfällen schützt. Bild: GOPPA-Mobilbatterie fängt Feuer! Ich schaue mir in letzter Zeit viel die Nachrichten an. Produkte, die Lithium-Ionen-Batterien und nicht nur mobile Batterien verwenden, müssen mit Vorsicht verwendet werden. Lassen Sie sie beispielsweise nicht an heißen Orten wie im Sommer im Auto liegen, prüfen Sie sie auf Risse und überprüfen Sie das Nutzungsalter. Wenn ich jedoch so viele Nachrichten über Brände im Zusammenhang mit Mobiltelefonbatterien sehe, bin ich beunruhigt, auch wenn ich vorsichtig bin. Das möchte ich solchen Menschen ans Herz legen.",耐熱800度！ 万が一から身を守る、モバイルバッテリー用燃えにくいケース,Image:GOPPAモバイルバッテリーが火を吹いた！というニュース、最近よく見ます。モバイルバッテリーに限らずリチウムイオン電池を使った製品は、夏場の車内など暑いところに置かない、ヒビなどがないかチェックする、使用年数を確認するなど、使い方に注意が必要です。ただ、これだけモバイルバッテリー関連の発火ニュースを見ていると、注意していても不安になります。そんな人におすすめしたいのがこれ、「モバイルバ,"Heat resistant to 800 degrees! A flammable case for mobile batteries that protects you from emergencies. Image:GOPPA mobile battery catches fire! I've been watching the news a lot lately. Products that use lithium-ion batteries, not just mobile batteries, must be used with care, such as not leaving them in hot places such as inside a car in the summer, checking for cracks, and checking the age of use. However, seeing so much news about mobile battery-related fires makes me feel anxious even if I am careful. This is what I would like to recommend to such people.","Caloris resistens ad 800 gradus! Causa flammabilis ad gravidas mobiles, quae te ab repentinis protegit. Image:GOPPA mobile altilium ignem accendit! Vidi nuper multum nuntium. Producta, quae gravida lithio-ion utuntur, non solum gravida mobilia, diligenter utendum est, qualia non sunt in locis calidis, qualia sunt intra currus aestate, rimas inprimendo, et inhibendo aetatis usum. Nihilominus, cum tanta nuntia de incendiis pugnae actis mobilibus me sollicitam sentiamus etiam si sollicitus sum. Hoc est quod talibus hominibus commendare velim.",https://www.gizmodo.jp/2026/02/goppa.html,https://media.loom-app.com/gizmodo/dist/images/2026/02/05/166435-11-efbf988211d1d013aeb105.jpg?w=1280&h=630&f=jpg,,Copyright © Mediagene Inc. All Rights Reserved.,,2026-02-21 20:43:38+00:00,random,,,
+af95e120cee621807318e9c7e540b046,2026-02-17T01:34:26Z,Drought,日照り続く日本,tech.connehito.com,ja,0.14285714285714285,"Dateninfrastruktur erstellt mit Firebase Analytics × BigQuery × Dataform. Hallo zusammen. Mein Name ist Takapy (@takapy0210). In letzter Zeit führe ich jeden Tag ein Tagebuch mit der Hobonichi Techo-App. Seltsamerweise hatte ich, als ich anfing, ein Tagebuch zu schreiben, das Gefühl, etwas zu fotografieren, und ich fing an, jeden Tag zufällige Landschaften zu fotografieren. Ich mache damit erst seit etwas mehr als einem Monat weiter, aber es macht Spaß, auf meine früheren Tagebucheinträge zurückzublicken. Dieses Mal möchte ich in zwei Teilen den aktuellen Stand der Dateninfrastruktur vorstellen, die Konehito unterstützt. In diesem ersten Teil des Artikels besprechen wir Architekturdesign und Firebase Analytics-RAW-Daten ...",Firebase Analytics × BigQuery × Dataformで構築するデータ基盤,みなさんこんにちは。たかぱい（@takapy0210）です。 最近、ほぼ日手帳アプリで、毎日日記をつけるようにしています。 不思議なことに日記をつけるとなると、何かしら写真を撮りたくなってしまい、毎日何気ない風景などの写真を撮るようになりました。 まだ継続して1ヶ月強くらいですが、過去の日記を振り返るのが楽しいです。 さて今回は、コネヒトを支えるデータ基盤の現在地について前後編の2部構成で紹介していこうと思います。 前編となる本記事では、アーキテクチャの設計やFirebase AnalyticsのRAWデータをど…,"Data infrastructure built with Firebase Analytics × BigQuery × Dataform. Hello everyone. My name is Takapy (@takapy0210). Lately, I've been keeping a diary every day using the Hobonichi Techo app. Strangely enough, when I started writing a diary, I felt like taking pictures of something, and I started taking pictures of random landscapes every day. I've only been continuing this for a little over a month, but it's fun to look back on my past diary entries. Now, this time, I would like to introduce the current status of the data infrastructure that supports Konehito in two parts. In this first part of the article, we will discuss architecture design and Firebase Analytics RAW data...","Data infrastructura cum Firebase Analytics BigQuery × Dataform. Salvete omnes. Meum nomen est Takapy (@takapy0210). Nuper habui diarium quotidie adhibito Hobonichi Techo app. Satis mirum, cum commentarium scribere coepi, quasi imagines alicuius rei sensi capere, et imagines temere landscapes cottidie accipere coepi. Hoc solum paulo plusquam mensem continuavi, sed suus fun ut praeteritum commentarium respicerem. Nunc, hoc tempore, praesentem statum notitiarum infrastructurarum, quae Konehito sustinet, in duas partes inducere velim. In hac prima parte articuli, de consilio architecturae tractabimus et de Firebase Analytics RAW data...",https://tech.connehito.com/entry/2026/02/17/103426,https://ogimage.blog.st-hatena.com/8454420450094796513/17179246901351347033/1771292066,,"みなさんこんにちは。たかぱい（@takapy0210）です。
+
+最近、ほぼ日手帳アプリで、毎日日記をつけるようにしています。
+不思議なことに日記をつけるとなると、何かしら写真を撮りたくなってしまい、毎日何気ない風景などの写真を撮るようになりました。
+まだ継続して1ヶ月強くらいですが、過去の日記を振り返るのが楽しいです。
+
+さて今回は、コネヒトを支えるデータ基盤の現在地について前後編の2部構成で紹… [+8486 chars]",,2026-02-22 06:06:38+00:00,edo,Japan,EAS,Asia
+6b09177a730310c7cd414a55c34e3ec9,2026-02-09T04:00:36Z,Heat Wave,穏やかな冬,digiday.jp,ja,0.2857142857142857,"Kann AdCP bestehende Werbestandards erweitern? Die Zukunft des Werbebetriebs hat sich durch KI-Agenten und Branchenbedenken verändert. Artikelpunkte
+
+<ul>
+<li>AdCP weckt große Erwartungen als Open-Source-Brücke, die Werbetransaktionen im Zeitalter von KI-Agenten unterstützt</li>
+</ul>
+<ul>
+<li>Es bestehen anhaltende Bedenken hinsichtlich mangelnder Transparenz und Branchenfragmentierung, und einige argumentieren, dass bestehende Standards erweitert und integriert werden sollten</li>
+</ul>
+<ul>
+<li>Fortschrittliche Unternehmen wie MiQ haben mit dem Testbetrieb begonnen und freuen sich darauf, KI zur Visualisierung von Beständen und zur Verbesserung der Transaktionseffizienz einzusetzen</li>
+</ul>
+
+Vor etwas mehr als 100 Tagen wurde das Ads Context Protocol (Ads Context Protocol) eingeführt.",AdCP は既存の広告標準を拡張できる？　AIエージェントが変える広告運用の未来と業界の懸念,"記事のポイント
+
+<ul>
+<li>AdCPはAIエージェント時代の広告取引を支えるオープンソースの架け橋として大きな期待を集めている</li>
+</ul>
+<ul>
+<li>透明性の欠如や業界の断片化を懸念する声も根強く、既存の標準規格を拡張して統合すべきとの意見もある</li>
+</ul>
+<ul>
+<li>MiQなどの先進企業は試験運用を開始しており、AIによる在庫の可視化や取引の効率化に期待を寄せている</li>
+</ul>
+
+100日あまり前のこと、「アド・コンテクスト・プロトコル（Ads Conte…","Can AdCP extend existing advertising standards? The future of advertising operations changed by AI agents and industry concerns. Article points
+
+<ul>
+<li>AdCP is attracting great expectations as an open source bridge that supports advertising transactions in the age of AI agents</li>
+</ul>
+<ul>
+<li>There are persistent concerns about a lack of transparency and industry fragmentation, and some argue that existing standards should be expanded and integrated</li>
+</ul>
+<ul>
+<li>Advanced companies such as MiQ have begun trial operations and are looking forward to using AI to visualize inventory and improve transaction efficiency</li>
+</ul>
+
+Just over 100 days ago, the Ads Context Protocol (Ads Context Protocol) was launched.","Can AdCP extendere signa vendo existentium? Futuras operationes vendendi per AI agentium et industriam rerum mutatarum sunt. Articuli puncta
+
+<ul>
+<li>AdCP magnam spem allicit tamquam pons apertus qui negotia vendo sustinet in agentium aetate AI</li>
+</ul>
+<ul>
+<li>Pertinaces sollicitudines circa defectum perspicuitatis et industriae ruptionis sunt, et quidam contendunt signa exsistentia augeri et integrari</li>.
+</ul>
+<ul>
+<li> Societates progressae ut MiQ operationes iudicii inceperunt et exspectant ut AI ad inventarium visualisandum et ad efficientiam transactionem emendandam</li> spectantes.
+</ul>
+
+Eisdem abhinc diebus, Protocollum Ads Contextum (Protocollum Ads Context) deductum est.",https://digiday.jp/agencies/inside-the-debate-over-agentic-advertising-and-standards/,https://digiday.jp/wp-content/uploads/2026/02/agentic-ai-pubs-digiday_eye.jpg,,"100Ads Context ProtocolAdCPDigiday
+AdCPAIDigidayAIOpenRTBYouTube
+Advertisement
+AAO
+AdCP
+AdCPAgentic Advertising Organization
+AAO440IABCEO3Scope3
+AI
+EbiquityCEOAAOAAOAIAdCPAIAdAgents.json
+AAO… [+421 chars]",,2026-02-22 06:06:38+00:00,random,,,
+3b6db2cb0ae245870368a17dc663cf6e,2026-02-20T06:00:00Z,Earthquake,セベロクリルスク地震,blog.cybozu.io,ja,0.2857142857142857,"Eine Geschichte über die Erstellung eines Claude Code Plugin-Marktplatzes exklusiv für das Team. Dieser Artikel ist der fünfte Artikel im kintone AI Relay Blog 2026, der derzeit vom Generation AI Team von kintone veröffentlicht wird. Im Relay-Blog werden Mitglieder des Generative AI-Teams über eine Vielzahl von Dingen posten, nicht nur über KI-Themen. Hallo! Mein Name ist Saito und ich bin verantwortlich für die Backend-Entwicklung und den Betrieb im KI-Generation-Team von Kintone. Wir arbeiten an der Entwicklung und dem Betrieb von KI-Funktionen und ihrer Infrastruktur, aber dieses Mal werden wir im Rahmen des exklusiven Claude-Meetings unseres Teams darüber sprechen, wie wir KI nutzen.",チーム専用の Claude Code Plugin マーケットプレイスを作った話,この記事はkintoneの生成AIチームで連載中の kintone AI リレーブログ 2026 の 5 本目の記事です。リレーブログでは、生成 AI チームのメンバーが AI トピックに限らずさまざまなことについて発信していきます。 こんにちは！ kintone の生成 AI チームでバックエンド開発・運用を担当している齋藤です。 日頃 AI 機能やその基盤の開発・運用などの業務に取り組んでいる私たちですが、 今回は私たちが AI をどのように活用しているのかという話の一つとして、 チーム専用の Claude …,"A story about creating a Claude Code Plugin marketplace exclusively for the team. This article is the fifth article in the kintone AI Relay Blog 2026, which is currently being published by kintone's Generation AI Team. On the Relay Blog, members of the Generative AI team will post about a variety of things, not just AI topics. Hello! My name is Saito and I am in charge of backend development and operations on kintone's generation AI team. We are working on the development and operation of AI functions and their infrastructure, but this time we will talk about how we use AI, as part of our team's exclusive Claude...","Narratio de creatione Claudii Codicis Plugin mercati solum pro theam. Hic articulus est quintus articulus in kintone AI Nullam Blog MMXVI, quod nunc editum est ab kintone Generationis AI Team. In Nullam Blog, membra Generativae AI team ponet de variis rebus, non solum AI argumenta. salve! Nomen meum est Saito et ego in custodiam progressionem backend et operationes in kintone generationis AI team. In progressu et operatione AI functionum eorumque infrastructuram laboramus, sed hoc tempore loquemur quomodo AI utimur, cum parte exclusiva Claude societatis nostrae...",https://blog.cybozu.io/entry/2026/02/20/150000,https://cdn.image.st-hatena.com/image/scale/1dc0fc876fb9b9ddb197787c17f0fd59bb685187/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260220%2F20260220150003.png,,"この記事はkintoneの生成AIチームで連載中の kintone AI リレーブログ 2026 の 5 本目の記事です。リレーブログでは、生成 AI チームのメンバーが AI トピックに限らずさまざまなことについて発信していきます。
+
+
+
+こんにちは！
+
+kintone の生成 AI チームでバックエンド開発・運用を担当している齋藤です。
+
+日頃 AI 機能やその基盤の開発・運用などの業務に取… [+4819 chars]",,2026-02-22 06:06:38+00:00,usgs,Russia,NPO,Pacific Ocean
+b200c20ef79f6a0ae6d4c570c1c334d9,2026-02-20T14:33:08Z,Snow Avalanche,雪なだれ,musashikosugi.blog.shinobi.jp,ja,0.2857142857142857,"Lokale Freiwillige schaffen jeden Monat einen warmen Ort zum Verweilen. Der „Welcome Home Square“ findet weiterhin im Musashikosugi Nakahara Civic Center statt. Der „Welcome Home Square“, ein Platz für gemeinschaftliche Interaktion und die Schaffung eines Aufenthaltsortes, findet weiterhin im Nakahara Civic Center statt.
+
+Mehr als 10 lokale Freiwillige arbeiten unter der Leitung von Herrn Furusemura vom Picture Book Cafe Puapu in Mukaigawara daran, einen Ort zu schaffen, an dem sowohl Kinder als auch Erwachsene ihre Zeit in Ruhe verbringen können.
+
+■Schaffen Sie einen Ort, an dem Sie jeden Monat lächeln können. „Welcome back Plaza“ findet weiterhin im Nakahara Civic Center statt
+ 
+
+■Informationen zum „Welcome back Plaza“.
+ 
+
+„Welcome back Plaza“ ist ein Platz, der jeden Monat im Nakahara Civic Center oder im „Picture Book Cafe Puapu“ stattfindet, um die Interaktion mit der Gemeinschaft zu fördern und einen Ort zum Verweilen zu schaffen.
+
+Unter der Leitung von Herrn Furusemura vom „Picture Book Cafe Puapu“ ...",地域有志が毎月あたたかい居場所づくり。「おかえりひろば」が武蔵小杉・中原市民館で継続開催,"地域の交流・居場所づくりのひろば「おかえりひろば」が、中原市民館で継続開催されています。
+
+向河原の「絵本カフェぷあぷ」の古瀬村さんを中心に地域の有志10名以上が集まり、子どもも大人も安心して過ごせる場所づくりに取り組んでいます。
+
+■毎月笑顔になれる居場所作り。「おかえりひろば」が中原市民館で継続開催
+ 
+
+■「おかえりひろば」の案内
+ 
+
+「おかえりひろば」は、中原市民館、または「絵本カフェぷあぷ」を拠点に毎月開催されている、地域の交流・居場所づくりのひろばです。
+
+「絵本カフェぷあぷ」の古瀬村さんを代表に、…","Local volunteers create a warm place to stay every month. ``Welcome Home Square'' continues to be held at Musashikosugi Nakahara Civic Center. ``Welcome Home Square'', a plaza for community interaction and creating a place to be, continues to be held at Nakahara Civic Center.
+
+More than 10 local volunteers, led by Mr. Furusemura of Picture Book Cafe Puapu in Mukaigawara, are working to create a place where both children and adults can spend their time with peace of mind.
+
+■Create a place where you can smile every month. “Welcome back plaza” continues to be held at Nakahara Civic Center
+ 
+
+■“Welcome back plaza” information
+ 
+
+``Welcome back plaza'' is a plaza that is held every month at the Nakahara Civic Center or ``Picture Book Cafe Puapu'' to encourage community interaction and create a place to hang out.
+
+Led by Mr. Furusemura of ""Picture Book Cafe Puapu""...","Voluntarii locales loco calido ad manendum singulis mensibus efficiunt. `Salve Quadratum Domum' pergit teneri apud Musashikosugi Nakahara Civicum Centrum. `Sume Domum Quadratum', plaza ad commercium communitatis et locum creans esse, pergit ad Centrum Civicum Nakahara celebrandum.
+
+Plus quam decem voluntarii locales, duce Domino Furusemura de Picture Book Cafe Puapu in Mukaigawara, laborant locum creare ubi tam pueri quam adulti aequo animo operam degere possunt.
+
+■ Locum crea ubi omni mense ridere potes. ""Walcome back plaza"" continues to be held at Nakahara Civic Center
+ 
+
+■""Welcome back plate"" information
+ 
+
+`Plaza recipiat' est plaza quae omni mense apud Centrum Civicum Nakahara tenetur vel `Librum Pictura Cafe Puapu' ad commercium communitatis fovendum et locum pensilem efficiendum.
+
+D. Furusemura de ""Picture Book Cafe Puapu""...",http://musashikosugi.blog.shinobi.jp/Entry/7149/,http://blog.cnobi.jp/v1/blog/user/0ad47e9f18d9065b97b411739eb8d18f/1677403099,,"10
+10202510
+2
+…
+…
+321459:3012:00
+2285
+Instagram
+YoutubeSyncable2024/4/102025/4/231",,2026-02-22 06:06:38+00:00,random,,,
+4d28467bb6dbb8f0a7c86bcd321401ac,2026-02-18T22:47:31Z,Tropical Cyclone,国立ハリケーン センター,mobilelaby.com,ja,0.42857142857142855,"Welches würdest du wählen? Vergleichen Sie die Unterschiede zwischen Pixel 10a und Pixel 10. Google hat sein neuestes Mittelklasse-Smartphone für 2026 offiziell angekündigt: „Google Pixel 10a“.
+
+Die Vorbestellungen im Ausland haben bereits begonnen und es wurde angekündigt, dass es auch in Japan erscheinen wird. Der Inlandspreis wurde noch nicht bekannt gegeben, aber wir gehen davon aus, dass er bei rund 80.000 Yen liegt, dem gleichen Preis wie beim Pixel 9a. Mit anderen Worten: Der Preisunterschied zum Topmodell „Pixel 10“ wird voraussichtlich etwa 50.000 Yen betragen.
+
+Diese beiden Maschinen unterscheiden sich nicht nur hinsichtlich der technischen Daten, sondern auch hinsichtlich des Aussehens und der Beschaffenheit erheblich. Deshalb erklären wir in diesem Artikel leicht verständlich, „Was sich mit diesen 50.000 Yen ändern wird“ und vergleichen die Unterschiede ...",どっちを選ぶ？Pixel 10aとPixel 10の違いを比較,"Googleが2026年の最新ミッドレンジスマートフォン「Google Pixel 10a」を正式発表しました。
+
+海外ではすでに予約受付が始まっており、日本でも発売予定と案内されています。国内価格はまだ明らかになっていませんが、Pixel 9aと同程度の約8万円と予想しています。つまり、上位モデルの「Pixel 10」との価格差は約5万円になる見込みです。
+
+この2台は、スペックだけでなく見た目や質感の方向性もけっこう違います。そこで本記事では、「その5万円で何が変わるのか」をわかりやすく整理して違いを比較しま…","Which one would you choose? Compare the differences between Pixel 10a and Pixel 10. Google has officially announced its latest mid-range smartphone in 2026, ""Google Pixel 10a.""
+
+Pre-orders have already begun overseas, and it has been announced that it will be released in Japan as well. The domestic price has not yet been revealed, but we expect it to be around 80,000 yen, the same price as the Pixel 9a. In other words, the price difference with the top model ""Pixel 10"" is expected to be about 50,000 yen.
+
+These two machines are quite different not only in specs but also in terms of appearance and texture. Therefore, in this article, we will explain in an easy-to-understand way ``What will change with that 50,000 yen'' and compare the differences...","Quod quis vis? Confer differentias inter Pixel 10a et Pixel 10. Google suum medium Mauris quis felis in 2026 publice denuntiavit, ""Google Pixel 10a.""
+
+Pre-ordines transmarinas iam inceperunt, et nunciatum est eum etiam in Iaponia liberatum iri. Pretium domesticum nondum detectum est, sed exspectamus eum circiter 80,000 nummorum esse, tantundem ac Pixel 9a. Aliis verbis, pretium differentiae cum summo exemplari ""Pixel X"" expectatur circiter 50,000 yen.
+
+Hae duae machinae non solum specie sed etiam specie et texturae prorsus diversae sunt. Ideo in hoc articulo facile intelligendo explicabimus `quid mutabitur cum illo 50.000 yen' et differentias comparabimus.",https://mobilelaby.com/blog-entry-pixel-10a-vs-pixel-10.html,https://i0.wp.com/mobilelaby.com/wp/wp-content/uploads/pixel-10a-vs-pixel-10-v1.jpg?fit=1280%2C800&ssl=1,,"Pixel 10aPixel 10
+<table><tr><th></th><th>Pixel 10a</th><th>Pixel 10</th></tr>
+<tr><td></td><td>
+</td><td>
+</td></tr><tr><td></td><td></td><td><ul><li>Google</li><li></li></ul></td></tr><tr><td><… [+3977 chars]",,2026-02-22 06:06:38+00:00,random,,,
