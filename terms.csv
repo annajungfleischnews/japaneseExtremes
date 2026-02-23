@@ -128,8 +128,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8710bd49ea',extremes,Earthquake,#870007,usgs,セベロクリルスク地震,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,ja,NPO,Pacific Ocean
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,地震ココポ,2026-02-05T04:27:00+00:00,Papua New Guinea,0.312081541659678,0,1,ja,EPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,タジキスタンの地震,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,ja,WCA,Asia
+'ba920c05ae',extremes,Earthquake,#870007,usgs,リバートン地震,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,ja,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,パプアニューギニア地震,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3118484281580209,0,1,ja,EPO,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,ペルーの地震,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,ja,NWS,South-America
+'e873273000',extremes,Storm,#b3b2b1,emdat,マラウイの嵐,2026-02-20T04:28:00+00:00,Malawi,0.31174857808531975,0,1,ja,ESAF,Africa
+'51b14c1443',extremes,Flood,#030ba1,aidr,洪水ジーロング ビクトリア 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,0,1,ja,SAU,Oceania
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-01-21T03:55:00+00:00,,0.302534602528104,1,1,ja,,
