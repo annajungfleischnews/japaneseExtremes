@@ -15,13 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-01-27T03:58:00+00:00,,0.4933468448635307,2,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-01-29T04:18:00+00:00,,0.4858596850248309,1,2,ja,,
-'31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.48425122213481975,0,1,ja,EAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-02-23T04:36:00+00:00,,0.4795918818129536,1,2,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.4788242358349061,2,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-02-12T04:37:00+00:00,Japan,0.4777875181794634,1,2,ja,EAS,Asia
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.4710995356861749,1,2,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-01-24T03:48:00+00:00,,0.4635500121578148,3,1,ja,,
-'82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.4619575354510197,1,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-01-23T04:02:00+00:00,,0.46121810814599,1,2,ja,,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-01-15T12:13:00+00:00,,0.4576768699156554,1,3,ja,,
@@ -53,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f7179aa00',extremes,Volcano,#b83202,eonet,フィリピン火山,2026-01-15T10:56:00+00:00,Philippines,0.4222808906448024,1,2,ja,SEA,Asia
 'ec5f6eaf6d',extremes,Earthquake,#870007,usgs,岩泉地震,2026-01-28T03:56:00+00:00,Japan,0.4184531124755295,2,2,ja,EAS,Asia
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-01-15T10:56:00+00:00,,0.4119623630019894,1,3,ja,,
+'31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.4116135388145967,1,1,ja,EAS,Asia
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.4107592956959692,1,1,ja,EAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-01-15T10:56:00+00:00,,0.4097475437090162,1,2,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-02-07T04:19:00+00:00,,0.4095295871653131,1,2,ja,,
@@ -68,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-01-23T04:02:00+00:00,,0.3968181392091505,1,3,ja,,
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-01-18T03:56:00+00:00,,0.3964748605810436,1,3,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3944486095427099,1,1,ja,EAS,Asia
+'82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.39296393513336675,2,2,ja,EAS,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-01-17T03:44:00+00:00,,0.391299603127642,1,2,ja,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-01-17T03:44:00+00:00,,0.3893959600828444,2,3,ja,,
 'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.3880233323258557,1,1,ja,EAS,Asia
@@ -120,7 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ff36d7a46',extremes,Drought,#edc291,edo,ベルギーの乾燥,2026-02-07T04:19:00+00:00,Belgium,0.3111101075194635,0,1,ja,WCE,Europe
 '957a7a09df',extremes,Earthquake,#870007,usgs,地震アッツステーション,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,ja,NPO,Pacific Ocean
 '56dca2743f',extremes,Drought,#edc291,edo,日照り続きの赤道ギニア,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,ja,WAF,Africa
-'1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.31041986089822315,0,1,ja,WAF,Africa
+'1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.3104198608982231,0,1,ja,WAF,Africa
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-01-22T04:00:00+00:00,Palau,0.2992664621244521,1,1,ja,EPO,Pacific Ocean
