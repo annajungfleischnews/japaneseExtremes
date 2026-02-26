@@ -120,6 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957a7a09df',extremes,Earthquake,#870007,usgs,地震アッツステーション,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,ja,NPO,Pacific Ocean
 '56dca2743f',extremes,Drought,#edc291,edo,日照り続きの赤道ギニア,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,ja,WAF,Africa
 '1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.3104198608982231,0,1,ja,WAF,Africa
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,熱波アルゼンチン,2026-02-10T04:43:00+00:00,Argentina,0.31038900378020107,0,1,ja,SES,South-America
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-01-22T04:00:00+00:00,Palau,0.2992664621244521,1,1,ja,EPO,Pacific Ocean
@@ -174,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,熱帯低気圧イタリア,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,ja,MED,Europe
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,洪水 元熱帯低気圧による深刻な洪水 ティファニー 南オーストラリア州 2022,2026-02-08T04:44:00+00:00,Australia,0.2281095776451522,2,1,ja,SAU,Oceania
 '65b4a087de',extremes,Earthquake,#870007,usgs,カランシーヤ地震,2026-02-05T04:27:00+00:00,Yemen,0.2277677607201534,2,1,ja,ARS,Indian Ocean
-'5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.22762867910994056,2,1,ja,SPO,Pacific Ocean
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.2276286791099405,2,1,ja,SPO,Pacific Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,ヴィリュチンスク地震,2026-02-05T04:27:00+00:00,Russia,0.2270497301715421,2,1,ja,RFE,Asia
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 20s,2026-02-07T04:19:00+00:00,,0.2266612402476907,2,1,ja,NAU,Oceania
 '06972a2776',extremes,Flood,#030ba1,acwe,鉄砲水ニューサウスウェールズ州,2026-01-31T04:17:00+00:00,Australia,0.2261858228554854,2,1,ja,EAU,Oceania
