@@ -18,6 +18,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-02-23T04:36:00+00:00,,0.4795918818129536,1,2,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.4788242358349061,2,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-02-12T04:37:00+00:00,Japan,0.4777875181794634,1,2,ja,EAS,Asia
+'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2026-02-26T04:28:00+00:00,Japan,0.47315015130622357,0,1,ja,EAS,Asia
+'586e16bc23',extremes,Earthquake,#870007,usgs,下田地震,2026-02-26T04:28:00+00:00,Japan,0.46973046688830666,0,1,ja,EAS,Asia
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.465098571696885,2,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-01-23T04:02:00+00:00,,0.46121810814599,1,2,ja,,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
@@ -111,9 +113,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba920c05ae',extremes,Earthquake,#870007,usgs,リバートン地震,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,ja,NZ,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,ペルーの地震,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,ja,NWS,South-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,ベルギーの乾燥,2026-02-07T04:19:00+00:00,Belgium,0.3111101075194635,0,1,ja,WCE,Europe
+'9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-02-17T04:30:00+00:00,,0.31108637386470644,0,1,ja,,
 '957a7a09df',extremes,Earthquake,#870007,usgs,地震アッツステーション,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,ja,NPO,Pacific Ocean
 '56dca2743f',extremes,Drought,#edc291,edo,日照り続きの赤道ギニア,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,ja,WAF,Africa
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,熱波アルゼンチン,2026-02-10T04:43:00+00:00,Argentina,0.310389003780201,0,1,ja,SES,South-America
+'d2e515b87c',extremes,Flood,#030ba1,cmeter,コロンビアの洪水,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,ja,NWS,South-America
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,ja,,
@@ -157,7 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3017638745',extremes,Earthquake,#870007,usgs,カムチャツク地震,2026-02-05T04:27:00+00:00,Russia,0.2668679675916137,1,1,ja,RFE,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,アルゼンチン地震,2026-02-05T04:27:00+00:00,Argentina,0.2668468587754684,1,1,ja,SWS,South-America
 '685995fcc4',extremes,Earthquake,#870007,usgs,マッコーリー島の西で地震,2026-02-05T04:27:00+00:00,,0.266685689947894,1,1,ja,SOO,Antarctica
-'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-02-16T04:37:00+00:00,,0.26621586667341823,1,1,ja,,
+'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,ja,,
 '03f33e230d',extremes,Earthquake,#870007,usgs,チリ地震,2026-02-05T04:27:00+00:00,Chile,0.2661345681088818,1,1,ja,SWS,South-America
 'ad41fee440',extremes,Earthquake,#870007,usgs,ラタ地震,2026-02-05T04:27:00+00:00,Solomon Islands,0.2660989767731193,1,1,ja,SPO,Pacific Ocean
 '85a135fac3',extremes,Earthquake,#870007,usgs,地震オゼルノフスキー,2026-02-05T04:27:00+00:00,Russia,0.2658240566375687,1,1,ja,NPO,Pacific Ocean
