@@ -18,7 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-02-23T04:36:00+00:00,,0.4795918818129536,1,2,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-01-17T03:44:00+00:00,,0.4788242358349061,2,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-02-12T04:37:00+00:00,Japan,0.4777875181794634,1,2,ja,EAS,Asia
-'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2026-02-26T04:28:00+00:00,Japan,0.4731501513062235,0,1,ja,EAS,Asia
+'fe8720d0d6',extremes,Earthquake,#870007,usgs,日南地震,2026-02-26T04:28:00+00:00,Japan,0.47452798861029,1,2,ja,EAS,Asia
 '8beacba209',extremes,Earthquake,#870007,usgs,だいご地震,2026-01-27T03:58:00+00:00,Japan,0.465098571696885,2,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-01-23T04:02:00+00:00,,0.46121810814599,1,2,ja,,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-01-15T10:56:00+00:00,Japan,0.4593504742794278,1,2,ja,EAS,Asia
@@ -47,19 +47,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-01-17T03:44:00+00:00,,0.4258754200636114,1,3,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-02-08T04:43:00+00:00,,0.4249068381056438,1,2,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-01-17T03:44:00+00:00,,0.4246467974961371,1,3,ja,,
-'6f7179aa00',extremes,Volcano,#b83202,eonet,フィリピン火山,2026-01-15T10:56:00+00:00,Philippines,0.4222808906448024,1,2,ja,SEA,Asia
 'ec5f6eaf6d',extremes,Earthquake,#870007,usgs,岩泉地震,2026-01-28T03:56:00+00:00,Japan,0.4184531124755295,2,2,ja,EAS,Asia
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-01-15T10:56:00+00:00,,0.4119623630019894,1,3,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.4116135388145967,1,1,ja,EAS,Asia
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-01-31T04:16:00+00:00,Japan,0.4107592956959692,1,1,ja,EAS,Asia
-'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-01-15T10:56:00+00:00,,0.4097475437090162,1,2,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-02-07T04:19:00+00:00,,0.4095295871653131,1,2,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-02-06T04:27:00+00:00,Japan,0.408721505965717,2,1,ja,EAS,Asia
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-02-02T04:36:00+00:00,Japan,0.4083697329584307,1,1,ja,EAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-02-15T04:34:00+00:00,,0.4071437489428122,1,2,ja,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-01-15T10:56:00+00:00,,0.4048985698754333,1,3,ja,,
 '69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-01-17T03:44:00+00:00,,0.4041285572948677,1,2,ja,,
-'586e16bc23',extremes,Earthquake,#870007,usgs,下田地震,2026-02-26T04:28:00+00:00,Japan,0.40017098685506064,1,1,ja,EAS,Asia
+'586e16bc23',extremes,Earthquake,#870007,usgs,下田地震,2026-02-26T04:28:00+00:00,Japan,0.4001709868550606,1,1,ja,EAS,Asia
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-02-13T04:34:00+00:00,Palau,0.3997137478272956,0,1,ja,EPO,Pacific Ocean
 '606d10fe95',extremes,Earthquake,#870007,usgs,白岡地震,2026-02-10T04:42:00+00:00,Japan,0.3981419585869208,3,1,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-01-15T10:20:00+00:00,,0.3971495880623991,2,3,ja,,
@@ -79,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-01-25T04:05:00+00:00,,0.3826466177585664,2,1,ja,,
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-02-05T04:27:00+00:00,Japan,0.3808240380935332,1,1,ja,EAS,Asia
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-02-14T04:21:00+00:00,Japan,0.376730763360895,2,1,ja,EAS,Asia
-'59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-01-15T10:56:00+00:00,,0.3754422374646543,1,2,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-02-12T04:36:00+00:00,,0.3725481368525998,1,2,ja,,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-02-14T04:21:00+00:00,Japan,0.3723274097992071,3,1,ja,NPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-07T04:19:00+00:00,Japan,0.3694989551005229,2,1,ja,EAS,Asia
@@ -106,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,洪水降雨と洪水クイーンズランド州 2022 年 2 月 3 月,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,ja,EAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,熱帯低気圧マダガスカル,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,ja,MDG,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,温暖な気候のニューサウスウェールズ州,2026-02-02T04:37:00+00:00,Australia,0.3123876095247488,0,1,ja,EAU,Oceania
-'521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,サイクロン オズワルド クイーンズランド州 ニューサウスウェールズ州 2013,2026-02-05T04:28:00+00:00,Australia,0.3123106631925409,0,1,ja,NAU,Oceania
 '8710bd49ea',extremes,Earthquake,#870007,usgs,セベロクリルスク地震,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,ja,NPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,タジキスタンの地震,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,ja,WCA,Asia
 'ba920c05ae',extremes,Earthquake,#870007,usgs,リバートン地震,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,ja,NZ,Oceania
@@ -166,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-02-05T04:28:00+00:00,Australia,0.2657748328336556,1,1,ja,NAU,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,地震カラマ,2026-02-05T04:27:00+00:00,Chile,0.2657208751858185,1,1,ja,SWS,South-America
 '3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.2656170667106616,1,1,ja,WAF,Africa
+'521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,サイクロン オズワルド クイーンズランド州 ニューサウスウェールズ州 2013,2026-02-05T04:28:00+00:00,Australia,0.26546406371365977,1,1,ja,NAU,Oceania
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,地震ココポ,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2652693104107262,1,1,ja,EPO,Pacific Ocean
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,パプアニューギニア地震,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2650711639343177,1,1,ja,EPO,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,洪水ジーロング ビクトリア 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,ja,SAU,Oceania
