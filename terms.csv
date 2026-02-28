@@ -63,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-01-18T03:56:00+00:00,,0.3964748605810436,1,3,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3944486095427099,1,1,ja,EAS,Asia
 '82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.3929639351333667,2,2,ja,EAS,Asia
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-02-25T04:32:00+00:00,,0.391439145721873,0,1,ja,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-01-17T03:44:00+00:00,,0.391299603127642,1,2,ja,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-01-17T03:44:00+00:00,,0.3893959600828444,2,3,ja,,
 'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.3880233323258557,1,1,ja,EAS,Asia
@@ -102,7 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '381ceff412',extremes,Earthquake,#870007,usgs,地震キンベ,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,ja,EPO,Pacific Ocean
 '90e6558608',extremes,Earthquake,#870007,usgs,大西洋中部中部南部の地震,2026-02-05T04:27:00+00:00,,0.3143907668644234,0,1,ja,SAO,Atlantic Ocean
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,洪水降雨と洪水クイーンズランド州 2022 年 2 月 3 月,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,ja,EAU,Oceania
-'43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-02-05T04:27:00+00:00,Japan,0.31256812048557225,2,1,ja,EAS,Asia
+'43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-02-05T04:27:00+00:00,Japan,0.3125681204855722,2,1,ja,EAS,Asia
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,熱帯低気圧マダガスカル,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,ja,MDG,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,温暖な気候のニューサウスウェールズ州,2026-02-02T04:37:00+00:00,Australia,0.3123876095247488,0,1,ja,EAU,Oceania
 '8710bd49ea',extremes,Earthquake,#870007,usgs,セベロクリルスク地震,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,ja,NPO,Pacific Ocean
@@ -116,6 +117,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,コロンビアの洪水,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,ja,NWS,South-America
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-01-24T03:49:00+00:00,Palau,0.3094866436634536,1,1,ja,EPO,Pacific Ocean
 '221e658bfd',extremes,Drought,#edc291,edo,乾燥 ルクセンブルク,2026-02-10T04:43:00+00:00,Luxembourg,0.3090229214900688,0,1,ja,WCE,Europe
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,熱波チリ,2026-02-25T04:32:00+00:00,Chile,0.3090161000292206,0,1,ja,SWS,South-America
+'395db40dcf',extremes,Heat Wave,#c40202,wmo,熱波コリエンテスとアルレデドレス,2026-02-18T04:34:00+00:00,Argentina,0.30859936827145656,0,1,ja,SES,South-America
+'1f1fab5693',extremes,Precipitation,#d60d2b,wmo,豪雨 コンゴ共和国,2026-02-13T04:34:00+00:00,Republic of the Congo,0.3082378090606924,0,1,ja,CAF,Africa
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-04T04:21:00+00:00,Japan,0.2988384470993331,3,1,ja,EAS,Asia
@@ -175,7 +179,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65b4a087de',extremes,Earthquake,#870007,usgs,カランシーヤ地震,2026-02-05T04:27:00+00:00,Yemen,0.2277677607201534,2,1,ja,ARS,Indian Ocean
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,地震ハイフォ,2026-02-05T04:27:00+00:00,Tonga,0.2276286791099405,2,1,ja,SPO,Pacific Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,ヴィリュチンスク地震,2026-02-05T04:27:00+00:00,Russia,0.2270497301715421,2,1,ja,RFE,Asia
-'3017638745',extremes,Earthquake,#870007,usgs,カムチャツク地震,2026-02-05T04:27:00+00:00,Russia,0.22683777245287162,2,1,ja,RFE,Europe
+'3017638745',extremes,Earthquake,#870007,usgs,カムチャツク地震,2026-02-05T04:27:00+00:00,Russia,0.2268377724528716,2,1,ja,RFE,Europe
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 20s,2026-02-07T04:19:00+00:00,,0.2266612402476907,2,1,ja,NAU,Oceania
 '06972a2776',extremes,Flood,#030ba1,acwe,鉄砲水ニューサウスウェールズ州,2026-01-31T04:17:00+00:00,Australia,0.2261858228554854,2,1,ja,EAU,Oceania
 'e873273000',extremes,Storm,#b3b2b1,emdat,マラウイの嵐,2026-02-20T04:28:00+00:00,Malawi,0.2252383476666434,2,1,ja,ESAF,Africa
