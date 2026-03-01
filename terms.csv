@@ -78,7 +78,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,南極地震,2026-02-04T04:21:00+00:00,,0.3682818169447217,1,2,ja,EAN,
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-02-10T04:42:00+00:00,Japan,0.3674413709148123,1,1,ja,EAS,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-02-16T04:37:00+00:00,,0.3672246402954439,1,2,ja,,
-'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-02-09T04:38:00+00:00,,0.3565564912657623,0,1,ja,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-01-27T03:58:00+00:00,,0.3555000447248618,2,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-02-11T04:41:00+00:00,,0.3540239987307619,0,1,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-02-20T04:27:00+00:00,,0.3534068672623445,1,2,ja,,
@@ -116,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,熱波抵抗力とアルレデドレス,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,ja,SES,South-America
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cyclone nt 熱帯低気圧マーカス,2026-02-19T04:32:00+00:00,,0.3080801171904528,0,1,ja,NAU,Oceania
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
+'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-02-09T04:38:00+00:00,,0.30337304757589795,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-04T04:21:00+00:00,Japan,0.2988384470993331,3,1,ja,EAS,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,ロシアの地震,2026-02-05T04:27:00+00:00,Russia,0.298419911873011,1,1,ja,NPO,Pacific Ocean
