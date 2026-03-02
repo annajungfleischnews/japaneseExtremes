@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-02-20T04:27:00+00:00,Japan,0.4534340738878386,2,1,ja,EAS,Asia
 '24142f5dba',extremes,Earthquake,#870007,usgs,大原地震,2026-01-15T10:56:00+00:00,Japan,0.4485337182348418,1,3,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-01-30T04:21:00+00:00,Japan,0.4461959914323691,2,1,ja,EAS,Asia
+'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-03-01T04:34:00+00:00,,0.4429376139116203,1,2,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-01-20T03:55:00+00:00,,0.4417050654812759,1,3,ja,,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-02-09T04:39:00+00:00,Japan,0.4409623218909316,1,2,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-01-18T03:56:00+00:00,,0.4392056956416935,1,2,ja,,
@@ -73,7 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-02-08T04:43:00+00:00,Japan,0.3831160346378562,1,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-02-10T04:43:00+00:00,Palau,0.3812430541006704,0,1,ja,EPO,Pacific Ocean
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-02-14T04:21:00+00:00,Japan,0.376730763360895,2,1,ja,EAS,Asia
-'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-02-16T04:37:00+00:00,,0.37612123733725017,0,1,ja,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-02-16T04:37:00+00:00,,0.3761212373372501,0,1,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-02-12T04:36:00+00:00,,0.3725481368525998,1,2,ja,,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-02-14T04:21:00+00:00,Japan,0.3723274097992071,3,1,ja,NPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-07T04:19:00+00:00,Japan,0.3694989551005229,2,1,ja,EAS,Asia
@@ -85,7 +86,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-02-20T04:27:00+00:00,,0.3534068672623445,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-02-13T04:33:00+00:00,,0.3527332107699903,0,1,ja,,
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-02-12T04:36:00+00:00,,0.3455002574506147,2,1,ja,,
-'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-03-01T04:34:00+00:00,,0.3442795104842592,0,1,ja,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-03-01T04:34:00+00:00,,0.3407568854584887,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-02-13T04:34:00+00:00,Palau,0.3397566856532012,1,1,ja,EPO,Pacific Ocean
 '1e74382429',extremes,Earthquake,#870007,usgs,高萩地震,2026-02-08T04:43:00+00:00,Japan,0.3394994763957399,2,1,ja,EAS,Asia
