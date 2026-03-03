@@ -69,10 +69,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-02-21T04:17:00+00:00,,0.3842978922612141,1,2,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-02-08T04:43:00+00:00,Japan,0.3831160346378562,1,1,ja,EAS,Asia
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-02-14T04:21:00+00:00,Japan,0.376730763360895,2,1,ja,EAS,Asia
-'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-02-16T04:37:00+00:00,,0.3761212373372501,0,1,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-02-12T04:36:00+00:00,,0.3725481368525998,1,2,ja,,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-02-14T04:21:00+00:00,Japan,0.3723274097992071,3,1,ja,NPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-02-05T04:27:00+00:00,Japan,0.3720296477982158,3,1,ja,EAS,Asia
+'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-02-16T04:37:00+00:00,,0.37105318673666254,1,1,ja,,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-07T04:19:00+00:00,Japan,0.3694989551005229,2,1,ja,EAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-02-11T04:41:00+00:00,,0.369404579111767,0,1,ja,,
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,南極地震,2026-02-04T04:21:00+00:00,,0.3682818169447217,1,2,ja,EAN,
