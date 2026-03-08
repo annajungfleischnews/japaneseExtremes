@@ -4,11 +4,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-02-17T04:30:00+00:00,,0.5551985321013885,2,3,ja,,
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-03-07T04:12:00+00:00,Japan,0.5535485147596144,1,2,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.5315267585239669,2,3,ja,,
-'d1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-02-25T04:32:00+00:00,Japan,0.5177388939003917,0,1,ja,EAS,Asia
+'d1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-02-25T04:32:00+00:00,Japan,0.515378089815333,1,2,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-02-25T04:32:00+00:00,Japan,0.5089927831737832,4,3,ja,EAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-01-27T03:58:00+00:00,,0.4933468448635307,2,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-01-23T04:03:00+00:00,Japan,0.4885628123694124,1,2,ja,EAS,Asia
-'d9001f5863',extremes,Earthquake,#870007,usgs,指宿地震,2026-03-08T04:24:00+00:00,Japan,0.48707661400858304,1,1,ja,EAS,Asia
+'d9001f5863',extremes,Earthquake,#870007,usgs,指宿地震,2026-03-08T04:24:00+00:00,Japan,0.487076614008583,1,1,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-01-29T04:18:00+00:00,,0.4858596850248309,1,2,ja,,
 'c9af8262b7',extremes,Earthquake,#870007,usgs,地震まき,2026-02-15T04:34:00+00:00,Japan,0.4858149564350121,4,3,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-02-26T04:28:00+00:00,,0.4821838260915431,2,3,ja,,
@@ -92,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-02-10T04:43:00+00:00,Palau,0.3240565959855698,1,1,ja,EPO,Pacific Ocean
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-02-05T04:27:00+00:00,Japan,0.3238504473795032,2,1,ja,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-02-08T04:43:00+00:00,,0.3217286209561854,1,1,ja,,
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,山火事ニューサウスウェールズ州,2026-03-08T04:25:00+00:00,Australia,0.319027486753433,0,1,ja,EAU,Oceania
 'e9af766ecf',extremes,Earthquake,#870007,usgs,釜石地震,2026-02-07T04:19:00+00:00,Japan,0.3189924769272331,2,1,ja,EAS,Asia
 '30406c7856',extremes,Flood,#030ba1,cmeter,ブラジルの洪水,2026-03-07T04:13:00+00:00,Brazil,0.3188339702454074,0,1,ja,SES,South-America
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,氷山 d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,ja,EAN,
@@ -134,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-02-05T04:27:00+00:00,,0.2840431812683601,2,1,ja,,
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,タスマニアの温暖な気候,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,ja,SAU,Oceania
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,山火事ニューサウスウェールズ州,2026-03-08T04:25:00+00:00,Australia,0.27117336374041806,1,1,ja,EAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,雨天のタスマニア,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,ja,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧オラシオ,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,ja,SIO,Indian Ocean
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,ja,CAU,Oceania
