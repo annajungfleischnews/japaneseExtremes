@@ -36,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-03-01T04:34:00+00:00,,0.4264123144578972,1,3,ja,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-01-23T04:02:00+00:00,,0.4261303257403592,1,2,ja,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-01-17T03:44:00+00:00,,0.4258754200636114,1,3,ja,,
+'9436706611',extremes,Earthquake,#870007,usgs,地震ナルト,2026-02-25T04:32:00+00:00,Japan,0.4253422457488067,0,1,ja,EAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-02-08T04:43:00+00:00,,0.4249068381056438,1,2,ja,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-03-04T04:20:00+00:00,,0.4244362259556877,1,2,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-02-19T04:31:00+00:00,,0.4203864714462256,1,2,ja,,
@@ -55,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92a1045b75',extremes,Earthquake,#870007,usgs,本代々木町地震,2026-03-01T04:34:00+00:00,Japan,0.3949906960050853,1,1,ja,EAS,Asia
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3944486095427099,1,1,ja,EAS,Asia
 '82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.3929639351333667,2,2,ja,EAS,Asia
+'776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-02-18T04:33:00+00:00,,0.3914759645077226,0,1,ja,,
 'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.3880233323258557,1,1,ja,EAS,Asia
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2026-02-19T04:31:00+00:00,Japan,0.3875028409126801,1,1,ja,EAS,Asia
 'f6ba464e0a',extremes,Earthquake,#870007,usgs,宿毛地震,2026-03-01T04:34:00+00:00,Japan,0.3873593955914676,2,1,ja,EAS,Asia
@@ -62,7 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-02-21T04:17:00+00:00,,0.3842978922612141,1,2,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-02-08T04:43:00+00:00,Japan,0.3831160346378562,1,1,ja,EAS,Asia
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-02-14T04:21:00+00:00,Japan,0.376730763360895,2,1,ja,EAS,Asia
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-02-17T04:30:00+00:00,,0.37652043856253853,1,3,ja,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-02-17T04:30:00+00:00,,0.3765204385625385,1,3,ja,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-03-06T04:20:00+00:00,,0.3734688389555882,1,2,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-02-12T04:36:00+00:00,,0.3725481368525998,1,2,ja,,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-02-14T04:21:00+00:00,Japan,0.3723274097992071,3,1,ja,NPO,Pacific Ocean
@@ -79,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-03-06T04:20:00+00:00,,0.3513036503077138,0,1,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-02-28T04:07:00+00:00,,0.350643114171054,0,1,ja,,
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-02-12T04:36:00+00:00,,0.3455002574506147,2,1,ja,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-03-07T04:12:00+00:00,,0.34483598625857176,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-02-13T04:34:00+00:00,Palau,0.3397566856532012,1,1,ja,EPO,Pacific Ocean
 '1e74382429',extremes,Earthquake,#870007,usgs,高萩地震,2026-02-08T04:43:00+00:00,Japan,0.3394994763957399,2,1,ja,EAS,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-02-17T04:30:00+00:00,,0.337505130126102,0,1,ja,,
