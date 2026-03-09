@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-26T04:28:00+00:00,Japan,0.6325772490726128,1,2,ja,NPO,Pacific Ocean
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-01-23T04:02:00+00:00,,0.5562119465699048,2,3,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-02-17T04:30:00+00:00,,0.5551985321013885,2,3,ja,,
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-03-07T04:12:00+00:00,Japan,0.5535485147596144,1,2,ja,EAS,Asia
+'142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-26T04:28:00+00:00,Japan,0.5381407067117209,2,2,ja,NPO,Pacific Ocean
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-01-21T03:55:00+00:00,,0.5315267585239669,2,3,ja,,
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-02-25T04:32:00+00:00,Japan,0.515378089815333,1,2,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-02-25T04:32:00+00:00,Japan,0.5089927831737832,4,3,ja,EAS,Asia
@@ -133,7 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-02-05T04:27:00+00:00,,0.2840431812683601,2,1,ja,,
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,タスマニアの温暖な気候,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,ja,SAU,Oceania
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,山火事ニューサウスウェールズ州,2026-03-08T04:25:00+00:00,Australia,0.27117336374041806,1,1,ja,EAU,Oceania
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,山火事ニューサウスウェールズ州,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,ja,EAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,雨天のタスマニア,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,ja,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧オラシオ,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,ja,SIO,Indian Ocean
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,ja,CAU,Oceania
