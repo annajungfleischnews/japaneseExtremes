@@ -100,13 +100,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 25s,2026-03-06T04:21:00+00:00,,0.318165939019338,0,1,ja,SIO,Indian Ocean
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,氷山 b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,ja,WAN,Antarctica
 '59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,ja,,
+'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 24p,2026-03-06T04:21:00+00:00,,0.31488274708128133,0,1,ja,NAU,Oceania
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,嵐 ノースシドニー あられ嵐 2017,2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,ja,EAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.3127621537594346,0,1,ja,WAF,Africa
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,洪水降雨と洪水クイーンズランド州 2022 年 2 月 3 月,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,ja,EAU,Oceania
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-02-05T04:27:00+00:00,Japan,0.3125681204855722,2,1,ja,EAS,Asia
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,熱帯低気圧マダガスカル,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,ja,MDG,Africa
+'15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-03-06T04:20:00+00:00,,0.3125493241899419,0,1,ja,,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,温暖な気候のニューサウスウェールズ州,2026-02-02T04:37:00+00:00,Australia,0.3123876095247488,0,1,ja,EAU,Oceania
 '8710bd49ea',extremes,Earthquake,#870007,usgs,セベロクリルスク地震,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,ja,NPO,Pacific Ocean
+'628c910b11',extremes,Flood,#030ba1,aidr,ニューサウスウェールズ州の洪水 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,0,1,ja,EAU,Oceania
 'ba920c05ae',extremes,Earthquake,#870007,usgs,リバートン地震,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,ja,NZ,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,ja,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-03-02T04:27:00+00:00,,0.3095678224863326,0,1,ja,,
