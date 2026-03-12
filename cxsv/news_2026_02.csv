@@ -7637,7 +7637,7 @@ Iratus sum ita ut non interessem, sed 25 cum essem, iterum invitatus sum et decr
 w
 5042009/12/05()00:24:36ID:NCdP8jnS0
 5052009/12/05()00:31:15ID:NCdP… [+138 chars]",,2026-03-11 11:02:56+00:00,edo,Japan,EAS,Asia
-ca006491d39a4dc3ad8f62a7c1dc73b8,2026-02-15T09:25:58Z,Tropical Cyclone,ハリケーン,udzura.hatenablog.jp,ja,0.18181818181818182,"mruby/edge-Fortschritt Wie... Es gibt keinen Fortschritt... Ich neige dazu, vor wesentlichen Themen davonzulaufen... Ich möchte jedoch aufschreiben, was ich in letzter Zeit mit mruby/edge gemacht habe. Playground wurde auf mrubyedge.github.io veröffentlicht. Um ehrlich zu sein, verfügt es immer noch nicht über genügend Funktionen und es können Fehler auftreten, aber spielen Sie bitte damit. In 1.1.0 haben wir (glaube ich) die gleiche Anzahl an Methoden wie mruby/c implementiert, sodass es meiner Meinung nach einfacher ist, Ruby-ähnlichen Code auszuprobieren. Es kann eine Frage des Gefühls sein. Zum Zeitpunkt des Schreibens dieses Artikels ist 1.1.5 die neueste Version ...",mruby/edge 進捗 どうやって,進捗はない... 本質的な課題からも逃げがち... ではありますが、最近mruby/edgeでやってることを殴り書きします。 Playgroundをリリースした mrubyedge.github.io しました。正直まだそれなりに機能も足りず、バグもあるでしょうが、遊んでやってください。 1.1.0 で mruby/c と同じぐらいの数のメソッドを実装した（つもりな）ので、Rubyっぽいコードを試しやすくなってる気がします。気持ちの問題かもしれない。なおこの記事を書いてる時点では 1.1.5 が最新ということにな…,"mruby/edge progress How... There is no progress... I tend to run away from essential issues... However, I would like to write down what I have been doing with mruby/edge recently. Playground was released on mrubyedge.github.io. To be honest, it still doesn't have enough features and there may be bugs, but please play with it. In 1.1.0, we implemented (I think) the same number of methods as mruby/c, so I feel like it's easier to try out Ruby-like code. It may be a matter of feeling. At the time of writing this article, 1.1.5 is the latest version...","mruby/ore progress Quam... non est progressus... tendere ad fugiendum a rebus essentialibus... Sed velim scribere quid egi cum mruby/ore nuper. THEATRUM dimissum est in mrubyedge.github.io. Esse honestum, non satis notas et cimices esse, sed ludere cum placet. In 1.1.0 totidem methodos quot mruby/c implevimus, sic sentio facilius est experiri ex codice Ruby-like. Sententia res sit. In tempore scribendi huius articuli, 1.1.5 versio novissima est...",https://udzura.hatenablog.jp/entry/2026/02/15/182558,https://ogimage.blog.st-hatena.com/13208692334729890560/17179246901354844102/1771147839,,"進捗はない... 本質的な課題からも逃げがち... ではありますが、最近mruby/edgeでやってることを殴り書きします。
+ca006491d39a4dc3ad8f62a7c1dc73b8,2026-02-15T09:25:58Z,Tropical Cyclone,ハリケーン,udzura.hatenablog.jp,ja,0.1818181818181818,"mruby/edge-Fortschritt Wie... Es gibt keinen Fortschritt... Ich neige dazu, vor wesentlichen Themen davonzulaufen... Ich möchte jedoch aufschreiben, was ich in letzter Zeit mit mruby/edge gemacht habe. Playground wurde auf mrubyedge.github.io veröffentlicht. Um ehrlich zu sein, verfügt es immer noch nicht über genügend Funktionen und es können Fehler auftreten, aber spielen Sie bitte damit. In 1.1.0 haben wir (glaube ich) die gleiche Anzahl an Methoden wie mruby/c implementiert, sodass es meiner Meinung nach einfacher ist, Ruby-ähnlichen Code auszuprobieren. Es kann eine Frage des Gefühls sein. Zum Zeitpunkt des Schreibens dieses Artikels ist 1.1.5 die neueste Version ...",mruby/edge 進捗 どうやって,進捗はない... 本質的な課題からも逃げがち... ではありますが、最近mruby/edgeでやってることを殴り書きします。 Playgroundをリリースした mrubyedge.github.io しました。正直まだそれなりに機能も足りず、バグもあるでしょうが、遊んでやってください。 1.1.0 で mruby/c と同じぐらいの数のメソッドを実装した（つもりな）ので、Rubyっぽいコードを試しやすくなってる気がします。気持ちの問題かもしれない。なおこの記事を書いてる時点では 1.1.5 が最新ということにな…,"mruby/edge progress How... There is no progress... I tend to run away from essential issues... However, I would like to write down what I have been doing with mruby/edge recently. Playground was released on mrubyedge.github.io. To be honest, it still doesn't have enough features and there may be bugs, but please play with it. In 1.1.0, we implemented (I think) the same number of methods as mruby/c, so I feel like it's easier to try out Ruby-like code. It may be a matter of feeling. At the time of writing this article, 1.1.5 is the latest version...","mruby/ore progress Quam... non est progressus... tendere ad fugiendum a rebus essentialibus... Sed velim scribere quid egi cum mruby/ore nuper. THEATRUM dimissum est in mrubyedge.github.io. Esse honestum, non satis notas et cimices esse, sed ludere cum placet. In 1.1.0 totidem methodos quot mruby/c implevimus, sic sentio facilius est experiri ex codice Ruby-like. Sententia res sit. In tempore scribendi huius articuli, 1.1.5 versio novissima est...",https://udzura.hatenablog.jp/entry/2026/02/15/182558,https://ogimage.blog.st-hatena.com/13208692334729890560/17179246901354844102/1771147839,,"進捗はない... 本質的な課題からも逃げがち... ではありますが、最近mruby/edgeでやってることを殴り書きします。
 
 Playgroundをリリースした
 
@@ -7647,12 +7647,12 @@ mrubyedge.github.io
 しました。正直まだそれなりに機能も足りず、バグもあるでしょうが、遊んでやってください。
 
 1.1.0 で mruby/c と同じぐらいの数のメソッドを実装した（つもりな）ので、Rubyっ… [+3197 chars]",,2026-03-11 11:02:56+00:00,random,,,
-692fff6f89afb88722838c05531869ef,2026-02-23T01:00:55Z,Flood,コロンビアの洪水,web-price.info,ja,0.18181818181818182,"UGREEN DH4300 Plus, ein 4-Bay-NAS, das auch Einsteiger nutzen können, eignet sich perfekt als private Cloud für Familien. Für Zuhause und kleine Büros...",初心者でも扱える4ベイNAS「UGREEN DH4300 Plus」は家族向けプライベートクラウドとしてちょうど良い,UGREEN DH4300 Plusです。家庭および小規模オフィス向けの...,"UGREEN DH4300 Plus, a 4-bay NAS that even beginners can use, is perfect as a private cloud for families. For home and small offices...","UGREEN DH4300 Plus, sinus NAS, qui etiam incipientes uti possunt, perfectus est ut nubes privata pro familiis. Pro domo et officiis parvis...",https://web-price.info/review/ugreen-dh4300-plus.php,https://web-price.info/review/ugreen_nasync_dh4300_plus_01.jpg,,"UGREEN DH4300 Plusです。家庭および小規模オフィス向けの4ベイNAS（ネットワーク接続ストレージ）になります。
+692fff6f89afb88722838c05531869ef,2026-02-23T01:00:55Z,Flood,コロンビアの洪水,web-price.info,ja,0.1818181818181818,"UGREEN DH4300 Plus, ein 4-Bay-NAS, das auch Einsteiger nutzen können, eignet sich perfekt als private Cloud für Familien. Für Zuhause und kleine Büros...",初心者でも扱える4ベイNAS「UGREEN DH4300 Plus」は家族向けプライベートクラウドとしてちょうど良い,UGREEN DH4300 Plusです。家庭および小規模オフィス向けの...,"UGREEN DH4300 Plus, a 4-bay NAS that even beginners can use, is perfect as a private cloud for families. For home and small offices...","UGREEN DH4300 Plus, sinus NAS, qui etiam incipientes uti possunt, perfectus est ut nubes privata pro familiis. Pro domo et officiis parvis...",https://web-price.info/review/ugreen-dh4300-plus.php,https://web-price.info/review/ugreen_nasync_dh4300_plus_01.jpg,,"UGREEN DH4300 Plusです。家庭および小規模オフィス向けの4ベイNAS（ネットワーク接続ストレージ）になります。
 
 最大120TBの大容量ストレージに対応し、写真・動画・資料などのデータを一元管理できる「自宅サーバ」的存在として、ストレージをクラウド頼りにしたくない人、家族やチームでファイル共有を快適にしたい人に最適。
 
 「難しそう」「上級者向け」というNASのイメージをいい意味で… [+8086 chars]",,2026-03-11 11:02:56+00:00,cmeter,Colombia,NWS,South-America
-d0429677a3743e5ddb9120e5659f8369,2026-02-28T00:30:37Z,Landslide,がけ崩れ,hamada.air-nifty.com,ja,0.18181818181818182,"Genießen Sie den Geschmack des Winters mit Enten-Eintopf... Stehbar „Ichiyoshi“ (Minatogawa-Park). Dies ist meine zweite Geschäftsreise nach Kobe in diesem Jahr.
+d0429677a3743e5ddb9120e5659f8369,2026-02-28T00:30:37Z,Landslide,がけ崩れ,hamada.air-nifty.com,ja,0.1818181818181818,"Genießen Sie den Geschmack des Winters mit Enten-Eintopf... Stehbar „Ichiyoshi“ (Minatogawa-Park). Dies ist meine zweite Geschäftsreise nach Kobe in diesem Jahr.
 Sobald ich in einem Hotel in der Nähe des Bahnhofs Shinkaichi eingecheckt und mein Gepäck abgegeben hatte, machte ich mich auf den Weg zu Ichiyoshi, einer Stehbar in der Nähe des Bahnhofs Minatogawa Koen, die ich auch bei der diesjährigen „Bar Hajime“-Veranstaltung besuchte.
 
 Als ich den Laden betrat, begrüßte ich zuerst den Besitzer, Dai-chan.
@@ -7677,7 +7677,7 @@ Bibendum quod potes sumo sunt...",https://hamada.air-nifty.com/raisan/2026/02/po
 70:223()104:https://www.nishinippon.co.jp/kyushu_event/58548/
 7:223()106:https://www.nishinippon.co.jp/kyushu_event/58502/
 ABURAYAMA W… [+194 chars]",,2026-03-11 11:02:56+00:00,edo,Palau,EPO,Pacific Ocean
-0b0afc741094c3d0a95db1bfd9a56299,2026-02-24T02:05:17Z,Flood,鉄砲水,news.livedoor.com,ja,0.45454545454545453,"„Selbst wenn er frei hatte, trug er eine Maske, wenn er sein Hotelzimmer verließ.“ Mil Mascaras, heute 83, ist die Legende vom „Mann mit tausend Gesichtern“. Auch in der Welt des professionellen Wrestlings gibt es urbane Legenden. Beispielsweise stellte sich leider heraus, dass die Geschichte „Andre der Riese den Rekord für die meisten Bierkrüge hält, die er im Sapporo Beer Garden getrunken hat“ eine fiktive Geschichte war (*1). Wie sieht es also mit den folgenden Informationen aus? (Der Einstiegssong „Sky High“ des maskierten Wrestlers Mil Mascaras erreichte einst Platz 2 der japanischen Oricon-Rangliste.) Zum Beispiel in der alten, beliebten TBS-Sendung „The Best Ten“, nach Satoshi Teraos „Ruby Ring“, das den ersten Platz belegte, Antonios vollständiger Text Daily Shincho vom 24. Februar um 11:05 Uhr",「オフでもホテルの部屋を出るときはマスクをつけていた」　83歳になったミル・マスカラス、“千の顔を持つ男”の伝説,都市伝説の類いは、プロレス界にも存在する。例えば、〈アンドレ・ザ・ジャイアントは、札幌ビール園で飲み干した大ジョッキの最多記録を持っている〉については、当欄の取材で、残念ながら架空話と判明した（※1）。では、以下の情報はどうだろうか？〈覆面レスラー、ミル・マスカラスの入場曲「スカイ・ハイ」は、日本のオリコン・ランキングで2位になったことがある〉。たとえるならば、往年の人気番組TBS「ザ・ベストテン」で、1位の寺尾聡「ルビーの指輪」の次に、アントニオ全文デイリー新潮 02月24日11時05分,"``Even when he was off, he wore a mask when he left his hotel room.'' Mil Mascaras, now 83, is the legend of the ``Man with a Thousand Faces.'' Urban legends also exist in the world of professional wrestling. For example, the story that ``Andre the Giant holds the record for the most steins he drank at Sapporo Beer Garden'' was unfortunately revealed to be a fictional story (*1). So, what about the following information? (The entrance song ``Sky High'' by masked wrestler Mil Mascaras once reached number 2 on the Japanese Oricon rankings.) For example, on the old popular TBS program ""The Best Ten"", after Satoshi Terao's ""Ruby Ring"" which came in first place, Antonio's full text Daily Shincho February 24th 11:05","`Quamquam aberat, larvam gerebat cum deversorio suo cubiculo.'' Mil Mascaras, nunc 83, fabula est `Homo cum mille facibus'.'' Urbanae quoque fabulae in mundo palaestrae sunt. Exempli gratia, fabula `Andre Giant recordum ob plurimas stellas quas apud Sapporo Beer Garden bibit', infeliciter revelatum est esse fabulam fictam (*1). Ita, quid de tali notitia? (Cantus introitus `Sky High' ex personatus luctator Mil Mascaras semel numerum 2 in Iaponica Oricon ordo pervenit.) Exempli gratia, in veteri populari TBS programmate ""Optimus Decem"", post Satoshi Terao ""Ruby Ring"", qui in primo loco venit, textum plenum Antonii Shincho in die 24 Februarii 11:05",https://news.livedoor.com/article/detail/30642063/,https://image.news.livedoor.com/newsimage/stf/a/3/a31bb_1523_4884ca16_f89f3b0f.jpg,,"1
+0b0afc741094c3d0a95db1bfd9a56299,2026-02-24T02:05:17Z,Flood,鉄砲水,news.livedoor.com,ja,0.4545454545454545,"„Selbst wenn er frei hatte, trug er eine Maske, wenn er sein Hotelzimmer verließ.“ Mil Mascaras, heute 83, ist die Legende vom „Mann mit tausend Gesichtern“. Auch in der Welt des professionellen Wrestlings gibt es urbane Legenden. Beispielsweise stellte sich leider heraus, dass die Geschichte „Andre der Riese den Rekord für die meisten Bierkrüge hält, die er im Sapporo Beer Garden getrunken hat“ eine fiktive Geschichte war (*1). Wie sieht es also mit den folgenden Informationen aus? (Der Einstiegssong „Sky High“ des maskierten Wrestlers Mil Mascaras erreichte einst Platz 2 der japanischen Oricon-Rangliste.) Zum Beispiel in der alten, beliebten TBS-Sendung „The Best Ten“, nach Satoshi Teraos „Ruby Ring“, das den ersten Platz belegte, Antonios vollständiger Text Daily Shincho vom 24. Februar um 11:05 Uhr",「オフでもホテルの部屋を出るときはマスクをつけていた」　83歳になったミル・マスカラス、“千の顔を持つ男”の伝説,都市伝説の類いは、プロレス界にも存在する。例えば、〈アンドレ・ザ・ジャイアントは、札幌ビール園で飲み干した大ジョッキの最多記録を持っている〉については、当欄の取材で、残念ながら架空話と判明した（※1）。では、以下の情報はどうだろうか？〈覆面レスラー、ミル・マスカラスの入場曲「スカイ・ハイ」は、日本のオリコン・ランキングで2位になったことがある〉。たとえるならば、往年の人気番組TBS「ザ・ベストテン」で、1位の寺尾聡「ルビーの指輪」の次に、アントニオ全文デイリー新潮 02月24日11時05分,"``Even when he was off, he wore a mask when he left his hotel room.'' Mil Mascaras, now 83, is the legend of the ``Man with a Thousand Faces.'' Urban legends also exist in the world of professional wrestling. For example, the story that ``Andre the Giant holds the record for the most steins he drank at Sapporo Beer Garden'' was unfortunately revealed to be a fictional story (*1). So, what about the following information? (The entrance song ``Sky High'' by masked wrestler Mil Mascaras once reached number 2 on the Japanese Oricon rankings.) For example, on the old popular TBS program ""The Best Ten"", after Satoshi Terao's ""Ruby Ring"" which came in first place, Antonio's full text Daily Shincho February 24th 11:05","`Quamquam aberat, larvam gerebat cum deversorio suo cubiculo.'' Mil Mascaras, nunc 83, fabula est `Homo cum mille facibus'.'' Urbanae quoque fabulae in mundo palaestrae sunt. Exempli gratia, fabula `Andre Giant recordum ob plurimas stellas quas apud Sapporo Beer Garden bibit', infeliciter revelatum est esse fabulam fictam (*1). Ita, quid de tali notitia? (Cantus introitus `Sky High' ex personatus luctator Mil Mascaras semel numerum 2 in Iaponica Oricon ordo pervenit.) Exempli gratia, in veteri populari TBS programmate ""Optimus Decem"", post Satoshi Terao ""Ruby Ring"", qui in primo loco venit, textum plenum Antonii Shincho in die 24 Februarii 11:05",https://news.livedoor.com/article/detail/30642063/,https://image.news.livedoor.com/newsimage/stf/a/3/a31bb_1523_4884ca16_f89f3b0f.jpg,,"1
 2
 TBS1
 Public domain
@@ -7694,3 +7694,222 @@ Public domain
 197721941
 8319vs321122844421773
 34114185425… [+186 chars]",,2026-03-11 11:02:56+00:00,random,,,
+de724bb450023c2c227000684423d969,2026-02-16T22:07:38Z,Precipitation,大気中の河川,yosyan.hatenablog.com,ja,0.1111111111111111,"Fortsetzung Motorräder und Koi Mo Wakaba Mark (Episode 5) Sunset Line. Von der Straßenstation Uzushi aus fahren wir nach Norden, landen aber schließlich an der Westküste der Insel Awaji. „Warum heißt sie Sonnenuntergangslinie?“ Das liegt wahrscheinlich daran, dass sich der Ozean nach Westen erstreckt und die Sonne dort untergeht. „Trotzdem hat es immer noch die Atmosphäre einer Sonnenuntergangslinie.“ Kajimoto, ein Liebhaber historischer Straßen, erzählte mir warum. In der Antike gehörte Awaji zu Nankaido. Nankaido besteht aus den vier Präfekturen Shikoku, Awaji und Wakayama, aber als die Hauptstadt Nara war, hieß es, dass sie von Gojo zum Kinokawa-Fluss verlaufen würde, von dort bis zur Flussmündung hinuntergehen und am gegenüberliegenden Ufer von Kada nach Yura überqueren würde. „Wenn wir von Heijo-kyo aus starten, sollten wir dann zuerst nach Süden gehen?“",続バイクも恋も若葉マーク（第5話）サンセットライン,道の駅うずしからは北上するのだけど、淡路島の西岸を走ることになる。「どうしてサンセットラインって言うのだろ」 それは西側に海が広がってるから、そっちに太陽が沈むからだろうが。「それでもなんとなくサンセットラインって雰囲気もあるよ」 その理由も歴史街道マニアの梶本先輩に教えてもらったじゃない。古代の淡路は南海道に属していたんだって。南海道って四国四県と淡路と和歌山なんだけど、奈良に都がある時は、五条から紀ノ川に出て、そこから河口まで下って、加太から対岸の由良に渡ってたらしい。「平城京からスタートならまず南下するのか…,"Continued Motorcycles and Koi Mo Wakaba Mark (Episode 5) Sunset Line. From the roadside station Uzushi, we head north, but end up riding on the west coast of Awaji Island. ``Why is it called the sunset line?'' It's probably because the ocean stretches out to the west, and the sun sets there. ``Still, it still has the atmosphere of a sunset line.'' Kajimoto, a historical road buff, told me why. In ancient times, Awaji belonged to Nankaido. Nankaido consists of the four prefectures of Shikoku, Awaji, and Wakayama, but when the capital was in Nara, it was said that it would go from Gojo to the Kinokawa River, go down to the mouth of the river from there, and cross from Kada to Yura on the opposite bank. “If we start from Heijo-kyo, should we go south first?”","Continuata Motorcycles et Koi Mo Wakaba Mark (Episode 5) Solis Line. Ex statione via Uzushi septentrionem versus tendimus, sed finis ascendens ad litus occidentalem Islandiae Awaji. `Cur sol linea dicitur?'' Verisimile est quod Oceanus ad occidentem porrigitur, et sol ibi occidit. `Adhuc atmosphaera lineae solis adhuc habet.'' Kajimoto, via historica bubalinae, mihi dixit cur. Antiquitus Awaji Nankaido pertinebat. Nankaido constat ex quattuor praefecturis Shikoku, Awaji et Wakayama, sed cum caput in Nara esset, dictum a Gojo ad fluvium Kinokawa iturum, inde ad ostium fluminis descende et ab Kada ad Yura in adversa ripa transire. ""Si ab Heijo-kyo incipimus, primum meridianam ibimus?""",https://yosyan.hatenablog.com/entry/20260217/1771279658,https://cdn.image.st-hatena.com/image/scale/86942d50a1753736d8fc25efab4d717c5af25d38/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F332730%2F1566378527110981,,道の駅うずしからは北上するのだけど、淡路島の西岸を走ることになる。「どうしてサンセットラインって言うのだろ」　それは西側に海が広がってるから、そっちに太陽が沈むからだろうが。「それでもなんとなくサンセットラインって雰囲気もあるよ」　その理由も歴史街道マニアの梶本先輩に教えてもらったじゃない。古代の淡路は南海道に属していたんだって。南海道って四国四県と淡路と和歌山なんだけど、奈良に都がある時は、五… [+3212 chars],,2026-03-12 03:13:26+00:00,random,,,
+8183759e257209902a0f48de08e4c021,2026-02-11T06:08:58Z,Flood,2020 年 2 月クイーンズランド州の大雨と洪水,www.huffingtonpost.jp,ja,0.2222222222222222,"Ranking „Wunderschöne Blumenansichten“, die Frühlingsgefühle wecken. Der 1. Platz geht an den Ort, an dem auf einer 2 km langen Strecke 800 Kawazu-Kirschblüten blühen. Rangliste der Blumenansichten, die Ihnen ein frühlingshaftes Gefühl vermitteln Jalan News, eine von Recruit betriebene Reiseinformationsseite, hat am 10. Februar die „Rangliste der Blumenansichten, die Ihnen ein frühlingshaftes Gefühl vermitteln“ veröffentlicht.
+Die Umfrage wurde vom 24. Dezember 2025 bis zum 5. Januar 2026 online durchgeführt. Insgesamt haben 1.054 Menschen im Alter von 20 bis 50 Jahren aus dem ganzen Land geantwortet.
+Welche berühmten Orte haben es in das Ranking geschafft? Werfen wir einen Blick auf die Top 10.
+„Jalan“ Rangliste spektakulärer Blumenansichten, die Ihnen Frühlingsgefühle vermitteln
+10. Platz Nanohata Road 2026 [Stadt Kamogawa, Präfektur Chiba]
+9. Platz: Ashigaike Agricultural Park „Sante Park Tahara“ [Tahara City, Präfektur Aichi]
+8…",春らしさを感じる「花絶景」ランキング。1位は2kmにわたり河津桜800本が咲くあの場所,"春らしさを感じる花絶景ランキングリクルートが運営する旅行情報サイト「じゃらんニュース」は2月10日、「春らしさを感じる花絶景ランキング」を公開しました。
+調査は2025年12月24日〜2026年1月5日にインターネット上で実施。全国の20～50代計1054人が回答しました。
+どんな名所がランクインしたのでしょうか。早速TOP10を見ていきましょう。
+『じゃらん』春らしさを感じる花絶景ランキング
+10位　菜な畑ロード2026【千葉県鴨川市】
+9位　芦ヶ池農業公園「サンテパルクたはら」【愛知県田原市】
+8…","Ranking of ``Beautiful Flower Views'' that make you feel like spring. 1st place goes to that place where 800 Kawazu cherry blossoms bloom over a 2km stretch. Ranking of flower views that give you a spring-like feeling Jalan News, a travel information site operated by Recruit, released the ``Ranking of flower views that give you a spring-like feeling'' on February 10th.
+The survey was conducted online from December 24, 2025 to January 5, 2026. A total of 1,054 people in their 20s to 50s from all over the country responded.
+What kind of famous places made it into the ranking? Let's take a look at the top 10.
+“Jalan” Ranking of spectacular flower views that make you feel like spring
+10th place Nanohata Road 2026 [Kamogawa City, Chiba Prefecture]
+9th place: Ashigaike Agricultural Park “Sante Park Tahara” [Tahara City, Aichi Prefecture]
+8…","Ranking of `Flore Pulchri Views', qui te faciunt ut ver sentiant. Locus 1 it ad eum locum ubi 800 Kawazu cerasus floret supra 2km tractum. Ordo florum sententiarum quae tibi fonti similem sensum Jalan Nuntii dant, informationes peregrinandi situs a Conscribe operata, dimisit ` ordo florum opiniones quae tibi vernum sensum similem praebent'' Kalendis Februariis.
+Circumspectio online a die 24 Decembris 2025 ad diem 5 Ianuarii 2025 peracta est. Summa centum triginta quinque hominum in viginti sex ad 50s ex toto orbe terrarum respondit.
+Qualia loca nobilia in ordinem redegit? Inspice verticem 10 Eamus.
+""Jalan"" Ranking de spectaculi flos views, quae facere sentis sicut ver
+10 locus Nanohata Road 2026 [Kamogawa urbs, Chiba Praefecturae]
+Locus IX: Ashigaike agriculturae Park ""Sante Park Tahara"" [Tahara urbs, Aichi Praefecturae]
+8…",https://www.huffingtonpost.jp/entry/story_jp_698bf616e4b01dbafe641b00,https://img.huffingtonpost.com/asset/698bf6d01b000015004cb970.jpg?ops=1200_630,,"Skip to Main Content
+210
+2025122420261520501054
+TOP10
+102026
+9
+8
+7
+6
+5
+4
+502000
+400m
+2km800",,2026-03-12 03:13:26+00:00,aidr,Australia,EAU,Oceania
+cf902f1898cc090125b3db4597ada3ed,2026-02-19T14:02:31Z,Tropical Cyclone,熱帯低気圧マダガスカル,musashikosugi.blog.shinobi.jp,ja,0.2222222222222222,"Kawasaki City Heiwakan „Machi Naka Art 2026 WINTER“ 22.02.-23. Programmankündigung, Bürgerbeteiligung, Friedensparade und Gospelchor. Das Mitmach-Kunstfestival „Machi Naka Art 2026 WINTER“ findet am 22. (Sonntag) und 23. Februar (Montag, Feiertag) 2026 im Nakahara Peace Park statt.
+
+Neben verschiedenen Kunsterlebnissen und Bühnenprogrammen wird dieses Mal als besonderes Projekt ein bürgerbeteiligter Gospelchor namens „Machi Naka Art Choir“ auftreten.
+
+■„Machi Naka Art 2026 WINTER“ findet vom 22. bis 23. Februar im Nakahara Peace Park statt und es wird auch ein Gospelchor mit Bürgerbeteiligung auftreten.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+■Überblick über „Machi Naka Art 2026 WINTER“
+
+<Tabelle>
+
+<tr>
+<td…",川崎市平和館「街ナカアート2026WINTER」2/22-23プログラム発表、市民参加型ピースパレード＆ゴスペルコーラスも,"体験型アートフェス「街ナカアート2026 WINTER」が、中原平和公園で2026年2月22日（日）23日（月祝）に開催されます。
+
+さまざまなアート体験やステージプログラムに加えて、今回は特別企画として市民参加型ゴスペルコーラス隊「街ナカアートクワイヤー（Choir）」が出演します。
+
+■「街ナカアート2026 WINTER」が2/22-23中原平和公園で開催、市民参加型ゴスペルコーラスも登場
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+■「街ナカアート2026 WINTER」の開催概要
+
+<table>
+
+<tr>
+<td…","Kawasaki City Heiwakan ""Machi Naka Art 2026 WINTER"" 2/22-23 program announcement, citizen participation peace parade & gospel chorus. The hands-on art festival ""Machi Naka Art 2026 WINTER"" will be held at Nakahara Peace Park on February 22nd (Sunday) and 23rd (Monday holiday), 2026.
+
+In addition to various art experiences and stage programs, this time, as a special project, a citizen-participatory gospel choir called the ``Machi Naka Art Choir'' will be performing.
+
+■“Machi Naka Art 2026 WINTER” will be held at Nakahara Peace Park on February 22-23, and a gospel chorus with citizen participation will also be featured.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+■Overview of “Machi Naka Art 2026 WINTER”
+
+<table>
+
+<tr>
+<td…","Kawasaki urbs Heiwakan ""Machi Naka Art 2026 HIBERNUS"" 2/22-23 programmatis denuntiatio, civis participatio pacis pompam & chorus evangelicus. Manus sollemnes artis ""Machi Naka Art 2026 HIBERNUS"" in Nakahara Pacis Park die 22 Februarii (Solis) et die 23 (feriae Lunae) habendae sunt, MMXXVI.
+
+Praeter varias experientias artis et progressionis scenici, hoc tempus, ut speciale consilium, chorus evangelicus civis-participatus, qui vocatur `Machi Naka Art Choir', perficiet.
+
+■""Machi Naka Art 2026 HIBERNUS"" Nakahara Pacis Park die 22 Februarii habebitur, et chorus evangelicus cum civium participatione etiam in lineamentis erit.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+■ Overview of ""Machi Naka Art 2026 HIBERNO""
+
+<mensa>
+
+<tr>
+<td…",http://musashikosugi.blog.shinobi.jp/Entry/7148/,http://blog.cnobi.jp/v1/blog/user/0ad47e9f18d9065b97b411739eb8d18f/1677403099,,"2026 WINTER202622223Choir
+2026 WINTER2/22-23
+2026 WINTER
+22
+<table><tr><td>11:30</td><td>yy-flamenca11:30</td></tr><tr><td>12:15</td><td> </td></tr><tr><td>13:00</td><td></td></tr><tr><td>14:30</… [+1296 chars]",,2026-03-12 03:13:26+00:00,emdat,Madagascar,MDG,Africa
+34b4d167ed730b1b92c6cc5bc25cc113,2026-02-24T01:35:29Z,Earthquake,児島地震,director.blog.shinobi.jp,ja,0.3333333333333333,"TV-Dramaserie „Bakebake“ (102. Folge, 24. Februar 2026) Impressionen. NHK General/NHK BS/Premium 4K/TV-Dramaserie „Bakebake“
+Offizieller Link: Website｜X (ehemals Twitter)｜Instagram
+
+Folge 102/Woche 21 „Kaku, No, Human.“ Impressionen.
+
+
+* Da dies mein täglicher Eindruck ist, hat auch meine Stimmung ihre Höhen und Tiefen. Vielen Dank für Ihr Verständnis.
+* Auch wenn Sie nur Lob und begeisterte Kritiken wollen, ist es besser, dies nicht zu lesen.
+
+Toki (Akari Takaishi) und die anderen sind besorgt, dass Heaven (Tommy Bastow) seinen Job verlieren wird. Dort wird die an den Himmel gerichtete Manuskriptgebühr abgegeben. Jeder ist überrascht, dass der Betrag höher ist, als er erwartet hatte, und der Himmel sagt, dass er von nun an ein Werk schreiben wird ...",連続テレビ小説「ばけばけ」 （第102回・2026/2/24） 感想,"NHK総合・NHK BS・ﾌﾟﾚﾐｱﾑ4K／連続テレビ小説『ばけばけ』 
+公式リンク：Website｜X(旧Twitter)｜Instagram 
+
+第102回／第21週『カク、ノ、ヒト。』の感想。
+
+
+※ 毎日毎日の感想なので、私の気分も山あり谷ありです。ご理解を。
+※ また、称賛、絶賛の感想だけをご希望の方は読まないほうが良いです。
+
+ヘブン（トミー・バストウ）の仕事がなくなると心配するトキ（髙石あかり）たち一同。そこにヘブン宛の原稿料が届けられる。思った以上の金額に驚く一同に、ヘブンはこれからは作品を書いて…","TV drama series ""Bakebake"" (102nd episode, February 24, 2026) Impressions. NHK General/NHK BS/Premium 4K/TV drama series ""Bakebake""
+Official link: Website｜X (formerly Twitter)｜Instagram
+
+Episode 102/Week 21 “Kaku, No, Human. ” Impressions.
+
+
+* Since this is my daily impression, my mood also has its ups and downs. Thank you for your understanding.
+* Also, if you only want praise and rave reviews, it is better not to read this.
+
+Toki (Akari Takaishi) and the others are worried that Heaven (Tommy Bastow) will lose his job. The manuscript fee addressed to Heaven is delivered there. Everyone is surprised that the amount is more than they expected, and Heaven says that from now on, he will write a work...","TV series dramatis ""Bakebake"" (102 ad episodium, die 24 februarii 2026) impressiones. NHK Generalis/NHK BS/Premium 4K/TV series drama ""Bakebake""
+Officialis link: Website｜X (olim Twitter) ｜Instagram
+
+Episode 102/Hebdomada 21 Kaku, Non, Humanum. impressiones.
+
+
+* Quoniam haec est cotidiana mea impressio, etiam modus habet varietas. Gratias tibi ago pro prudentia tua.
+* Item, si tantum vis laudis et delirare recensiones, melius est hoc non legere.
+
+Toki (Akari Takaishi) et alii soliciti sunt ne Caelum (Tommy Bastow) officium suum amittat. Feodum manuscriptum ad Caelum destinatum est. Quisque miratur, quantum plus quam speratur, et caelum dicit quod posthac scribet opus...",http://director.blog.shinobi.jp/Entry/20160/,http://blog.cnobi.jp/v1/blog/user/08129a6aa5c0172a4540c0e91490e391/1758710885,,"NHKNHK BS4KWebsiteX(Twitter)Instagram
+10221
+------------
+/,,/,, 1,2,5,7,13,14,19/,, 3,6,9,12,15,18/,, 4,8,10,16/ 11,21/ 17,20/,,/,,NHK/!,,,,/,SHISHAMOinstagram.com/nishizawa_k/VFXCG()()
+‘’…
+4
+/… [+119 chars]",,2026-03-12 03:13:26+00:00,usgs,Japan,EAS,Asia
+c47e136cca49fbcea90147b35e1181a7,2026-02-16T09:00:00Z,Heat Wave,灼熱の温度,moognyk.jp,ja,0.4444444444444444,"Wintervogelfotografie mit der LUMIX DC-TZ99: Einstellungen für gute Aufnahmen von Wildvögeln mit einer kompakten Digitalkamera usw. Wildvogelfotografie mit der kompakten Digitalkamera LUMIX DC-TZ99. Dies ist ein Eisvogel, den ich letzten Monat in Nogawa fotografiert habe. Aufnehmen von Wildvögeln im Winter mit der LUMIX DC-TZ99 Aufnehmen von Vögeln im Flug mit der LUMIX DC-TZ99 Informationen zu den TZ99-Einstellungen zum Aufnehmen von Vögeln Wenn der Fokus unscharf ist oder das Bild zu weit entfernt ist KI-Rauschunterdrückung mit RAW-Entwicklung Etwas mehr Wildvogelfotografie mit der TZ99 Aufnehmen von Wildvögeln im Winter mit der LUMIX DC-TZ99 Kompakte Digitalkamera von Panasonic, die ich letztes Jahr gekauft habe „LUMIX“ Ich verwende die DC-TZ99 von Anfang an, um Wildvögel aufzunehmen, wenn Ich habe keine spiegellose Kamera dabei, aber jetzt, wo die Luft im Winter klarer ist ...",LUMIX DC-TZ99で冬の野鳥撮影：コンデジを使って野鳥をいい感じに撮る設定など,コンパクトデジタルカメラLUMIX DC-TZ99での野鳥撮影。こちらは先月、野川で撮ったカワセミ。 LUMIX DC-TZ99で冬の野鳥撮影 LUMIX DC-TZ99で飛んでいる鳥を撮る 野鳥撮影でのTZ99設定について ピントが合わない、奥に抜けた場合 RAW現像でAIノイズ除去 TZ99の野鳥写真をもう少し LUMIX DC-TZ99で冬の野鳥撮影 昨年買ったパナソニックのコンデジ「LUMIX DC-TZ99。当初からミラーレスカメラを携行していない際の野鳥の記録に使っていましたが、冬になり空気が澄んでき…,"Winter bird photography with the LUMIX DC-TZ99: Settings for taking good pictures of wild birds using a compact digital camera, etc. Wild bird photography with the compact digital camera LUMIX DC-TZ99. This is a kingfisher I photographed in Nogawa last month. Shooting wild birds in winter with the LUMIX DC-TZ99 Shooting birds in flight with the LUMIX DC-TZ99 About TZ99 settings for shooting birds When the focus is out of focus or the image goes too far AI noise removal with RAW development A little more wild bird photography with the TZ99 Shooting wild birds in the winter with the LUMIX DC-TZ99 Panasonic compact digital camera I bought last year ""LUMIX"" I've been using the DC-TZ99 since the beginning to record wild birds when I'm not carrying a mirrorless camera, but now that the air is clearer in the winter...","Consequat avis hyemalis cum LUMIX DC-TZ99: Occasus capiendi bonas imagines ferarum avium utens pacto digitale camera, etc. Ferae consequat avis cum pacto digital LUMIX DC-TZ99. Hoc halcyonum me photographicum in Nogawa ultimo mense. Aves ferae dirigentes in hieme cum LUMIX DC-TZ99 Aves dirigentes in volando cum LUMIX DC-TZ99 Circa TZ99 occasus pro volatilibus avibus Cum focus extra umbilicum est vel imago nimis longe AI sonitus remotionis cum INCREMENTORUM evolutione paulo plus avium ferarum consequat cum TZ99 Aves ferae in hieme cum LUMIX DC-TZ99 panasonic emerunt ""I. initium notare aves feras cum non sum cameram speculi portans, nunc aer in hieme clarior est...",https://moognyk.jp/entry/2026/02/16/180000,https://cdn.image.st-hatena.com/image/scale/feae767cf75a96903e64530f36e36793010f574d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FO%2FOKP%2F20260216%2F20260216172003.jpg,,"コンパクトデジタルカメラLUMIX DC-TZ99での野鳥撮影。こちらは先月、野川で撮ったカワセミ。
+<ul>
+ <li>LUMIX DC-TZ99で冬の野鳥撮影</li>
+ <li>LUMIX DC-TZ99で飛んでいる鳥を撮る</li>
+ <li>野鳥撮影でのTZ99設定について<ul>
+ <li>ピントが合わない、奥に抜けた場合</li>
+ <li>RAW現像でAIノイズ除去</li>
+ … [+4571 chars]",,2026-03-12 03:13:26+00:00,random,,,
+b054af7eb526c82b2499765e938d8447,2026-02-12T01:47:22Z,Earthquake,陸奥地震,director.blog.shinobi.jp,ja,0.5555555555555556,"Impressionen zur TV-Dramaserie „Bakebake“ (94./2.12.2026) NHK General/NHK BS/Premium 4K/TV-Dramaserie „Bakebake“
+Offizieller Link: Website｜X (ehemals Twitter)｜Instagram
+
+Folge 94/Woche 19 „Wakarel, Simas.“ Impressionen.
+
+
+* Da dies mein täglicher Eindruck ist, hat auch meine Stimmung ihre Höhen und Tiefen. Vielen Dank für Ihr Verständnis.
+* Auch wenn Sie nur Lob und begeisterte Kritiken wollen, ist es besser, dies nicht zu lesen.
+
+Um Heaven (Tommy Bastow) dazu zu bringen, in Matsue zu bleiben, greift Nishikori (Ryo Yoshizawa) weiterhin täglich auf verschiedene Ansätze zurück. Toki (Akari Takaishi) hingegen bleibt bei Sawas (Wan Marui) Worten hängen ...",連続テレビ小説「ばけばけ」 （第94回・2026/2/12） 感想,"NHK総合・NHK BS・ﾌﾟﾚﾐｱﾑ4K／連続テレビ小説『ばけばけ』 
+公式リンク：Website｜X(旧Twitter)｜Instagram 
+
+第94回／第19週『ワカレル、シマス。』の感想。
+
+
+※ 毎日毎日の感想なので、私の気分も山あり谷ありです。ご理解を。
+※ また、称賛、絶賛の感想だけをご希望の方は読まないほうが良いです。
+
+ヘブン（トミー・バストウ）を松江に残らせるため、錦織（吉沢亮）は連日、あの手この手とアプローチを続ける。一方、トキ（髙石あかり）はサワ（円井わん）の言葉がずっと引っかかっていた…","Impressions on the TV drama series “Bakebake” (94th/2/12/2026) NHK General/NHK BS/Premium 4K/TV drama series “Bakebake”
+Official link: Website｜X (formerly Twitter)｜Instagram
+
+Episode 94/Week 19 “Wakarel, Simas. ” Impressions.
+
+
+* Since this is my daily impression, my mood also has its ups and downs. Thank you for your understanding.
+* Also, if you only want praise and rave reviews, it is better not to read this.
+
+In order to get Heaven (Tommy Bastow) to stay in Matsue, Nishikori (Ryo Yoshizawa) continues to use various approaches every day. On the other hand, Toki (Akari Takaishi) has been stuck with Sawa's (Wan Marui) words...","Impressiones in seriei dramatis TV ""Bakebake"" (94th/2/12/2026) NHK Generalis/NHK BS/Premium 4K/TV series drama ""Bakebake""
+Officialis link: Website｜X (olim Twitter) ｜Instagram
+
+Episode 94/Hebdomada XIX ""Wakarel, Simas."" Impressiones.
+
+
+* Quoniam haec est cotidiana mea impressio, etiam modus habet varietas. Gratias tibi ago pro prudentia tua.
+* Item, si tantum vis laudis et delirare recensiones, melius est hoc non legere.
+
+Coelum obtinendum (Tommy Bastow) in Matsue, Nishikori (Ryo Yoshizawa) manere pergit, varios in dies uti aditus. Contra, Toki (Akari Takaishi) verbis Sawa (Wan Marui) adhaesit.",http://director.blog.shinobi.jp/Entry/20138/,http://blog.cnobi.jp/v1/blog/user/08129a6aa5c0172a4540c0e91490e391/1758710885,,"NHKNHK BS4KWebsiteX(Twitter)Instagram
+9419
+------------
+/,,/,, 1,2,5,7,13,14,19/,, 3,6,9,12,15,18/,, 4,8,10,16/ 11/ 17/,,/,,NHK/!,,,,/,SHISHAMOinstagram.com/nishizawa_k/VFXCG()()
+…
+3
+13811823
+… [+162 chars]",,2026-03-12 03:13:26+00:00,usgs,Japan,EAS,Asia
