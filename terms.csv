@@ -80,7 +80,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-02-17T04:30:00+00:00,,0.3527700311172504,2,1,ja,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-03-12T04:25:00+00:00,,0.3495938444496941,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-03-08T04:24:00+00:00,,0.3485064152251044,1,1,ja,,
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-03-05T04:23:00+00:00,,0.3456825073223495,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-02-13T04:34:00+00:00,Palau,0.3397566856532012,1,1,ja,EPO,Pacific Ocean
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-03-17T04:30:00+00:00,,0.33762339528900964,0,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-02-26T04:28:00+00:00,,0.3370562659416374,1,1,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3355813481113034,2,1,ja,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-03-01T04:34:00+00:00,,0.3330760678505253,1,1,ja,,
@@ -98,6 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-03-01T04:35:00+00:00,Australia,0.3143903740790323,0,1,ja,EAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,ja,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,嵐 ノースシドニー あられ嵐 2017,2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,ja,EAU,Oceania
+'83923f83ef',extremes,Storm,#b3b2b1,aidr,オーストラリアの嵐,2026-03-17T04:31:00+00:00,Australia,0.3133346984513983,0,1,ja,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.3127621537594346,0,1,ja,WAF,Africa
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,熱帯低気圧マダガスカル,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,ja,MDG,Africa
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,暴風雨,2026-03-16T05:04:00+00:00,,0.3124920646474871,0,1,ja,,
@@ -120,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7afee2724b',extremes,Drought,#edc291,edo,乾燥デンマーク,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,ja,NEU,Europe
 '945465874b',extremes,Drought,#edc291,edo,ジブチの干ばつ,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,ja,NEAF,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアイスランド,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,ja,GIC,Europe
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-03-17T04:30:00+00:00,Russia,0.3067754255584991,0,1,ja,ESB,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
