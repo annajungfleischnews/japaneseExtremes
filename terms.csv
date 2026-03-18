@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9001f5863',extremes,Earthquake,#870007,usgs,指宿地震,2026-03-08T04:24:00+00:00,Japan,0.487076614008583,1,1,ja,EAS,Asia
 'c9af8262b7',extremes,Earthquake,#870007,usgs,地震まき,2026-02-15T04:34:00+00:00,Japan,0.4858149564350121,4,3,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-02-26T04:28:00+00:00,,0.4821838260915431,2,3,ja,,
-'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-27T04:25:00+00:00,Japan,0.4821263307485304,1,1,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-02-26T04:28:00+00:00,Japan,0.4810776315001547,1,1,ja,EAS,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-02-18T04:33:00+00:00,,0.4770013563568295,2,3,ja,,
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-03-07T04:12:00+00:00,Japan,0.4705162525456722,2,1,ja,EAS,Asia
@@ -45,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-02-22T04:30:00+00:00,,0.4168467137763322,1,2,ja,,
 '09027d828e',extremes,Earthquake,#870007,usgs,多良間地震,2026-03-14T04:22:00+00:00,Japan,0.4142704377049863,1,1,ja,EAS,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-03-01T04:34:00+00:00,,0.4133510522892126,2,3,ja,,
+'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-27T04:25:00+00:00,Japan,0.4101074111362508,2,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-02-07T04:19:00+00:00,,0.4095295871653131,1,2,ja,,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-02-27T04:25:00+00:00,Japan,0.4093180878632075,1,1,ja,EAS,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-03-05T04:23:00+00:00,,0.4082245333132595,1,3,ja,,
@@ -145,7 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-03-04T04:20:00+00:00,,0.2653338416040737,1,1,ja,,
 '628c910b11',extremes,Flood,#030ba1,aidr,ニューサウスウェールズ州の洪水 2022,2026-02-23T04:37:00+00:00,Australia,0.2652059051892275,1,1,ja,EAU,Oceania
 '55459a4ab8',extremes,Drought,#edc291,edo,干ばつルクセンブルク,2026-03-04T04:21:00+00:00,Luxembourg,0.2650929944928455,1,1,ja,WCE,Europe
-'5aa8518160',extremes,Wildfire,#d60d2b,emdat,山火事ベザンガ,2026-03-13T04:25:00+00:00,Central African Republic,0.26382212148427536,1,1,ja,CAF,Africa
+'5aa8518160',extremes,Wildfire,#d60d2b,emdat,山火事ベザンガ,2026-03-13T04:25:00+00:00,Central African Republic,0.2638221214842753,1,1,ja,CAF,Africa
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,コロンビアの洪水,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,ja,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-03-02T04:27:00+00:00,,0.2631326491133827,1,1,ja,,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,熱波チリ,2026-02-25T04:32:00+00:00,Chile,0.2626636850248375,1,1,ja,SWS,South-America
