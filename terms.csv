@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-02-06T04:27:00+00:00,,0.593140444754471,5,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-02-26T04:28:00+00:00,Japan,0.5381407067117209,2,2,ja,NPO,Pacific Ocean
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-02-19T04:32:00+00:00,Japan,0.5232587399411929,4,2,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-02-28T04:07:00+00:00,,0.5203964190751491,4,3,ja,,
@@ -83,7 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-03-05T04:23:00+00:00,,0.3456825073223495,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-02-13T04:34:00+00:00,Palau,0.3397566856532012,1,1,ja,EPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-03-17T04:30:00+00:00,,0.3376233952890096,0,1,ja,,
-'560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-03-17T04:30:00+00:00,,0.33709047073376547,0,1,ja,,
+'560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-03-17T04:30:00+00:00,,0.3370904707337654,0,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-02-26T04:28:00+00:00,,0.3370562659416374,1,1,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3355813481113034,2,1,ja,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-03-01T04:34:00+00:00,,0.3330760678505253,1,1,ja,,
@@ -126,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアイスランド,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,ja,GIC,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-03-17T04:30:00+00:00,Russia,0.3067754255584991,0,1,ja,ESB,Europe
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,極寒のサウジアラビア,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3066989969432253,0,1,ja,ARP,Asia
-'74236bd182',extremes,Drought,#edc291,edo,アイスランドの雨不足,2026-03-03T04:27:00+00:00,Iceland,0.30668970936771933,0,1,ja,GIC,Europe
+'74236bd182',extremes,Drought,#edc291,edo,アイスランドの雨不足,2026-03-03T04:27:00+00:00,Iceland,0.3066897093677193,0,1,ja,GIC,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-02-13T04:33:00+00:00,,0.305169189817937,1,1,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
@@ -155,7 +154,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,コロンビアの洪水,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,ja,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-03-02T04:27:00+00:00,,0.2631326491133827,1,1,ja,,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,熱波チリ,2026-02-25T04:32:00+00:00,Chile,0.2626636850248375,1,1,ja,SWS,South-America
-'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,豪雨ニュージーランド,2026-02-13T04:34:00+00:00,New Zealand,0.2618875232101063,1,1,ja,NZ,Oceania
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,エクアドル大陸の降水量,2026-02-14T04:21:00+00:00,Ecuador,0.2616153282662622,1,1,ja,NWS,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,熱波タータガル・イ・アルレデドレス,2026-02-17T04:31:00+00:00,Argentina,0.2613443023953726,1,1,ja,SES,South-America
 'd98aa38709',extremes,Fog,#d60d2b,wmo,霧サウジアラビア,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2611456811230659,1,1,ja,ARP,Asia
