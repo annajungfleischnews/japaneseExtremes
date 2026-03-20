@@ -43,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-02-22T04:30:00+00:00,,0.4168467137763322,1,2,ja,,
 '09027d828e',extremes,Earthquake,#870007,usgs,多良間地震,2026-03-14T04:22:00+00:00,Japan,0.4142704377049863,1,1,ja,EAS,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-03-01T04:34:00+00:00,,0.4133510522892126,2,3,ja,,
-'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-03-18T04:35:00+00:00,,0.41289380143352367,1,3,ja,,
+'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-03-18T04:35:00+00:00,,0.4128938014335236,1,3,ja,,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-27T04:25:00+00:00,Japan,0.4101074111362508,2,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-02-07T04:19:00+00:00,,0.4095295871653131,1,2,ja,,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-02-27T04:25:00+00:00,Japan,0.4093180878632075,1,1,ja,EAS,Asia
@@ -109,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e5f311da7',extremes,Drought,#edc291,edo,日照りサントメ・プリンシペ,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,ja,WAF,Africa
 'af5e4ac005',extremes,Drought,#edc291,edo,デンマークの乾季,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,ja,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,バングラデシュの雨不足,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,ja,SAS,Asia
+'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ナレル,2026-03-19T04:35:00+00:00,,0.30867339083843975,0,1,ja,SPO,Pacific Ocean
 '7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,ja,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,熱波コリエンテスとアルレデドレス,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,ja,SES,South-America
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-03-11T04:22:00+00:00,Poland,0.3085860481914791,0,1,ja,WCE,Europe
@@ -126,7 +127,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,アルジェリアの嵐,2026-03-10T04:22:00+00:00,Algeria,0.306622363129756,0,1,ja,SAH,Africa
 'cf99db758d',extremes,Fog,#d60d2b,wmo,霧のラトビア,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,ja,WCE,Europe
 '0511e6ef31',extremes,Drought,#edc291,edo,日照りのエストニア,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,ja,NEU,Europe
+'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-03-03T04:27:00+00:00,Chile,0.30615720681522196,0,1,ja,SWS,South-America
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 中程度,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ja,SES,South-America
+'6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,ja,SWS,South-America
+'80a1b6ba6b',extremes,Drought,#edc291,edo,ベルギーの干ばつ,2026-03-02T04:27:00+00:00,Belgium,0.30585738335506507,0,1,ja,WCE,Europe
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-03-05T04:23:00+00:00,,0.2938301312239971,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
