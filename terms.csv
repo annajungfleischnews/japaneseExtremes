@@ -92,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-03-10T04:21:00+00:00,,0.3271892337502011,0,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-03-07T04:12:00+00:00,,0.3268135428483948,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-02-13T04:33:00+00:00,,0.3244021155830632,1,2,ja,,
-'30406c7856',extremes,Flood,#030ba1,cmeter,ブラジルの洪水,2026-03-07T04:13:00+00:00,Brazil,0.3188339702454074,0,1,ja,SES,South-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-03-05T04:23:00+00:00,,0.318751803100553,1,2,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-03-12T04:25:00+00:00,,0.3177164931791413,0,1,ja,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,ja,,
@@ -106,10 +105,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,ja,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-03-01T04:35:00+00:00,Brazil,0.3099926915451623,0,1,ja,SAM,South-America
 'a1fcc33dde',extremes,Drought,#edc291,edo,干ばつ香港,2026-02-25T04:33:00+00:00,Hong Kong,0.3096297868820012,0,1,ja,EAS,Asia
-'3e5f311da7',extremes,Drought,#edc291,edo,日照りサントメ・プリンシペ,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.3090265463756586,0,1,ja,WAF,Africa
 'af5e4ac005',extremes,Drought,#edc291,edo,デンマークの乾季,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,ja,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,バングラデシュの雨不足,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,ja,SAS,Asia
-'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ナレル,2026-03-19T04:35:00+00:00,,0.30867339083843975,0,1,ja,SPO,Pacific Ocean
+'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ナレル,2026-03-19T04:35:00+00:00,,0.3086733908384397,0,1,ja,SPO,Pacific Ocean
 '7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-03-06T04:21:00+00:00,Bhutan,0.3086501780272623,0,1,ja,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,熱波コリエンテスとアルレデドレス,2026-02-18T04:34:00+00:00,Argentina,0.3085993682714565,0,1,ja,SES,South-America
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-03-11T04:22:00+00:00,Poland,0.3085860481914791,0,1,ja,WCE,Europe
@@ -127,10 +125,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,アルジェリアの嵐,2026-03-10T04:22:00+00:00,Algeria,0.306622363129756,0,1,ja,SAH,Africa
 'cf99db758d',extremes,Fog,#d60d2b,wmo,霧のラトビア,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,ja,WCE,Europe
 '0511e6ef31',extremes,Drought,#edc291,edo,日照りのエストニア,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,ja,NEU,Europe
-'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-03-03T04:27:00+00:00,Chile,0.30615720681522196,0,1,ja,SWS,South-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-03-03T04:27:00+00:00,Chile,0.3061572068152219,0,1,ja,SWS,South-America
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 中程度,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ja,SES,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,ja,SWS,South-America
-'80a1b6ba6b',extremes,Drought,#edc291,edo,ベルギーの干ばつ,2026-03-02T04:27:00+00:00,Belgium,0.30585738335506507,0,1,ja,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,ベルギーの干ばつ,2026-03-02T04:27:00+00:00,Belgium,0.305857383355065,0,1,ja,WCE,Europe
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-03-05T04:23:00+00:00,,0.2938301312239971,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
@@ -139,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,タスマニアの温暖な気候,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,ja,SAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,大雨のニューサウスウェールズ州,2026-03-09T04:31:00+00:00,Australia,0.2711999412332385,1,1,ja,EAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,山火事ニューサウスウェールズ州,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,ja,EAU,Oceania
+'30406c7856',extremes,Flood,#030ba1,cmeter,ブラジルの洪水,2026-03-07T04:13:00+00:00,Brazil,0.27115888970859625,1,1,ja,SES,South-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,雨天のタスマニア,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,ja,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧オラシオ,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,ja,SIO,Indian Ocean
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,氷山 d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,ja,EAN,
@@ -161,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,竜巻、マレー川タウンシップ、ビクトリア州、2013,2026-02-26T04:29:00+00:00,Australia,0.2632698221863953,1,1,ja,SAU,Oceania
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,コロンビアの洪水,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,ja,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-03-02T04:27:00+00:00,,0.2631326491133827,1,1,ja,,
+'3e5f311da7',extremes,Drought,#edc291,edo,日照りサントメ・プリンシペ,2026-02-25T04:33:00+00:00,Sao Tome and Principe,0.2626725644193098,1,1,ja,WAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,熱波チリ,2026-02-25T04:32:00+00:00,Chile,0.2626636850248375,1,1,ja,SWS,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,熱波タータガル・イ・アルレデドレス,2026-02-17T04:31:00+00:00,Argentina,0.2613443023953726,1,1,ja,SES,South-America
 'd98aa38709',extremes,Fog,#d60d2b,wmo,霧サウジアラビア,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2611456811230659,1,1,ja,ARP,Asia
