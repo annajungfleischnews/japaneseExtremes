@@ -126,12 +126,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 中程度,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ja,SES,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,ja,SWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,ベルギーの干ばつ,2026-03-02T04:27:00+00:00,Belgium,0.305857383355065,0,1,ja,WCE,Europe
+'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-03-17T04:30:00+00:00,Argentina,0.3058272156012692,0,1,ja,SES,South-America
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,アバランチフランス,2026-03-17T04:30:00+00:00,France,0.3056138850173815,0,1,ja,WCE,Europe
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,高潮サウジアラビア,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3055454582076882,0,1,ja,ARP,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-03-12T04:25:00+00:00,,0.2995594692022701,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-03-05T04:23:00+00:00,,0.2938301312239971,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,ja,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-03-12T04:25:00+00:00,,0.2832966439197469,1,1,ja,,
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-03-10T04:21:00+00:00,,0.27811084868767094,1,1,ja,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-03-10T04:21:00+00:00,,0.2781108486876709,1,1,ja,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,ニューサウスウェールズ州で火災が禁止される,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,ja,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,タスマニアの温暖な気候,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,ja,SAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,大雨のニューサウスウェールズ州,2026-03-09T04:31:00+00:00,Australia,0.2711999412332385,1,1,ja,EAU,Oceania
@@ -149,7 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 26s,2026-03-07T04:12:00+00:00,,0.2681255486651915,1,1,ja,NAU,Oceania
 '394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 24p,2026-03-06T04:21:00+00:00,,0.2676503350190891,1,1,ja,NAU,Oceania
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ウルミル,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,ja,SPO,Pacific Ocean
-'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-03-01T04:35:00+00:00,Australia,0.26723181796717743,1,1,ja,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,2020 年 2 月クイーンズランド州の大雨と洪水,2026-03-01T04:35:00+00:00,Australia,0.2672318179671774,1,1,ja,EAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-03-09T04:30:00+00:00,,0.2668230071467348,1,1,ja,,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,オーストラリアの嵐,2026-03-17T04:31:00+00:00,Australia,0.2663344936836885,1,1,ja,SAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,ja,,
@@ -168,4 +171,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 年低気圧は深刻な熱帯低気圧ベロニカ,2026-02-23T04:37:00+00:00,Australia,0.2608068686979771,1,1,ja,CAU,Oceania
 '0769f23236',extremes,Wildfire,#d60d2b,emdat,森林火災 ンドウバモウドゥの村々,2026-03-14T04:23:00+00:00,Central African Republic,0.2606361453036467,1,1,ja,CAF,Africa
 'e873273000',extremes,Storm,#b3b2b1,emdat,マラウイの嵐,2026-02-20T04:28:00+00:00,Malawi,0.2252383476666434,2,1,ja,ESAF,Africa
-'5aa8518160',extremes,Wildfire,#d60d2b,emdat,山火事ベザンガ,2026-03-13T04:25:00+00:00,Central African Republic,0.22424880326163402,2,1,ja,CAF,Africa
+'5aa8518160',extremes,Wildfire,#d60d2b,emdat,山火事ベザンガ,2026-03-13T04:25:00+00:00,Central African Republic,0.224248803261634,2,1,ja,CAF,Africa
