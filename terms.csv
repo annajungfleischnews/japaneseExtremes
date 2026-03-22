@@ -114,6 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,熱波抵抗力とアルレデドレス,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,ja,SES,South-America
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cyclone nt 熱帯低気圧マーカス,2026-02-19T04:32:00+00:00,,0.3080801171904528,0,1,ja,NAU,Oceania
 '7afee2724b',extremes,Drought,#edc291,edo,乾燥デンマーク,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,ja,NEU,Europe
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-03-02T04:27:00+00:00,Brazil,0.3070281440230952,0,1,ja,SAM,South-America
 '945465874b',extremes,Drought,#edc291,edo,ジブチの干ばつ,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,ja,NEAF,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアイスランド,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,ja,GIC,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-03-17T04:30:00+00:00,Russia,0.3067754255584991,0,1,ja,ESB,Europe
