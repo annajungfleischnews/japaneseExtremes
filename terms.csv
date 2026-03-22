@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-03-12T04:26:00+00:00,Japan,0.5478066216728269,0,1,ja,EAS,Asia
 'b13b7f0ddc',extremes,Earthquake,#870007,usgs,釧路地震,2026-03-18T04:35:00+00:00,Japan,0.5165385846768467,1,2,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-02-28T04:07:00+00:00,,0.5109251948502403,5,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-02-25T04:32:00+00:00,Japan,0.5103237784249884,5,3,ja,EAS,Asia
@@ -8,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-03-21T04:17:00+00:00,,0.4932638864654463,1,3,ja,,
 'd9001f5863',extremes,Earthquake,#870007,usgs,指宿地震,2026-03-08T04:24:00+00:00,Japan,0.487076614008583,1,1,ja,EAS,Asia
 'c9af8262b7',extremes,Earthquake,#870007,usgs,地震まき,2026-02-15T04:34:00+00:00,Japan,0.4858149564350121,4,3,ja,EAS,Asia
+'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-03-20T04:26:00+00:00,Japan,0.4844281134371214,0,1,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-02-26T04:28:00+00:00,,0.4821838260915431,2,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-02-26T04:28:00+00:00,Japan,0.4810776315001547,1,1,ja,EAS,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-02-18T04:33:00+00:00,,0.4770013563568295,2,3,ja,,
@@ -45,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-03-18T04:35:00+00:00,,0.4128938014335236,1,3,ja,,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-02-27T04:25:00+00:00,Japan,0.4101074111362508,2,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-02-27T04:25:00+00:00,Japan,0.4093180878632075,1,1,ja,EAS,Asia
+'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-03-12T04:26:00+00:00,Palau,0.40920490989453434,0,1,ja,EPO,Pacific Ocean
 '135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-03-05T04:23:00+00:00,,0.4082245333132595,1,3,ja,,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-02-20T04:27:00+00:00,Japan,0.4078976392332342,3,1,ja,EAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-02-15T04:34:00+00:00,,0.4071437489428122,1,2,ja,,
@@ -58,11 +61,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92a1045b75',extremes,Earthquake,#870007,usgs,本代々木町地震,2026-03-01T04:34:00+00:00,Japan,0.3949906960050853,1,1,ja,EAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-03-04T04:20:00+00:00,,0.3938974090257815,1,3,ja,,
 '82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.3929639351333667,2,2,ja,EAS,Asia
+'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-03-22T04:32:00+00:00,,0.39193601824210367,0,1,ja,,
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2026-03-19T04:35:00+00:00,Japan,0.3884255012229277,1,1,ja,EAS,Asia
 'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.3880233323258557,1,1,ja,EAS,Asia
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2026-02-19T04:31:00+00:00,Japan,0.3875028409126801,1,1,ja,EAS,Asia
 'f6ba464e0a',extremes,Earthquake,#870007,usgs,宿毛地震,2026-03-01T04:34:00+00:00,Japan,0.3873593955914676,2,1,ja,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-02-21T04:17:00+00:00,,0.3842978922612141,1,2,ja,,
+'40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-03-09T04:30:00+00:00,,0.3819637588733407,0,1,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-03-11T04:22:00+00:00,Japan,0.3815357704337642,3,1,ja,EAS,Asia
 'a41f54cf6f',extremes,Earthquake,#870007,usgs,地震名瀬,2026-03-21T04:17:00+00:00,Japan,0.3780767886297792,1,1,ja,EAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-02-17T04:30:00+00:00,,0.3765204385625385,1,3,ja,,
