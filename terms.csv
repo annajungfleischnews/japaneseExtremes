@@ -9,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9af8262b7',extremes,Earthquake,#870007,usgs,地震まき,2026-02-15T04:34:00+00:00,Japan,0.4858149564350121,4,3,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-02-26T04:28:00+00:00,,0.4821838260915431,2,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-02-26T04:28:00+00:00,Japan,0.4810776315001547,1,1,ja,EAS,Asia
-'20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-02-28T04:07:00+00:00,,0.48014744153179517,6,3,ja,,
+'20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-02-28T04:07:00+00:00,,0.4801474415317951,6,3,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-02-18T04:33:00+00:00,,0.4770013563568295,2,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-02-19T04:32:00+00:00,Japan,0.4736933162227412,5,2,ja,EAS,Asia
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-03-07T04:12:00+00:00,Japan,0.4705162525456722,2,1,ja,EAS,Asia
@@ -58,7 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92a1045b75',extremes,Earthquake,#870007,usgs,本代々木町地震,2026-03-01T04:34:00+00:00,Japan,0.3949906960050853,1,1,ja,EAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-03-04T04:20:00+00:00,,0.3938974090257815,1,3,ja,,
 '82da513c32',extremes,Earthquake,#870007,usgs,七尾地震,2026-02-24T04:30:00+00:00,Japan,0.3929639351333667,2,2,ja,EAS,Asia
-'1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2026-03-19T04:35:00+00:00,Japan,0.3884255012229277,1,1,ja,EAS,Asia
 'b9206bfe28',extremes,Earthquake,#870007,usgs,鰺ヶ沢地震,2026-02-18T04:33:00+00:00,Japan,0.3880233323258557,1,1,ja,EAS,Asia
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2026-02-19T04:31:00+00:00,Japan,0.3875028409126801,1,1,ja,EAS,Asia
 'f6ba464e0a',extremes,Earthquake,#870007,usgs,宿毛地震,2026-03-01T04:34:00+00:00,Japan,0.3873593955914676,2,1,ja,EAS,Asia
@@ -83,13 +82,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-03-12T04:25:00+00:00,,0.3495938444496941,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-03-08T04:24:00+00:00,,0.3485064152251044,1,1,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-03-12T04:26:00+00:00,Palau,0.3478241734103541,1,1,ja,EPO,Pacific Ocean
-'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,ja,,
+'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-03-23T04:41:00+00:00,,0.3386216651723701,1,2,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-02-26T04:28:00+00:00,,0.3370562659416374,1,1,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-02-19T04:31:00+00:00,Japan,0.3355813481113034,2,1,ja,EAS,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-03-17T04:30:00+00:00,,0.3351329046790475,1,1,ja,,
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-03-22T04:32:00+00:00,,0.3331456155057881,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-03-01T04:34:00+00:00,,0.3330760678505253,1,1,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-02-25T04:32:00+00:00,,0.333023303863592,1,1,ja,,
+'1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2026-03-19T04:35:00+00:00,Japan,0.33016167603948854,2,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-03-11T04:22:00+00:00,Palau,0.3272453189448046,1,1,ja,EPO,Pacific Ocean
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-03-07T04:12:00+00:00,,0.3268135428483948,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-02-13T04:33:00+00:00,,0.3244021155830632,1,2,ja,,
@@ -161,7 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ナレル,2026-03-19T04:35:00+00:00,,0.2623723822126737,1,1,ja,SPO,Pacific Ocean
 '7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-03-06T04:21:00+00:00,Bhutan,0.2623526513231729,1,1,ja,TIB,Asia
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,熱波コリエンテスとアルレデドレス,2026-02-18T04:34:00+00:00,Argentina,0.262309463030738,1,1,ja,SES,South-America
-'1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.26198292167104736,1,1,ja,WAF,Africa
+'1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.2619829216710473,1,1,ja,WAF,Africa
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cyclone nt 熱帯低気圧マーカス,2026-02-19T04:32:00+00:00,,0.2618680996118849,1,1,ja,NAU,Oceania
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,高潮、南アフリカ,2026-03-22T04:33:00+00:00,South Africa,0.2614949676051608,1,1,ja,WSAF,Africa
 'd98aa38709',extremes,Fog,#d60d2b,wmo,霧サウジアラビア,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2611456811230659,1,1,ja,ARP,Asia
