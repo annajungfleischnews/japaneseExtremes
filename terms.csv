@@ -64,7 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ba464e0a',extremes,Earthquake,#870007,usgs,宿毛地震,2026-03-01T04:34:00+00:00,Japan,0.3873593955914676,2,1,ja,EAS,Asia
 'a403fd60e3',extremes,Earthquake,#870007,usgs,桐生地震,2026-03-16T05:04:00+00:00,Japan,0.3866844049201769,2,1,ja,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-02-21T04:17:00+00:00,,0.3842978922612141,1,2,ja,,
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-03-27T04:56:00+00:00,,0.38287652317156057,0,1,ja,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-03-11T04:22:00+00:00,Japan,0.3815357704337642,3,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-02-27T04:25:00+00:00,Japan,0.3806669185298802,2,2,ja,EAS,Asia
 'a41f54cf6f',extremes,Earthquake,#870007,usgs,地震名瀬,2026-03-21T04:17:00+00:00,Japan,0.3780767886297792,1,1,ja,EAS,Asia
@@ -111,7 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af5e4ac005',extremes,Drought,#edc291,edo,デンマークの乾季,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,ja,NEU,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-03-11T04:22:00+00:00,Poland,0.3085860481914791,0,1,ja,WCE,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,熱波アルゼンチン,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,ja,SES,South-America
-'7e68dc4baa',extremes,Drought,#edc291,edo,干ばつブータン,2026-03-20T04:26:00+00:00,Bhutan,0.30820087208060604,0,1,ja,TIB,Asia
+'7e68dc4baa',extremes,Drought,#edc291,edo,干ばつブータン,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,ja,TIB,Asia
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,熱波抵抗力とアルレデドレス,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,ja,SES,South-America
 '548a967433',extremes,Storm,#b3b2b1,emdat,嵐テテ,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,ja,ESAF,Africa
 '1512e9c6b2',extremes,Drought,#edc291,edo,スリナムの乾季,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,ja,NSA,South-America
@@ -121,10 +121,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,雪のオーストリア,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,ja,WCE,Europe
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,ノースランドの嵐,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,ja,NZ,Oceania
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,フロストブレゲンツ,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,ja,WCE,Europe
-'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,高潮ウィーン・ヴェーリング,2026-03-25T04:33:00+00:00,Austria,0.30732274711499113,0,1,ja,WCE,Europe
+'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,高潮ウィーン・ヴェーリング,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,ja,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,高潮ニュージーランド,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,ja,NZ,Oceania
-'ddcce350d3',extremes,Storm,#b3b2b1,wmo,嵐のオークランドとグレートバリア島,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,1,ja,NZ,Oceania
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,嵐のオークランドとグレートバリア島,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,ja,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,高潮フォルカーマルクト,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,ja,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,フロストチェコ,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,ja,WCE,Europe
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,フロスト・オバーヴァルト,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,ja,WCE,Europe
+'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,フリージングシュワーズ,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,ja,WCE,Europe
+'17a0212ee2',extremes,Storm,#b3b2b1,wmo,高潮ミステルバッハ,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,ja,WCE,Europe
+'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,凍てつくグムンデン,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,ja,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,凍てつくキルヒドルフ アン デア クレムス,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,ja,WCE,Europe
+'53fda39314',extremes,Drought,#edc291,edo,雨不足 リトアニア,2026-03-25T04:33:00+00:00,Lithuania,0.3070689502828683,0,1,ja,WCE,Europe
 '7afee2724b',extremes,Drought,#edc291,edo,乾燥デンマーク,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,ja,NEU,Europe
 '945465874b',extremes,Drought,#edc291,edo,ジブチの干ばつ,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,ja,NEAF,Africa
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-03-17T04:30:00+00:00,Russia,0.3067754255584991,0,1,ja,ESB,Europe
