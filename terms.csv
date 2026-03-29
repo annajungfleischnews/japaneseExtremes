@@ -95,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-03-11T04:22:00+00:00,Palau,0.3272453189448046,1,1,ja,EPO,Pacific Ocean
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-03-07T04:12:00+00:00,,0.3268135428483948,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-02-13T04:33:00+00:00,,0.3244021155830632,1,2,ja,,
+'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-03-25T04:33:00+00:00,,0.3206940943381344,0,1,ja,,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 28p,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,ja,SPO,Pacific Ocean
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,ja,,
@@ -110,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-03-01T04:35:00+00:00,Brazil,0.3099926915451623,0,1,ja,SAM,South-America
 'a1fcc33dde',extremes,Drought,#edc291,edo,干ばつ香港,2026-02-25T04:33:00+00:00,Hong Kong,0.3096297868820012,0,1,ja,EAS,Asia
 'af5e4ac005',extremes,Drought,#edc291,edo,デンマークの乾季,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,ja,NEU,Europe
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,南アフリカの嵐,2026-03-25T04:33:00+00:00,South Africa,0.30858994157544806,0,1,ja,WSAF,Africa
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-03-11T04:22:00+00:00,Poland,0.3085860481914791,0,1,ja,WCE,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,チリの嵐,2026-03-17T04:30:00+00:00,Chile,0.3085029115444327,0,1,ja,SWS,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,熱波アルゼンチン,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,ja,SES,South-America
@@ -141,7 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,嵐スピタル・アン・デア・ドラウ,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,ja,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,アイルランドの嵐,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,ja,NEU,Europe
 '945465874b',extremes,Drought,#edc291,edo,ジブチの干ばつ,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,ja,NEAF,Africa
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,アイスハライン,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,ja,WCE,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,アイスハライン,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,ja,WCE,Europe
 '429800b7a4',extremes,Drought,#edc291,edo,フェロー諸島の干ばつ,2026-03-15T04:45:00+00:00,Faroe Islands,0.3068240060967855,0,1,ja,NEU,Europe
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,サウジアラビアの嵐,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,ja,ARP,Asia
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-03-17T04:30:00+00:00,Russia,0.3067754255584991,0,1,ja,ESB,Europe
@@ -153,7 +155,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf99db758d',extremes,Fog,#d60d2b,wmo,霧のラトビア,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,ja,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,アイスアイスランド,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,ja,GIC,Europe
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,凍てつくサウジアラビア,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,ja,ARP,Asia
+'39afca9687',extremes,Storm,#b3b2b1,wmo,高潮スコピエ地方,2026-03-26T04:56:00+00:00,North Macedonia,0.30625169294225174,0,1,ja,MED,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,嵐ジャマイカ,2026-03-22T04:33:00+00:00,Jamaica,0.3060953771816328,0,1,ja,CAR,North-America
+'eff78b7be8',extremes,Drought,#edc291,edo,バングラデシュの干ばつ,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,1,ja,SAS,Asia
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,雪のカナダ,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,ja,NEN,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,ja,,
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,南東部地域の暴風雨,2026-03-26T04:56:00+00:00,North Macedonia,0.30595149406355693,0,1,ja,MED,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 中程度,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ja,SES,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,ja,SWS,South-America
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,ja,,
