@@ -111,7 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,ニューサウスウェールズ州の日照り状態,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,ja,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,寒い気候の南オーストラリア州,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,ja,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,オーストラリアの寒波,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,ja,CAU,Oceania
-'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧インドゥーサ,2026-04-03T04:42:00+00:00,,0.31683913548346787,0,1,ja,SIO,Indian Ocean
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧インドゥーサ,2026-04-03T04:42:00+00:00,,0.3168391354834678,0,1,ja,SIO,Indian Ocean
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧 28p,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,ja,SPO,Pacific Ocean
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,ja,,
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,寒波ニューサウスウェールズ州,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,ja,EAU,Oceania
@@ -250,10 +250,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,インドの雪崩,2026-03-29T05:00:00+00:00,India,0.3049071514260272,0,1,ja,SAS,Asia
 'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,フロストブイラ,2026-04-02T04:42:00+00:00,Algeria,0.3048987922028955,0,1,ja,SAH,Africa
 'e0317bbd00',extremes,Heat Wave,#c40202,wmo,熱波オレンブルク地域,2026-04-01T05:12:00+00:00,Russia,0.3048917293129805,0,1,ja,ESB,Europe
-'4a4191209b',extremes,Heat Wave,#c40202,wmo,熱波スモレンスク地方,2026-04-01T05:12:00+00:00,Russia,0.30488711207355423,0,1,ja,ESB,Europe
+'4a4191209b',extremes,Heat Wave,#c40202,wmo,熱波スモレンスク地方,2026-04-01T05:12:00+00:00,Russia,0.3048871120735542,0,1,ja,ESB,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-04-03T04:43:00+00:00,Ecuador,0.3048830539891154,0,1,ja,NWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-03-18T04:36:00+00:00,Brazil,0.3048630110171504,0,1,ja,SAM,South-America
-'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧デンマーク,2026-04-04T04:30:00+00:00,Denmark,0.30485951326846483,0,1,ja,NEU,Europe
+'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧デンマーク,2026-04-04T04:30:00+00:00,Denmark,0.3048595132684648,0,1,ja,NEU,Europe
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,高潮エクアドル,2026-04-03T04:43:00+00:00,Ecuador,0.3048517219060076,0,1,ja,NWS,South-America
+'2866b55c37',extremes,Storm,#b3b2b1,wmo,北マケドニアの嵐,2026-03-26T04:56:00+00:00,North Macedonia,0.30484861777363514,0,1,ja,MED,Europe
+'432bab655c',extremes,Wildfire,#d60d2b,wmo,アメリカの山火事,2026-03-18T04:36:00+00:00,United States,0.3047317845832853,0,1,ja,CNA,North-America
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,雪崩チェチェン共和国,2026-03-19T04:35:00+00:00,Russia,0.30471232532430736,0,1,ja,ESB,Europe
+'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,熱波 53 マンダル,2026-04-03T04:43:00+00:00,India,0.3047026776826429,0,1,ja,SAS,Asia
+'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,豪雨 沿岸北東部内陸部,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,1,ja,NWS,South-America
+'7c39867b86',extremes,Flood,#030ba1,wmo,鉄砲水ウラジミール地域,2026-03-28T04:33:00+00:00,Russia,0.3046584160208917,0,1,ja,ESB,Europe
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-03-06T04:21:00+00:00,Palau,0.3046453142436609,1,1,ja,EPO,Pacific Ocean
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-03-12T04:25:00+00:00,,0.2995594692022701,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-02-25T04:32:00+00:00,Japan,0.2976683095435461,3,1,ja,EAS,Asia
