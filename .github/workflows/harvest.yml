@@ -44,7 +44,7 @@ jobs:
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-        run: (uv run pip harvest.py)
+        run: (uv run python harvest.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
