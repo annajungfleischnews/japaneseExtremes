@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-03-10T04:21:00+00:00,,0.4555188283609613,1,2,ja,,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-03-23T04:41:00+00:00,Japan,0.4528295461274901,0,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-03-30T05:12:00+00:00,Palau,0.4491627514175882,0,1,ja,EPO,Pacific Ocean
-'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-03-24T04:31:00+00:00,Japan,0.4461682346824281,0,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-04-09T04:57:00+00:00,Japan,0.4448108053876458,0,1,ja,EAS,Asia
 '47f34211ed',extremes,Earthquake,#870007,usgs,パラオ地震,2026-04-11T04:34:00+00:00,Palau,0.4447623235219084,0,1,ja,EPO,Pacific Ocean
 'a86b41030b',extremes,Earthquake,#870007,usgs,伊東地震,2026-03-24T04:31:00+00:00,Japan,0.4407661798684814,1,1,ja,EAS,Asia
@@ -31,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4346443679676552,1,2,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-03-30T05:11:00+00:00,Japan,0.4315781190528556,0,1,ja,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-03-14T04:22:00+00:00,,0.4290689946031452,1,3,ja,,
+'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-03-24T04:31:00+00:00,Japan,0.42734704063391005,1,1,ja,EAS,Asia
 'ed8008d1bc',extremes,Earthquake,#870007,usgs,乙部地震,2026-03-10T04:21:00+00:00,Japan,0.4252406787664035,1,1,ja,EAS,Asia
 'a3b5819e95',extremes,Earthquake,#870007,usgs,地震ソンソロール村,2026-04-12T05:11:00+00:00,Palau,0.4199135264339578,0,1,ja,EPO,Pacific Ocean
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-03-13T04:24:00+00:00,,0.4188091525946694,1,3,ja,,
@@ -72,10 +72,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-03-11T04:21:00+00:00,,0.3532201304534158,1,3,ja,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-03-05T04:23:00+00:00,,0.351561080767888,1,3,ja,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-03-12T04:25:00+00:00,,0.3495938444496941,1,1,ja,,
-'9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-03-29T04:59:00+00:00,,0.34945317626088046,0,1,ja,,
+'9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-03-29T04:59:00+00:00,,0.3494531762608804,0,1,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-03-12T04:26:00+00:00,Palau,0.3478241734103541,1,1,ja,EPO,Pacific Ocean
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-04-09T04:57:00+00:00,,0.3408340894496867,0,1,ja,,
-'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.34034931258651635,0,1,ja,,
+'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.3403493125865163,0,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,ja,,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-03-23T04:41:00+00:00,,0.3386216651723701,1,2,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-03-17T04:30:00+00:00,,0.3351329046790475,1,1,ja,,
@@ -84,8 +84,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-04-06T05:11:00+00:00,,0.3310709903247378,0,1,ja,,
 '1d00d27307',extremes,Earthquake,#870007,usgs,ミサワ地震,2026-03-19T04:35:00+00:00,Japan,0.3301616760394885,2,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-03-11T04:22:00+00:00,Palau,0.3272453189448046,1,1,ja,EPO,Pacific Ocean
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-04-11T04:34:00+00:00,,0.32549499553721084,0,1,ja,,
-'3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-03-30T05:11:00+00:00,,0.32490012537501806,0,1,ja,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-04-11T04:34:00+00:00,,0.3254949955372108,0,1,ja,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-03-30T05:11:00+00:00,,0.324900125375018,0,1,ja,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-04-15T05:11:00+00:00,,0.323350996252047,0,1,ja,,
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,ja,,
