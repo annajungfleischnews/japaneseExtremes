@@ -12,10 +12,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-03-21T04:17:00+00:00,,0.4932638864654463,1,3,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-04-12T05:11:00+00:00,Japan,0.488222052739623,0,1,ja,EAS,Asia
 'd9001f5863',extremes,Earthquake,#870007,usgs,指宿地震,2026-03-08T04:24:00+00:00,Japan,0.487076614008583,1,1,ja,EAS,Asia
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-02-26T04:28:00+00:00,,0.4821838260915431,2,3,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-04-02T04:41:00+00:00,Japan,0.4709523199855235,0,1,ja,EAS,Asia
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-02-27T04:25:00+00:00,,0.4685099521684429,1,3,ja,,
-'01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4673566222079366,0,1,ja,EAS,Asia
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-04-09T04:57:00+00:00,Japan,0.4673533125433992,0,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-04-06T05:11:00+00:00,Japan,0.4645140320625353,0,1,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-03-15T04:44:00+00:00,,0.4605209891828938,1,2,ja,,
@@ -31,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b13b7f0ddc',extremes,Earthquake,#870007,usgs,釧路地震,2026-03-18T04:35:00+00:00,Japan,0.4392078119753196,2,2,ja,EAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-03-15T04:44:00+00:00,,0.4385906787378791,1,3,ja,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-03-11T04:21:00+00:00,,0.4372099795367625,1,3,ja,,
+'01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4346443679676552,1,2,ja,EAS,Asia
 '040546e17b',extremes,Earthquake,#870007,usgs,横浜地震,2026-03-30T05:11:00+00:00,Japan,0.4315781190528556,0,1,ja,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-03-14T04:22:00+00:00,,0.4290689946031452,1,3,ja,,
 'ed8008d1bc',extremes,Earthquake,#870007,usgs,乙部地震,2026-03-10T04:21:00+00:00,Japan,0.4252406787664035,1,1,ja,EAS,Asia
@@ -54,10 +53,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-03-04T04:20:00+00:00,,0.3938974090257815,1,3,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-04-06T05:11:00+00:00,,0.3930962192895902,0,1,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,ja,,
-'3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-03-29T05:00:00+00:00,Palau,0.39109783542380583,0,1,ja,EPO,Pacific Ocean
+'3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-03-29T05:00:00+00:00,Palau,0.3910978354238058,0,1,ja,EPO,Pacific Ocean
 'da1ae5191e',extremes,Storm,#b3b2b1,random,高潮,2026-04-05T05:00:00+00:00,,0.3880701928592456,0,1,ja,,
 'a403fd60e3',extremes,Earthquake,#870007,usgs,桐生地震,2026-03-16T05:04:00+00:00,Japan,0.3866844049201769,2,1,ja,EAS,Asia
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-04-13T05:27:00+00:00,,0.38554434895015516,0,1,ja,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-04-13T05:27:00+00:00,,0.3855443489501551,0,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,ja,,
 'a41f54cf6f',extremes,Earthquake,#870007,usgs,地震名瀬,2026-03-21T04:17:00+00:00,Japan,0.3780767886297792,1,1,ja,EAS,Asia
@@ -67,7 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-03-06T04:20:00+00:00,,0.3660742910159961,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,ja,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,ja,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-03-07T04:12:00+00:00,,0.357153297410695,1,2,ja,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-04-02T04:41:00+00:00,,0.3537810829792741,0,1,ja,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-03-11T04:21:00+00:00,,0.3532201304534158,1,3,ja,,
