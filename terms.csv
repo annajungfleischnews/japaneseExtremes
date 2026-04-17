@@ -47,12 +47,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-03-17T04:30:00+00:00,,0.4000799459956581,1,2,ja,,
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-04-09T04:57:00+00:00,Japan,0.3984504356618893,1,1,ja,EAS,Asia
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-04-01T05:12:00+00:00,,0.3953603472669365,0,1,ja,,
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-04-01T05:12:00+00:00,,0.39513077751281706,0,1,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-03-04T04:20:00+00:00,,0.3938974090257815,1,3,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-04-06T05:11:00+00:00,,0.3930962192895902,0,1,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-01T05:12:00+00:00,Palau,0.392169280848858,0,1,ja,EPO,Pacific Ocean
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,ja,,
 'a403fd60e3',extremes,Earthquake,#870007,usgs,桐生地震,2026-03-16T05:04:00+00:00,Japan,0.3866844049201769,2,1,ja,EAS,Asia
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-04-13T05:27:00+00:00,,0.3855443489501551,0,1,ja,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-04-13T05:27:00+00:00,,0.3832105171190673,0,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,ja,,
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-04-09T04:57:00+00:00,,0.38102351239587,1,3,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,ja,,
@@ -97,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,竜巻、マレー川タウンシップ、ビクトリア州、2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,ja,SAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,南オーストラリア州の雨不足,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,ja,CAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,ja,,
+'3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-04-10T05:13:00+00:00,Australia,0.31080406515568465,0,1,ja,EAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,ja,,
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,南アフリカの嵐,2026-03-25T04:33:00+00:00,South Africa,0.308589941575448,0,1,ja,WSAF,Africa
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-03-11T04:22:00+00:00,Poland,0.3085860481914791,0,1,ja,WCE,Europe
@@ -306,7 +309,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6c613d063',extremes,Drought,#edc291,acwe,クイーンズランド州の雨不足,2026-03-28T04:34:00+00:00,Australia,0.2659522622473567,1,1,ja,CAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧マイラ,2026-04-05T05:01:00+00:00,,0.2655550621629816,1,1,ja,EPO,Pacific Ocean
 'db9244a045',extremes,Drought,#edc291,acwe,ビクトリア州の乾季,2026-03-29T05:01:00+00:00,Australia,0.2655071098227428,1,1,ja,SAU,Oceania
-'7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-03-29T05:00:00+00:00,Bhutan,0.26545536388875357,1,1,ja,TIB,Asia
+'7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-03-29T05:00:00+00:00,Bhutan,0.2654553638887535,1,1,ja,TIB,Asia
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ヴァイアヌ,2026-04-06T05:11:00+00:00,,0.2652369163546083,1,1,ja,SPO,Pacific Ocean
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,寒い気候のオーストラリア,2026-03-31T05:00:00+00:00,Australia,0.2649506834672261,1,1,ja,CAU,Oceania
 '7b53ac38f5',extremes,Drought,#edc291,edo,日照りのバングラデシュ,2026-03-23T04:42:00+00:00,Bangladesh,0.2648810310954059,1,1,ja,SAS,Asia
@@ -342,11 +345,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,高潮フォルカーマルクト,2026-03-25T04:33:00+00:00,Austria,0.2611826383557279,1,1,ja,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,フロストチェコ,2026-03-26T04:56:00+00:00,Czechia,0.2611604637200597,1,1,ja,WCE,Europe
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,嵐イギリス,2026-04-03T04:43:00+00:00,United Kingdom,0.2610442426579955,1,1,ja,NEU,Europe
-'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,フリージングシュワーズ,2026-03-25T04:33:00+00:00,Austria,0.26104396610911795,1,1,ja,WCE,Europe
-'17a0212ee2',extremes,Storm,#b3b2b1,wmo,高潮ミステルバッハ,2026-03-25T04:33:00+00:00,Austria,0.26103666140830867,1,1,ja,WCE,Europe
-'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,凍てつくグムンデン,2026-03-25T04:33:00+00:00,Austria,0.26102256669606066,1,1,ja,WCE,Europe
-'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,凍てつくキルヒドルフ アン デア クレムス,2026-03-25T04:33:00+00:00,Austria,0.26101912591073106,1,1,ja,WCE,Europe
-'53fda39314',extremes,Drought,#edc291,edo,雨不足 リトアニア,2026-03-25T04:33:00+00:00,Lithuania,0.26100860774043805,1,1,ja,WCE,Europe
+'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,フリージングシュワーズ,2026-03-25T04:33:00+00:00,Austria,0.2610439661091179,1,1,ja,WCE,Europe
+'17a0212ee2',extremes,Storm,#b3b2b1,wmo,高潮ミステルバッハ,2026-03-25T04:33:00+00:00,Austria,0.2610366614083086,1,1,ja,WCE,Europe
+'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,凍てつくグムンデン,2026-03-25T04:33:00+00:00,Austria,0.2610225666960606,1,1,ja,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,凍てつくキルヒドルフ アン デア クレムス,2026-03-25T04:33:00+00:00,Austria,0.261019125910731,1,1,ja,WCE,Europe
+'53fda39314',extremes,Drought,#edc291,edo,雨不足 リトアニア,2026-03-25T04:33:00+00:00,Lithuania,0.261008607740438,1,1,ja,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,高潮ロイテ,2026-03-25T04:33:00+00:00,Austria,0.2609903011221133,1,1,ja,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,高潮リリエンフェルド,2026-03-25T04:33:00+00:00,Austria,0.2609811671757261,1,1,ja,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,嵐スピタル・アン・デア・ドラウ,2026-03-25T04:33:00+00:00,Austria,0.2609061952081459,1,1,ja,WCE,Europe
