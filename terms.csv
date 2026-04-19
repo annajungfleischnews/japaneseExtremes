@@ -124,7 +124,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,ストーム・シエラ・ノルテ・イ・セントロ,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,ja,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-04-11T04:34:00+00:00,Argentina,0.3059699519431419,0,1,ja,SES,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,南東部地域の暴風雨,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,ja,MED,Europe
-'6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,ja,SWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-04-11T04:34:00+00:00,Brazil,0.3058902822320347,0,1,ja,SAM,South-America
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,ja,,
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,土砂降りのアマゾン,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,ja,NWS,South-America
@@ -358,5 +357,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-04-12T05:12:00+00:00,Chile,0.2602049603458748,1,1,ja,SWS,South-America
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,嵐フォルモサ パティーノ ピレーン。,2026-04-14T05:11:00+00:00,Argentina,0.2601973409785056,1,1,ja,SES,South-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,嵐ジャマイカ,2026-03-22T04:33:00+00:00,Jamaica,0.2601810706043879,1,1,ja,CAR,North-America
+'6fbc657cf9',extremes,Storm,#b3b2b1,wmo,嵐の記録。 1 文字通り,2026-03-17T04:30:00+00:00,Chile,0.2601750298980709,1,1,ja,SWS,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,集中豪雨 シエラノルテイセントロ,2026-03-31T04:59:00+00:00,Ecuador,0.2600677128301554,1,1,ja,NWS,South-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,アバランチフランス,2026-03-17T04:30:00+00:00,France,0.2597718022647742,1,1,ja,WCE,Europe
