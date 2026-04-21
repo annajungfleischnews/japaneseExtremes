@@ -9,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-03-28T04:33:00+00:00,Japan,0.5277843181524128,1,3,ja,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-04-06T05:11:00+00:00,Japan,0.5276983641475544,0,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-03-14T04:23:00+00:00,Japan,0.5245969677802371,0,1,ja,EAS,Asia
-'4d84acee32',extremes,Earthquake,#870007,usgs,大町地震,2026-04-21T05:14:00+00:00,Japan,0.49489536602406026,0,1,ja,EAS,Asia
+'4d84acee32',extremes,Earthquake,#870007,usgs,大町地震,2026-04-21T05:14:00+00:00,Japan,0.5074300979386329,1,3,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-03-21T04:17:00+00:00,,0.4932638864654463,1,3,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-04-12T05:11:00+00:00,Japan,0.488222052739623,0,1,ja,EAS,Asia
 'da1ae5191e',extremes,Storm,#b3b2b1,random,高潮,2026-04-05T05:00:00+00:00,,0.4848112389303587,1,3,ja,,
@@ -80,7 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-04-18T04:56:00+00:00,,0.3562001765171357,0,1,ja,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-03-11T04:21:00+00:00,,0.3532201304534158,1,3,ja,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-03-05T04:23:00+00:00,,0.351561080767888,1,3,ja,,
-'4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-04-20T05:26:00+00:00,,0.35148067765758706,0,1,ja,,
+'4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-04-20T05:26:00+00:00,,0.351480677657587,0,1,ja,,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-03-29T04:59:00+00:00,,0.3494531762608804,0,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,ja,,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-03-23T04:41:00+00:00,,0.3386216651723701,1,2,ja,,
@@ -126,7 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,チリの嵐,2026-04-10T05:13:00+00:00,Chile,0.3061267979560588,0,1,ja,SWS,South-America
 'eff78b7be8',extremes,Drought,#edc291,edo,バングラデシュの干ばつ,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,1,ja,SAS,Asia
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,ja,,
-'cda3b95773',extremes,Storm,#b3b2b1,wmo,サウジアラビアの嵐,2026-04-07T04:59:00+00:00,Saudi Arabia,0.30602368144929515,0,1,ja,ARP,Asia
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,サウジアラビアの嵐,2026-04-07T04:59:00+00:00,Saudi Arabia,0.3060236814492951,0,1,ja,ARP,Asia
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,ストーム・シエラ・ノルテ・イ・セントロ,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,ja,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-04-11T04:34:00+00:00,Argentina,0.3059699519431419,0,1,ja,SES,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,南東部地域の暴風雨,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,ja,MED,Europe
