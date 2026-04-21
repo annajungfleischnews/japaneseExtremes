@@ -257,6 +257,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-04-06T05:11:00+00:00,Australia,0.3036399609400913,0,1,ja,CAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,ボツワナ万歳,2026-04-13T05:28:00+00:00,Botswana,0.3036114157130636,0,1,ja,WSAF,Africa
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,イングーシ共和国の雪崩,2026-04-08T05:01:00+00:00,Russia,0.3036011863494184,0,1,ja,ESB,Europe
+'af081911d9',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 ポリルアを除くウェリントン,2026-04-20T05:27:00+00:00,New Zealand,0.3036008852647019,0,1,ja,NZ,Oceania
 '355605856d',extremes,Precipitation,#d60d2b,wmo,チャド降水量,2026-04-07T04:59:00+00:00,Chad,0.3035953716271062,0,1,ja,SAH,Africa
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,雨 タイ,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,ja,SEA,Asia
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,嵐エリア 2 – 中程度,2026-03-21T04:17:00+00:00,Paraguay,0.303583809642914,0,1,ja,SES,South-America
@@ -271,6 +272,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,ウッタラーカンド州の山火事,2026-04-03T04:43:00+00:00,India,0.3034241162624382,0,1,ja,SAS,Asia
 '97cf231a2f',extremes,Wildfire,#d60d2b,wmo,野火オディシャ,2026-04-03T04:43:00+00:00,India,0.3034159997060623,0,1,ja,SAS,Asia
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,豪雨ワイカト,2026-04-11T04:34:00+00:00,New Zealand,0.3033922672886855,0,1,ja,NZ,Oceania
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,アバランチフランス,2026-04-08T05:01:00+00:00,France,0.3033671229712569,0,1,ja,WCE,Europe
+'8180415a6e',extremes,Storm,#b3b2b1,wmo,高潮ソラプール,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,ja,SAS,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-03-12T04:25:00+00:00,,0.2995594692022701,1,2,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,ja,,
 '4508d0e7cc',extremes,Drought,#edc291,acwe,オーストラリアの水位低下,2026-03-26T04:57:00+00:00,Australia,0.2864008396827884,1,1,ja,CAU,Oceania
