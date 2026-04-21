@@ -141,9 +141,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,熱波コリエンテスとアルレデドレス,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,ja,SES,South-America
 '02ef3006a3',extremes,Precipitation,#d60d2b,wmo,雨サトゥントラン,2026-04-12T05:12:00+00:00,Thailand,0.3053446879369423,0,1,ja,SEA,Asia
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,ja,NWS,South-America
-'b9576a4c93',extremes,Storm,#b3b2b1,wmo,高潮トリニダード・トバゴ,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.3051927076441421,0,1,ja,NSA,North-America
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,高潮ソロモン諸島,2026-03-18T04:36:00+00:00,Solomon Islands,0.3051781056156144,0,1,ja,EPO,Oceania
-'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-04-14T05:11:00+00:00,Canada,0.3051407404402636,0,1,ja,NEN,North-America
 '2840754e5c',extremes,Storm,#b3b2b1,wmo,高潮リビア,2026-04-01T05:12:00+00:00,Libya,0.3051401221700262,0,1,ja,SAH,Africa
 '73b3077538',extremes,Drought,#edc291,edo,スリナムの干ばつ,2026-03-19T04:35:00+00:00,Suriname,0.3051298854979094,0,1,ja,NSA,South-America
 'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,海峡と南海域の高潮。,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,ja,SPO,Oceania
@@ -319,6 +316,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,フリージングシュワーズ,2026-03-25T04:33:00+00:00,Austria,0.2610439661091179,1,1,ja,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,高潮ミステルバッハ,2026-03-25T04:33:00+00:00,Austria,0.2610366614083086,1,1,ja,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,凍てつくグムンデン,2026-03-25T04:33:00+00:00,Austria,0.2610225666960606,1,1,ja,WCE,Europe
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-04-14T05:11:00+00:00,Canada,0.26101979437422407,1,1,ja,NEN,North-America
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,凍てつくキルヒドルフ アン デア クレムス,2026-03-25T04:33:00+00:00,Austria,0.261019125910731,1,1,ja,WCE,Europe
 '53fda39314',extremes,Drought,#edc291,edo,雨不足 リトアニア,2026-03-25T04:33:00+00:00,Lithuania,0.261008607740438,1,1,ja,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,高潮ロイテ,2026-03-25T04:33:00+00:00,Austria,0.2609903011221133,1,1,ja,WCE,Europe
@@ -347,14 +345,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,嵐、ひょう嵐、シドニー、ニューサウスウェールズ州、2015,2026-04-01T05:13:00+00:00,,0.259917820889762,1,1,ja,EAU,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-03-26T04:56:00+00:00,New Zealand,0.2598761416071722,1,1,ja,NZ,Oceania
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,グザムの嵐,2026-04-08T05:01:00+00:00,Algeria,0.2598582464610319,1,1,ja,SAH,Africa
-'a5a19a733b',extremes,Flood,#030ba1,wmo,鉄砲水 エチオピア,2026-03-29T05:00:00+00:00,Ethiopia,0.25969824656407203,1,1,ja,NEAF,Africa
+'a5a19a733b',extremes,Flood,#030ba1,wmo,鉄砲水 エチオピア,2026-03-29T05:00:00+00:00,Ethiopia,0.259698246564072,1,1,ja,NEAF,Africa
 'e1048c4180',extremes,Drought,#edc291,edo,ウルグアイの乾燥,2026-03-22T04:33:00+00:00,Uruguay,0.2596947970426713,1,1,ja,SES,South-America
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,嵐イスラエル,2026-03-31T04:59:00+00:00,Israel,0.25964673506718533,1,1,ja,MED,Asia
-'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,高潮カナダ,2026-03-31T04:59:00+00:00,Canada,0.25958210081081046,1,1,ja,NEN,North-America
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-04-01T05:12:00+00:00,Ecuador,0.25957234293528925,1,1,ja,NWS,South-America
-'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-03-20T04:26:00+00:00,Tanzania,0.25955591472864015,1,1,ja,SEAF,Africa
-'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,熱波パラナ・イ・アルレデドレス,2026-04-03T04:43:00+00:00,Argentina,0.25954495001857003,1,1,ja,SES,South-America
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,嵐イスラエル,2026-03-31T04:59:00+00:00,Israel,0.2596467350671853,1,1,ja,MED,Asia
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,高潮カナダ,2026-03-31T04:59:00+00:00,Canada,0.2595821008108104,1,1,ja,NEN,North-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-04-01T05:12:00+00:00,Ecuador,0.2595723429352892,1,1,ja,NWS,South-America
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-03-20T04:26:00+00:00,Tanzania,0.2595559147286401,1,1,ja,SEAF,Africa
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,熱波パラナ・イ・アルレデドレス,2026-04-03T04:43:00+00:00,Argentina,0.25954495001857,1,1,ja,SES,South-America
 '5b66901fd7',extremes,Wildfire,#d60d2b,wmo,野火カレベルグ・ヴァンウィクスフレイ,2026-03-31T04:59:00+00:00,South Africa,0.2595388341789009,1,1,ja,WSAF,Africa
-'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,雪のアイスランド,2026-03-22T04:33:00+00:00,Iceland,0.25952278072916773,1,1,ja,GIC,Europe
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,雪のアイスランド,2026-03-22T04:33:00+00:00,Iceland,0.2595227807291677,1,1,ja,GIC,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,アルゼンチンの降水量,2026-03-19T04:35:00+00:00,Argentina,0.2595111984421729,1,1,ja,SES,South-America
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,南アフリカの悪天候,2026-03-22T04:33:00+00:00,South Africa,0.2594232655450737,1,1,ja,WSAF,Africa
