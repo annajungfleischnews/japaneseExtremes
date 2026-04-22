@@ -66,6 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,ja,,
 'a41f54cf6f',extremes,Earthquake,#870007,usgs,地震名瀬,2026-03-21T04:17:00+00:00,Japan,0.3780767886297792,1,1,ja,EAS,Asia
 '47f34211ed',extremes,Earthquake,#870007,usgs,パラオ地震,2026-04-11T04:34:00+00:00,Palau,0.3780479749936221,1,1,ja,EPO,Pacific Ocean
+'46757c038c',extremes,Thunderstorm,#53785a,wmo,南アフリカ、あられ,2026-03-18T04:36:00+00:00,South Africa,0.3772397311868569,1,2,ja,WSAF,Africa
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,ja,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-04-19T05:16:00+00:00,,0.3724758693951933,0,1,ja,,
@@ -117,7 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,嵐のオークランドとグレートバリア島,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,ja,NZ,Oceania
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,フロスト・オバーヴァルト,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,ja,WCE,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,マダガスカル日照り,2026-03-28T04:33:00+00:00,Madagascar,0.3066751643255777,0,1,ja,MDG,Africa
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,豪雨アルゼンチン,2026-04-07T04:59:00+00:00,Argentina,0.3065595371096559,0,1,ja,SES,South-America
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,豪雨アルジェリア,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,ja,SAH,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,土砂降りのタンザニア,2026-03-25T04:33:00+00:00,Tanzania,0.3061937940610759,0,1,ja,SEAF,Africa
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,モルドバ氷共和国,2026-04-10T05:13:00+00:00,Republic of Moldova,0.3061361481127652,0,1,ja,WCE,Europe
@@ -143,9 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02ef3006a3',extremes,Precipitation,#d60d2b,wmo,雨サトゥントラン,2026-04-12T05:12:00+00:00,Thailand,0.3053446879369423,0,1,ja,SEA,Asia
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,ja,NWS,South-America
 '2840754e5c',extremes,Storm,#b3b2b1,wmo,高潮リビア,2026-04-01T05:12:00+00:00,Libya,0.3051401221700262,0,1,ja,SAH,Africa
-'042968096b',extremes,Storm,#b3b2b1,wmo,アイスランドの嵐,2026-03-17T04:30:00+00:00,Iceland,0.3050282973061982,0,1,ja,GIC,Europe
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,雨 サウジアラビア,2026-03-19T04:35:00+00:00,Saudi Arabia,0.3050046458810007,0,1,ja,ARP,Asia
-'46757c038c',extremes,Thunderstorm,#53785a,wmo,南アフリカ、あられ,2026-03-18T04:36:00+00:00,South Africa,0.3049681523766944,0,1,ja,WSAF,Africa
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,野火テランガナ,2026-03-29T05:00:00+00:00,India,0.3049376652607233,0,1,ja,SAS,Asia
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,雪崩サンモア,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,ja,NEU,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-03-20T04:26:00+00:00,Canada,0.3049227973235697,0,1,ja,NEN,North-America
@@ -322,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,高潮アルジェリア,2026-04-06T05:11:00+00:00,Algeria,0.2607990355081002,1,1,ja,SAH,Africa
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,高潮ブルガリア,2026-04-07T04:59:00+00:00,Bulgaria,0.2606536907085245,1,1,ja,MED,Europe
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,北マケドニアの高潮,2026-03-26T04:56:00+00:00,North Macedonia,0.2606304577162185,1,1,ja,MED,Europe
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,豪雨アルゼンチン,2026-04-07T04:59:00+00:00,Argentina,0.2605756065432075,1,1,ja,SES,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-04-10T05:13:00+00:00,Brazil,0.2605689703269471,1,1,ja,SAM,South-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,フロストカナダ,2026-03-22T04:33:00+00:00,Canada,0.2605255573853351,1,1,ja,NEN,North-America
 '6a3e3c9638',extremes,Storm,#b3b2b1,wmo,高潮グロドノ地域,2026-03-26T04:56:00+00:00,Belarus,0.2604670115939939,1,1,ja,WCE,Europe
