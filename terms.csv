@@ -154,7 +154,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧デンマーク,2026-04-04T04:30:00+00:00,Denmark,0.3048595132684648,0,1,ja,NEU,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,高潮エクアドル,2026-04-03T04:43:00+00:00,Ecuador,0.3048517219060076,0,1,ja,NWS,South-America
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,地震ヤクイバ,2026-04-07T04:59:00+00:00,Argentina,0.3047877862176232,0,1,ja,SES,South-America
-'432bab655c',extremes,Wildfire,#d60d2b,wmo,アメリカの山火事,2026-03-18T04:36:00+00:00,United States,0.3047317845832853,0,1,ja,CNA,North-America
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,雪崩チェチェン共和国,2026-03-19T04:35:00+00:00,Russia,0.3047123253243073,0,1,ja,ESB,Europe
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,熱波 53 マンダル,2026-04-03T04:43:00+00:00,India,0.3047026776826429,0,1,ja,SAS,Asia
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,豪雨 沿岸北東部内陸部,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,1,ja,NWS,South-America
