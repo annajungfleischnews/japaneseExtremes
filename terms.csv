@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9c2b344609',extremes,Tsunami,#690191,usgs,津波宮古,2026-04-21T05:14:00+00:00,Japan,0.6996313349213864,1,2,ja,EAS,Asia
-'07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-04-19T05:16:00+00:00,Japan,0.661802845570499,0,1,ja,NPO,Pacific Ocean
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-04-11T04:34:00+00:00,Japan,0.6292048315656068,0,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-03-30T05:11:00+00:00,Japan,0.6194064721899456,1,2,ja,EAS,Asia
 '4af7300318',extremes,Earthquake,#870007,usgs,串本地震,2026-04-11T04:34:00+00:00,Japan,0.6124086840503502,1,2,ja,EAS,Asia
 'df52c32116',extremes,Earthquake,#870007,usgs,天城地震,2026-04-02T04:41:00+00:00,Japan,0.6070613534068929,1,2,ja,EAS,Asia
+'07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-04-19T05:16:00+00:00,Japan,0.5626824337349241,1,1,ja,NPO,Pacific Ocean
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-04-06T05:11:00+00:00,Japan,0.5584363981709307,0,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-03-30T05:11:00+00:00,Japan,0.5482189538077522,0,1,ja,EAS,Asia
 '657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-03-28T04:33:00+00:00,Japan,0.5277843181524128,1,3,ja,EAS,Asia
@@ -150,7 +150,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,豪雨ニュージーランド,2026-04-06T05:11:00+00:00,New Zealand,0.3048631512422621,0,1,ja,NZ,Oceania
 '2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧デンマーク,2026-04-04T04:30:00+00:00,Denmark,0.3048595132684648,0,1,ja,NEU,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,高潮エクアドル,2026-04-03T04:43:00+00:00,Ecuador,0.3048517219060076,0,1,ja,NWS,South-America
-'2866b55c37',extremes,Storm,#b3b2b1,wmo,北マケドニアの嵐,2026-03-26T04:56:00+00:00,North Macedonia,0.3048486177736351,0,1,ja,MED,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,地震ヤクイバ,2026-04-07T04:59:00+00:00,Argentina,0.3047877862176232,0,1,ja,SES,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,アメリカの山火事,2026-03-18T04:36:00+00:00,United States,0.3047317845832853,0,1,ja,CNA,North-America
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,雪崩チェチェン共和国,2026-03-19T04:35:00+00:00,Russia,0.3047123253243073,0,1,ja,ESB,Europe
@@ -342,3 +341,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,フロストブイラ,2026-04-02T04:42:00+00:00,Algeria,0.2591639733724611,1,1,ja,SAH,Africa
 'e0317bbd00',extremes,Heat Wave,#c40202,wmo,熱波オレンブルク地域,2026-04-01T05:12:00+00:00,Russia,0.2591579699160334,1,1,ja,ESB,Europe
 '4a4191209b',extremes,Heat Wave,#c40202,wmo,熱波スモレンスク地方,2026-04-01T05:12:00+00:00,Russia,0.259154045262521,1,1,ja,ESB,Europe
+'2866b55c37',extremes,Storm,#b3b2b1,wmo,北マケドニアの嵐,2026-03-26T04:56:00+00:00,North Macedonia,0.25912132510758984,1,1,ja,MED,Europe
