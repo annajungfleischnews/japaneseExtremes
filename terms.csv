@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'587bab58ed',extremes,Tsunami,#690191,usgs,津波日本,2026-04-23T05:16:00+00:00,Japan,0.7075960464664797,0,1,ja,EAS,Asia
 '9c2b344609',extremes,Tsunami,#690191,usgs,津波宮古,2026-04-21T05:14:00+00:00,Japan,0.6996313349213864,1,2,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-04-11T04:34:00+00:00,Japan,0.6292048315656068,0,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-03-30T05:11:00+00:00,Japan,0.6194064721899456,1,2,ja,EAS,Asia
@@ -113,12 +114,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39670c8999',extremes,Drought,#edc291,acwe,南オーストラリア州の雨不足,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,ja,CAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,ja,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-04-10T05:13:00+00:00,Australia,0.3108040651556846,0,1,ja,EAU,Oceania
+'9b59bee21e',extremes,Drought,#edc291,edo,ポーランドの乾季,2026-04-08T05:01:00+00:00,Poland,0.30962279369084084,0,1,ja,WCE,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,ja,,
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,南アフリカの嵐,2026-03-25T04:33:00+00:00,South Africa,0.308589941575448,0,1,ja,WSAF,Africa
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,ノースランドの嵐,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,ja,NZ,Oceania
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,高潮ウィーン・ヴェーリング,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,ja,WCE,Europe
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,高潮アイルランド,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,ja,NEU,Europe
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,嵐のオークランドとグレートバリア島,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,ja,NZ,Oceania
+'dea87e6ccd',extremes,Drought,#edc291,edo,日照りのラトビア,2026-04-22T05:13:00+00:00,Latvia,0.30722375374133404,0,1,ja,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,フロスト・オバーヴァルト,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,ja,WCE,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,マダガスカル日照り,2026-03-28T04:33:00+00:00,Madagascar,0.3066751643255777,0,1,ja,MDG,Africa
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,豪雨アルジェリア,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,ja,SAH,Africa
