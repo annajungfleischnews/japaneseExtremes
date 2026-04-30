@@ -202,6 +202,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,カナダ豪雨,2026-04-22T05:13:00+00:00,Canada,0.3033169232644408,0,1,ja,NEN,North-America
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,高潮ソラプール,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,ja,SAS,Asia
 '151e85aca0',extremes,Precipitation,#d60d2b,wmo,降水量 オタゴ源流,2026-04-16T05:17:00+00:00,New Zealand,0.303270105266469,0,1,ja,NZ,Oceania
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-04-12T05:12:00+00:00,Argentina,0.3032620321360473,0,1,ja,SES,South-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,ソロモン諸島の嵐,2026-04-11T04:34:00+00:00,Solomon Islands,0.30325592039096577,0,1,ja,EPO,Oceania
+'55946bf748',extremes,Drought,#edc291,edo,干ばつパラグアイ,2026-04-16T05:17:00+00:00,Paraguay,0.3032449413095507,0,1,ja,SES,South-America
+'4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,ウェストランド地区の豪雨範囲,2026-04-17T05:16:00+00:00,New Zealand,0.3032273335880311,0,1,ja,NZ,Oceania
+'826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,雪崩ノルデンショルドランド,2026-04-10T05:13:00+00:00,Norway,0.30320533276110906,0,1,ja,NEU,Europe
+'96236781fb',extremes,Precipitation,#d60d2b,wmo,豪雨サトゥントラン,2026-04-10T05:13:00+00:00,Thailand,0.30320437469257283,0,1,ja,SEA,Asia
+'afd06422c3',extremes,Storm,#b3b2b1,wmo,嵐ウェリントン,2026-04-12T05:12:00+00:00,New Zealand,0.30319374567671403,0,1,ja,NZ,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,ja,,
 '4508d0e7cc',extremes,Drought,#edc291,acwe,オーストラリアの水位低下,2026-03-26T04:57:00+00:00,Australia,0.2864008396827884,1,1,ja,CAU,Oceania
