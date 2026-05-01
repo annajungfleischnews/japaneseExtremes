@@ -140,7 +140,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-04-11T04:34:00+00:00,Paraguay,0.3039259047581475,0,1,ja,SES,South-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,台風ソロモン諸島,2026-04-10T05:13:00+00:00,Solomon Islands,0.3039253635911395,0,1,ja,EPO,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,土砂降りのニュージーランド,2026-04-03T04:43:00+00:00,New Zealand,0.3039164199964267,0,1,ja,NZ,Oceania
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降り サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3038221694578009,0,1,ja,ARP,Asia
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,高潮グレートバリアアイランド,2026-04-12T05:12:00+00:00,New Zealand,0.3038176879979336,0,1,ja,NZ,Oceania
 'bd8c88b2ec',extremes,Drought,#edc291,edo,雨不足 コンゴ民主共和国,2026-04-11T04:34:00+00:00,Democratic Republic of the Congo,0.3037912107819368,0,1,ja,CAF,Africa
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,カナダの降水量,2026-04-17T05:16:00+00:00,Canada,0.3037908147591064,0,1,ja,NEN,North-America
@@ -339,6 +338,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,アーンドラプラデーシュ州の山火事,2026-04-03T04:43:00+00:00,India,0.2584488082642167,1,1,ja,SAS,Asia
 '919b5ab130',extremes,Earthquake,#870007,usgs,ヤップ地震,2026-04-10T05:12:00+00:00,Federated States,0.2584207423383994,1,1,ja,NPO,Pacific Ocean
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,凍る東フィヨルド,2026-04-13T05:28:00+00:00,Iceland,0.2584114017324415,1,1,ja,GIC,Europe
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降り サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.25839885903913073,1,1,ja,ARP,Asia
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,高潮ジャマイカ,2026-03-30T05:12:00+00:00,Jamaica,0.2583542609544118,1,1,ja,CAR,North-America
 '5295642073',extremes,Flood,#030ba1,wmo,ロシアを洪水させる,2026-03-30T05:12:00+00:00,Russia,0.2583294236201694,1,1,ja,ESB,Europe
 '1c54e04594',extremes,Precipitation,#d60d2b,wmo,豪雨ミラ,2026-04-03T04:43:00+00:00,Algeria,0.2583067143984065,1,1,ja,SAH,Africa
