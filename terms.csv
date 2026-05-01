@@ -89,7 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-03-23T04:41:00+00:00,,0.3386216651723701,1,2,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,ja,,
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,インドの山火事,2026-04-03T04:43:00+00:00,India,0.33383936310548623,1,2,ja,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,インドの山火事,2026-04-03T04:43:00+00:00,India,0.3338393631054862,1,2,ja,SAS,Asia
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-04-21T05:14:00+00:00,,0.333665592515051,0,1,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-04-05T05:01:00+00:00,Palau,0.3334015049492054,1,1,ja,EPO,Pacific Ocean
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-01T05:12:00+00:00,Palau,0.3333438887215292,1,1,ja,EPO,Pacific Ocean
@@ -128,27 +128,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,スノーブリダ,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,1,ja,SAH,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアイスランド,2026-04-02T04:42:00+00:00,Iceland,0.304589205449107,0,1,ja,GIC,Europe
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3043740506371468,0,1,ja,ARP,Asia
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,ニュージーランドの降水量,2026-03-26T04:56:00+00:00,New Zealand,0.3042546335891481,0,1,ja,NZ,Oceania
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,沿岸およびシエラの高潮,2026-04-05T05:01:00+00:00,Ecuador,0.3042309809812438,0,1,ja,NWS,South-America
-'a015920a8d',extremes,Precipitation,#d60d2b,wmo,カウェカ山脈とルアヒネ山脈での豪雨,2026-04-11T04:34:00+00:00,New Zealand,0.3042185292100967,0,1,ja,NZ,Oceania
-'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-04-13T05:27:00+00:00,Mauritius,0.3042037335889874,0,1,ja,SIO,Indian Ocean
-'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,台風ウェスタン イザベルとショワズル,2026-04-05T05:01:00+00:00,Solomon Islands,0.3041583729578517,0,1,ja,EPO,Oceania
-'4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3041172399400372,0,1,ja,ARP,Asia
-'69840e877f',extremes,Storm,#b3b2b1,wmo,ブルガリアの嵐,2026-04-08T05:01:00+00:00,Bulgaria,0.3041107496148176,0,1,ja,MED,Europe
-'829105287e',extremes,Storm,#b3b2b1,wmo,嵐ジャマイカ,2026-04-14T05:11:00+00:00,Jamaica,0.304106473051158,0,1,ja,CAR,North-America
-'8e0ac5b7e8',extremes,Earthquake,#870007,usgs,ルーガンビル地震,2026-03-31T04:59:00+00:00,Vanuatu,0.3041059412057678,0,1,ja,SPO,Pacific Ocean
-'271200cbb0',extremes,Wildfire,#d60d2b,wmo,アーンドラプラデーシュ州の山火事,2026-04-03T04:43:00+00:00,India,0.3040574214873138,0,1,ja,SAS,Asia
-'919b5ab130',extremes,Earthquake,#870007,usgs,ヤップ地震,2026-04-10T05:12:00+00:00,Federated States,0.3040244027510582,0,1,ja,NPO,Pacific Ocean
-'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,凍る東フィヨルド,2026-04-13T05:28:00+00:00,Iceland,0.3040134138028724,0,1,ja,GIC,Europe
 'f986239716',extremes,Wildfire,#d60d2b,wmo,グジャラート州の山火事,2026-04-03T04:43:00+00:00,India,0.3040090207763129,0,1,ja,SAS,Asia
-'7d13279eb3',extremes,Storm,#b3b2b1,wmo,高潮ジャマイカ,2026-03-30T05:12:00+00:00,Jamaica,0.3039461893581315,0,1,ja,CAR,North-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-04-11T04:34:00+00:00,Paraguay,0.3039259047581475,0,1,ja,SES,South-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,台風ソロモン諸島,2026-04-10T05:13:00+00:00,Solomon Islands,0.3039253635911395,0,1,ja,EPO,Oceania
-'5295642073',extremes,Flood,#030ba1,wmo,ロシアを洪水させる,2026-03-30T05:12:00+00:00,Russia,0.3039169689649052,0,1,ja,ESB,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,土砂降りのニュージーランド,2026-04-03T04:43:00+00:00,New Zealand,0.3039164199964267,0,1,ja,NZ,Oceania
-'1c54e04594',extremes,Precipitation,#d60d2b,wmo,豪雨ミラ,2026-04-03T04:43:00+00:00,Algeria,0.3038902522334195,0,1,ja,SAH,Africa
-'5d4d529776',extremes,Storm,#b3b2b1,wmo,嵐の記録。 11 南山脈,2026-04-11T04:34:00+00:00,Chile,0.3038814062009514,0,1,ja,SWS,South-America
-'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,アイスピクルス湖 キャットレイク,2026-04-09T04:58:00+00:00,Canada,0.3038688431740409,0,1,ja,NEN,North-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降り サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3038221694578009,0,1,ja,ARP,Asia
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,高潮グレートバリアアイランド,2026-04-12T05:12:00+00:00,New Zealand,0.3038176879979336,0,1,ja,NZ,Oceania
 'bd8c88b2ec',extremes,Drought,#edc291,edo,雨不足 コンゴ民主共和国,2026-04-11T04:34:00+00:00,Democratic Republic of the Congo,0.3037912107819368,0,1,ja,CAF,Africa
@@ -337,3 +321,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957c870453',extremes,Drought,#edc291,edo,アイスランドの乾燥,2026-04-21T05:15:00+00:00,Iceland,0.2587624363692073,1,1,ja,GIC,Europe
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,熱波リャザン地域,2026-04-01T05:12:00+00:00,Russia,0.2587171793378568,1,1,ja,ESB,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,干ばつアンゴラ,2026-04-04T04:30:00+00:00,Angola,0.2586091865350794,1,1,ja,WSAF,Africa
+'a015920a8d',extremes,Precipitation,#d60d2b,wmo,カウェカ山脈とルアヒネ山脈での豪雨,2026-04-11T04:34:00+00:00,New Zealand,0.2585857498285822,1,1,ja,NZ,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-04-13T05:27:00+00:00,Mauritius,0.2585731735506393,1,1,ja,SIO,Indian Ocean
+'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,台風ウェスタン イザベルとショワズル,2026-04-05T05:01:00+00:00,Solomon Islands,0.25853461701417396,1,1,ja,EPO,Oceania
+'4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-04-08T05:01:00+00:00,Saudi Arabia,0.2584996539490316,1,1,ja,ARP,Asia
+'69840e877f',extremes,Storm,#b3b2b1,wmo,ブルガリアの嵐,2026-04-08T05:01:00+00:00,Bulgaria,0.25849413717259495,1,1,ja,MED,Europe
+'829105287e',extremes,Storm,#b3b2b1,wmo,嵐ジャマイカ,2026-04-14T05:11:00+00:00,Jamaica,0.2584905020934843,1,1,ja,CAR,North-America
+'8e0ac5b7e8',extremes,Earthquake,#870007,usgs,ルーガンビル地震,2026-03-31T04:59:00+00:00,Vanuatu,0.2584900500249026,1,1,ja,SPO,Pacific Ocean
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,アーンドラプラデーシュ州の山火事,2026-04-03T04:43:00+00:00,India,0.25844880826421673,1,1,ja,SAS,Asia
+'919b5ab130',extremes,Earthquake,#870007,usgs,ヤップ地震,2026-04-10T05:12:00+00:00,Federated States,0.25842074233839946,1,1,ja,NPO,Pacific Ocean
+'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,凍る東フィヨルド,2026-04-13T05:28:00+00:00,Iceland,0.25841140173244154,1,1,ja,GIC,Europe
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,高潮ジャマイカ,2026-03-30T05:12:00+00:00,Jamaica,0.2583542609544118,1,1,ja,CAR,North-America
+'5295642073',extremes,Flood,#030ba1,wmo,ロシアを洪水させる,2026-03-30T05:12:00+00:00,Russia,0.2583294236201694,1,1,ja,ESB,Europe
+'1c54e04594',extremes,Precipitation,#d60d2b,wmo,豪雨ミラ,2026-04-03T04:43:00+00:00,Algeria,0.2583067143984065,1,1,ja,SAH,Africa
+'5d4d529776',extremes,Storm,#b3b2b1,wmo,嵐の記録。 11 南山脈,2026-04-11T04:34:00+00:00,Chile,0.2582991952708087,1,1,ja,SWS,South-America
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,アイスピクルス湖 キャットレイク,2026-04-09T04:58:00+00:00,Canada,0.25828851669793473,1,1,ja,NEN,North-America
