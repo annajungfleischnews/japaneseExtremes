@@ -203,6 +203,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-04-11T04:34:00+00:00,Poland,0.3031028807840246,0,1,ja,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,凍てつくブラジル,2026-04-27T05:40:00+00:00,Brazil,0.3028783628151302,0,1,ja,SAM,South-America
 '4d32562979',extremes,Storm,#b3b2b1,wmo,アイスランド東の嵐,2026-04-11T04:34:00+00:00,Iceland,0.3028581471084132,0,1,ja,GIC,Europe
+'9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,台風米国,2026-04-12T05:12:00+00:00,United States,0.3028278979887822,0,1,ja,CNA,North-America
+'7ef3a20daf',extremes,Storm,#b3b2b1,wmo,高潮ガラパゴス,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,ja,NWS,South-America
+'d56de5f4df',extremes,Drought,#edc291,edo,ラトビアの雨不足,2026-04-11T04:34:00+00:00,Latvia,0.30278475107103886,0,1,ja,WCE,Europe
+'d709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2026-04-13T05:28:00+00:00,Chile,0.30274371790685917,0,1,ja,SWS,South-America
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン 米国,2026-04-12T05:12:00+00:00,United States,0.3025822289873801,0,1,ja,CNA,North-America
+'945465874b',extremes,Drought,#edc291,edo,ジブチの干ばつ,2026-04-21T05:15:00+00:00,Djibouti,0.3025737677759477,0,1,ja,NEAF,Africa
+'609a79d405',extremes,Wildfire,#d60d2b,wmo,山火事西州県,2026-04-11T04:34:00+00:00,China,0.30256779068084544,0,1,ja,EAS,Asia
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-04-29T05:40:00+00:00,Brazil,0.30254054885289894,0,1,ja,SAM,South-America
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,ja,,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-04-01T05:12:00+00:00,Russia,0.2856714999405229,1,1,ja,ESB,Europe
