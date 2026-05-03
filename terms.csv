@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94792d0041',extremes,Earthquake,#870007,usgs,いわい地震,2026-04-16T05:17:00+00:00,Japan,0.4578109255880421,1,3,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-04-27T05:40:00+00:00,Japan,0.4571615679344272,0,1,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-04-02T04:41:00+00:00,,0.4556650155323829,1,3,ja,,
-'95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-03-23T04:41:00+00:00,Japan,0.4528295461274901,0,1,ja,EAS,Asia
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-03-30T05:12:00+00:00,Palau,0.4491627514175882,0,1,ja,EPO,Pacific Ocean
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-04-06T05:11:00+00:00,Japan,0.4485436095254212,1,1,ja,EAS,Asia
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-04-10T05:12:00+00:00,Japan,0.4482370000691323,1,1,ja,EAS,Asia
@@ -35,7 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-04-03T04:43:00+00:00,Japan,0.4304974960174996,0,1,ja,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-03-14T04:22:00+00:00,,0.4290689946031452,1,3,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-04-02T04:41:00+00:00,Japan,0.4227881484162664,1,1,ja,EAS,Asia
-'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-04-29T05:40:00+00:00,Australia,0.41610671286772916,1,2,ja,EAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-04-29T05:40:00+00:00,Australia,0.4161067128677291,1,2,ja,EAU,Oceania
 '9969e8e386',extremes,Flood,#030ba1,emdat,中部地域の洪水,2026-03-24T04:32:00+00:00,Kenya,0.414662425425559,1,2,ja,SEAF,Africa
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-03-18T04:35:00+00:00,,0.4128938014335236,1,3,ja,,
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,サイクロン オーストラリア,2026-04-08T05:01:00+00:00,Australia,0.412140415218313,1,2,ja,EAU,Oceania
@@ -117,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-04-06T05:11:00+00:00,Russia,0.3119177954332117,1,1,ja,ESB,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,ja,,
-'179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,雪崩ソチ,2026-04-19T05:16:00+00:00,Russia,0.3085355037087449,0,1,ja,ESB,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,ja,,
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,嵐のオークランドとグレートバリア島,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,ja,NZ,Oceania
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-04-07T04:59:00+00:00,Argentina,0.3067350961518821,0,1,ja,SES,South-America
@@ -239,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,南オーストラリア州 雨天,2026-04-12T05:12:00+00:00,Australia,0.263167353491097,1,1,ja,SAU,Oceania
 '4508810067',extremes,Storm,#b3b2b1,wmo,嵐沿岸北東部内部,2026-03-31T04:59:00+00:00,Ecuador,0.2625289749628369,1,1,ja,NWS,South-America
 '04f990069a',extremes,Drought,#edc291,edo,ベラルーシの雨不足,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,ja,WCE,Europe
+'179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,雪崩ソチ,2026-04-19T05:16:00+00:00,Russia,0.26225517815243315,1,1,ja,ESB,Europe
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cyclone nt 熱帯低気圧マーカス,2026-04-01T05:13:00+00:00,,0.2619954545915152,1,1,ja,NAU,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,高潮バヌアツ,2026-04-02T04:42:00+00:00,Vanuatu,0.2617273436554475,1,1,ja,SPO,Oceania
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-04-03T04:43:00+00:00,Vanuatu,0.2616491812963099,1,1,ja,SPO,Oceania
