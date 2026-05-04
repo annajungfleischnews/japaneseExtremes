@@ -213,6 +213,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,南アフリカの山火事,2026-04-17T05:16:00+00:00,South Africa,0.302364425588431,0,1,ja,WSAF,Africa
 '79908d0eb7',extremes,Drought,#edc291,wmo,干ばつジホモラフスキー・クライ,2026-05-03T05:44:00+00:00,Czechia,0.3023635097963904,0,1,ja,WCE,Europe
 'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,嵐レセディ レセディ ハイデルベルク,2026-04-28T05:45:00+00:00,South Africa,0.3023310011522763,0,1,ja,WSAF,Africa
+'f0a7622c15',extremes,Storm,#b3b2b1,wmo,嵐ガラパゴス,2026-04-19T05:16:00+00:00,Ecuador,0.30231580950099696,0,1,ja,NWS,South-America
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,ja,,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-04-01T05:12:00+00:00,Russia,0.2856714999405229,1,1,ja,ESB,Europe
