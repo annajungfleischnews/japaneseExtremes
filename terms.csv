@@ -12,14 +12,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d84acee32',extremes,Earthquake,#870007,usgs,大町地震,2026-04-21T05:14:00+00:00,Japan,0.5074300979386329,1,3,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-03-30T05:11:00+00:00,Japan,0.5073005871002257,1,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-03-21T04:17:00+00:00,,0.4932638864654463,1,3,ja,,
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-04-22T05:13:00+00:00,Japan,0.4922029978541402,0,1,ja,EAS,Asia
 'da1ae5191e',extremes,Storm,#b3b2b1,random,高潮,2026-04-05T05:00:00+00:00,,0.4848112389303587,1,3,ja,,
 'c8866d4dc3',extremes,Earthquake,#870007,usgs,こうや地震,2026-05-03T05:43:00+00:00,Japan,0.4820506575455569,1,2,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-03-22T04:33:00+00:00,Japan,0.4803014198492967,1,3,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-05-03T05:43:00+00:00,,0.4801251992748213,1,3,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-03T05:43:00+00:00,,0.47950033736413,1,2,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-04-07T04:58:00+00:00,,0.4783897627937368,1,2,ja,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-05-03T05:43:00+00:00,,0.47628619432485186,1,2,ja,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-05-03T05:43:00+00:00,,0.4762861943248518,1,2,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-04-16T05:16:00+00:00,,0.4598173645855034,1,2,ja,,
 '94792d0041',extremes,Earthquake,#870007,usgs,いわい地震,2026-04-16T05:17:00+00:00,Japan,0.4578109255880421,1,3,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-04-27T05:40:00+00:00,Japan,0.4571615679344272,0,1,ja,EAS,Asia
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-04-12T05:11:00+00:00,Japan,0.4457388198286795,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-04-06T05:11:00+00:00,Japan,0.445737017253155,1,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-04-09T04:57:00+00:00,Japan,0.4448108053876458,0,1,ja,EAS,Asia
+'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-04-22T05:13:00+00:00,Japan,0.43856986199954856,1,1,ja,EAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-04-24T05:21:00+00:00,Japan,0.4376755833699979,1,2,ja,EAS,Asia
 '01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4346443679676552,1,2,ja,EAS,Asia
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-04-14T05:10:00+00:00,Japan,0.4321497578200863,0,1,ja,EAS,Asia
@@ -101,7 +101,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-04-24T05:22:00+00:00,Palau,0.322182477617497,1,1,ja,EPO,Pacific Ocean
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,ja,,
-'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,フロリダ州山火事粘土郡,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,ja,WNA,North-America
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,熱帯低気圧 グアム,2026-05-05T05:29:00+00:00,Guam,0.3198190795519768,0,1,ja,NPO,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
@@ -187,6 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-04-19T05:16:00+00:00,,0.2803297071269687,1,1,ja,,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,雪のカナダ,2026-04-08T05:01:00+00:00,Canada,0.2784805285835466,1,1,ja,NEN,North-America
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,ja,,
+'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,フロリダ州山火事粘土郡,2026-05-05T05:29:00+00:00,United States,0.2719040087289376,1,1,ja,WNA,North-America
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,不明のオーランド,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,ja,ENA,North-America
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧インドゥーサ,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,ja,SIO,Indian Ocean
 '152914913d',extremes,Heat Wave,#c40202,acwe,熱波タスマニア,2026-04-28T05:45:00+00:00,Australia,0.2675166980509432,1,1,ja,SAU,Oceania
