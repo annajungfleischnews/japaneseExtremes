@@ -87,7 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-04-13T05:27:00+00:00,,0.3482076159797786,1,1,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.3434999112724363,0,1,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-05-09T05:35:00+00:00,,0.3433871408332526,1,2,ja,,
-'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-04-25T05:00:00+00:00,Palau,0.34268586909261667,1,1,ja,EPO,Pacific Ocean
+'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-04-25T05:00:00+00:00,Palau,0.3426858690926166,1,1,ja,EPO,Pacific Ocean
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-04-28T05:44:00+00:00,,0.3417709850816518,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,ja,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-04-07T04:58:00+00:00,,0.3397854025708506,1,2,ja,,
@@ -106,7 +106,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,ja,,
-'02f56319a7',extremes,Flood,#030ba1,aidr,オーストラリアの洪水,2026-04-26T05:26:00+00:00,Australia,0.3140057144723736,0,1,ja,EAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,嵐、ひょう嵐、シドニー、ニューサウスウェールズ州、2015,2026-04-21T05:15:00+00:00,,0.3135356651112628,0,1,ja,EAU,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,ja,,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,温暖な気候のニューサウスウェールズ州,2026-05-06T05:43:00+00:00,Australia,0.3134956031876589,0,1,ja,EAU,Oceania
@@ -200,6 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,タスマニアの山火事,2026-04-29T05:41:00+00:00,Australia,0.2674840066232379,1,1,ja,SAU,Oceania
 '0646039361',extremes,Drought,#edc291,acwe,タスマニアの雨不足,2026-04-21T05:15:00+00:00,Australia,0.26743381154725,1,1,ja,SAU,Oceania
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧シンラク,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,ja,NPO,Pacific Ocean
+'02f56319a7',extremes,Flood,#030ba1,aidr,オーストラリアの洪水,2026-04-26T05:26:00+00:00,Australia,0.26705487230151753,1,1,ja,EAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,雨天のタスマニア,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,ja,SAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,竜巻、マレー川タウンシップ、ビクトリア州、2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,ja,SAU,Oceania
 '1a89155ed1',extremes,Drought,#edc291,edo,雨不足 サントメ・プリンシペ,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,ja,WAF,Africa
