@@ -71,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-10T05:51:00+00:00,Japan,0.3795718708034308,1,1,ja,EAS,Asia
 '47f34211ed',extremes,Earthquake,#870007,usgs,パラオ地震,2026-04-11T04:34:00+00:00,Palau,0.3780479749936221,1,1,ja,EPO,Pacific Ocean
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-04-22T05:13:00+00:00,Japan,0.3731894198803684,1,1,ja,EAS,Asia
+'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-05-05T05:28:00+00:00,,0.3728359088807912,1,3,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-04-12T05:11:00+00:00,,0.37281192313725,1,3,ja,,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-04-24T05:21:00+00:00,,0.3683831203024377,0,1,ja,,
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-04-14T05:10:00+00:00,Japan,0.3680773691470733,1,1,ja,EAS,Asia
@@ -102,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-05-03T05:43:00+00:00,,0.3196792514015503,0,1,ja,,
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,熱波クイーンズランド州,2026-05-04T05:50:00+00:00,Australia,0.3179722418644156,0,1,ja,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,ja,,
-'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-05-05T05:28:00+00:00,,0.3151588516244603,0,1,ja,,
 '0646039361',extremes,Drought,#edc291,acwe,タスマニアの雨不足,2026-04-21T05:15:00+00:00,Australia,0.314628013585,0,1,ja,SAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,ja,,
