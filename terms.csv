@@ -32,7 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a194b04a74',extremes,Earthquake,#870007,usgs,南風原勝連地震,2026-04-10T05:12:00+00:00,Japan,0.4482370000691323,1,1,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-04-12T05:11:00+00:00,Japan,0.4457388198286795,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-04-06T05:11:00+00:00,Japan,0.445737017253155,1,1,ja,EAS,Asia
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-04-23T05:16:00+00:00,,0.43898124852858755,1,3,ja,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-04-23T05:16:00+00:00,,0.4389812485285875,1,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-04-22T05:13:00+00:00,Japan,0.4385698619995485,1,1,ja,EAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-04-24T05:21:00+00:00,Japan,0.4376755833699979,1,2,ja,EAS,Asia
 '01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4346443679676552,1,2,ja,EAS,Asia
@@ -139,7 +139,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96236781fb',extremes,Precipitation,#d60d2b,wmo,豪雨サトゥントラン,2026-04-10T05:13:00+00:00,Thailand,0.3032043746925728,0,1,ja,SEA,Asia
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,嵐ウェリントン,2026-04-12T05:12:00+00:00,New Zealand,0.303193745676714,0,1,ja,NZ,Oceania
 '3c35edb296',extremes,Thunderstorm,#53785a,wmo,雷雨ボツワナ,2026-04-14T05:11:00+00:00,Botswana,0.3031709050036399,0,1,ja,WSAF,Africa
-'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-04-11T04:34:00+00:00,United States,0.3031386584617501,0,1,ja,CNA,North-America
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,アイスサルイト,2026-04-14T05:11:00+00:00,Canada,0.3031153412464506,0,1,ja,NEN,North-America
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-04-11T04:34:00+00:00,Poland,0.3031028807840246,0,1,ja,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,凍てつくブラジル,2026-04-27T05:40:00+00:00,Brazil,0.3028783628151302,0,1,ja,SAM,South-America
@@ -278,6 +277,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-04-10T05:13:00+00:00,Brazil,0.2581237810099859,1,1,ja,SAM,South-America
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,ボツワナ万歳,2026-04-13T05:28:00+00:00,Botswana,0.2580697033561041,1,1,ja,WSAF,Africa
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 ポリルアを除くウェリントン,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,ja,NZ,Oceania
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-04-11T04:34:00+00:00,United States,0.2579678896924876,1,1,ja,CNA,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2026-04-12T05:12:00+00:00,Paraguay,0.2579641148435836,1,1,ja,SES,South-America
 'fadc367829',extremes,Thunderstorm,#53785a,wmo,あられ、オラン,2026-04-24T05:22:00+00:00,Algeria,0.2579106734743752,1,1,ja,SAH,Africa
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,カナダ豪雨,2026-04-22T05:13:00+00:00,Canada,0.2578193847747747,1,1,ja,NEN,North-America
