@@ -114,9 +114,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-27T05:40:00+00:00,Palau,0.3119716254979217,1,1,ja,EPO,Pacific Ocean
 'acd0e1409b',extremes,Flood,#030ba1,acwe,ニューサウスウェールズ州の洪水,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,ja,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,ja,,
+'f6774fb5b2',extremes,Drought,#edc291,acwe,ビクトリア州の雨不足,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,ja,SAU,Oceania
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,豪雨南アフリカ,2026-05-09T05:36:00+00:00,South Africa,0.308563372010795,0,1,ja,WSAF,Africa
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,ja,,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,南アフリカの降水量,2026-05-05T05:29:00+00:00,South Africa,0.308193249692698,0,1,ja,WSAF,Africa
 '0877c3e614',extremes,Precipitation,#d60d2b,wmo,沿岸の豪雨地域,2026-04-30T05:46:00+00:00,Ecuador,0.3080908213612825,0,1,ja,NWS,South-America
+'7e44414ba4',extremes,Precipitation,#d60d2b,wmo,雨地域 アマゾン,2026-05-03T05:44:00+00:00,Ecuador,0.30806246626411804,0,1,ja,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-04-07T04:59:00+00:00,Argentina,0.3067350961518821,0,1,ja,SES,South-America
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,豪雨アルジェリア,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,ja,SAH,Africa
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-04-11T04:34:00+00:00,Argentina,0.3059699519431419,0,1,ja,SES,South-America
