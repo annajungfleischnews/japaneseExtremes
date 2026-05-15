@@ -110,7 +110,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,ja,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-27T05:40:00+00:00,Palau,0.3119716254979217,1,1,ja,EPO,Pacific Ocean
+'3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-05-08T05:16:00+00:00,Australia,0.31067450828115784,0,1,ja,SAU,Oceania
+'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,土砂降りの南アフリカ,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,ja,WSAF,Africa
+'50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,土砂降りの雨,2026-05-12T05:52:00+00:00,South Africa,0.30803222428501736,0,1,ja,WSAF,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,南アフリカの雨,2026-05-06T05:43:00+00:00,South Africa,0.3079943839372556,0,1,ja,WSAF,Africa
+'501b14a5de',extremes,Precipitation,#d60d2b,wmo,降水地域 アマゾン,2026-05-06T05:43:00+00:00,Ecuador,0.30795653012801066,0,1,ja,NWS,South-America
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,悪天候のセーシェル,2026-04-27T05:40:00+00:00,Seychelles,0.3077609833008985,0,1,ja,EIO,Africa
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,豪雨アルジェリア,2026-04-11T04:34:00+00:00,Algeria,0.3064275382457869,0,1,ja,SAH,Africa
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-04-11T04:34:00+00:00,Argentina,0.3059699519431419,0,1,ja,SES,South-America
