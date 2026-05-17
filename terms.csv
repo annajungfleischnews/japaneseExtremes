@@ -36,9 +36,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-04-18T04:56:00+00:00,,0.446620193191347,1,3,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-04-12T05:11:00+00:00,Japan,0.4457388198286795,1,1,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-04-22T05:13:00+00:00,Japan,0.4385698619995485,1,1,ja,EAS,Asia
+'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-04-11T04:34:00+00:00,,0.43677023057365827,2,3,ja,,
 '01cc23cc81',extremes,Earthquake,#870007,usgs,小世田地震,2026-04-06T05:11:00+00:00,Japan,0.4346443679676552,1,2,ja,EAS,Asia
 '59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-04-17T05:15:00+00:00,,0.434625748498518,1,3,ja,,
-'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-04-11T04:34:00+00:00,,0.43315051992622905,1,3,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-04-08T05:00:00+00:00,,0.4300496577560885,1,3,ja,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-05-06T05:43:00+00:00,,0.4267255590965292,1,3,ja,,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-04-09T04:57:00+00:00,Japan,0.4265840340239433,1,2,ja,EAS,Asia
