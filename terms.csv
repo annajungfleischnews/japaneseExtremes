@@ -104,7 +104,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-05-18T06:38:00+00:00,,0.3140663275367655,0,1,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ja,,
-'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-27T05:40:00+00:00,Palau,0.3119716254979217,1,1,ja,EPO,Pacific Ocean
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-05-07T05:46:00+00:00,,0.3112876526952909,0,1,ja,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-05-08T05:16:00+00:00,Australia,0.3106745082811578,0,1,ja,SAU,Oceania
@@ -163,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-05-09T05:35:00+00:00,,0.2918795497082647,2,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-05-06T05:43:00+00:00,,0.2914219548946264,1,1,ja,,
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-06T05:43:00+00:00,,0.2887416330260499,1,1,ja,,
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,雪ロシア,2026-04-27T05:40:00+00:00,Russia,0.2843261121647055,1,1,ja,ESB,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,ja,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-04-20T05:26:00+00:00,,0.2825090904065566,1,1,ja,,
