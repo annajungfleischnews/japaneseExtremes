@@ -89,7 +89,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-15T05:11:00+00:00,,0.3373358595992534,1,2,ja,,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-04-17T05:16:00+00:00,New Zealand,0.3334419632048659,1,2,ja,NZ,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-04-26T05:25:00+00:00,,0.3317304683860959,1,2,ja,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-05-14T06:02:00+00:00,,0.3310203183333245,0,1,ja,,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極の海氷,2026-04-15T05:11:00+00:00,,0.3258994044128184,1,1,ja,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-05-17T06:01:00+00:00,,0.3243674231256447,0,1,ja,,
@@ -158,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,雪ロシア,2026-04-27T05:40:00+00:00,Russia,0.2843261121647055,1,1,ja,ESB,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,ja,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-04-20T05:26:00+00:00,,0.2825090904065566,1,1,ja,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-05-14T06:02:00+00:00,,0.28226736058332585,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-04-19T05:16:00+00:00,,0.2803297071269687,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-04-27T05:39:00+00:00,,0.2774898077796837,1,1,ja,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,フロリダ州山火事粘土郡,2026-05-05T05:29:00+00:00,United States,0.2719040087289376,1,1,ja,WNA,North-America
@@ -195,7 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,ビクトリア州の雨不足,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,ja,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,洪水 ホバート 鉄砲水 タスマニア 2018,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,ja,SAU,Oceania
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,土砂降りの雨,2026-05-12T05:52:00+00:00,South Africa,0.2633275406422646,1,1,ja,WSAF,Africa
-'3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-05-17T06:01:00+00:00,Australia,0.26307036853355587,1,1,ja,SAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-05-17T06:01:00+00:00,Australia,0.2630703685335558,1,1,ja,SAU,Oceania
 '04f990069a',extremes,Drought,#edc291,edo,ベラルーシの雨不足,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,ja,WCE,Europe
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,土砂降りの南アフリカ,2026-05-05T05:29:00+00:00,South Africa,0.2624056501578506,1,1,ja,WSAF,Africa
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,豪雨南アフリカ,2026-05-09T05:36:00+00:00,South Africa,0.2622788662091757,1,1,ja,WSAF,Africa
