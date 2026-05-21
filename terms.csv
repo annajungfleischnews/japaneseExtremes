@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-04-30T05:46:00+00:00,Japan,0.4725945286836138,1,1,ja,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-04-30T05:46:00+00:00,Japan,0.4675675655396929,1,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-04-27T05:40:00+00:00,Japan,0.4662652354715358,1,3,ja,EAS,Asia
+'52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4648391063943351,2,3,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-04-16T05:16:00+00:00,,0.4598173645855034,1,2,ja,,
 '94792d0041',extremes,Earthquake,#870007,usgs,いわい地震,2026-04-16T05:17:00+00:00,Japan,0.4578109255880421,1,3,ja,EAS,Asia
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-04-19T05:16:00+00:00,,0.4570162224474527,1,2,ja,,
@@ -35,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-04-18T04:56:00+00:00,,0.446620193191347,1,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-04-22T05:13:00+00:00,Japan,0.4385698619995485,1,1,ja,EAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-04-11T04:34:00+00:00,,0.4367702305736582,2,3,ja,,
-'52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4287446363997526,1,3,ja,,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-05-01T05:54:00+00:00,Japan,0.4281259979648052,2,2,ja,EAS,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-05-06T05:43:00+00:00,,0.4267255590965292,1,3,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-05-20T06:32:00+00:00,Japan,0.4251672139582899,1,1,ja,EAS,Asia
