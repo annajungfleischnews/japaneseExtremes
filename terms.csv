@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 '4d84acee32',extremes,Earthquake,#870007,usgs,大町地震,2026-04-21T05:14:00+00:00,Japan,0.5074300979386329,1,3,ja,EAS,Asia
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-05-16T05:40:00+00:00,Japan,0.5003986173675831,1,1,ja,EAS,Asia
-'595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-04-04T04:30:00+00:00,,0.4977178790041484,2,3,ja,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-05-12T05:52:00+00:00,,0.48522638054823,1,2,ja,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,高潮,2026-04-05T05:00:00+00:00,,0.4848112389303587,1,3,ja,,
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-04-07T04:58:00+00:00,,0.4831898835584377,1,2,ja,,
@@ -63,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7b631e41f',extremes,Earthquake,#870007,usgs,筑西地震,2026-05-08T05:16:00+00:00,Japan,0.3881267171002564,1,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-04-25T05:00:00+00:00,,0.387706555446111,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-04-21T05:15:00+00:00,Palau,0.3865233204546782,1,1,ja,EPO,Pacific Ocean
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3858068990249555,0,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-27T05:39:00+00:00,,0.3854931920480774,1,2,ja,,
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-04-09T04:57:00+00:00,,0.38102351239587,1,3,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-10T05:51:00+00:00,Japan,0.3795718708034308,1,1,ja,EAS,Asia
@@ -88,7 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-04-17T05:16:00+00:00,New Zealand,0.3334419632048659,1,2,ja,NZ,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-04-26T05:25:00+00:00,,0.3317304683860959,1,2,ja,,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,ja,,
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-05-17T06:01:00+00:00,,0.3243674231256447,0,1,ja,,
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-04-15T05:11:00+00:00,,0.323350996252047,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-04-24T05:22:00+00:00,Palau,0.322182477617497,1,1,ja,EPO,Pacific Ocean
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3178850037485913,0,1,ja,,
@@ -162,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-04-20T05:26:00+00:00,,0.2825090904065566,1,1,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-05-14T06:02:00+00:00,,0.2822673605833258,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-04-19T05:16:00+00:00,,0.2803297071269687,1,1,ja,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-05-17T06:01:00+00:00,,0.277962534656798,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-04-27T05:39:00+00:00,,0.2774898077796837,1,1,ja,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,フロリダ州山火事粘土郡,2026-05-05T05:29:00+00:00,United States,0.2719040087289376,1,1,ja,WNA,North-America
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,ミネソタの嵐,2026-05-05T05:29:00+00:00,United States,0.2717943834660589,1,1,ja,WNA,North-America
