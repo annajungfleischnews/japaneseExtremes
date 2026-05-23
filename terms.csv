@@ -55,7 +55,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-04-23T05:16:00+00:00,,0.4053579885220266,2,3,ja,,
 '5d6713709a',extremes,Earthquake,#870007,usgs,南相馬地震,2026-05-09T05:35:00+00:00,Japan,0.403138704445267,1,1,ja,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,がけ崩れ,2026-04-20T05:26:00+00:00,,0.4027664211987944,1,3,ja,,
+'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,ja,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-04-20T05:26:00+00:00,,0.3992086210089489,1,2,ja,,
+'40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-05-22T06:31:00+00:00,,0.3989403773377403,0,1,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-05-07T05:46:00+00:00,,0.3979402102177177,1,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-05-02T05:23:00+00:00,Japan,0.3979318383353544,1,1,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-04-28T05:44:00+00:00,,0.3979131043253123,1,2,ja,,
@@ -133,6 +135,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d73764800',extremes,Earthquake,#870007,usgs,地震銀の泉,2026-05-04T05:49:00+00:00,Nevada,0.3054906455696318,0,1,ja,WNA,North-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,熱波規制。 3 前胸部,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,ja,SWS,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,カナダの降水量,2026-05-19T06:33:00+00:00,Canada,0.3051374056285152,0,1,ja,NEN,North-America
+'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,凍るプヴィルニトゥク・イヌクジュアク,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,ja,NEN,North-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,高潮エクアドル,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,ja,NWS,South-America
+'64058b2dc1',extremes,Drought,#edc291,edo,日照りのハンガリー,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,ja,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,凍てつくブラジル,2026-04-27T05:40:00+00:00,Brazil,0.3028783628151302,0,1,ja,SAM,South-America
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,高潮ガラパゴス,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,ja,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,ja,,
