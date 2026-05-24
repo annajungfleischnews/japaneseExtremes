@@ -81,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-05-15T06:09:00+00:00,,0.3385668659175501,1,1,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-04-15T05:11:00+00:00,,0.3373358595992534,1,2,ja,,
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,降水量タイ,2026-05-09T05:36:00+00:00,Thailand,0.335899561411032,1,2,ja,SEA,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-04-17T05:16:00+00:00,New Zealand,0.3334419632048659,1,2,ja,NZ,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-04-26T05:25:00+00:00,,0.3317304683860959,1,2,ja,,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,ja,,
@@ -123,7 +124,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,豪雨地域 アマゾン,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,ja,NWS,South-America
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,沿岸部と中部地方の豪雨地域,2026-05-23T05:53:00+00:00,Ecuador,0.3070156683885335,0,1,ja,NWS,South-America
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,疑わしい音の北のフィヨルドランド土砂降り,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,ja,NZ,Oceania
-'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,降水量タイ,2026-05-09T05:36:00+00:00,Thailand,0.3065876840129788,0,1,ja,SEA,Asia
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-05-03T05:44:00+00:00,Canada,0.3065390856733245,0,1,ja,NEN,North-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,ja,SEAF,Africa
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-04-18T04:56:00+00:00,,0.3062904630860034,1,2,ja,,
