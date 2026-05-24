@@ -102,6 +102,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96f0408faf',extremes,Drought,#edc291,edo,乾燥ラトビア,2026-05-04T05:50:00+00:00,Latvia,0.3108189738357254,0,1,ja,WCE,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-05-08T05:16:00+00:00,Australia,0.3106745082811578,0,1,ja,SAU,Oceania
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,ja,WCE,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,アイスランドの乾季,2026-05-21T06:35:00+00:00,Iceland,0.3083985333345354,0,1,ja,GIC,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,チェコの乾燥,2026-05-06T05:43:00+00:00,Czechia,0.3082675137688788,0,1,ja,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,土砂降りのエクアドル,2026-05-10T05:51:00+00:00,Ecuador,0.3082534134188994,0,1,ja,NWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-01T05:54:00+00:00,Brazil,0.3082176720403589,0,1,ja,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-04-30T05:46:00+00:00,Brazil,0.3079946387921132,0,1,ja,SAM,South-America
@@ -109,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-02T05:24:00+00:00,Brazil,0.3075973968593861,0,1,ja,SAM,South-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 タンザニア,2026-05-01T05:54:00+00:00,Tanzania,0.3074864825820533,0,1,ja,SEAF,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,土砂降りのタンザニア,2026-05-07T05:46:00+00:00,Tanzania,0.3074546462362887,0,1,ja,SEAF,Africa
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-05-23T05:53:00+00:00,Ecuador,0.30740102528815866,0,1,ja,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,ja,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,ニュージーランドの降水量,2026-05-06T05:43:00+00:00,New Zealand,0.3072986177183093,0,1,ja,NZ,Oceania
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-04-28T05:45:00+00:00,Argentina,0.3072556093043335,0,1,ja,SES,South-America
@@ -119,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,豪雨 ウェストランド地方,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,ja,NZ,Oceania
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,ウェストランド地方の降水量,2026-05-21T06:35:00+00:00,New Zealand,0.3071233239779767,0,1,ja,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,豪雨地域 アマゾン,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,ja,NWS,South-America
+'aaee78223c',extremes,Precipitation,#d60d2b,wmo,沿岸部と中部地方の豪雨地域,2026-05-23T05:53:00+00:00,Ecuador,0.30701566838853356,0,1,ja,NWS,South-America
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,疑わしい音の北のフィヨルドランド土砂降り,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,ja,NZ,Oceania
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,降水量タイ,2026-05-09T05:36:00+00:00,Thailand,0.3065876840129788,0,1,ja,SEA,Asia
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-05-03T05:44:00+00:00,Canada,0.3065390856733245,0,1,ja,NEN,North-America
@@ -128,6 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,土砂降りのルクセンブルク,2026-05-10T05:51:00+00:00,Luxembourg,0.305906196785266,0,1,ja,WCE,Europe
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,豪雨 モンテネグロ,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,ja,MED,Europe
 '6d73764800',extremes,Earthquake,#870007,usgs,地震銀の泉,2026-05-04T05:49:00+00:00,Nevada,0.3054906455696318,0,1,ja,WNA,North-America
+'e4d5bf1603',extremes,Drought,#edc291,edo,ハンガリーの干ばつ,2026-05-06T05:43:00+00:00,Hungary,0.30545119327208337,0,1,ja,WCE,Europe
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,熱波規制。 3 前胸部,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,ja,SWS,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,カナダの降水量,2026-05-19T06:33:00+00:00,Canada,0.3051374056285152,0,1,ja,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,凍るプヴィルニトゥク・イヌクジュアク,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,ja,NEN,North-America
