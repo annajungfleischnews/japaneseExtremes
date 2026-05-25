@@ -87,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-04-24T05:22:00+00:00,Palau,0.322182477617497,1,1,ja,EPO,Pacific Ocean
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-05-18T06:38:00+00:00,,0.32045218055192165,0,1,ja,,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3160630990953935,1,2,ja,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,洪水 ホバート 鉄砲水 タスマニア 2018,2026-05-09T05:36:00+00:00,Australia,0.3151399933770028,0,1,ja,SAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
@@ -98,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d446959e2',extremes,Drought,#edc291,edo,干ばつエストニア,2026-05-04T05:50:00+00:00,Estonia,0.3115664557581487,0,1,ja,NEU,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-05-07T05:46:00+00:00,,0.3112876526952909,0,1,ja,,
 '92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-05-07T05:46:00+00:00,Madagascar,0.3111115525159482,0,1,ja,MDG,Africa
+'6c11585835',extremes,Drought,#edc291,edo,乾燥リトアニア,2026-05-07T05:46:00+00:00,Lithuania,0.31093799289945473,0,1,ja,WCE,Europe
 '96f0408faf',extremes,Drought,#edc291,edo,乾燥ラトビア,2026-05-04T05:50:00+00:00,Latvia,0.3108189738357254,0,1,ja,WCE,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-05-08T05:16:00+00:00,Australia,0.3106745082811578,0,1,ja,SAU,Oceania
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,ja,WCE,Europe
