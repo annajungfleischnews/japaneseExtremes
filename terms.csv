@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-05-20T06:32:00+00:00,Japan,0.5521453776039329,1,2,ja,EAS,Asia
 '8b4f1b04cb',extremes,Earthquake,#870007,usgs,地震です,2026-05-11T06:14:00+00:00,Japan,0.5443909179722208,1,3,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-05-02T05:24:00+00:00,Japan,0.5341468833498345,2,1,ja,EAS,Asia
-'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-05-14T06:02:00+00:00,Japan,0.5201478639187503,0,1,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-05-03T05:43:00+00:00,,0.5176060439290526,2,3,ja,,
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-04-26T05:25:00+00:00,Japan,0.5103455867923793,2,1,ja,EAS,Asia
@@ -26,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-05-12T05:52:00+00:00,Japan,0.4497066802554251,1,1,ja,EAS,Asia
 'c89f210509',extremes,Earthquake,#870007,usgs,高山地震,2026-05-21T06:34:00+00:00,Japan,0.4470360852715385,1,1,ja,EAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-04-18T04:56:00+00:00,,0.446620193191347,1,3,ja,,
+'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-05-14T06:02:00+00:00,Japan,0.4443759093309378,1,1,ja,EAS,Asia
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-05-28T06:38:00+00:00,Japan,0.4426561556937501,0,1,ja,EAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-04-30T05:46:00+00:00,Japan,0.4339555743810717,2,1,ja,EAS,Asia
@@ -85,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-05-18T06:38:00+00:00,,0.3259273607693181,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-04-24T05:22:00+00:00,Palau,0.322182477617497,1,1,ja,EPO,Pacific Ocean
-'fec57a6213',extremes,Heat Wave,#c40202,cmeter,ヨーロッパの熱波パリ,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,1,ja,,
 'efa91cca03',extremes,Drought,#edc291,acwe,西オーストラリア州の水位低下,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,1,ja,CAU,Oceania
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3160630990953935,1,2,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
@@ -167,9 +166,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,寒波の西オーストラリア州,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,ja,CAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,オーストラリアの温暖な気候,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,ja,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,高水位オーストラリア,2026-05-04T05:50:00+00:00,Australia,0.2712012609768909,1,1,ja,CAU,Oceania
-'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,オーストラリア西部の寒い気候,2026-05-28T06:38:00+00:00,Australia,0.27117296458891227,1,1,ja,CAU,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,オーストラリア西部の寒い気候,2026-05-28T06:38:00+00:00,Australia,0.2711729645889122,1,1,ja,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,穏やかな冬、西オーストラリア,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,ja,CAU,Oceania
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ハグピット,2026-05-07T05:46:00+00:00,,0.2711379297606374,1,1,ja,EPO,Pacific Ocean
+'fec57a6213',extremes,Heat Wave,#c40202,cmeter,ヨーロッパの熱波パリ,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,ja,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,オーストラリア西部の雨不足,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,ja,CAU,Oceania
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,湿った気候 西オーストラリア州,2026-05-04T05:50:00+00:00,Australia,0.2702883774495468,1,1,ja,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,熱波クイーンズランド州,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,ja,CAU,Oceania
