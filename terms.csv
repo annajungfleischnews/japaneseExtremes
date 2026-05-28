@@ -129,6 +129,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,高潮エクアドル,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,ja,NWS,South-America
 '64058b2dc1',extremes,Drought,#edc291,edo,日照りのハンガリー,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,ja,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-05-20T06:33:00+00:00,Tanzania,0.3045175884522101,0,1,ja,SEAF,Africa
+'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,フロストガティノー,2026-05-08T05:16:00+00:00,Canada,0.30444896819546663,0,1,ja,NEN,North-America
+'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,土砂降りのタイ,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,ja,SEA,Asia
+'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,高潮カタール,2026-05-19T06:33:00+00:00,Qatar,0.30429660388709545,0,1,ja,ARP,Asia
+'9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-05-23T05:53:00+00:00,Poland,0.30423082234426757,0,1,ja,WCE,Europe
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2026-05-17T06:01:00+00:00,Bahrain,0.30417282080608116,0,1,ja,ARP,Asia
+'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,高潮ナイジェリア,2026-05-24T06:22:00+00:00,Nigeria,0.30414762966400666,0,1,ja,WAF,Africa
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,凍てつくブラジル,2026-04-27T05:40:00+00:00,Brazil,0.3028783628151302,0,1,ja,SAM,South-America
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,雪のセルビア,2026-04-30T05:46:00+00:00,Serbia,0.3027661305352522,0,1,ja,MED,Europe
 '70773b5956',extremes,Earthquake,#870007,usgs,アラスカ地震,2026-04-26T05:25:00+00:00,Alaska,0.302651839176517,0,1,ja,NWN,North-America
@@ -182,12 +188,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,タスマニア鉄砲水,2026-05-05T05:29:00+00:00,Australia,0.2655190938796327,1,1,ja,SAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-04-28T05:44:00+00:00,,0.2652465461807023,1,1,ja,,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,ニューサウスウェールズ州の洪水,2026-05-05T05:29:00+00:00,Australia,0.2650140493713013,1,1,ja,EAU,Oceania
-'6c34512524',extremes,Drought,#edc291,edo,スリランカの雨不足,2026-05-16T05:40:00+00:00,Sri Lanka,0.26489278746035433,1,1,ja,BOB,Asia
-'4d446959e2',extremes,Drought,#edc291,edo,干ばつエストニア,2026-05-04T05:50:00+00:00,Estonia,0.26483148739442636,1,1,ja,NEU,Europe
+'6c34512524',extremes,Drought,#edc291,edo,スリランカの雨不足,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,ja,BOB,Asia
+'4d446959e2',extremes,Drought,#edc291,edo,干ばつエストニア,2026-05-04T05:50:00+00:00,Estonia,0.2648314873944263,1,1,ja,NEU,Europe
 'f6774fb5b2',extremes,Drought,#edc291,acwe,ビクトリア州の雨不足,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,ja,SAU,Oceania
-'92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-05-07T05:46:00+00:00,Madagascar,0.26444481963855593,1,1,ja,MDG,Africa
-'6c11585835',extremes,Drought,#edc291,edo,乾燥リトアニア,2026-05-07T05:46:00+00:00,Lithuania,0.26429729396453644,1,1,ja,WCE,Europe
-'96f0408faf',extremes,Drought,#edc291,edo,乾燥ラトビア,2026-05-04T05:50:00+00:00,Latvia,0.26419612776036655,1,1,ja,WCE,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-05-07T05:46:00+00:00,Madagascar,0.2644448196385559,1,1,ja,MDG,Africa
+'6c11585835',extremes,Drought,#edc291,edo,乾燥リトアニア,2026-05-07T05:46:00+00:00,Lithuania,0.2642972939645364,1,1,ja,WCE,Europe
+'96f0408faf',extremes,Drought,#edc291,edo,乾燥ラトビア,2026-05-04T05:50:00+00:00,Latvia,0.2641961277603665,1,1,ja,WCE,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-05-08T05:16:00+00:00,Australia,0.2640733320389841,1,1,ja,SAU,Oceania
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,土砂降りの雨,2026-05-12T05:52:00+00:00,South Africa,0.2633275406422646,1,1,ja,WSAF,Africa
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-05-05T05:29:00+00:00,Poland,0.2631394629759461,1,1,ja,WCE,Europe
@@ -195,12 +201,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,土砂降りの南アフリカ,2026-05-05T05:29:00+00:00,South Africa,0.2624056501578506,1,1,ja,WSAF,Africa
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,豪雨南アフリカ,2026-05-09T05:36:00+00:00,South Africa,0.2622788662091757,1,1,ja,WSAF,Africa
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,南アフリカの降水量,2026-05-05T05:29:00+00:00,South Africa,0.2622642922387933,1,1,ja,WSAF,Africa
-'9f05eaaf90',extremes,Drought,#edc291,edo,アイスランドの乾季,2026-05-21T06:35:00+00:00,Iceland,0.26213875333435505,1,1,ja,GIC,Europe
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-01T05:54:00+00:00,Brazil,0.26213503623430506,1,1,ja,SAM,South-America
+'9f05eaaf90',extremes,Drought,#edc291,edo,アイスランドの乾季,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,ja,GIC,Europe
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-01T05:54:00+00:00,Brazil,0.262135036234305,1,1,ja,SAM,South-America
 '9fdc419684',extremes,Drought,#edc291,edo,日照りのチェコ,2026-05-04T05:50:00+00:00,Czechia,0.2621148858670977,1,1,ja,WCE,Europe
-'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-05-11T06:14:00+00:00,Madagascar,0.26209360007877025,1,1,ja,MDG,Africa
+'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-05-11T06:14:00+00:00,Madagascar,0.2620936000787702,1,1,ja,MDG,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-04-29T05:40:00+00:00,Argentina,0.2620564655926393,1,1,ja,SES,South-America
-'f89b96cf78',extremes,Drought,#edc291,edo,チェコの乾燥,2026-05-06T05:43:00+00:00,Czechia,0.26202738670354697,1,1,ja,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,チェコの乾燥,2026-05-06T05:43:00+00:00,Czechia,0.2620273867035469,1,1,ja,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,土砂降りのエクアドル,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,ja,NWS,South-America
 '0877c3e614',extremes,Precipitation,#d60d2b,wmo,沿岸の豪雨地域,2026-04-30T05:46:00+00:00,Ecuador,0.2618771981570901,1,1,ja,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,雨地域 アマゾン,2026-05-03T05:44:00+00:00,Ecuador,0.2618530963245002,1,1,ja,NWS,South-America
