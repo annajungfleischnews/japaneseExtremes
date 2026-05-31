@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-05-16T05:40:00+00:00,Japan,0.6645267708345279,1,3,ja,EAS,Asia
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-03T05:43:00+00:00,,0.5584753767595105,2,2,ja,,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-05-20T06:32:00+00:00,Japan,0.5521453776039329,1,2,ja,EAS,Asia
 '8b4f1b04cb',extremes,Earthquake,#870007,usgs,地震です,2026-05-11T06:14:00+00:00,Japan,0.5443909179722208,1,3,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-05-02T05:24:00+00:00,Japan,0.5341468833498345,2,1,ja,EAS,Asia
@@ -11,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-04-18T04:56:00+00:00,,0.4891240137580994,2,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-05-02T05:23:00+00:00,Japan,0.4883920775850512,2,2,ja,EAS,Asia
 'c8866d4dc3',extremes,Earthquake,#870007,usgs,こうや地震,2026-05-03T05:43:00+00:00,Japan,0.4820506575455569,1,2,ja,EAS,Asia
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-03T05:43:00+00:00,,0.47950033736413,1,2,ja,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-05-03T05:43:00+00:00,,0.4794582884558018,2,3,ja,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-05-03T05:43:00+00:00,,0.4762861943248518,1,2,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.4664173309470943,1,2,ja,NPO,Pacific Ocean
@@ -239,5 +239,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-05-16T05:40:00+00:00,Argentina,0.2580438590577005,1,1,ja,SES,South-America
 'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,嵐レセディ レセディ ハイデルベルク,2026-04-28T05:45:00+00:00,South Africa,0.2569813509794348,1,1,ja,WSAF,Africa
 '96285201b2',extremes,Storm,#b3b2b1,emdat,嵐ラオカイ,2026-05-05T05:29:00+00:00,Vietnam,0.2309487726118286,2,1,ja,SEA,Asia
-'7e44414ba4',extremes,Precipitation,#d60d2b,wmo,雨地域 アマゾン,2026-05-03T05:44:00+00:00,Ecuador,0.22257513187582517,2,1,ja,NWS,South-America
+'7e44414ba4',extremes,Precipitation,#d60d2b,wmo,雨地域 アマゾン,2026-05-03T05:44:00+00:00,Ecuador,0.2225751318758251,2,1,ja,NWS,South-America
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,霜南アフリカ,2026-05-06T05:43:00+00:00,South Africa,0.2221806914711313,2,1,ja,WSAF,Africa
