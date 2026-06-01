@@ -84,11 +84,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-05-16T05:40:00+00:00,,0.3265461134896459,1,1,ja,,
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-05-30T06:01:00+00:00,,0.3251051617409697,0,1,ja,,
+'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-05-21T06:35:00+00:00,Palau,0.3184141131853371,0,1,ja,EPO,Pacific Ocean
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3160630990953935,1,2,ja,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-05-16T05:40:00+00:00,,0.31455353179477535,0,1,ja,,
+'44211c95de',extremes,Flood,#030ba1,aidr,オーストラリアの洪水,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,ja,EAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-05-01T05:54:00+00:00,,0.312555637613664,1,1,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-04-27T05:40:00+00:00,Palau,0.3119716254979217,1,1,ja,EPO,Pacific Ocean
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,ヨーロッパの熱波ボルドー,2026-05-30T06:01:00+00:00,France,0.31098016415853824,0,1,ja,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-27T06:46:00+00:00,,0.3096297696229361,0,1,ja,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-04-28T05:45:00+00:00,Argentina,0.3072556093043335,0,1,ja,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
@@ -225,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,雷雨南アフリカ,2026-05-06T05:43:00+00:00,South Africa,0.2609487305484309,1,1,ja,WSAF,Africa
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,疑わしい音の北のフィヨルドランド土砂降り,2026-05-05T05:29:00+00:00,New Zealand,0.2607670697580873,1,1,ja,NZ,Oceania
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,雨ベシャール,2026-05-10T05:51:00+00:00,Algeria,0.2606599656172856,1,1,ja,SAH,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-05-11T06:14:00+00:00,Brazil,0.26037498871619985,1,1,ja,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-05-11T06:14:00+00:00,Brazil,0.2603749887161998,1,1,ja,SAM,South-America
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,アルジェリアの降水量,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,ja,SAH,Africa
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,土砂降りのルクセンブルク,2026-05-10T05:51:00+00:00,Luxembourg,0.260020267267476,1,1,ja,WCE,Europe
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,あられ على بعض مناطق جنوب غرب ليبيا,2026-05-27T06:46:00+00:00,Libya,0.2597298002929441,1,1,ja,SAH,Africa
