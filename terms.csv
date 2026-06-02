@@ -104,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dea87e6ccd',extremes,Drought,#edc291,edo,日照りのラトビア,2026-05-17T06:01:00+00:00,Latvia,0.3064913839692404,0,1,ja,WCE,Europe
 '016d682943',extremes,Snow&Ice,#d60d2b,wmo,凍てつく南アフリカ,2026-05-11T06:14:00+00:00,South Africa,0.3060438468889501,0,1,ja,WSAF,Africa
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,豪雨 モンテネグロ,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,ja,MED,Europe
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,雪崩ロシア,2026-05-16T05:40:00+00:00,Russia,0.30570631862381864,0,1,ja,ESB,Europe
 '6d73764800',extremes,Earthquake,#870007,usgs,地震銀の泉,2026-05-04T05:49:00+00:00,Nevada,0.3054906455696318,0,1,ja,WNA,North-America
 'e4d5bf1603',extremes,Drought,#edc291,edo,ハンガリーの干ばつ,2026-05-06T05:43:00+00:00,Hungary,0.3054511932720833,0,1,ja,WCE,Europe
 '0006615477',extremes,Precipitation,#d60d2b,wmo,カナダの豪雨,2026-05-28T06:38:00+00:00,Canada,0.3053568485195942,0,1,ja,NEN,North-America
@@ -121,6 +122,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-05-20T06:33:00+00:00,Tanzania,0.3045175884522101,0,1,ja,SEAF,Africa
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,ja,WCE,Europe
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,バーレーンの嵐,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,ja,ARP,Asia
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,カナダの雨,2026-05-15T06:09:00+00:00,Canada,0.30416039500342584,0,1,ja,NEN,North-America
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-05-31T06:40:00+00:00,,0.3041590989548142,0,1,ja,,
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,高潮ナイジェリア,2026-05-24T06:22:00+00:00,Nigeria,0.3041476296640066,0,1,ja,WAF,Africa
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2026-05-11T06:14:00+00:00,Paraguay,0.3040289110279048,0,1,ja,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-05-10T05:51:00+00:00,Vanuatu,0.3038014772940418,0,1,ja,SPO,Oceania
@@ -208,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,リビアの悪天候,2026-05-26T06:31:00+00:00,Libya,0.261536709198916,1,1,ja,SAH,Africa
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-02T05:24:00+00:00,Brazil,0.2614577873304781,1,1,ja,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-05-03T05:44:00+00:00,Brazil,0.2614144091918499,1,1,ja,SAM,South-America
-'5b34407f4a',extremes,Wildfire,#d60d2b,acwe,野火タスマニア,2026-05-31T06:41:00+00:00,Australia,0.26139916039919736,1,1,ja,SAU,Oceania
+'5b34407f4a',extremes,Wildfire,#d60d2b,acwe,野火タスマニア,2026-05-31T06:41:00+00:00,Australia,0.2613991603991973,1,1,ja,SAU,Oceania
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,ゲリラ豪雨 タンザニア,2026-05-01T05:54:00+00:00,Tanzania,0.2613635101947453,1,1,ja,SEAF,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,土砂降りのタンザニア,2026-05-07T05:46:00+00:00,Tanzania,0.2613364493008454,1,1,ja,SEAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,ja,NWS,South-America
