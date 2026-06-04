@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-05-17T06:01:00+00:00,Japan,0.4424741818941964,1,1,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4418255249380888,4,3,ja,,
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.437061698538859,2,3,ja,,
+'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-05-20T06:32:00+00:00,Japan,0.43450805636399303,0,1,ja,EAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-04-30T05:46:00+00:00,Japan,0.4339555743810717,2,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-05-01T05:54:00+00:00,Japan,0.4281259979648052,2,2,ja,EAS,Asia
@@ -92,6 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-05-26T06:31:00+00:00,,0.3137904264588921,1,1,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-05-01T05:54:00+00:00,,0.312555637613664,1,1,ja,,
+'fe07b8547c',extremes,Drought,#edc291,edo,チェコの干ばつ,2026-05-15T06:09:00+00:00,Czechia,0.30966108579871404,0,1,ja,WCE,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-27T06:46:00+00:00,,0.3096297696229361,0,1,ja,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-04-28T05:45:00+00:00,Argentina,0.3072556093043335,0,1,ja,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
