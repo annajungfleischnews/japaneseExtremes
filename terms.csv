@@ -80,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-03T07:22:00+00:00,,0.3365792896174682,1,1,ja,,
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,降水量タイ,2026-05-09T05:36:00+00:00,Thailand,0.335899561411032,1,2,ja,SEA,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-05-18T06:38:00+00:00,,0.3353846534691334,1,1,ja,,
+'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-05-22T06:31:00+00:00,,0.33381584693789984,0,1,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-02T07:08:00+00:00,,0.3327248420533387,0,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-04-26T05:25:00+00:00,,0.3317304683860959,1,2,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-05-24T06:22:00+00:00,Palau,0.3304338156261077,1,1,ja,EPO,Pacific Ocean
@@ -95,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe07b8547c',extremes,Drought,#edc291,edo,チェコの干ばつ,2026-05-15T06:09:00+00:00,Czechia,0.309661085798714,0,1,ja,WCE,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-27T06:46:00+00:00,,0.3096297696229361,0,1,ja,,
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-24T06:22:00+00:00,Brazil,0.30753359853163065,0,1,ja,SAM,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,ja,SES,South-America
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,ノルウェーの雪崩,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,ja,NEU,Europe
