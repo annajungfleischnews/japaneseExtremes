@@ -7,11 +7,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d84acee32',extremes,Earthquake,#870007,usgs,大町地震,2026-04-21T05:14:00+00:00,Japan,0.5074300979386329,1,3,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-05-04T05:50:00+00:00,Japan,0.5040464315003502,4,3,ja,EAS,Asia
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-05-02T05:23:00+00:00,Japan,0.4883920775850512,2,2,ja,EAS,Asia
-'6f6ed3607a',extremes,Earthquake,#870007,usgs,地震くりお,2026-06-07T06:48:00+00:00,Japan,0.4859704714570206,0,1,ja,EAS,Asia
 'c8866d4dc3',extremes,Earthquake,#870007,usgs,こうや地震,2026-05-03T05:43:00+00:00,Japan,0.4820506575455569,1,2,ja,EAS,Asia
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-05-23T05:52:00+00:00,,0.4808471379449499,1,2,ja,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-05-03T05:43:00+00:00,,0.4794582884558018,2,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-05-16T05:40:00+00:00,Japan,0.4774047652543572,5,3,ja,EAS,Asia
+'6f6ed3607a',extremes,Earthquake,#870007,usgs,地震くりお,2026-06-07T06:48:00+00:00,Japan,0.47711655982937656,1,2,ja,EAS,Asia
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-05-03T05:43:00+00:00,,0.4762861943248518,1,2,ja,,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-05-20T06:32:00+00:00,Japan,0.4693236909633429,2,1,ja,EAS,Asia
 '8b4f1b04cb',extremes,Earthquake,#870007,usgs,地震です,2026-05-11T06:14:00+00:00,Japan,0.4677111814622022,3,3,ja,EAS,Asia
