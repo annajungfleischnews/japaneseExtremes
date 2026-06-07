@@ -93,7 +93,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60a34b83b0',extremes,Flood,#030ba1,acwe,南オーストラリア州の洪水,2026-06-04T07:06:00+00:00,Australia,0.3136122097638811,0,1,ja,SAU,Oceania
 'fe07b8547c',extremes,Drought,#edc291,edo,チェコの干ばつ,2026-05-15T06:09:00+00:00,Czechia,0.309661085798714,0,1,ja,WCE,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
+'d79f0cf217',extremes,Drought,#edc291,edo,干ばつスロバキア,2026-05-22T06:32:00+00:00,Slovakia,0.30790523192435304,0,1,ja,WCE,Europe
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,0,1,ja,NWS,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-24T06:22:00+00:00,Brazil,0.3075335985316306,0,1,ja,SAM,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-24T06:22:00+00:00,Brazil,0.3075301606579164,0,1,ja,SAM,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,ja,SAM,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,ja,SES,South-America
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,ノルウェーの雪崩,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,ja,NEU,Europe
