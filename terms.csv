@@ -39,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,雨 サウジアラビア,2026-04-28T05:45:00+00:00,Saudi Arabia,0.4112962562542659,1,2,ja,ARP,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-05-19T06:33:00+00:00,,0.410294026782858,1,2,ja,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-05-17T06:01:00+00:00,,0.4091948456639817,1,3,ja,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-06-03T07:22:00+00:00,,0.4080660162028559,1,3,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-05-19T06:33:00+00:00,,0.4069542952814976,1,3,ja,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-05-18T06:38:00+00:00,,0.4036521572587948,1,2,ja,,
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-05-22T06:31:00+00:00,,0.4031413848279883,1,2,ja,,
@@ -48,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-05-07T05:46:00+00:00,,0.3979402102177177,1,3,ja,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-04-28T05:44:00+00:00,,0.3979131043253123,1,2,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-06-03T07:22:00+00:00,,0.3886914570300979,0,1,ja,,
 'e7b631e41f',extremes,Earthquake,#870007,usgs,筑西地震,2026-05-08T05:16:00+00:00,Japan,0.3881267171002564,1,1,ja,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-05-17T06:01:00+00:00,,0.3860932614507348,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-05-15T06:09:00+00:00,Palau,0.384733864960723,1,1,ja,EPO,Pacific Ocean
@@ -91,7 +91,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,南オーストラリア州の熱波,2026-06-04T07:06:00+00:00,Australia,0.3100578567120882,0,1,ja,SAU,Oceania
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
-'06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2026-05-31T06:40:00+00:00,Madagascar,0.3077617592068819,0,1,ja,MDG,Africa
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,0,1,ja,NWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-24T06:22:00+00:00,Brazil,0.3075301606579164,0,1,ja,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,ja,SAM,South-America
@@ -169,6 +168,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,モルドバ共和国の降水量,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,ja,WCE,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,リビアの雷雨,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,ja,SAH,Africa
 'd79f0cf217',extremes,Drought,#edc291,edo,干ばつスロバキア,2026-05-22T06:32:00+00:00,Slovakia,0.2617194471357,1,1,ja,WCE,Europe
+'06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2026-05-31T06:40:00+00:00,Madagascar,0.26159749532584964,1,1,ja,MDG,Africa
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,リビアの悪天候,2026-05-26T06:31:00+00:00,Libya,0.261536709198916,1,1,ja,SAH,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,アルゼンチンの降水量,2026-05-28T06:38:00+00:00,Argentina,0.2615198067660439,1,1,ja,SES,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-24T06:22:00+00:00,Brazil,0.261403558751886,1,1,ja,SAM,South-America
