@@ -21,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-04-27T05:40:00+00:00,Japan,0.4662652354715358,1,3,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-05-12T05:52:00+00:00,Japan,0.4497066802554251,1,1,ja,EAS,Asia
 'c89f210509',extremes,Earthquake,#870007,usgs,高山地震,2026-05-21T06:34:00+00:00,Japan,0.4470360852715385,1,1,ja,EAS,Asia
+'84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.4459095230066954,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-05-14T06:02:00+00:00,Japan,0.4443759093309378,1,1,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4418255249380888,4,3,ja,,
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-05-25T06:52:00+00:00,Japan,0.4380897914526165,1,1,ja,EAS,Asia
@@ -53,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-10T05:51:00+00:00,Japan,0.3795718708034308,1,1,ja,EAS,Asia
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-05-17T06:01:00+00:00,Japan,0.3765530996100669,2,1,ja,EAS,Asia
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-05-28T06:38:00+00:00,Japan,0.3762577323396875,1,1,ja,EAS,Asia
-'84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.3743895767993208,0,1,ja,,
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-05-30T06:01:00+00:00,,0.3734440979343696,1,2,ja,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-05-05T05:28:00+00:00,,0.3728359088807912,1,3,ja,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-05-23T05:52:00+00:00,,0.3727778036549199,1,2,ja,,
@@ -162,7 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f05eaaf90',extremes,Drought,#edc291,edo,アイスランドの乾季,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,ja,GIC,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-05-11T06:14:00+00:00,Madagascar,0.2620936000787702,1,1,ja,MDG,Africa
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,土砂降りのエクアドル,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,ja,NWS,South-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-05-23T05:53:00+00:00,Brazil,0.26185200754617094,1,1,ja,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-05-23T05:53:00+00:00,Brazil,0.2618520075461709,1,1,ja,SAM,South-America
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,モルドバ共和国の降水量,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,ja,WCE,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,リビアの雷雨,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,ja,SAH,Africa
 'd79f0cf217',extremes,Drought,#edc291,edo,干ばつスロバキア,2026-05-22T06:32:00+00:00,Slovakia,0.2617194471357,1,1,ja,WCE,Europe
