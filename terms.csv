@@ -23,7 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.4459095230066954,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-05-14T06:02:00+00:00,Japan,0.4443759093309378,1,1,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4418255249380888,4,3,ja,,
-'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.43850348769317427,2,1,ja,NPO,Pacific Ocean
+'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.4385034876931742,2,1,ja,NPO,Pacific Ocean
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-05-25T06:52:00+00:00,Japan,0.4380897914526165,1,1,ja,EAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.437061698538859,2,3,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
@@ -105,6 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dea87e6ccd',extremes,Drought,#edc291,edo,日照りのラトビア,2026-05-17T06:01:00+00:00,Latvia,0.3064913839692404,0,1,ja,WCE,Europe
 '628c73fc75',extremes,Drought,#edc291,edo,ポーランドの干ばつ,2026-05-25T06:53:00+00:00,Poland,0.3058849596463933,0,1,ja,WCE,Europe
 '3a81ba6638',extremes,Landslide,#572c03,aidr,サマーズビー、ニューサウスウェールズ州の地滑り,2026-06-06T06:08:00+00:00,Australia,0.3056046342432353,0,1,ja,EAU,Oceania
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,豪雨ニュージーランド,2026-05-30T06:01:00+00:00,New Zealand,0.3055851211242469,0,1,ja,NZ,Oceania
 'e4d5bf1603',extremes,Drought,#edc291,edo,ハンガリーの干ばつ,2026-05-06T05:43:00+00:00,Hungary,0.3054511932720833,0,1,ja,WCE,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ja,CAU,Oceania
 '2fb9bcabc4',extremes,Drought,#edc291,edo,乾燥エストニア,2026-05-17T06:01:00+00:00,Estonia,0.3053107229079144,0,1,ja,NEU,Europe
