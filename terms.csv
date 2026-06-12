@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-03T05:43:00+00:00,,0.5584753767595105,2,2,ja,,
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-05-02T05:24:00+00:00,Japan,0.5453390722109956,3,3,ja,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-04-30T05:45:00+00:00,,0.5408120550320399,2,3,ja,,
-'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.5151805031684403,1,1,ja,NPO,Pacific Ocean
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-05-01T05:54:00+00:00,,0.5096669622665227,2,3,ja,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-05-04T05:49:00+00:00,,0.5040818135183031,2,2,ja,,
@@ -24,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.4459095230066954,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-05-14T06:02:00+00:00,Japan,0.4443759093309378,1,1,ja,EAS,Asia
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-05-07T05:46:00+00:00,,0.4418255249380888,4,3,ja,,
+'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.43850348769317427,2,1,ja,NPO,Pacific Ocean
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-05-25T06:52:00+00:00,Japan,0.4380897914526165,1,1,ja,EAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-04-28T05:44:00+00:00,,0.437061698538859,2,3,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
@@ -96,7 +96,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-05-24T06:22:00+00:00,Brazil,0.3075301606579164,0,1,ja,SAM,South-America
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,ja,SAM,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,リビア万歳,2026-06-01T07:30:00+00:00,Libya,0.3068673203138273,0,1,ja,SAH,Africa
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,ノルウェーの雪崩,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,ja,NEU,Europe
@@ -172,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,降水量 エクアドル,2026-06-03T07:23:00+00:00,Ecuador,0.2614890907127314,1,1,ja,NWS,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-05-24T06:22:00+00:00,Brazil,0.261403558751886,1,1,ja,SAM,South-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,野火タスマニア,2026-05-31T06:41:00+00:00,Australia,0.2613991603991973,1,1,ja,SAU,Oceania
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-05-22T06:32:00+00:00,Brazil,0.2612951316090785,1,1,ja,SAM,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,ja,NWS,South-America
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,ウェストランド地方の降水量,2026-05-21T06:35:00+00:00,New Zealand,0.2610548253812801,1,1,ja,NZ,Oceania
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,沿岸部と中部地方の豪雨地域,2026-05-23T05:53:00+00:00,Ecuador,0.2609633181302535,1,1,ja,NWS,South-America
