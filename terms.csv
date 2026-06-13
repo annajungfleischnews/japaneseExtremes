@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-05-23T05:52:00+00:00,,0.5588700822532073,2,2,ja,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-04-30T05:45:00+00:00,,0.5408120550320399,2,3,ja,,
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-05-01T05:54:00+00:00,,0.5096669622665227,2,3,ja,,
@@ -6,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-05-04T05:50:00+00:00,Japan,0.5040464315003502,4,3,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-05-24T06:22:00+00:00,Japan,0.4851151385424209,1,2,ja,EAS,Asia
 'c8866d4dc3',extremes,Earthquake,#870007,usgs,こうや地震,2026-05-03T05:43:00+00:00,Japan,0.4820506575455569,1,2,ja,EAS,Asia
-'16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-05-23T05:52:00+00:00,,0.4808471379449499,1,2,ja,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-05-03T05:43:00+00:00,,0.4794582884558018,2,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-05-16T05:40:00+00:00,Japan,0.4774047652543572,5,3,ja,EAS,Asia
 '6f6ed3607a',extremes,Earthquake,#870007,usgs,地震くりお,2026-06-07T06:48:00+00:00,Japan,0.4771165598293765,1,2,ja,EAS,Asia
