@@ -44,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-05-10T05:51:00+00:00,,0.399166474096878,1,2,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-05-07T05:46:00+00:00,,0.3979402102177177,1,3,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-27T06:46:00+00:00,,0.3938455574208052,0,1,ja,,
 'e7b631e41f',extremes,Earthquake,#870007,usgs,筑西地震,2026-05-08T05:16:00+00:00,Japan,0.3881267171002564,1,1,ja,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-05-17T06:01:00+00:00,,0.3860932614507348,1,1,ja,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
@@ -57,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3715657345454028,1,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-05-18T06:38:00+00:00,Palau,0.3702261977985068,1,1,ja,EPO,Pacific Ocean
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-05-20T06:32:00+00:00,Japan,0.369481862909394,1,1,ja,EAS,Asia
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-27T06:46:00+00:00,,0.3655187988076844,1,1,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-05-20T06:32:00+00:00,Japan,0.3615421468645464,2,1,ja,EAS,Asia
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-05-03T05:44:00+00:00,Canada,0.3610082678223258,1,2,ja,NEN,North-America
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-05-16T05:40:00+00:00,,0.358120577025559,1,2,ja,,
