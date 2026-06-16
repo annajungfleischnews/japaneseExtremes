@@ -94,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-06-15T08:36:00+00:00,Australia,0.3117070283404846,0,1,ja,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
+'1d47df9d63',extremes,Precipitation,#d60d2b,wmo,土砂降りモルドバ共和国,2026-06-06T06:08:00+00:00,Republic of Moldova,0.3080736695386127,0,1,ja,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
 '8e0946a5f2',extremes,Drought,#edc291,edo,エストニアの雨不足,2026-06-02T07:08:00+00:00,Estonia,0.3076869256386224,0,1,ja,NEU,Europe
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,ja,NWS,South-America
