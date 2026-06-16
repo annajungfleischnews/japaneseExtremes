@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-05-23T05:52:00+00:00,,0.5588700822532073,2,2,ja,,
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.5437536172605123,0,1,ja,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-04-30T05:45:00+00:00,,0.5408120550320399,2,3,ja,,
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-05-01T05:54:00+00:00,,0.5096669622665227,2,3,ja,,
+'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.4911134669441627,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-05-24T06:22:00+00:00,Japan,0.4851151385424209,1,2,ja,EAS,Asia
 'c8866d4dc3',extremes,Earthquake,#870007,usgs,こうや地震,2026-05-03T05:43:00+00:00,Japan,0.4820506575455569,1,2,ja,EAS,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-06-12T07:05:00+00:00,,0.4798931891425738,1,2,ja,,
@@ -20,7 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-06-11T07:14:00+00:00,,0.4385620342163883,1,3,ja,,
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.4385034876931742,2,1,ja,NPO,Pacific Ocean
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-05-25T06:52:00+00:00,Japan,0.4380897914526165,1,1,ja,EAS,Asia
-'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-30T06:01:00+00:00,Japan,0.43613965505144475,0,1,ja,EAS,Asia
+'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-30T06:01:00+00:00,Japan,0.4361396550514447,0,1,ja,EAS,Asia
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-06-01T07:30:00+00:00,,0.4352885186281846,2,3,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-02T07:08:00+00:00,,0.4311944989305689,1,2,ja,,
@@ -52,7 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-05-20T06:32:00+00:00,Japan,0.369481862909394,1,1,ja,EAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-06-14T07:06:00+00:00,,0.3657446585019209,0,1,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-27T06:46:00+00:00,,0.3655187988076844,1,1,ja,,
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.36217912281581927,0,1,ja,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.3621791228158192,0,1,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-05-20T06:32:00+00:00,Japan,0.3615421468645464,2,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-05-16T05:40:00+00:00,,0.358120577025559,1,2,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-05-18T06:38:00+00:00,,0.3547168793811931,1,3,ja,,
@@ -81,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-05-15T06:09:00+00:00,Palau,0.3270237852166145,2,1,ja,EPO,Pacific Ocean
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-05-16T05:40:00+00:00,,0.3265461134896459,1,1,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-05-30T06:01:00+00:00,Canada,0.3206777599018821,1,1,ja,NEN,North-America
-'5251a639fe',extremes,Wildfire,#d60d2b,eonet,コプシェスト山火事 アラスカ北西部北極,2026-06-12T07:05:00+00:00,,0.3189507017873924,0,1,ja,,
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧クリスティーナ,2026-06-12T07:05:00+00:00,,0.3187278744841875,0,1,ja,SCA,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3165809493635924,2,1,ja,,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3160630990953935,1,2,ja,,
@@ -127,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ボリス,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,ja,SCA,North-America
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,オーストラリア西部の寒い気候,2026-05-28T06:38:00+00:00,Australia,0.2711729645889122,1,1,ja,CAU,Oceania
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ジャンミ,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,ja,NPO,Pacific Ocean
+'5251a639fe',extremes,Wildfire,#d60d2b,eonet,コプシェスト山火事 アラスカ北西部北極,2026-06-12T07:05:00+00:00,,0.2711080965192835,1,1,ja,,
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,ヨーロッパの熱波パリ,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,ja,,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,熱波パリ,2026-05-29T06:39:00+00:00,France,0.2709787299369174,1,1,ja,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,オーストラリア西部の雨不足,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,ja,CAU,Oceania
