@@ -64,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-05-25T06:53:00+00:00,Canada,0.3521522389816516,1,3,ja,NEN,North-America
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-05-07T05:46:00+00:00,,0.3513637066091791,1,3,ja,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-05-19T06:33:00+00:00,,0.3487503277654292,2,1,ja,,
+'59b529f428',extremes,Thunderstorm,#53785a,random,ひょう雨,2026-06-17T07:33:00+00:00,,0.34871940428435144,0,1,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-05-13T06:02:00+00:00,,0.3478411575340363,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-06-08T07:13:00+00:00,,0.3470542292868141,1,2,ja,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-05-14T06:02:00+00:00,,0.3466198504348404,1,2,ja,,
@@ -82,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-05-16T05:40:00+00:00,,0.3265461134896459,1,1,ja,,
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-06-17T07:33:00+00:00,,0.32457707700321736,0,1,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-05-30T06:01:00+00:00,Canada,0.3206777599018821,1,1,ja,NEN,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3165809493635924,2,1,ja,,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-05-10T05:51:00+00:00,,0.3160630990953935,1,2,ja,,
@@ -89,8 +91,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,ニューサウスウェールズ州の洪水,2026-06-13T06:38:00+00:00,Australia,0.3148175692920001,0,1,ja,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-05-26T06:31:00+00:00,,0.3137904264588921,1,1,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,ja,,
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-02T07:08:00+00:00,Australia,0.31323734073046966,0,1,ja,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-06-15T08:36:00+00:00,Australia,0.3117070283404846,0,1,ja,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
+'641ad67faf',extremes,Wildfire,#d60d2b,acwe,南オーストラリア州の火災禁止令,2026-06-14T07:07:00+00:00,Australia,0.3099285176252513,0,1,ja,SAU,Oceania
 '2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,ja,WCE,Europe
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,土砂降りモルドバ共和国,2026-06-06T06:08:00+00:00,Republic of Moldova,0.3080736695386127,0,1,ja,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
