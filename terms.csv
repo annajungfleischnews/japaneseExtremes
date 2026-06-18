@@ -79,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,降水量タイ,2026-05-09T05:36:00+00:00,Thailand,0.335899561411032,1,2,ja,SEA,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-05-18T06:38:00+00:00,,0.3353846534691334,1,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-06-06T06:08:00+00:00,,0.3346930939894067,1,1,ja,,
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,カナダの降水量,2026-05-19T06:33:00+00:00,Canada,0.3346668247842379,1,2,ja,NEN,North-America
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-06-12T07:05:00+00:00,,0.3332680310220323,1,1,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-05-24T06:22:00+00:00,Palau,0.3304338156261077,1,1,ja,EPO,Pacific Ocean
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,ja,,
@@ -109,7 +110,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,ja,SES,South-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ja,CAU,Oceania
 '2fb9bcabc4',extremes,Drought,#edc291,edo,乾燥エストニア,2026-05-17T06:01:00+00:00,Estonia,0.3053107229079144,0,1,ja,NEU,Europe
-'c22c0da855',extremes,Precipitation,#d60d2b,wmo,カナダの降水量,2026-05-19T06:33:00+00:00,Canada,0.3051374056285152,0,1,ja,NEN,North-America
 '907a393546',extremes,Precipitation,#d60d2b,wmo,土砂降りのナウジャート,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ja,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,凍るプヴィルニトゥク・イヌクジュアク,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,ja,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,ja,SAM,South-America
