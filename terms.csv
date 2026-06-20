@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-06-14T07:07:00+00:00,Japan,0.526207107759086,1,2,ja,EAS,Asia
+'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-06-14T07:07:00+00:00,Japan,0.5196268965952231,2,3,ja,EAS,Asia
 'c063256a5b',extremes,Earthquake,#870007,usgs,四街道地震,2026-05-10T05:51:00+00:00,Japan,0.512527302302315,1,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.4911134669441627,1,1,ja,EAS,Asia
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-05-24T06:22:00+00:00,Japan,0.483529326991827,2,2,ja,EAS,Asia
@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-05-17T06:01:00+00:00,,0.4248840251528158,1,2,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-05-20T06:33:00+00:00,Japan,0.4237985893791655,2,1,ja,EAS,Asia
 '3b6911834f',extremes,Earthquake,#870007,usgs,八戸地震,2026-05-22T06:31:00+00:00,Japan,0.4128815750152121,2,1,ja,EAS,Asia
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,カナダ豪雨,2026-06-09T06:32:00+00:00,Canada,0.41139784379809613,1,2,ja,NEN,North-America
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,カナダ豪雨,2026-06-09T06:32:00+00:00,Canada,0.4113978437980961,1,2,ja,NEN,North-America
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-05-17T06:01:00+00:00,,0.4091948456639817,1,3,ja,,
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,嵐エリア 1 – 激しい,2026-05-17T06:01:00+00:00,Paraguay,0.4082716319314902,1,2,ja,SES,South-America
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-06-03T07:22:00+00:00,,0.4080660162028559,1,3,ja,,
@@ -53,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-05-27T06:46:00+00:00,,0.3655187988076844,1,1,ja,,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-05-20T06:32:00+00:00,Japan,0.3615421468645464,2,1,ja,EAS,Asia
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-06-02T07:08:00+00:00,Japan,0.3598173600403918,1,1,ja,EAS,Asia
-'55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-06-17T07:33:00+00:00,,0.358871010574931,0,1,ja,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-05-16T05:40:00+00:00,,0.358120577025559,1,2,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-05-18T06:38:00+00:00,,0.3547168793811931,1,3,ja,,
 'b6cef22543',extremes,Drought,#edc291,random,水分制限,2026-06-08T07:13:00+00:00,,0.3544347520783097,1,2,ja,,
@@ -114,6 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ja,CAU,Oceania
 '2fb9bcabc4',extremes,Drought,#edc291,edo,乾燥エストニア,2026-05-17T06:01:00+00:00,Estonia,0.3053107229079144,0,1,ja,NEU,Europe
 '907a393546',extremes,Precipitation,#d60d2b,wmo,土砂降りのナウジャート,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ja,NEN,North-America
+'55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,ja,,
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,凍るプヴィルニトゥク・イヌクジュアク,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,ja,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,ja,SAM,South-America
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,ja,WCE,Europe
