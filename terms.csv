@@ -12,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12e63c6408',extremes,Earthquake,#870007,usgs,和泊地震,2026-05-20T06:32:00+00:00,Japan,0.4693236909633429,2,1,ja,EAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-05-19T06:33:00+00:00,,0.4588822756444454,2,3,ja,,
 'c89f210509',extremes,Earthquake,#870007,usgs,高山地震,2026-05-21T06:34:00+00:00,Japan,0.4531191627749253,2,1,ja,EAS,Asia
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-06-07T06:48:00+00:00,,0.4520440484323728,1,2,ja,,
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-06-19T07:39:00+00:00,Japan,0.4498797862810725,1,1,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-06-20T06:47:00+00:00,Japan,0.4466390705538783,0,1,ja,EAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.4459095230066954,1,3,ja,,
@@ -56,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f6eb6fce6',extremes,Earthquake,#870007,usgs,浪江地震,2026-05-20T06:32:00+00:00,Japan,0.3615421468645464,2,1,ja,EAS,Asia
 '43540d11be',extremes,Earthquake,#870007,usgs,厚岸地震,2026-06-02T07:08:00+00:00,Japan,0.3598173600403918,1,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-05-16T05:40:00+00:00,,0.358120577025559,1,2,ja,,
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-06-07T06:48:00+00:00,,0.3551694510969091,0,1,ja,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,山火事,2026-05-18T06:38:00+00:00,,0.3547168793811931,1,3,ja,,
 'b6cef22543',extremes,Drought,#edc291,random,水分制限,2026-06-08T07:13:00+00:00,,0.3544347520783097,1,2,ja,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,暴風雨,2026-05-25T06:52:00+00:00,,0.3532477902842081,1,2,ja,,
