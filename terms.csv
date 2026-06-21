@@ -14,12 +14,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c89f210509',extremes,Earthquake,#870007,usgs,高山地震,2026-05-21T06:34:00+00:00,Japan,0.4531191627749253,2,1,ja,EAS,Asia
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-06-07T06:48:00+00:00,,0.4520440484323728,1,2,ja,,
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-06-19T07:39:00+00:00,Japan,0.4498797862810725,1,1,ja,EAS,Asia
-'5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-06-20T06:47:00+00:00,Japan,0.4466390705538783,0,1,ja,EAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-06-10T06:49:00+00:00,,0.4459095230066954,1,3,ja,,
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.4385034876931742,2,1,ja,NPO,Pacific Ocean
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-05-25T06:52:00+00:00,Japan,0.4380897914526165,1,1,ja,EAS,Asia
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-06-01T07:30:00+00:00,,0.4352885186281846,2,3,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-05-25T06:52:00+00:00,,0.4345029714040587,1,2,ja,,
+'5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-06-20T06:47:00+00:00,Japan,0.4341436599707965,1,2,ja,EAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-02T07:08:00+00:00,,0.4311944989305689,1,2,ja,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,インドの夏,2026-06-18T07:16:00+00:00,,0.4304625295776585,1,2,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-06-12T07:05:00+00:00,,0.4299780846096792,1,3,ja,,
@@ -90,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-06-17T07:33:00+00:00,,0.3245770770032173,0,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-06-19T07:39:00+00:00,,0.3207901723975555,0,1,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-05-30T06:01:00+00:00,Canada,0.3206777599018821,1,1,ja,NEN,North-America
-'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-06-20T06:46:00+00:00,,0.3178459129350098,0,1,ja,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3165809493635924,2,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-05-21T06:34:00+00:00,,0.3158571434117156,2,1,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-05-26T06:31:00+00:00,,0.3137904264588921,1,1,ja,,
@@ -142,6 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dc98006fe',extremes,Drought,#edc291,acwe,オーストラリア西部の雨不足,2026-05-27T06:46:00+00:00,Australia,0.2709251977492804,1,1,ja,CAU,Oceania
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧クリスティーナ,2026-06-12T07:05:00+00:00,,0.2709186933115594,1,1,ja,SCA,North-America
 'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-05-21T06:35:00+00:00,Palau,0.2706519962075365,1,1,ja,EPO,Pacific Ocean
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-06-20T06:46:00+00:00,,0.27016902599475834,1,1,ja,,
 'efa91cca03',extremes,Drought,#edc291,acwe,西オーストラリア州の水位低下,2026-05-28T06:38:00+00:00,Australia,0.2695537179654672,1,1,ja,CAU,Oceania
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,寒波西オーストラリア,2026-05-29T06:39:00+00:00,Australia,0.2694731445990412,1,1,ja,CAU,Oceania
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-05-25T06:52:00+00:00,,0.2688337839399533,1,1,ja,,
