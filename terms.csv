@@ -75,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,高潮,2026-06-14T07:06:00+00:00,,0.3447610362690951,0,1,ja,,
 '53f86b721d',extremes,Earthquake,#870007,usgs,足寄地震,2026-05-31T06:40:00+00:00,Japan,0.3418965520373048,2,1,ja,EAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-06-14T07:06:00+00:00,,0.3416330347266327,1,1,ja,,
+'7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-06-21T07:16:00+00:00,,0.33958278087546506,0,1,ja,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-05-31T06:40:00+00:00,,0.3393392705897449,1,1,ja,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,大雨,2026-06-16T08:27:00+00:00,,0.338887922373673,0,1,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-05-20T06:32:00+00:00,,0.3383896172646126,1,1,ja,,
@@ -90,10 +91,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-06-19T07:39:00+00:00,,0.3207901723975555,0,1,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-05-30T06:01:00+00:00,Canada,0.3206777599018821,1,1,ja,NEN,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3165809493635924,2,1,ja,,
+'792ec0a179',extremes,Flood,#030ba1,acwe,ビクトリア州鉄砲水,2026-06-13T06:38:00+00:00,Australia,0.31604646961356203,0,1,ja,SAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-05-21T06:34:00+00:00,,0.3158571434117156,2,1,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-05-26T06:31:00+00:00,,0.3137904264588921,1,1,ja,,
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-02T07:08:00+00:00,Australia,0.3132373407304696,0,1,ja,SAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-06-17T07:34:00+00:00,Australia,0.31314412998961993,0,1,ja,EAU,Oceania
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-06-13T06:38:00+00:00,Palau,0.3126899450852965,0,1,ja,EPO,Pacific Ocean
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,土砂降りモルドバ共和国,2026-06-06T06:08:00+00:00,Republic of Moldova,0.3080736695386127,0,1,ja,WCE,Europe
@@ -155,7 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,南オーストラリア州の熱波,2026-06-04T07:06:00+00:00,Australia,0.2635491782052749,1,1,ja,SAU,Oceania
 '6eff66ea81',extremes,Drought,#edc291,edo,ブルネイの乾燥,2026-06-02T07:08:00+00:00,Brunei,0.2635079085288981,1,1,ja,SEA,Asia
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,南オーストラリア州の火災禁止令,2026-06-14T07:07:00+00:00,Australia,0.2634392399814636,1,1,ja,SAU,Oceania
-'2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.26313601551745164,1,1,ja,WCE,Europe
+'2180c0c4a1',extremes,Drought,#edc291,edo,ポーランドの雨不足,2026-06-02T07:08:00+00:00,Poland,0.2631360155174516,1,1,ja,WCE,Europe
 '495243907b',extremes,Precipitation,#d60d2b,wmo,不可抗力の降水量。,2026-06-08T07:13:00+00:00,Mali,0.2628037104148463,1,1,ja,SAH,Africa
 '244b4adc07',extremes,Landslide,#572c03,aidr,オーストラリアの地滑り,2026-06-10T06:49:00+00:00,Australia,0.262341155696275,1,1,ja,EAU,Oceania
 '9f05eaaf90',extremes,Drought,#edc291,edo,アイスランドの乾季,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,ja,GIC,Europe
