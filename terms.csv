@@ -40,11 +40,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,嵐エリア 1 – 激しい,2026-05-17T06:01:00+00:00,Paraguay,0.4082716319314902,1,2,ja,SES,South-America
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-06-03T07:22:00+00:00,,0.4080660162028559,1,3,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-06-12T07:05:00+00:00,,0.4079093157711876,2,1,ja,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-06-07T06:48:00+00:00,,0.40653835686618167,1,3,ja,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-05-18T06:38:00+00:00,,0.4036521572587948,1,2,ja,,
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-05-22T06:31:00+00:00,,0.4031413848279883,1,2,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-05-07T05:46:00+00:00,,0.3979402102177177,1,3,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-06-07T06:48:00+00:00,,0.3898222134487048,0,1,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-06-21T07:16:00+00:00,,0.3887853068820866,0,1,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
@@ -94,7 +94,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-15T08:36:00+00:00,,0.314784042907004,0,1,ja,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-06-07T06:49:00+00:00,Australia,0.3139927058238935,0,1,ja,SAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-05-26T06:31:00+00:00,,0.3137904264588921,1,1,ja,,
-'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-06-13T06:38:00+00:00,Australia,0.3136863097585858,0,1,ja,EAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-02T07:08:00+00:00,Australia,0.3132373407304696,0,1,ja,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,ja,EAU,Oceania
@@ -102,7 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,熱波ビクトリア,2026-06-20T06:47:00+00:00,Australia,0.3121695567954438,0,1,ja,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,ja,SAM,South-America
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.30850348122194954,0,1,ja,NZ,Oceania
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.3085034812219495,0,1,ja,NZ,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-06-18T07:16:00+00:00,Brazil,0.3084645821833535,0,1,ja,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,ja,SES,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,雪のアルゼンチン,2026-06-16T08:27:00+00:00,Argentina,0.308129188330325,0,1,ja,SES,South-America
@@ -158,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,大雨のニューサウスウェールズ州,2026-06-14T07:07:00+00:00,Australia,0.2682471744168505,1,1,ja,EAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,ニューサウスウェールズ州の洪水,2026-06-13T06:38:00+00:00,Australia,0.2675949338982001,1,1,ja,EAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,穏やかな冬の南オーストラリア州,2026-06-19T07:39:00+00:00,Australia,0.2670255796907015,1,1,ja,CAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-06-13T06:38:00+00:00,Australia,0.2666333632947979,1,1,ja,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,南オーストラリア州の洪水,2026-06-04T07:06:00+00:00,Australia,0.2665703782992989,1,1,ja,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,洪水 ホバート 鉄砲水 タスマニア 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,ja,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,ja,SAU,Oceania
