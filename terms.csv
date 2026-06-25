@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-06T06:08:00+00:00,Japan,0.6816167328330791,1,3,ja,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-06T06:08:00+00:00,Japan,0.6252346038172082,2,3,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-06-14T07:07:00+00:00,Japan,0.5196268965952231,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-06-18T07:16:00+00:00,Japan,0.5055415505845999,1,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.4911134669441627,1,1,ja,EAS,Asia
@@ -98,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-02T07:08:00+00:00,Australia,0.3132373407304696,0,1,ja,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,ja,EAU,Oceania
-'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-06-13T06:38:00+00:00,Palau,0.3126899450852965,0,1,ja,EPO,Pacific Ocean
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,氷山 d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,ja,EAN,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,熱波ビクトリア,2026-06-20T06:47:00+00:00,Australia,0.3121695567954438,0,1,ja,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
@@ -152,6 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,オーストラリアの豪雨,2026-06-07T06:49:00+00:00,Australia,0.2668937999503095,1,1,ja,SAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-06-13T06:38:00+00:00,Australia,0.2666333632947979,1,1,ja,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,南オーストラリア州の洪水,2026-06-04T07:06:00+00:00,Australia,0.2665703782992989,1,1,ja,SAU,Oceania
+'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-06-13T06:38:00+00:00,Palau,0.26578645332250206,1,1,ja,EPO,Pacific Ocean
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,洪水 ホバート 鉄砲水 タスマニア 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,ja,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,ja,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,マダガスカルの干ばつ,2026-06-02T07:08:00+00:00,Madagascar,0.264386302921997,1,1,ja,MDG,Africa
