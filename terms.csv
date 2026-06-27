@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-06T06:08:00+00:00,Japan,0.6252346038172082,2,3,ja,EAS,Asia
-'724bb99181',extremes,Earthquake,#870007,usgs,忍野地震,2026-06-27T06:08:00+00:00,Japan,0.5436658728166263,0,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-06-14T07:07:00+00:00,Japan,0.5196268965952231,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-06-18T07:16:00+00:00,Japan,0.5055415505845999,1,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.4911134669441627,1,1,ja,EAS,Asia
@@ -10,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-06-15T08:36:00+00:00,Japan,0.4753828896994527,1,3,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-06-11T07:14:00+00:00,,0.4731834895384755,2,3,ja,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-06-12T07:05:00+00:00,,0.4655910595158851,1,3,ja,,
+'724bb99181',extremes,Earthquake,#870007,usgs,忍野地震,2026-06-27T06:08:00+00:00,Japan,0.4634661268941323,1,1,ja,EAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-05-19T06:33:00+00:00,,0.4588822756444454,2,3,ja,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-06-24T06:29:00+00:00,,0.4526220555132854,1,3,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-06-12T07:05:00+00:00,,0.452250213736409,2,3,ja,,
@@ -42,7 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
 '502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.3959727547779754,2,1,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-06T06:08:00+00:00,,0.3928530510817876,1,1,ja,,
-'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-06-10T06:49:00+00:00,,0.38987911622110616,0,1,ja,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-06-10T06:49:00+00:00,,0.3898791162211061,0,1,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
