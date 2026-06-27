@@ -116,12 +116,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e0946a5f2',extremes,Drought,#edc291,edo,エストニアの雨不足,2026-06-02T07:08:00+00:00,Estonia,0.3076869256386224,0,1,ja,NEU,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,日照り続きの赤道ギニア,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3076821148428057,0,1,ja,WAF,Africa
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,雨 コロマンデル半島,2026-06-24T06:30:00+00:00,New Zealand,0.3075694034154729,0,1,ja,NZ,Oceania
+'7467da3199',extremes,Drought,#edc291,edo,干ばつガボン,2026-06-25T06:32:00+00:00,Gabon,0.30745566223703086,0,1,ja,CAF,Africa
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,雨 アルジェリア,2026-06-10T06:49:00+00:00,Algeria,0.3070985292974553,0,1,ja,SAH,Africa
+'d68189cbca',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルジェリア,2026-06-26T06:36:00+00:00,Algeria,0.3069608014620272,0,1,ja,SAH,Africa
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,ノルウェーの雪崩,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,ja,NEU,Europe
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,南アフリカの降水量,2026-06-02T07:08:00+00:00,South Africa,0.3067490541237992,0,1,ja,WSAF,Africa
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,ja,SES,South-America
+'aacf82e274',extremes,Drought,#edc291,edo,フェロー諸島の乾季,2026-06-17T07:34:00+00:00,Faroe Islands,0.30644543415204517,0,1,ja,NEU,Europe
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,ja,SCA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-06-17T07:33:00+00:00,Argentina,0.3062642939838795,0,1,ja,SES,South-America
+'26dc110943',extremes,Drought,#edc291,edo,雨不足 ニカラグア,2026-06-12T07:05:00+00:00,Nicaragua,0.30618326569665544,0,1,ja,SCA,North-America
 'fe07b8547c',extremes,Drought,#edc291,edo,チェコの干ばつ,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,ja,WCE,Europe
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,ja,WAF,Africa
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3057733344948875,0,1,ja,SES,South-America
