@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-06T06:08:00+00:00,Japan,0.6252346038172082,2,3,ja,EAS,Asia
+'724bb99181',extremes,Earthquake,#870007,usgs,忍野地震,2026-06-27T06:08:00+00:00,Japan,0.5436658728166263,0,1,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-06-14T07:07:00+00:00,Japan,0.5196268965952231,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-06-18T07:16:00+00:00,Japan,0.5055415505845999,1,2,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-02T07:08:00+00:00,Japan,0.4911134669441627,1,1,ja,EAS,Asia
@@ -41,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
 '502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.3959727547779754,2,1,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-06T06:08:00+00:00,,0.3928530510817876,1,1,ja,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-06-10T06:49:00+00:00,,0.38987911622110616,0,1,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
@@ -102,10 +104,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ハイゴス,2026-06-24T06:29:00+00:00,,0.3103684974252076,0,1,ja,NPO,Pacific Ocean
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,ja,SAM,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,ja,SAM,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,ニュージーランドの降水量,2026-06-19T07:39:00+00:00,New Zealand,0.3084934625323377,0,1,ja,NZ,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-06-18T07:16:00+00:00,Brazil,0.3084645821833535,0,1,ja,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-06-12T07:05:00+00:00,Brazil,0.3083576797969789,0,1,ja,SAM,South-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3083570713036944,0,1,ja,ARP,Asia
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-06-16T08:27:00+00:00,Brazil,0.3082874121609948,0,1,ja,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,ja,SES,South-America
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,土砂降りのオークランドとグレートバリア島,2026-06-23T06:33:00+00:00,New Zealand,0.3082204536312269,0,1,ja,NZ,Oceania
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
@@ -118,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7467da3199',extremes,Drought,#edc291,edo,干ばつガボン,2026-06-25T06:32:00+00:00,Gabon,0.3074556622370308,0,1,ja,CAF,Africa
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,雨 アルジェリア,2026-06-10T06:49:00+00:00,Algeria,0.3070985292974553,0,1,ja,SAH,Africa
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルジェリア,2026-06-26T06:36:00+00:00,Algeria,0.3069608014620272,0,1,ja,SAH,Africa
+'869ff000f5',extremes,Precipitation,#d60d2b,wmo,ベリーズ雨,2026-06-11T07:14:00+00:00,Belize,0.3067475713312187,0,1,ja,SCA,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,ja,SES,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,フェロー諸島の乾季,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,ja,NEU,Europe
