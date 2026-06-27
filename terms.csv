@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-06-06T06:08:00+00:00,Japan,0.4260979864765023,1,1,ja,EAS,Asia
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-05-17T06:01:00+00:00,,0.4248840251528158,1,2,ja,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-06-18T07:16:00+00:00,,0.4226085421794474,1,3,ja,,
-'502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.4203207467976181,1,1,ja,EAS,Asia
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-06-08T07:13:00+00:00,Japan,0.4159992403000448,1,2,ja,EAS,Asia
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-05-30T06:01:00+00:00,,0.4139274449417253,1,2,ja,,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-05-18T06:38:00+00:00,,0.4036521572587948,1,2,ja,,
 '40f675561f',extremes,Heat Wave,#c40202,random,最も暑い夏,2026-05-22T06:31:00+00:00,,0.4031413848279883,1,2,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-05-29T06:38:00+00:00,Japan,0.3964548063050301,2,1,ja,NPO,Pacific Ocean
+'502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.3959727547779754,2,1,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-06T06:08:00+00:00,,0.3928530510817876,1,1,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
@@ -47,7 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-05-28T06:38:00+00:00,Japan,0.3762577323396875,1,1,ja,EAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-06-14T07:06:00+00:00,,0.3755166364193694,1,3,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-06-16T08:27:00+00:00,,0.3740967407544914,1,1,ja,,
-'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.37347803953919806,3,1,ja,NPO,Pacific Ocean
+'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-06-08T07:13:00+00:00,Japan,0.373478039539198,3,1,ja,NPO,Pacific Ocean
 'f37139fe2d',extremes,Landslide,#572c03,random,土砂崩れ,2026-05-30T06:01:00+00:00,,0.3734440979343696,1,2,ja,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-05-23T05:52:00+00:00,,0.3727778036549199,1,2,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-05-30T06:01:00+00:00,Japan,0.370868721793728,1,1,ja,EAS,Asia
