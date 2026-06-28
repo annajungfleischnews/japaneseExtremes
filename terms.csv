@@ -129,9 +129,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,ja,SCA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-06-17T07:33:00+00:00,Argentina,0.3062642939838795,0,1,ja,SES,South-America
 '26dc110943',extremes,Drought,#edc291,edo,雨不足 ニカラグア,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,ja,SCA,North-America
+'dba9977fc1',extremes,Drought,#edc291,edo,雨不足 フェロー諸島,2026-06-18T07:16:00+00:00,Faroe Islands,0.3060934984252197,0,1,ja,NEU,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-06-20T06:47:00+00:00,Madagascar,0.30609296949601666,0,1,ja,MDG,Africa
 'fe07b8547c',extremes,Drought,#edc291,edo,チェコの干ばつ,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,ja,WCE,Europe
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,ja,WAF,Africa
+'98db96b6de',extremes,Drought,#edc291,edo,干ばつリトアニア,2026-06-07T06:48:00+00:00,Lithuania,0.30586467840212317,0,1,ja,WCE,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3057733344948875,0,1,ja,SES,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,ja,SAM,South-America
+'766190540a',extremes,Storm,#b3b2b1,wmo,高潮タンザニア,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,ja,SEAF,Africa
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,フロストブラジル,2026-06-15T08:36:00+00:00,Brazil,0.305618915962383,0,1,ja,SAM,South-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ja,CAU,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,土砂降りのナウジャート,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ja,NEN,North-America
