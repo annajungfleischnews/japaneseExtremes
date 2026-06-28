@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-06-11T07:14:00+00:00,,0.4731834895384755,2,3,ja,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-06-12T07:05:00+00:00,,0.4655910595158851,1,3,ja,,
 '724bb99181',extremes,Earthquake,#870007,usgs,忍野地震,2026-06-27T06:08:00+00:00,Japan,0.4634661268941323,1,1,ja,EAS,Asia
+'20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-06-17T07:33:00+00:00,,0.46247315937432765,2,3,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-05-19T06:33:00+00:00,,0.4588822756444454,2,3,ja,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-06-24T06:29:00+00:00,,0.4526220555132854,1,3,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-06-12T07:05:00+00:00,,0.452250213736409,2,3,ja,,
@@ -30,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-05-17T06:01:00+00:00,,0.4248840251528158,1,2,ja,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,つむじ風,2026-06-18T07:16:00+00:00,,0.4226085421794474,1,3,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-06-08T07:13:00+00:00,Japan,0.4159992403000448,1,2,ja,EAS,Asia
-'20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-06-17T07:33:00+00:00,,0.4152655056810272,1,3,ja,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,南極の海氷,2026-05-30T06:01:00+00:00,,0.4139274449417253,1,2,ja,,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-05-17T06:01:00+00:00,,0.4091948456639817,1,3,ja,,
