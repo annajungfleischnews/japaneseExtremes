@@ -140,6 +140,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3054326087116799,0,1,ja,ARP,Asia
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,高潮マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.3054120431594204,0,1,ja,MDG,Africa
 'ce4931e51e',extremes,Flood,#030ba1,wmo,鉄砲水、南オーストラリア州クーパークリーク,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ja,CAU,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,高潮ニュージーランド,2026-06-08T07:13:00+00:00,New Zealand,0.3052788071932884,0,1,ja,NZ,Oceania
+'3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-06-08T07:13:00+00:00,Ecuador,0.3052257135729676,0,1,ja,NWS,South-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-06-17T07:33:00+00:00,Chile,0.30522030724704813,0,1,ja,SWS,South-America
+'5ce57f419d',extremes,Earthquake,#870007,usgs,ベネズエラ地震,2026-06-20T06:46:00+00:00,Venezuela,0.30521720047350964,0,1,ja,NSA,South-America
+'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,雪のニュージーランド,2026-06-23T06:33:00+00:00,New Zealand,0.3051839076413183,0,1,ja,NZ,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,土砂降りのナウジャート,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ja,NEN,North-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,ja,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,ja,SAM,South-America
