@@ -91,14 +91,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-04T07:06:00+00:00,,0.3165809493635924,2,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-15T08:36:00+00:00,,0.314784042907004,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-06-08T07:13:00+00:00,Palau,0.3144019620341143,1,1,ja,EPO,Pacific Ocean
-'0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,氷山 d33d,2026-06-30T06:39:00+00:00,,0.31346038271247,0,1,ja,SOO,Antarctica
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-02T07:08:00+00:00,Australia,0.3132373407304696,0,1,ja,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,マダガスカルの雨不足,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,ja,MDG,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-06-25T06:32:00+00:00,Brazil,0.30897020617384235,0,1,ja,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-06-25T06:32:00+00:00,Brazil,0.3089702061738423,0,1,ja,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-06-18T07:16:00+00:00,Brazil,0.3084645821833535,0,1,ja,SAM,South-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-06-12T07:05:00+00:00,Brazil,0.3083576797969789,0,1,ja,SAM,South-America
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3083570713036944,0,1,ja,ARP,Asia
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-06-16T08:27:00+00:00,Brazil,0.3082874121609948,0,1,ja,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,ja,SES,South-America
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,土砂降りのオークランドとグレートバリア島,2026-06-23T06:33:00+00:00,New Zealand,0.3082204536312269,0,1,ja,NZ,Oceania
@@ -115,7 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,山火事ハンティ・マンシ自治区,2026-06-17T07:33:00+00:00,Russia,0.3067780905307507,0,1,ja,ESB,Europe
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,ベリーズ雨,2026-06-11T07:14:00+00:00,Belize,0.3067475713312187,0,1,ja,SCA,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
-'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.30655894556910146,0,1,ja,ESB,Europe
+'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.3065589455691014,0,1,ja,ESB,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,ja,SES,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,フェロー諸島の乾季,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,ja,NEU,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,赤道ギニアの干ばつ,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.3064361382689746,0,1,ja,WAF,Africa
@@ -153,6 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-05-27T06:46:00+00:00,,0.2922061474147898,1,1,ja,,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,南アフリカの降水量,2026-06-02T07:08:00+00:00,South Africa,0.2914867710052293,1,1,ja,WSAF,Africa
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-05-28T06:38:00+00:00,,0.289721334286223,1,1,ja,,
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.28800360060814023,1,1,ja,ARP,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-02T07:08:00+00:00,,0.2835661907453379,1,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,ja,,
 '1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧アマンダ,2026-06-04T07:06:00+00:00,,0.2712167858832294,1,1,ja,NPO,Pacific Ocean
@@ -178,6 +176,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,オーストラリアの鉄砲水,2026-06-17T07:34:00+00:00,Australia,0.2667725704911769,1,1,ja,EAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,オーストラリアの多雨洪水,2026-06-13T06:38:00+00:00,Australia,0.2666333632947979,1,1,ja,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,南オーストラリア州の洪水,2026-06-04T07:06:00+00:00,Australia,0.2665703782992989,1,1,ja,SAU,Oceania
+'0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,氷山 d33d,2026-06-30T06:39:00+00:00,,0.2664413253055995,1,1,ja,SOO,Antarctica
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-06-13T06:38:00+00:00,Palau,0.265786453322502,1,1,ja,EPO,Pacific Ocean
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,氷山 d33b,2026-06-24T06:29:00+00:00,,0.2655723271360019,1,1,ja,EAN,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,熱波ビクトリア,2026-06-20T06:47:00+00:00,Australia,0.2653441232761272,1,1,ja,SAU,Oceania
@@ -195,6 +194,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-06-15T08:36:00+00:00,Brazil,0.2627874452928851,1,1,ja,SAM,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,ニュージーランドの降水量,2026-06-19T07:39:00+00:00,New Zealand,0.2623694581524871,1,1,ja,NZ,Oceania
 '244b4adc07',extremes,Landslide,#572c03,aidr,オーストラリアの地滑り,2026-06-10T06:49:00+00:00,Australia,0.262341155696275,1,1,ja,EAU,Oceania
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-06-12T07:05:00+00:00,Brazil,0.2621040278274321,1,1,ja,SAM,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,雪のアルゼンチン,2026-06-16T08:27:00+00:00,Argentina,0.2619098100807762,1,1,ja,SES,South-America
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,土砂降りのコロマンデル半島,2026-06-23T06:33:00+00:00,New Zealand,0.2618665339280634,1,1,ja,NZ,Oceania
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,土砂降りモルドバ共和国,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2618626191078207,1,1,ja,WCE,Europe
