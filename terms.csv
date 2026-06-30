@@ -146,8 +146,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,ja,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,ベネズエラ地震,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,ja,NSA,South-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,雪のニュージーランド,2026-06-23T06:33:00+00:00,New Zealand,0.3051839076413183,0,1,ja,NZ,Oceania
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,嵐のセーシェル,2026-06-15T08:36:00+00:00,Seychelles,0.30513126311067384,0,1,ja,EIO,Africa
 '907a393546',extremes,Precipitation,#d60d2b,wmo,土砂降りのナウジャート,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,ja,NEN,North-America
+'39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,南極の山火事,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,ja,EAN,
+'78598a21cd',extremes,Precipitation,#d60d2b,wmo,集中豪雨 ミンガニー アンティコスティ,2026-06-16T08:27:00+00:00,Canada,0.3050633541862934,0,1,ja,NEN,North-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,ja,,
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-06-27T06:08:00+00:00,Brazil,0.3049899618317146,0,1,ja,SAM,South-America
+'aff561d50a',extremes,Storm,#b3b2b1,wmo,ニュージーランドの嵐,2026-06-19T07:39:00+00:00,New Zealand,0.3049271012157992,0,1,ja,NZ,Oceania
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,ja,WCE,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-05-31T06:40:00+00:00,,0.3041590989548142,0,1,ja,,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,高潮パラグアイ,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,ja,SES,South-America
