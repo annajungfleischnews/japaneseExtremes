@@ -48,7 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.3959727547779754,2,1,ja,EAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-06T06:08:00+00:00,,0.3928530510817876,1,1,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-27T06:08:00+00:00,,0.38449796517116197,1,1,ja,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-27T06:08:00+00:00,,0.3844979651711619,1,1,ja,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-05-26T06:31:00+00:00,,0.3810499267948031,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
 'c21ddd8575',extremes,Earthquake,#870007,usgs,広尾地震,2026-05-28T06:38:00+00:00,Japan,0.3762577323396875,1,1,ja,EAS,Asia
@@ -147,6 +147,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,ニュージーランドの嵐,2026-06-19T07:39:00+00:00,New Zealand,0.3049271012157992,0,1,ja,NZ,Oceania
 '23ce7b59e3',extremes,Storm,#b3b2b1,wmo,マランパシェファとタフェア州の嵐,2026-06-14T07:07:00+00:00,Vanuatu,0.3048967886244316,0,1,ja,SPO,Oceania
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3048668137139658,0,1,ja,ARP,Asia
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,高潮カナダ,2026-06-20T06:47:00+00:00,Canada,0.3047558743699528,0,1,ja,NEN,North-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,高潮アルゼンチン,2026-06-26T06:36:00+00:00,Argentina,0.3047410480221534,0,1,ja,SES,South-America
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,高潮バーレーン,2026-06-16T08:27:00+00:00,Bahrain,0.30465472357119266,0,1,ja,ARP,Asia
+'6fd99eeafe',extremes,Storm,#b3b2b1,wmo,クラレンス北のマールボロの嵐,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,ja,NZ,Oceania
+'9044bc0335',extremes,Earthquake,#870007,usgs,地震ジョージタウン,2026-06-24T06:29:00+00:00,Saint Helena,0.30455038600954254,0,1,ja,EAO,Atlantic Ocean
+'8b27d7924c',extremes,Precipitation,#d60d2b,wmo,豪雨ベシャール,2026-06-14T07:07:00+00:00,Algeria,0.30454671182160115,0,1,ja,SAH,Africa
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-05-31T06:40:00+00:00,,0.3041590989548142,0,1,ja,,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,高潮パラグアイ,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,ja,SES,South-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,南アフリカの降水量,2026-06-02T07:08:00+00:00,South Africa,0.2914867710052293,1,1,ja,WSAF,Africa
