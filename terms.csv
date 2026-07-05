@@ -46,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-06-12T07:05:00+00:00,,0.4079093157711876,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-06-15T08:36:00+00:00,,0.4068920737041809,1,2,ja,,
 '5a2181c48a',extremes,Earthquake,#870007,usgs,魚沼地震,2026-07-03T06:09:00+00:00,Japan,0.4022070232889931,1,1,ja,EAS,Asia
+'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-07-03T06:09:00+00:00,,0.4020522457927519,1,2,ja,,
 '6bcb958432',extremes,Earthquake,#870007,usgs,熊野地震,2026-07-04T05:59:00+00:00,Japan,0.3976638161340304,1,1,ja,EAS,Asia
 '502c371a26',extremes,Earthquake,#870007,usgs,入善地震,2026-06-20T06:46:00+00:00,Japan,0.3959727547779754,2,1,ja,EAS,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-06-07T06:48:00+00:00,,0.3929079633362543,2,3,ja,,
@@ -74,7 +75,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-06-14T07:06:00+00:00,,0.3524378493345158,1,1,ja,,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-05-25T06:53:00+00:00,Canada,0.3521522389816516,1,3,ja,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,カナダ豪雨,2026-06-09T06:32:00+00:00,Canada,0.3499881972283816,2,2,ja,NEN,North-America
-'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-07-03T06:09:00+00:00,,0.3489063315828041,0,1,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-06-09T06:32:00+00:00,,0.3480538179038604,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-06-08T07:13:00+00:00,,0.3470542292868141,1,2,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-07-04T05:59:00+00:00,,0.3416037647905608,0,1,ja,,
