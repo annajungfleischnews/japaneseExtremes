@@ -105,20 +105,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-06-25T06:32:00+00:00,Brazil,0.3089702061738423,0,1,ja,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-06-16T08:27:00+00:00,Brazil,0.3082874121609948,0,1,ja,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,ja,SES,South-America
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-07-04T05:59:00+00:00,Tanzania,0.30810203261058117,0,1,ja,SEAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,ja,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,雨 エクアドル,2026-06-09T06:32:00+00:00,Ecuador,0.3080028031954469,0,1,ja,NWS,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,ja,,
+'69420e8eee',extremes,Precipitation,#d60d2b,wmo,インド間部とアマゾンの降水地域,2026-07-04T05:59:00+00:00,Ecuador,0.30782319277534126,0,1,ja,NWS,South-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,カナダの雨,2026-06-07T06:48:00+00:00,Canada,0.3077590339332838,0,1,ja,NEN,North-America
 '8e0946a5f2',extremes,Drought,#edc291,edo,エストニアの雨不足,2026-06-02T07:08:00+00:00,Estonia,0.3076869256386224,0,1,ja,NEU,Europe
 '7467da3199',extremes,Drought,#edc291,edo,干ばつガボン,2026-06-25T06:32:00+00:00,Gabon,0.3074556622370308,0,1,ja,CAF,Africa
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,山火事ハンティ・マンシ自治区,2026-06-17T07:33:00+00:00,Russia,0.3067780905307507,0,1,ja,ESB,Europe
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,ベリーズ雨,2026-06-11T07:14:00+00:00,Belize,0.3067475713312187,0,1,ja,SCA,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ニュージーランドのフロスト,2026-06-24T06:30:00+00:00,New Zealand,0.3065608205759063,0,1,ja,NZ,Oceania
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.3065589455691014,0,1,ja,ESB,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,ja,SES,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,フェロー諸島の乾季,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,ja,NEU,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,ja,SCA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-06-17T07:33:00+00:00,Argentina,0.3062642939838795,0,1,ja,SES,South-America
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-06-28T06:44:00+00:00,Canada,0.3061975601080837,0,1,ja,NEN,North-America
 '26dc110943',extremes,Drought,#edc291,edo,雨不足 ニカラグア,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,ja,SCA,North-America
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,雨 タイ,2026-06-14T07:07:00+00:00,Thailand,0.3061461688580828,0,1,ja,SEA,Asia
 '92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-06-20T06:47:00+00:00,Madagascar,0.3060929694960166,0,1,ja,MDG,Africa
@@ -126,6 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,ja,WAF,Africa
 '98db96b6de',extremes,Drought,#edc291,edo,干ばつリトアニア,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,ja,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3058235883279693,0,1,ja,ARP,Asia
+'1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-07-04T05:59:00+00:00,Costa Rica,0.3057925297712405,0,1,ja,SCA,North-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,ja,SAM,South-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,高潮タンザニア,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,ja,SEAF,Africa
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,ja,SEAF,Africa
