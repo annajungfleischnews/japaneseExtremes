@@ -80,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-06-08T07:13:00+00:00,,0.3470542292868141,1,2,ja,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-03T07:22:00+00:00,,0.3365792896174682,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,ja,,
+'7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.33512053045810936,1,2,ja,ESB,Europe
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-06-06T06:08:00+00:00,,0.3346930939894067,1,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-06-13T06:38:00+00:00,,0.3338847923461897,1,1,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-06-12T07:05:00+00:00,,0.3332680310220323,1,1,ja,,
@@ -110,7 +111,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,ja,WAF,Africa
 '98db96b6de',extremes,Drought,#edc291,edo,干ばつリトアニア,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,ja,WCE,Europe
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,ja,SAM,South-America
-'7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.3056711770095404,0,1,ja,ESB,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,高潮タンザニア,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,ja,SEAF,Africa
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,ja,SEAF,Africa
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3054326087116799,0,1,ja,ARP,Asia
