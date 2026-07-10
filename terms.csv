@@ -156,6 +156,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,高潮ジャマイカ,2026-07-02T06:24:00+00:00,Jamaica,0.3040747395767833,0,1,ja,CAR,North-America
 '06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.3040549250429445,0,1,ja,MDG,Africa
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,沿岸地域と内陸部の暴風雨地域,2026-06-25T06:32:00+00:00,Ecuador,0.3039199947563193,0,1,ja,NWS,South-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-06-22T08:39:00+00:00,Canada,0.3038737122035057,0,1,ja,NEN,North-America
+'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,バシコルトスタン山火事共和国,2026-06-24T06:30:00+00:00,Russia,0.303872940095876,0,1,ja,ESB,Europe
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,凍結するクラウン山脈の道路,2026-06-24T06:30:00+00:00,New Zealand,0.30385291777320317,0,1,ja,NZ,Oceania
+'9778ee6716',extremes,Earthquake,#870007,usgs,地震ゆまれ,2026-06-25T06:32:00+00:00,Venezuela,0.30374383221592455,0,1,ja,NSA,South-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,ja,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-07-02T06:23:00+00:00,,0.2728158801137981,1,1,ja,,
