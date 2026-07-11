@@ -103,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-06-14T07:06:00+00:00,,0.3126383045176378,2,1,ja,,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,カナダの雨,2026-06-07T06:48:00+00:00,Canada,0.3120452238432912,1,1,ja,NEN,North-America
-'538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-06-29T07:12:00+00:00,,0.3083653096399728,0,1,ja,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-06-18T07:16:00+00:00,Argentina,0.3081579938422434,0,1,ja,SES,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,ja,,
 'c6a5702096',extremes,Precipitation,#d60d2b,wmo,土砂降り jal,2026-07-10T06:27:00+00:00,Mexico,0.307245707975498,0,1,ja,NCA,North-America
@@ -196,6 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977541e84',extremes,Drought,#edc291,edo,マダガスカルの干ばつ,2026-06-25T06:32:00+00:00,Madagascar,0.2627304139152366,1,1,ja,MDG,Africa
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-06-25T06:32:00+00:00,Brazil,0.2626246752477659,1,1,ja,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-06-16T08:27:00+00:00,Brazil,0.2624943453368455,1,1,ja,SAM,South-America
+'538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-06-29T07:12:00+00:00,,0.26241054319397683,1,1,ja,,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,ニュージーランドの降水量,2026-06-19T07:39:00+00:00,New Zealand,0.2623694581524871,1,1,ja,NZ,Oceania
 '244b4adc07',extremes,Landslide,#572c03,aidr,オーストラリアの地滑り,2026-06-10T06:49:00+00:00,Australia,0.262341155696275,1,1,ja,EAU,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-06-18T07:16:00+00:00,Brazil,0.2621948948558504,1,1,ja,SAM,South-America
