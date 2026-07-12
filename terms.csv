@@ -68,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-27T06:08:00+00:00,,0.3844979651711619,1,1,ja,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-25T06:32:00+00:00,,0.3824676893239969,1,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-06-19T07:39:00+00:00,,0.3821684960833766,1,3,ja,,
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.37929683439586687,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-06-14T07:07:00+00:00,Palau,0.3743918787260466,1,1,ja,EPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-06-16T08:27:00+00:00,,0.3740967407544914,1,1,ja,,
@@ -78,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-07-05T06:24:00+00:00,Japan,0.3613247511125504,2,1,ja,EAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-06-10T06:49:00+00:00,,0.3604180920232343,1,1,ja,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-06-04T07:06:00+00:00,,0.3590883552202403,1,3,ja,,
-'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,ja,,
 'b6cef22543',extremes,Drought,#edc291,random,水分制限,2026-06-08T07:13:00+00:00,,0.3544347520783097,1,2,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-06-24T06:29:00+00:00,,0.3532573130048724,1,2,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-06-14T07:06:00+00:00,,0.3524378493345158,1,1,ja,,
