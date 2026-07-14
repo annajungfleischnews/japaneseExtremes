@@ -96,7 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-07-10T06:27:00+00:00,,0.3318123543799274,1,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-06-29T07:12:00+00:00,,0.3317991563678151,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-06-28T06:44:00+00:00,,0.3310937539550598,1,1,ja,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-26T06:35:00+00:00,,0.33018713458894144,1,1,ja,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-06-26T06:35:00+00:00,,0.3301871345889414,1,1,ja,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,暴風雨,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-06-14T07:06:00+00:00,,0.3191900259564639,2,2,ja,,
@@ -104,6 +104,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-06-14T07:06:00+00:00,,0.3126383045176378,2,1,ja,,
 '38e672b274',extremes,Drought,#edc291,edo,ガボンの乾燥,2026-07-12T05:43:00+00:00,Gabon,0.3117256554205408,0,1,ja,CAF,Africa
+'dafed8e9de',extremes,Drought,#edc291,edo,ブルネイの雨不足,2026-07-08T05:37:00+00:00,Brunei,0.31134422719384086,0,1,ja,SEA,Asia
+'e7f7b79e1f',extremes,Drought,#edc291,edo,ボスニア・ヘルツェゴビナの干ばつ,2026-06-26T06:36:00+00:00,Bosnia and Herzegovina,0.31095486425523666,0,1,ja,MED,Europe
+'393400b105',extremes,Drought,#edc291,edo,プエルトリコの乾燥,2026-07-13T05:53:00+00:00,Puerto Rico,0.3108956021385095,0,1,ja,CAR,North-America
+'a47d8d0227',extremes,Drought,#edc291,edo,日照りスロバキア,2026-06-28T06:44:00+00:00,Slovakia,0.310756259651855,0,1,ja,WCE,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,ja,,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.3071353604453298,0,1,ja,NEN,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
