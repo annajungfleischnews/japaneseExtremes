@@ -120,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,ja,SEAF,Africa
 '5ce57f419d',extremes,Earthquake,#870007,usgs,ベネズエラ地震,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,ja,NSA,South-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,嵐のセーシェル,2026-06-15T08:36:00+00:00,Seychelles,0.3051312631106738,0,1,ja,EIO,Africa
-'39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,南極の山火事,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,ja,EAN,
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,高潮規制。 15 山脈,2026-07-02T06:24:00+00:00,Chile,0.3050946804952246,0,1,ja,SWS,South-America
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,マダガスカルの嵐,2026-06-21T07:16:00+00:00,Madagascar,0.3050932744794241,0,1,ja,MDG,Africa
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,土砂降りのタイ,2026-06-21T07:16:00+00:00,Thailand,0.3050777128219519,0,1,ja,SEA,Asia
@@ -161,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-06-27T06:08:00+00:00,,0.2842976949665814,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-07-10T06:27:00+00:00,,0.2789920996825707,1,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,ja,,
+'39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,南極の山火事,2026-06-24T06:30:00+00:00,Antarctica,0.27283504999777625,1,1,ja,EAN,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-07-02T06:23:00+00:00,,0.2728158801137981,1,1,ja,,
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ボリス,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,ja,SCA,North-America
 '5251a639fe',extremes,Wildfire,#d60d2b,eonet,コプシェスト山火事 アラスカ北西部北極,2026-06-12T07:05:00+00:00,,0.2711080965192835,1,1,ja,,
