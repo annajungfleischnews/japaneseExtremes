@@ -110,7 +110,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '815e4bf638',extremes,Drought,#edc291,edo,ハンガリーの雨不足,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,ja,WCE,Europe
 'b1eb375b87',extremes,Drought,#edc291,edo,ウガンダの雨不足,2026-07-05T06:25:00+00:00,Uganda,0.3103018735727284,0,1,ja,SEAF,Africa
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-15T08:36:00+00:00,,0.3101256923800443,1,1,ja,,
+'103eea7ff7',extremes,Drought,#edc291,edo,チェコの雨不足,2026-06-29T07:13:00+00:00,Czechia,0.30970619982473907,0,1,ja,WCE,Europe
+'02bc9c64a4',extremes,Drought,#edc291,edo,カンボジアの雨不足,2026-07-13T05:53:00+00:00,Cambodia,0.3093128387630029,0,1,ja,SEA,Asia
+'e45d15d7d1',extremes,Landslide,#572c03,wmo,双陽地区の地滑り,2026-07-14T05:14:00+00:00,China,0.30865041609459287,0,1,ja,EAS,Asia
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.3085868314232864,0,1,ja,SES,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,ja,,
+'b3e00f492f',extremes,Drought,#edc291,edo,ベリーズの干ばつ,2026-07-13T05:53:00+00:00,Belize,0.3075088751705788,0,1,ja,SCA,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.3071353604453298,0,1,ja,NEN,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,上陸,2026-06-13T06:38:00+00:00,,0.3066436262851007,0,1,ja,,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,ja,WAF,Africa
