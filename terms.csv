@@ -14,7 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-06-22T08:39:00+00:00,Japan,0.4706961978305697,2,1,ja,EAS,Asia
 '895eed8e89',extremes,Earthquake,#870007,usgs,大月地震,2026-07-08T05:37:00+00:00,Japan,0.4672178861733231,1,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-06-12T07:05:00+00:00,,0.4655910595158851,1,3,ja,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-07-19T05:37:00+00:00,,0.46040760972912864,1,3,ja,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-07-19T05:37:00+00:00,,0.4604076097291286,1,3,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.4596113259466983,1,2,ja,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-07-18T05:10:00+00:00,,0.4554418378178941,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-07-14T05:14:00+00:00,,0.4527356402618508,1,2,ja,,
@@ -85,11 +85,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-06-21T07:16:00+00:00,,0.3651509791831069,1,1,ja,,
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-07-05T06:24:00+00:00,Japan,0.3613247511125504,2,1,ja,EAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-06-04T07:06:00+00:00,,0.3590883552202403,1,3,ja,,
+'135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-07-15T05:15:00+00:00,,0.3564952862396744,1,2,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-07-07T06:30:00+00:00,,0.3557325231322701,1,1,ja,,
 'b6cef22543',extremes,Drought,#edc291,random,水分制限,2026-06-08T07:13:00+00:00,,0.3544347520783097,1,2,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-06-24T06:29:00+00:00,,0.3532573130048724,1,2,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-06-14T07:06:00+00:00,,0.3524378493345158,1,1,ja,,
-'135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-07-15T05:15:00+00:00,,0.3494109490520234,0,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-06-08T07:13:00+00:00,,0.3470542292868141,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
