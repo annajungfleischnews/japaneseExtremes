@@ -165,6 +165,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85c98951d6',extremes,Drought,#edc291,edo,雨不足 モンテネグロ,2026-06-29T07:13:00+00:00,Montenegro,0.304189084580297,0,1,ja,MED,Europe
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,熱波スコピエ地方,2026-07-17T05:27:00+00:00,North Macedonia,0.3041314377755917,0,1,ja,MED,Europe
 '06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.3040549250429445,0,1,ja,MDG,Africa
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-07-04T05:59:00+00:00,,0.3039344819361528,0,1,ja,,
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,沿岸地域と内陸部の暴風雨地域,2026-06-25T06:32:00+00:00,Ecuador,0.3039199947563193,0,1,ja,NWS,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,凍てつくカナダ,2026-06-22T08:39:00+00:00,Canada,0.3038737122035057,0,1,ja,NEN,North-America
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,バシコルトスタン山火事共和国,2026-06-24T06:30:00+00:00,Russia,0.303872940095876,0,1,ja,ESB,Europe
@@ -177,6 +178,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,悪天候の米国,2026-07-01T06:52:00+00:00,United States,0.3034624492036659,0,1,ja,CNA,North-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,土砂降りのメキシコ,2026-07-12T05:43:00+00:00,Mexico,0.3033632979836823,0,1,ja,NCA,North-America
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,熱波ヴァル・デーレンス,2026-07-14T05:14:00+00:00,Switzerland,0.303357478607527,0,1,ja,WCE,Europe
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,カナダの洪水,2026-07-01T06:52:00+00:00,Canada,0.3033444975333207,0,1,ja,NEN,North-America
+'a715281618',extremes,Storm,#b3b2b1,wmo,高潮バヌアツ,2026-07-13T05:53:00+00:00,Vanuatu,0.30329193354394757,0,1,ja,SPO,Oceania
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,豪雨インド,2026-06-30T06:39:00+00:00,India,0.3032691711720279,0,1,ja,SAS,Asia
+'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,モルドバ山火事共和国,2026-07-13T05:53:00+00:00,Republic of Moldova,0.303250884706239,0,1,ja,WCE,Europe
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-06-27T06:08:00+00:00,,0.2842976949665814,1,1,ja,,
