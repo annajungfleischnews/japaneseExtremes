@@ -101,9 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-06-14T07:06:00+00:00,,0.3191900259564639,2,2,ja,,
 '792a35d4a4',extremes,Flood,#030ba1,random,多雨洪水,2026-06-18T07:16:00+00:00,,0.3134563455995434,1,1,ja,,
-'30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-07-14T05:15:00+00:00,Palau,0.3116818753898228,0,1,ja,EPO,Pacific Ocean
 'dafed8e9de',extremes,Drought,#edc291,edo,ブルネイの雨不足,2026-07-08T05:37:00+00:00,Brunei,0.3113442271938408,0,1,ja,SEA,Asia
-'a47d8d0227',extremes,Drought,#edc291,edo,日照りスロバキア,2026-06-28T06:44:00+00:00,Slovakia,0.310756259651855,0,1,ja,WCE,Europe
 '815e4bf638',extremes,Drought,#edc291,edo,ハンガリーの雨不足,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,ja,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,チェコの雨不足,2026-06-29T07:13:00+00:00,Czechia,0.309706199824739,0,1,ja,WCE,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,フロストブラジル,2026-07-06T06:52:00+00:00,Brazil,0.3095074205053438,0,1,ja,SAM,South-America
@@ -197,7 +195,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,氷山 d33d,2026-06-30T06:39:00+00:00,,0.2664413253055995,1,1,ja,SOO,Antarctica
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,氷山 d33b,2026-06-24T06:29:00+00:00,,0.2655723271360019,1,1,ja,EAN,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,熱波ビクトリア,2026-06-20T06:47:00+00:00,Australia,0.2653441232761272,1,1,ja,SAU,Oceania
+'a47d8d0227',extremes,Drought,#edc291,edo,日照りスロバキア,2026-06-28T06:44:00+00:00,Slovakia,0.26504291070407676,1,1,ja,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,ガボンの乾燥,2026-07-12T05:43:00+00:00,Gabon,0.2649668071074597,1,1,ja,CAF,Africa
+'30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-07-14T05:15:00+00:00,Palau,0.26492959408134936,1,1,ja,EPO,Pacific Ocean
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,氷山 d32,2026-06-24T06:29:00+00:00,,0.2648050368223227,1,1,ja,EAN,
 'e7f7b79e1f',extremes,Drought,#edc291,edo,ボスニア・ヘルツェゴビナの干ばつ,2026-06-26T06:36:00+00:00,Bosnia and Herzegovina,0.2643116346169511,1,1,ja,MED,Europe
 '393400b105',extremes,Drought,#edc291,edo,プエルトリコの乾燥,2026-07-13T05:53:00+00:00,Puerto Rico,0.2642612618177331,1,1,ja,CAR,North-America
