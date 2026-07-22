@@ -45,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-23T06:32:00+00:00,,0.4142435354457865,1,2,ja,,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-06-17T07:33:00+00:00,Brazil,0.412836335991214,1,2,ja,SAM,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.4112463926468715,1,2,ja,SES,South-America
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,雨 アルジェリア,2026-06-10T06:49:00+00:00,Algeria,0.411183764902837,1,2,ja,SAH,Africa
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.4097677324049279,1,2,ja,ARP,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-06-12T07:05:00+00:00,Brazil,0.4097608437761904,1,2,ja,SAM,South-America
@@ -75,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-06-28T06:44:00+00:00,Canada,0.3798603504280904,2,2,ja,NEN,North-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.3792968343958668,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-06-16T08:27:00+00:00,,0.3740967407544914,1,1,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-07-05T06:24:00+00:00,,0.3740138186896488,1,2,ja,,
 '0d1dfd7a3a',extremes,Earthquake,#870007,usgs,串間地震,2026-06-18T07:16:00+00:00,Japan,0.3696047253030755,1,1,ja,EAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-22T08:39:00+00:00,,0.3669869046964091,1,2,ja,,
@@ -117,7 +117,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-07-06T06:52:00+00:00,Brazil,0.3070881627793829,0,1,ja,SAM,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-07-08T05:37:00+00:00,Brazil,0.3070678582717536,0,1,ja,SAM,South-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,台風米国,2026-07-20T05:54:00+00:00,United States,0.3070304478588792,0,1,ja,CNA,North-America
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.3069957207610253,0,1,ja,SES,South-America
 '17065d269f',extremes,Drought,#edc291,edo,ホンジュラスの雨不足,2026-07-07T06:30:00+00:00,Honduras,0.3067505104862458,0,1,ja,SCA,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,コモロの乾燥,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,ja,ESAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3066464478842467,0,1,ja,NWS,South-America
