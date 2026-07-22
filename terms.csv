@@ -86,8 +86,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-07-14T05:14:00+00:00,,0.3561366346747322,2,2,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-07-07T06:30:00+00:00,,0.3557325231322701,1,1,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-06-24T06:29:00+00:00,,0.3532573130048724,1,2,ja,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3403653383548752,0,1,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,ja,,
 '7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.3351205304581093,1,2,ja,ESB,Europe
@@ -231,7 +231,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d298839a5',extremes,Precipitation,#d60d2b,wmo,土砂降りタンプスver,2026-07-10T06:27:00+00:00,Mexico,0.2611442552936339,1,1,ja,NCA,North-America
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン フィリピン,2026-06-23T06:33:00+00:00,Philippines,0.2611152901733368,1,1,ja,SEA,Asia
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,豪雨アルゼンチン,2026-07-09T06:27:00+00:00,Argentina,0.261085077874196,1,1,ja,SES,South-America
-'b42ca6333d',extremes,Fog,#d60d2b,wmo,霧のオムスク地方,2026-07-08T05:37:00+00:00,Russia,0.26098814657351266,1,1,ja,ESB,Europe
+'b42ca6333d',extremes,Fog,#d60d2b,wmo,霧のオムスク地方,2026-07-08T05:37:00+00:00,Russia,0.2609881465735126,1,1,ja,ESB,Europe
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルジェリア,2026-06-26T06:36:00+00:00,Algeria,0.2609166812427231,1,1,ja,SAH,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,カナダの雷雨,2026-06-28T06:44:00+00:00,Canada,0.2609092275337463,1,1,ja,NEN,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,フランスの乾季,2026-06-26T06:36:00+00:00,France,0.2608724959159184,1,1,ja,WCE,Europe
