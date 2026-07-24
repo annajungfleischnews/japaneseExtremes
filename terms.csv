@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '895eed8e89',extremes,Earthquake,#870007,usgs,大月地震,2026-07-08T05:37:00+00:00,Japan,0.4672178861733231,1,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-06-12T07:05:00+00:00,,0.4655910595158851,1,3,ja,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-07-19T05:37:00+00:00,,0.4604076097291286,1,3,ja,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.4596113259466983,1,2,ja,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-07-18T05:10:00+00:00,,0.4554418378178941,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-07-14T05:14:00+00:00,,0.4527356402618508,1,2,ja,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-06-12T07:05:00+00:00,,0.452250213736409,2,3,ja,,
@@ -66,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-07-04T05:59:00+00:00,,0.3954631700719767,1,3,ja,,
 '3418113d1c',extremes,Earthquake,#870007,usgs,白浜地震,2026-07-10T06:27:00+00:00,Japan,0.394082454115689,1,1,ja,EAS,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-06-15T08:36:00+00:00,,0.3913391300746144,1,2,ja,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.39126968705469356,2,2,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-27T06:08:00+00:00,,0.3844979651711619,1,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-07-11T05:26:00+00:00,,0.3828097795079357,1,1,ja,,
@@ -129,7 +129,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17065d269f',extremes,Drought,#edc291,edo,ホンジュラスの雨不足,2026-07-07T06:30:00+00:00,Honduras,0.3067505104862458,0,1,ja,SCA,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,コモロの乾燥,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,ja,ESAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3066464478842467,0,1,ja,NWS,South-America
-'1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.3060521038620576,0,1,ja,SAU,Oceania
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,凍てつくチリ,2026-07-13T05:53:00+00:00,Chile,0.3060471862992777,0,1,ja,SWS,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.3058603535028943,0,1,ja,WAF,Africa
@@ -238,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.2605751037337362,1,1,ja,ESB,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,ja,SCA,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-06-20T06:47:00+00:00,Madagascar,0.2601790240716141,1,1,ja,MDG,Africa
+'1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.26014428828274894,1,1,ja,SAU,Oceania
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2600368816568709,1,1,ja,ARP,Asia
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2599500500787739,1,1,ja,ARP,Asia
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,ja,SCA,North-America
