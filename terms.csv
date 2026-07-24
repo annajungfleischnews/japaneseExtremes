@@ -78,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.3792968343958668,1,2,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-07-22T05:35:00+00:00,,0.3782954659422609,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
+'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-07-05T06:24:00+00:00,,0.3740138186896488,1,2,ja,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-22T08:39:00+00:00,,0.3669869046964091,1,2,ja,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-06-21T07:16:00+00:00,,0.3651509791831069,1,1,ja,,
@@ -90,12 +91,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-07T06:30:00+00:00,,0.3527152194246455,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
-'283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-07-13T05:53:00+00:00,,0.3377343370635751,0,1,ja,,
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
 '7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.3351205304581093,1,2,ja,ESB,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-07-05T06:24:00+00:00,,0.334931906599438,1,1,ja,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-07-05T06:24:00+00:00,,0.3331650443786265,1,1,ja,,
-'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3329997500485495,0,1,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,ja,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-07-10T06:27:00+00:00,,0.3318123543799274,1,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-06-29T07:12:00+00:00,,0.3317991563678151,1,1,ja,,
@@ -104,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,ja,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,暴風雨,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
-'8626b81b9b',extremes,Flood,#030ba1,emdat,サモラ・チンチペの洪水,2026-07-21T05:36:00+00:00,Ecuador,0.3200075473236523,0,1,ja,NWS,South-America
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'dafed8e9de',extremes,Drought,#edc291,edo,ブルネイの雨不足,2026-07-08T05:37:00+00:00,Brunei,0.3113442271938408,0,1,ja,SEA,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
@@ -189,11 +187,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-07-03T06:09:00+00:00,Russia,0.2889820625536056,1,1,ja,ESB,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
+'283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-06-27T06:08:00+00:00,,0.2842976949665814,1,1,ja,,
 '9778ee6716',extremes,Earthquake,#870007,usgs,地震ゆまれ,2026-06-25T06:32:00+00:00,Venezuela,0.2827611438121072,1,2,ja,NSA,South-America
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-07-10T06:27:00+00:00,,0.2789920996825707,1,1,ja,,
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,南極の山火事,2026-06-24T06:30:00+00:00,Antarctica,0.2728350499977762,1,1,ja,EAN,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-07-02T06:23:00+00:00,,0.2728158801137981,1,1,ja,,
+'8626b81b9b',extremes,Flood,#030ba1,emdat,サモラ・チンチペの洪水,2026-07-21T05:36:00+00:00,Ecuador,0.27200641522510444,1,1,ja,NWS,South-America
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,氷山 d33a,2026-06-24T06:29:00+00:00,,0.2700689821095424,1,1,ja,EAN,
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,野火ビクトリア,2026-07-04T05:59:00+00:00,Australia,0.269963471236045,1,1,ja,SAU,Oceania
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,氷山 b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2694811146168214,1,1,ja,WAN,Antarctica
