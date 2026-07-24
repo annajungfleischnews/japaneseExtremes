@@ -65,7 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-07-04T05:59:00+00:00,,0.3954631700719767,1,3,ja,,
 '3418113d1c',extremes,Earthquake,#870007,usgs,白浜地震,2026-07-10T06:27:00+00:00,Japan,0.394082454115689,1,1,ja,EAS,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-06-15T08:36:00+00:00,,0.3913391300746144,1,2,ja,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.39126968705469356,2,2,ja,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.3912696870546935,2,2,ja,,
 '4618c0734c',extremes,Earthquake,#870007,usgs,糸満地震,2026-06-20T06:46:00+00:00,Japan,0.3863797175805706,1,1,ja,EAS,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-06-27T06:08:00+00:00,,0.3844979651711619,1,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-07-11T05:26:00+00:00,,0.3828097795079357,1,1,ja,,
@@ -179,6 +179,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-07-08T05:37:00+00:00,Chile,0.3031566766767615,0,1,ja,SWS,South-America
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,バヌアツ全海域の高潮。,2026-07-17T05:27:00+00:00,Vanuatu,0.3031528531299129,0,1,ja,SPO,Oceania
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,ウルグアイの嵐,2026-07-19T05:37:00+00:00,Uruguay,0.3031490035234724,0,1,ja,SES,South-America
+'3d6bde5b08',extremes,Storm,#b3b2b1,wmo,高潮セイシェル,2026-07-08T05:37:00+00:00,Seychelles,0.30302276077093815,0,1,ja,EIO,Africa
+'31823b52d8',extremes,Storm,#b3b2b1,wmo,アイスランド北西部の嵐,2026-07-15T05:15:00+00:00,Iceland,0.3030079883859378,0,1,ja,GIC,Europe
+'de55985e54',extremes,Earthquake,#870007,usgs,地震ハディブ,2026-07-19T05:37:00+00:00,Yemen,0.3030079123335545,0,1,ja,ARS,Indian Ocean
+'c54798ae88',extremes,Wildfire,#d60d2b,wmo,山火事モルドバ,2026-07-12T05:43:00+00:00,Moldova,0.30300469694524274,0,1,ja,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-07-04T05:59:00+00:00,Poland,0.30299372342220326,0,1,ja,WCE,Europe
+'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,氷の登録。 4 山脈,2026-07-20T05:54:00+00:00,Chile,0.3029650983278401,0,1,ja,SWS,South-America
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-07-03T06:09:00+00:00,Russia,0.2889820625536056,1,1,ja,ESB,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
@@ -237,7 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.2605751037337362,1,1,ja,ESB,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,ja,SCA,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-06-20T06:47:00+00:00,Madagascar,0.2601790240716141,1,1,ja,MDG,Africa
-'1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.26014428828274894,1,1,ja,SAU,Oceania
+'1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.2601442882827489,1,1,ja,SAU,Oceania
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2600368816568709,1,1,ja,ARP,Asia
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2599500500787739,1,1,ja,ARP,Asia
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,ja,SCA,North-America
