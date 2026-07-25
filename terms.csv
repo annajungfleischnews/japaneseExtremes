@@ -91,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-07-20T05:54:00+00:00,United States,0.33673453088180044,1,2,ja,CNA,North-America
 '7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.3351205304581093,1,2,ja,ESB,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-07-05T06:24:00+00:00,,0.334931906599438,1,1,ja,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,記録的な降水量,2026-07-05T06:24:00+00:00,,0.3331650443786265,1,1,ja,,
@@ -106,10 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '02bc9c64a4',extremes,Drought,#edc291,edo,カンボジアの雨不足,2026-07-13T05:53:00+00:00,Cambodia,0.3093128387630029,0,1,ja,SEA,Asia
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-07-23T05:40:00+00:00,Ghana,0.3090311279189948,0,1,ja,WAF,Africa
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.3085868314232864,0,1,ja,SES,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
-'92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-07-11T05:27:00+00:00,Madagascar,0.3075712910364782,0,1,ja,MDG,Africa
-'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-07-20T05:54:00+00:00,United States,0.3075700010374123,0,1,ja,CNA,North-America
 'b3e00f492f',extremes,Drought,#edc291,edo,ベリーズの干ばつ,2026-07-13T05:53:00+00:00,Belize,0.3075088751705788,0,1,ja,SCA,North-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,雪のアルゼンチン,2026-07-07T06:30:00+00:00,Argentina,0.3074167945050139,0,1,ja,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
@@ -221,10 +219,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,凍てつくブラジル,2026-06-25T06:32:00+00:00,Brazil,0.2626246752477659,1,1,ja,SAM,South-America
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,双陽地区の地滑り,2026-07-14T05:14:00+00:00,China,0.2625028686804039,1,1,ja,EAS,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-06-29T07:12:00+00:00,,0.2624105431939768,1,1,ja,,
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.26229880670979344,1,1,ja,SES,South-America
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,土砂降りのオークランドとグレートバリア島,2026-06-23T06:33:00+00:00,New Zealand,0.2619873855865429,1,1,ja,NZ,Oceania
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-07-04T05:59:00+00:00,Tanzania,0.2618867277189939,1,1,ja,SEAF,Africa
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,土砂降りのコロマンデル半島,2026-06-23T06:33:00+00:00,New Zealand,0.2618665339280634,1,1,ja,NZ,Oceania
 '69420e8eee',extremes,Precipitation,#d60d2b,wmo,インド間部とアマゾンの降水地域,2026-07-04T05:59:00+00:00,Ecuador,0.26164971385904,1,1,ja,NWS,South-America
+'92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-07-11T05:27:00+00:00,Madagascar,0.26143559738100647,1,1,ja,MDG,Africa
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,雨 コロマンデル半島,2026-06-24T06:30:00+00:00,New Zealand,0.2614339929031519,1,1,ja,NZ,Oceania
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,凍てつくニュージーランド,2026-06-24T06:30:00+00:00,New Zealand,0.2614062237592556,1,1,ja,NZ,Oceania
 '7467da3199',extremes,Drought,#edc291,edo,干ばつガボン,2026-06-25T06:32:00+00:00,Gabon,0.2613373129014761,1,1,ja,CAF,Africa
