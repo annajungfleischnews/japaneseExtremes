@@ -43,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-07-03T06:09:00+00:00,Japan,0.4153720318367678,2,1,ja,EAS,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-23T06:32:00+00:00,,0.4142435354457865,1,2,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-07-06T06:52:00+00:00,,0.4139115062648885,1,3,ja,,
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-07-05T06:25:00+00:00,Brazil,0.41286047611431864,1,2,ja,SAM,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-07-05T06:25:00+00:00,Brazil,0.4128604761143186,1,2,ja,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,雨ブラジル,2026-06-17T07:33:00+00:00,Brazil,0.412836335991214,1,2,ja,SAM,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,氷アルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.4112463926468715,1,2,ja,SES,South-America
@@ -117,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,雪のアルゼンチン,2026-07-07T06:30:00+00:00,Argentina,0.3074167945050139,0,1,ja,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,アイスクラウンレンジロード,2026-07-24T05:36:00+00:00,New Zealand,0.3072889079675177,0,1,ja,NZ,Oceania
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン 米国,2026-07-04T05:59:00+00:00,United States,0.307242845514835,0,1,ja,CNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,アルゼンチンの降水量,2026-07-09T06:27:00+00:00,Argentina,0.3072150540256617,0,1,ja,SES,South-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.3071353604453298,0,1,ja,NEN,North-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-07-08T05:37:00+00:00,Brazil,0.3070678582717536,0,1,ja,SAM,South-America
@@ -126,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17065d269f',extremes,Drought,#edc291,edo,ホンジュラスの雨不足,2026-07-07T06:30:00+00:00,Honduras,0.3067505104862458,0,1,ja,SCA,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,コモロの乾燥,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,ja,ESAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3066464478842467,0,1,ja,NWS,South-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,フロストオーストラリア,2026-07-15T05:15:00+00:00,Australia,0.30650178316962945,0,1,ja,CAU,Oceania
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,凍てつくチリ,2026-07-13T05:53:00+00:00,Chile,0.3060471862992777,0,1,ja,SWS,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.3058603535028943,0,1,ja,WAF,Africa
@@ -140,6 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,雪チリ,2026-07-14T05:14:00+00:00,Chile,0.3049743270136043,0,1,ja,SWS,South-America
 '7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-07-04T05:59:00+00:00,Bhutan,0.304970339043592,0,1,ja,TIB,Asia
 'c4be795f03',extremes,Drought,#edc291,edo,雨不足 赤道ギニア,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.3049615032988373,0,1,ja,WAF,Africa
+'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.30492266851907524,0,1,ja,WCA,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,高潮ニュージーランド,2026-07-03T06:09:00+00:00,New Zealand,0.3048715139354062,0,1,ja,NZ,Oceania
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,高潮パラグアイ,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,ja,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ja,SPO,Oceania
@@ -149,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,クラレンス北のマールボロの嵐,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,ja,NZ,Oceania
 '95b5264574',extremes,Heat Wave,#c40202,wmo,カナダの熱波,2026-07-01T06:52:00+00:00,Canada,0.3043937918417775,0,1,ja,NEN,North-America
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,熱波東部地域,2026-07-16T05:25:00+00:00,North Macedonia,0.3043382537279583,0,1,ja,MED,Europe
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-06-26T06:36:00+00:00,Argentina,0.3042317171961108,0,1,ja,SES,South-America
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,熱波スコピエ地方,2026-07-17T05:27:00+00:00,North Macedonia,0.3041314377755917,0,1,ja,MED,Europe
 '06adbcbae1',extremes,Drought,#edc291,edo,乾燥マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.3040549250429445,0,1,ja,MDG,Africa
@@ -181,6 +185,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c54798ae88',extremes,Wildfire,#d60d2b,wmo,山火事モルドバ,2026-07-12T05:43:00+00:00,Moldova,0.3030046969452427,0,1,ja,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,乾燥ポーランド,2026-07-04T05:59:00+00:00,Poland,0.3029937234222032,0,1,ja,WCE,Europe
 'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,氷の登録。 4 山脈,2026-07-20T05:54:00+00:00,Chile,0.3029650983278401,0,1,ja,SWS,South-America
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,高潮アイスランド,2026-07-12T05:43:00+00:00,Iceland,0.30296290313602176,0,1,ja,GIC,Europe
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2026-07-17T05:27:00+00:00,Paraguay,0.3029581547217658,0,1,ja,SES,South-America
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-07-03T06:09:00+00:00,Russia,0.2889820625536056,1,1,ja,ESB,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
