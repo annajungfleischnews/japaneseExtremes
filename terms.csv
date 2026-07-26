@@ -171,6 +171,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,熱波ヴァル・デルス・コロンビエ,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,ja,WCE,Europe
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,全海域の高潮,2026-07-10T06:27:00+00:00,Solomon Islands,0.3027285248370605,0,1,ja,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,凍結規制。 11 パタゴニア スバンディナ ノルテ,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ja,SWS,South-America
+'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,雪ダニーデンからウェイトティ ハイウェイ SH1 まで,2026-07-24T05:36:00+00:00,New Zealand,0.30271549152742466,0,1,ja,NZ,Oceania
+'8739ef25d6',extremes,Heat Wave,#c40202,wmo,ポルトガルの熱波,2026-07-10T06:27:00+00:00,Portugal,0.3026543076533438,0,1,ja,MED,Europe
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,ブラジルの降水量,2026-07-07T06:30:00+00:00,Brazil,0.3026447487437175,0,1,ja,SAM,South-America
+'766190540a',extremes,Storm,#b3b2b1,wmo,高潮タンザニア,2026-07-25T05:29:00+00:00,Tanzania,0.30264437066572614,0,1,ja,SEAF,Africa
+'f71259e5fd',extremes,Snow&Ice,#d60d2b,wmo,スノーアーサーズパス sh73,2026-07-24T05:36:00+00:00,New Zealand,0.302637432821948,0,1,ja,NZ,Oceania
+'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,アイスチリ,2026-07-13T05:53:00+00:00,Chile,0.3026289729656364,0,1,ja,SWS,South-America
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-07-03T06:09:00+00:00,Russia,0.2889820625536056,1,1,ja,ESB,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
@@ -246,17 +252,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.2601442882827489,1,1,ja,SAU,Oceania
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,凍てつくチリ,2026-07-13T05:53:00+00:00,Chile,0.260140108354386,1,1,ja,SWS,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2600368816568709,1,1,ja,ARP,Asia
-'8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.25998130047746015,1,1,ja,WAF,Africa
+'8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.2599813004774601,1,1,ja,WAF,Africa
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2599500500787739,1,1,ja,ARP,Asia
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,ja,SCA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,アルジェリアの悪天候,2026-07-02T06:24:00+00:00,Algeria,0.2599052093062655,1,1,ja,SAH,Africa
 '806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-07-17T05:27:00+00:00,Australia,0.2597606323847885,1,1,ja,SAU,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,カナダの鉄砲水,2026-06-22T08:39:00+00:00,Canada,0.2597132682936839,1,1,ja,NEN,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,高潮規制。 15 山脈,2026-07-02T06:24:00+00:00,Chile,0.2596305084209409,1,1,ja,SWS,South-America
-'b2ab090487',extremes,Precipitation,#d60d2b,wmo,雨 chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.25960619501812593,1,1,ja,NCA,North-America
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,雨 chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.2596061950181259,1,1,ja,NCA,North-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,高潮マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.2596002366855073,1,1,ja,MDG,Africa
 '283502e4c1',extremes,Heat Wave,#c40202,wmo,熱波エルターフ,2026-07-19T05:37:00+00:00,Algeria,0.2595935774637142,1,1,ja,SAH,Africa
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,熱波エチオピア,2026-07-08T05:37:00+00:00,Ethiopia,0.25959058860628514,1,1,ja,NEAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,熱波エチオピア,2026-07-08T05:37:00+00:00,Ethiopia,0.2595905886062851,1,1,ja,NEAF,Africa
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,フロスト ハースト パス sh6,2026-07-04T05:59:00+00:00,New Zealand,0.2595611993973886,1,1,ja,NZ,Oceania
 'a78a18febe',extremes,Fog,#d60d2b,wmo,霧ザバイカルスキー地方,2026-06-30T06:39:00+00:00,Russia,0.2595440625791954,1,1,ja,ESB,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-06-27T06:08:00+00:00,Brazil,0.2595414975569574,1,1,ja,SAM,South-America
