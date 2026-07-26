@@ -113,21 +113,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,アルゼンチンの降水量,2026-07-09T06:27:00+00:00,Argentina,0.3072150540256617,0,1,ja,SES,South-America
-'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-07-08T05:37:00+00:00,Brazil,0.3070678582717536,0,1,ja,SAM,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,雨 アルゼンチン,2026-07-09T06:27:00+00:00,Argentina,0.3070140731382051,0,1,ja,SES,South-America
-'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-07-09T06:27:00+00:00,Argentina,0.306824563456158,0,1,ja,SES,South-America
-'f3d653a8ff',extremes,Drought,#edc291,edo,コモロの乾燥,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,ja,ESAF,Africa
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3066464478842467,0,1,ja,NWS,South-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,フロストオーストラリア,2026-07-15T05:15:00+00:00,Australia,0.3065017831696294,0,1,ja,CAU,Oceania
-'d737229c25',extremes,Snow&Ice,#d60d2b,wmo,凍てつくチリ,2026-07-13T05:53:00+00:00,Chile,0.3060471862992777,0,1,ja,SWS,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
-'8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.3058603535028943,0,1,ja,WAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,ja,NWS,South-America
-'806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-07-17T05:27:00+00:00,Australia,0.3056007439821042,0,1,ja,SAU,Oceania
-'b2ab090487',extremes,Precipitation,#d60d2b,wmo,雨 chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,ja,NCA,North-America
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,熱波エチオピア,2026-07-08T05:37:00+00:00,Ethiopia,0.3054006924779825,0,1,ja,NEAF,Africa
 '5ce57f419d',extremes,Earthquake,#870007,usgs,ベネズエラ地震,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,ja,NSA,South-America
-'0335b20cbc',extremes,Storm,#b3b2b1,wmo,高潮規制。 15 山脈,2026-07-02T06:24:00+00:00,Chile,0.3050946804952246,0,1,ja,SWS,South-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,土砂降りのタイ,2026-06-21T07:16:00+00:00,Thailand,0.3050777128219519,0,1,ja,SEA,Asia
 '0077950340',extremes,Wildfire,#d60d2b,wmo,ノルウェーの山火事,2026-06-27T06:08:00+00:00,Norway,0.3050699430520863,0,1,ja,NEU,Europe
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,雪チリ,2026-07-14T05:14:00+00:00,Chile,0.3049743270136043,0,1,ja,SWS,South-America
@@ -240,23 +229,34 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン フィリピン,2026-06-23T06:33:00+00:00,Philippines,0.2611152901733368,1,1,ja,SEA,Asia
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,豪雨アルゼンチン,2026-07-09T06:27:00+00:00,Argentina,0.261085077874196,1,1,ja,SES,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,豪雨 ブラジル,2026-07-06T06:52:00+00:00,Brazil,0.2610249383624754,1,1,ja,SAM,South-America
+'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,アイスブラジル,2026-07-08T05:37:00+00:00,Brazil,0.2610076795309905,1,1,ja,SAM,South-America
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,霧のオムスク地方,2026-07-08T05:37:00+00:00,Russia,0.2609881465735126,1,1,ja,ESB,Europe
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルジェリア,2026-06-26T06:36:00+00:00,Algeria,0.2609166812427231,1,1,ja,SAH,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,カナダの雷雨,2026-06-28T06:44:00+00:00,Canada,0.2609092275337463,1,1,ja,NEN,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,フランスの乾季,2026-06-26T06:36:00+00:00,France,0.2608724959159184,1,1,ja,WCE,Europe
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,土砂降りのアルゼンチン,2026-07-09T06:27:00+00:00,Argentina,0.2608008789377343,1,1,ja,SES,South-America
 '17065d269f',extremes,Drought,#edc291,edo,ホンジュラスの雨不足,2026-07-07T06:30:00+00:00,Honduras,0.2607379339133089,1,1,ja,SCA,North-America
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,キト豪雨,2026-07-11T05:27:00+00:00,Ecuador,0.2606903143454861,1,1,ja,NWS,South-America
+'f3d653a8ff',extremes,Drought,#edc291,edo,コモロの乾燥,2026-06-29T07:13:00+00:00,Comoros,0.260679741469508,1,1,ja,ESAF,Africa
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,豪雨 エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.2606494807016097,1,1,ja,NWS,South-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ニュージーランドのフロスト,2026-06-24T06:30:00+00:00,New Zealand,0.2605766974895203,1,1,ja,NZ,Oceania
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,山火事ケメロヴォ地域,2026-06-26T06:36:00+00:00,Russia,0.2605751037337362,1,1,ja,ESB,Europe
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,フロストオーストラリア,2026-07-15T05:15:00+00:00,Australia,0.260526515694185,1,1,ja,CAU,Oceania
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,ja,SCA,North-America
 '1956cfff74',extremes,Wildfire,#d60d2b,acwe,ビクトリア州の火災禁止令,2026-07-17T05:27:00+00:00,Australia,0.2601442882827489,1,1,ja,SAU,Oceania
+'d737229c25',extremes,Snow&Ice,#d60d2b,wmo,凍てつくチリ,2026-07-13T05:53:00+00:00,Chile,0.260140108354386,1,1,ja,SWS,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2600368816568709,1,1,ja,ARP,Asia
+'8a654473a4',extremes,Drought,#edc291,edo,干ばつサントメ・プリンシペ,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.25998130047746015,1,1,ja,WAF,Africa
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,豪雨 サウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2599500500787739,1,1,ja,ARP,Asia
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,豪雨コスタリカ,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,ja,SCA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,アルジェリアの悪天候,2026-07-02T06:24:00+00:00,Algeria,0.2599052093062655,1,1,ja,SAH,Africa
+'806dd08d67',extremes,Flood,#030ba1,acwe,ビクトリア州を洪水する,2026-07-17T05:27:00+00:00,Australia,0.2597606323847885,1,1,ja,SAU,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,カナダの鉄砲水,2026-06-22T08:39:00+00:00,Canada,0.2597132682936839,1,1,ja,NEN,North-America
+'0335b20cbc',extremes,Storm,#b3b2b1,wmo,高潮規制。 15 山脈,2026-07-02T06:24:00+00:00,Chile,0.2596305084209409,1,1,ja,SWS,South-America
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,雨 chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.25960619501812593,1,1,ja,NCA,North-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,高潮マダガスカル,2026-06-22T08:39:00+00:00,Madagascar,0.2596002366855073,1,1,ja,MDG,Africa
 '283502e4c1',extremes,Heat Wave,#c40202,wmo,熱波エルターフ,2026-07-19T05:37:00+00:00,Algeria,0.2595935774637142,1,1,ja,SAH,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,熱波エチオピア,2026-07-08T05:37:00+00:00,Ethiopia,0.25959058860628514,1,1,ja,NEAF,Africa
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,フロスト ハースト パス sh6,2026-07-04T05:59:00+00:00,New Zealand,0.2595611993973886,1,1,ja,NZ,Oceania
 'a78a18febe',extremes,Fog,#d60d2b,wmo,霧ザバイカルスキー地方,2026-06-30T06:39:00+00:00,Russia,0.2595440625791954,1,1,ja,ESB,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-06-27T06:08:00+00:00,Brazil,0.2595414975569574,1,1,ja,SAM,South-America
