@@ -105,7 +105,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
-'633ed59c63',extremes,Iceberg,#d60d2b,random,北極の海氷,2026-07-13T05:53:00+00:00,,0.3127755125626177,0,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-07-23T05:40:00+00:00,Ghana,0.3090311279189948,0,1,ja,WAF,Africa
@@ -156,7 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,高潮アイスランド,2026-07-12T05:43:00+00:00,Iceland,0.3029629031360217,0,1,ja,GIC,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2026-07-17T05:27:00+00:00,Paraguay,0.3029581547217658,0,1,ja,SES,South-America
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,土砂降りミチ,2026-07-14T05:14:00+00:00,Mexico,0.3029503621874527,0,1,ja,NCA,North-America
-'30e79eda20',extremes,Storm,#b3b2b1,wmo,アイスランド南東の嵐,2026-07-25T05:29:00+00:00,Iceland,0.30290624647787734,0,1,ja,GIC,Europe
+'30e79eda20',extremes,Storm,#b3b2b1,wmo,アイスランド南東の嵐,2026-07-25T05:29:00+00:00,Iceland,0.3029062464778773,0,1,ja,GIC,Europe
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,熱波ヴァル・デルス・コロンビエ,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,ja,WCE,Europe
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,全海域の高潮,2026-07-10T06:27:00+00:00,Solomon Islands,0.3027285248370605,0,1,ja,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,凍結規制。 11 パタゴニア スバンディナ ノルテ,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ja,SWS,South-America
@@ -171,11 +170,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,すべての海域を嵐にする,2026-07-08T05:37:00+00:00,Solomon Islands,0.3025935608443585,0,1,ja,EPO,Oceania
 'ae5eb05a96',extremes,Snow&Ice,#d60d2b,wmo,スノーミルフォードロードSH94,2026-07-23T05:40:00+00:00,New Zealand,0.3025923848901142,0,1,ja,NZ,Oceania
 '340b530747',extremes,Snow&Ice,#d60d2b,wmo,凍るミルフォード ロード SH94,2026-07-24T05:36:00+00:00,New Zealand,0.3025677039711991,0,1,ja,NZ,Oceania
-'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,山火事サラトフ地域,2026-07-09T06:27:00+00:00,Russia,0.30251771025447227,0,1,ja,ESB,Europe
+'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,山火事サラトフ地域,2026-07-09T06:27:00+00:00,Russia,0.3025177102544722,0,1,ja,ESB,Europe
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,霧のサニラジャック・イグルーリク,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,ja,NEN,North-America
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,熱波サウジアラビア,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3024762978511521,0,1,ja,ARP,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-07-21T05:36:00+00:00,Paraguay,0.3024751977179042,0,1,ja,SES,South-America
-'bc85c67872',extremes,Storm,#b3b2b1,wmo,クウェートの嵐,2026-07-16T05:25:00+00:00,Kuwait,0.30245997012682624,0,1,ja,ARP,Asia
+'bc85c67872',extremes,Storm,#b3b2b1,wmo,クウェートの嵐,2026-07-16T05:25:00+00:00,Kuwait,0.3024599701268262,0,1,ja,ARP,Asia
 'fa06cd330a',extremes,Landslide,#572c03,wmo,中国の地滑り,2026-07-04T05:59:00+00:00,China,0.2963570421870939,1,2,ja,EAS,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,熱波ロシア,2026-07-03T06:09:00+00:00,Russia,0.2889820625536056,1,1,ja,ESB,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,土砂降りのサウジアラビア,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2880036006081402,1,1,ja,ARP,Asia
@@ -194,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,氷山 a81,2026-06-24T06:29:00+00:00,Antarctica,0.2685842723317832,1,1,ja,EAN,Antarctica
 '729f81e9bb',extremes,Iceberg,#d60d2b,eonet,氷山 b22h,2026-06-24T06:29:00+00:00,Antarctica,0.2679130219265768,1,1,ja,WAN,Antarctica
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,タスマニア洪水 2016 年 6 月 7 月,2026-06-24T06:30:00+00:00,Australia,0.2674184413097625,1,1,ja,SAU,Oceania
+'633ed59c63',extremes,Iceberg,#d60d2b,random,北極の海氷,2026-07-13T05:53:00+00:00,,0.26660926067822505,1,1,ja,,
 '0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,氷山 d33d,2026-06-30T06:39:00+00:00,,0.2664413253055995,1,1,ja,SOO,Antarctica
 '656113a2f4',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン ファウスト,2026-07-22T05:35:00+00:00,,0.2658167465601694,1,1,ja,NPO,Pacific Ocean
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,氷山 d33b,2026-06-24T06:29:00+00:00,,0.2655723271360019,1,1,ja,EAN,
