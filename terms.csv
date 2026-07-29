@@ -78,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.3792968343958668,1,2,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-07-22T05:35:00+00:00,,0.3782954659422609,1,2,ja,,
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-06-24T06:29:00+00:00,Japan,0.3774748532742147,1,1,ja,EAS,Asia
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.37625855957129234,1,3,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-07-05T06:24:00+00:00,,0.3740138186896488,1,2,ja,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-22T08:39:00+00:00,,0.3669869046964091,1,2,ja,,
@@ -89,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-07-01T06:52:00+00:00,,0.3528744541559454,2,1,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-07T06:30:00+00:00,,0.3527152194246455,1,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3425177032389536,0,1,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-07-20T05:54:00+00:00,United States,0.3367345308818004,1,2,ja,CNA,North-America
@@ -113,7 +113,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,ja,NWS,South-America
-'8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,ナイジェリアの嵐,2026-07-28T05:31:00+00:00,Nigeria,0.3051908125972906,0,1,ja,WAF,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ja,SPO,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,地震ジョージタウン,2026-07-28T05:30:00+00:00,Saint Helena,0.3046608233045473,0,1,ja,EAO,Atlantic Ocean
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
@@ -202,7 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,双陽地区の地滑り,2026-07-14T05:14:00+00:00,China,0.2625028686804039,1,1,ja,EAS,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-06-29T07:12:00+00:00,,0.2624105431939768,1,1,ja,,
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,霜のアルゼンチン,2026-06-30T06:39:00+00:00,Argentina,0.2622988067097934,1,1,ja,SES,South-America
-'563b781620',extremes,Thunderstorm,#53785a,wmo,ナイジェリアの悪天候,2026-07-28T05:31:00+00:00,Nigeria,0.26227158506366355,1,1,ja,WAF,Africa
+'563b781620',extremes,Thunderstorm,#53785a,wmo,ナイジェリアの悪天候,2026-07-28T05:31:00+00:00,Nigeria,0.2622715850636635,1,1,ja,WAF,Africa
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,雨 タンザニア,2026-07-04T05:59:00+00:00,Tanzania,0.2618867277189939,1,1,ja,SEAF,Africa
 '69420e8eee',extremes,Precipitation,#d60d2b,wmo,インド間部とアマゾンの降水地域,2026-07-04T05:59:00+00:00,Ecuador,0.26164971385904,1,1,ja,NWS,South-America
 '92035e2c20',extremes,Drought,#edc291,edo,日照りマダガスカル,2026-07-11T05:27:00+00:00,Madagascar,0.2614355973810064,1,1,ja,MDG,Africa
@@ -244,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-06-27T06:08:00+00:00,Brazil,0.2595414975569574,1,1,ja,SAM,South-America
 '5a69bd9b04',extremes,Fog,#d60d2b,wmo,フォグ・ノヴァイ・ゼムリー,2026-06-30T06:39:00+00:00,Russia,0.2594668806708828,1,1,ja,ESB,Europe
 'd709206c08',extremes,Storm,#b3b2b1,wmo,嵐の記録。 15 山脈,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,ja,SWS,South-America
+'8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,ナイジェリアの嵐,2026-07-28T05:31:00+00:00,Nigeria,0.259412190707697,1,1,ja,WAF,Africa
 '12775cc05a',extremes,Drought,#edc291,wmo,ブラジルの干ばつ,2026-07-07T06:30:00+00:00,Brazil,0.25935420846778,1,1,ja,SAM,South-America
 '3fa143a609',extremes,Storm,#b3b2b1,random,砂塵吹雪,2026-06-30T06:39:00+00:00,,0.2593320054009955,1,1,ja,,
 '0077950340',extremes,Wildfire,#d60d2b,wmo,ノルウェーの山火事,2026-06-27T06:08:00+00:00,Norway,0.2593094515942733,1,1,ja,NEU,Europe
