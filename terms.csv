@@ -113,7 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-07-23T05:40:00+00:00,Ghana,0.3090311279189948,0,1,ja,WAF,Africa
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.30836169999185026,1,1,ja,SAM,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
@@ -134,6 +134,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,バヌアツ全海域の高潮。,2026-07-17T05:27:00+00:00,Vanuatu,0.3031528531299129,0,1,ja,SPO,Oceania
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,ウルグアイの嵐,2026-07-19T05:37:00+00:00,Uruguay,0.3031490035234724,0,1,ja,SES,South-America
 '538094e890',extremes,Heat Wave,#c40202,wmo,熱波ムシラ,2026-07-26T05:46:00+00:00,Algeria,0.3030974326906968,0,1,ja,SAH,Africa
+'3336c980ab',extremes,Earthquake,#870007,usgs,セントヘレナ地震,2026-07-29T05:37:00+00:00,Saint Helena,0.3030825180588534,0,1,ja,EAO,Atlantic Ocean
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,東フィヨルドの嵐,2026-07-25T05:29:00+00:00,Iceland,0.3030444157083788,0,1,ja,GIC,Europe
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,高潮セイシェル,2026-07-08T05:37:00+00:00,Seychelles,0.3030227607709381,0,1,ja,EIO,Africa
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,アイスランド北西部の嵐,2026-07-15T05:15:00+00:00,Iceland,0.3030079883859378,0,1,ja,GIC,Europe
@@ -146,6 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,嵐パラグアイ,2026-07-17T05:27:00+00:00,Paraguay,0.3029581547217658,0,1,ja,SES,South-America
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,土砂降りミチ,2026-07-14T05:14:00+00:00,Mexico,0.3029503621874527,0,1,ja,NCA,North-America
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,アイスランド南東の嵐,2026-07-25T05:29:00+00:00,Iceland,0.3029062464778773,0,1,ja,GIC,Europe
+'f9e6ac9c1c',extremes,Flood,#030ba1,wmo,チュメニ地方の鉄砲水,2026-07-26T05:46:00+00:00,Russia,0.3028964013887081,0,1,ja,ESB,Europe
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,熱波ヴァル・デルス・コロンビエ,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,ja,WCE,Europe
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,全海域の高潮,2026-07-10T06:27:00+00:00,Solomon Islands,0.3027285248370605,0,1,ja,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,凍結規制。 11 パタゴニア スバンディナ ノルテ,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ja,SWS,South-America
@@ -163,10 +165,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '340b530747',extremes,Snow&Ice,#d60d2b,wmo,凍るミルフォード ロード SH94,2026-07-24T05:36:00+00:00,New Zealand,0.3025677039711991,0,1,ja,NZ,Oceania
 'd5197c0b14',extremes,Wildfire,#d60d2b,wmo,山火事サラトフ地域,2026-07-09T06:27:00+00:00,Russia,0.3025177102544722,0,1,ja,ESB,Europe
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,霧のサニラジャック・イグルーリク,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,ja,NEN,North-America
+'02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,山火事のオストランデとアグデルの一部,2026-07-27T06:05:00+00:00,Norway,0.30249276373447115,0,1,ja,NEU,Europe
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,熱波サウジアラビア,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3024762978511521,0,1,ja,ARP,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-07-21T05:36:00+00:00,Paraguay,0.3024751977179042,0,1,ja,SES,South-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,クウェートの嵐,2026-07-16T05:25:00+00:00,Kuwait,0.3024599701268262,0,1,ja,ARP,Asia
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2026-07-19T05:37:00+00:00,Chile,0.3024578171139604,0,1,ja,SWS,South-America
+'aab7909052',extremes,Fog,#d60d2b,wmo,霧イスラエル,2026-07-24T05:36:00+00:00,Israel,0.30244308339951576,0,1,ja,MED,Asia
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,降水量 サウジアラビア,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3024256317542781,0,1,ja,ARP,Asia
 '2433af70de',extremes,Storm,#b3b2b1,wmo,高潮ベリーズ,2026-07-07T06:30:00+00:00,Belize,0.3024205095705246,0,1,ja,SCA,North-America
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,マダガスカルの嵐,2026-07-22T05:35:00+00:00,Madagascar,0.3024159733705609,0,1,ja,MDG,Africa
