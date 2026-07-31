@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-07-17T05:27:00+00:00,Japan,0.498530331752104,1,1,ja,NPO,Pacific Ocean
 '7c55bf2440',extremes,Earthquake,#870007,usgs,地震そうさ,2026-07-21T05:36:00+00:00,Japan,0.4976374807523721,1,2,ja,EAS,Asia
 '50ef6bce0f',extremes,Earthquake,#870007,usgs,日向地震,2026-07-03T06:09:00+00:00,Japan,0.4882365016835576,1,2,ja,EAS,Asia
-'4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.4868560163681295,0,1,ja,EAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-06-20T06:46:00+00:00,,0.4862857072559246,1,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-07-13T05:53:00+00:00,Japan,0.4820077434425863,1,1,ja,EAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-07-30T05:24:00+00:00,,0.4770236709153281,1,2,ja,,
@@ -49,6 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-07-09T06:27:00+00:00,,0.4143830431583233,1,2,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-23T06:32:00+00:00,,0.4142435354457865,1,2,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-07-06T06:52:00+00:00,,0.4139115062648885,1,3,ja,,
+'4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.41382761391291006,1,1,ja,EAS,Asia
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-07-05T06:25:00+00:00,Brazil,0.4128604761143186,1,2,ja,SAM,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,凍てつくニュージーランド,2026-07-24T05:36:00+00:00,New Zealand,0.412035916299601,1,2,ja,NZ,Oceania
@@ -86,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3762585595712923,1,3,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-07-05T06:24:00+00:00,,0.3740138186896488,1,2,ja,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.37112432174106735,1,2,ja,,
 '51ecd0a2e9',extremes,Earthquake,#870007,usgs,地震 2026 年 UT 日本地震,2026-07-29T05:37:00+00:00,Japan,0.3678460477231264,1,1,ja,EAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-22T08:39:00+00:00,,0.3669869046964091,1,2,ja,,
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-07-05T06:24:00+00:00,Japan,0.3613247511125504,2,1,ja,EAS,Asia
@@ -96,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-06-24T06:29:00+00:00,,0.3532573130048724,1,2,ja,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-07-01T06:52:00+00:00,,0.3528744541559454,2,1,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-07T06:30:00+00:00,,0.3527152194246455,1,1,ja,,
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.3488769827205835,0,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
@@ -120,12 +120,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ニュージーランドのフロスト,2026-07-25T05:29:00+00:00,New Zealand,0.3080871861162948,0,1,ja,NZ,Oceania
-'cbd214af74',extremes,Drought,#edc291,edo,ウガンダの乾燥,2026-07-31T05:51:00+00:00,Uganda,0.30789077302815027,0,1,ja,SEAF,Africa
+'cbd214af74',extremes,Drought,#edc291,edo,ウガンダの乾燥,2026-07-31T05:51:00+00:00,Uganda,0.3078907730281502,0,1,ja,SEAF,Africa
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,ja,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-07-18T05:10:00+00:00,Brazil,0.3052837859245118,0,1,ja,SAM,South-America
-'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.30497335548587423,0,1,ja,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.3049733554858742,0,1,ja,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ja,SPO,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
 '6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-07-07T06:30:00+00:00,Mauritius,0.3031659619110949,0,1,ja,SIO,Indian Ocean
