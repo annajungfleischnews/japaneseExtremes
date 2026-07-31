@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-27T06:08:00+00:00,Japan,0.5753763547061245,6,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-06-17T07:33:00+00:00,,0.5389631813772693,3,3,ja,,
+'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-07-11T05:27:00+00:00,Japan,0.5285186497798778,1,3,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-06-24T06:29:00+00:00,,0.5260499135499289,2,3,ja,,
 '7923594be7',extremes,Earthquake,#870007,usgs,地震つなぎ,2026-07-30T05:24:00+00:00,Japan,0.5239689166985146,1,2,ja,EAS,Asia
 'a9d44fd12c',extremes,Earthquake,#870007,usgs,御船地震,2026-07-30T05:24:00+00:00,Japan,0.5190448229257586,1,2,ja,EAS,Asia
@@ -14,10 +15,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50ef6bce0f',extremes,Earthquake,#870007,usgs,日向地震,2026-07-03T06:09:00+00:00,Japan,0.4882365016835576,1,2,ja,EAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-06-20T06:46:00+00:00,,0.4862857072559246,1,3,ja,,
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-07-13T05:53:00+00:00,Japan,0.4820077434425863,1,1,ja,EAS,Asia
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-07-30T05:24:00+00:00,,0.47702367091532816,1,2,ja,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-07-30T05:24:00+00:00,,0.4770236709153281,1,2,ja,,
 '895eed8e89',extremes,Earthquake,#870007,usgs,大月地震,2026-07-08T05:37:00+00:00,Japan,0.4672178861733231,1,2,ja,EAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-06-12T07:05:00+00:00,,0.4655910595158851,1,3,ja,,
-'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-07-11T05:27:00+00:00,Japan,0.4608819681902306,0,1,ja,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-07-19T05:37:00+00:00,,0.4604076097291286,1,3,ja,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-07-18T05:10:00+00:00,,0.4554418378178941,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-07-14T05:14:00+00:00,,0.4527356402618508,1,2,ja,,
@@ -112,7 +112,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
-'ec51ecb5d3',extremes,Flood,#030ba1,acwe,タスマニア鉄砲水,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,ja,SAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,フロスト アーサーズ パス sh73,2026-07-30T05:24:00+00:00,New Zealand,0.3090901404020605,0,1,ja,NZ,Oceania
@@ -182,8 +181,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,野火ビクトリア,2026-07-04T05:59:00+00:00,Australia,0.269963471236045,1,1,ja,SAU,Oceania
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極の海氷,2026-07-13T05:53:00+00:00,,0.266609260678225,1,1,ja,,
 '0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,氷山 d33d,2026-06-30T06:39:00+00:00,,0.2664413253055995,1,1,ja,SOO,Antarctica
-'940a9f74b0',extremes,Wildfire,#d60d2b,acwe,タスマニアの山火事,2026-07-30T05:24:00+00:00,Australia,0.26593797475179093,1,1,ja,SAU,Oceania
+'940a9f74b0',extremes,Wildfire,#d60d2b,acwe,タスマニアの山火事,2026-07-30T05:24:00+00:00,Australia,0.2659379747517909,1,1,ja,SAU,Oceania
 '656113a2f4',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン ファウスト,2026-07-22T05:35:00+00:00,,0.2658167465601694,1,1,ja,NPO,Pacific Ocean
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,タスマニア鉄砲水,2026-07-22T05:35:00+00:00,Australia,0.26565781943972777,1,1,ja,SAU,Oceania
 'a47d8d0227',extremes,Drought,#edc291,edo,日照りスロバキア,2026-06-28T06:44:00+00:00,Slovakia,0.2650429107040767,1,1,ja,WCE,Europe
 '38e672b274',extremes,Drought,#edc291,edo,ガボンの乾燥,2026-07-12T05:43:00+00:00,Gabon,0.2649668071074597,1,1,ja,CAF,Africa
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-07-14T05:15:00+00:00,Palau,0.2649295940813493,1,1,ja,EPO,Pacific Ocean
