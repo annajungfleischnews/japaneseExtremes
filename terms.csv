@@ -2,8 +2,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-06-25T06:32:00+00:00,Japan,0.5929368117180125,2,2,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-27T06:08:00+00:00,Japan,0.5753763547061245,6,3,ja,EAS,Asia
+'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5598657096279077,1,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
-'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5405415402039556,0,1,ja,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-06-17T07:33:00+00:00,,0.5389631813772693,3,3,ja,,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-07-11T05:27:00+00:00,Japan,0.5285186497798778,1,3,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-06-24T06:29:00+00:00,,0.5260499135499289,2,3,ja,,
@@ -48,7 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-07-09T06:27:00+00:00,,0.4143830431583233,1,2,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-06-23T06:32:00+00:00,,0.4142435354457865,1,2,ja,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,地滑り,2026-07-06T06:52:00+00:00,,0.4139115062648885,1,3,ja,,
-'4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.41382761391291006,1,1,ja,EAS,Asia
+'4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.41382761391291,1,1,ja,EAS,Asia
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,雪ブラジル,2026-07-05T06:25:00+00:00,Brazil,0.4128604761143186,1,2,ja,SAM,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,雨ニュージーランド,2026-06-20T06:47:00+00:00,New Zealand,0.412377974038657,1,2,ja,NZ,Oceania
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,凍てつくニュージーランド,2026-07-24T05:36:00+00:00,New Zealand,0.412035916299601,1,2,ja,NZ,Oceania
@@ -86,7 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3762585595712923,1,3,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,吹雪,2026-07-05T06:24:00+00:00,,0.3740138186896488,1,2,ja,,
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.37112432174106735,1,2,ja,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.3711243217410673,1,2,ja,,
 '51ecd0a2e9',extremes,Earthquake,#870007,usgs,地震 2026 年 UT 日本地震,2026-07-29T05:37:00+00:00,Japan,0.3678460477231264,1,1,ja,EAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-06-22T08:39:00+00:00,,0.3669869046964091,1,2,ja,,
 'f986f74559',extremes,Earthquake,#870007,usgs,与那国地震,2026-07-05T06:24:00+00:00,Japan,0.3613247511125504,2,1,ja,EAS,Asia
@@ -116,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
-'2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,フロスト アーサーズ パス sh73,2026-07-30T05:24:00+00:00,New Zealand,0.3090901404020605,0,1,ja,NZ,Oceania
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ニュージーランドのフロスト,2026-07-25T05:29:00+00:00,New Zealand,0.3080871861162948,0,1,ja,NZ,Oceania
@@ -200,6 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '103eea7ff7',extremes,Drought,#edc291,edo,チェコの雨不足,2026-06-29T07:13:00+00:00,Czechia,0.2632502698510282,1,1,ja,WCE,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,フロストブラジル,2026-07-06T06:52:00+00:00,Brazil,0.2630813074295422,1,1,ja,SAM,South-America
 '02bc9c64a4',extremes,Drought,#edc291,edo,カンボジアの雨不足,2026-07-13T05:53:00+00:00,Cambodia,0.2629159129485525,1,1,ja,SEA,Asia
+'2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,フロスト アーサーズ パス sh73,2026-07-30T05:24:00+00:00,New Zealand,0.2627266193417514,1,1,ja,NZ,Oceania
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,ガーナ雷雨,2026-07-23T05:40:00+00:00,Ghana,0.2626764587311455,1,1,ja,WAF,Africa
 '9d3d1e5f58',extremes,Thunderstorm,#53785a,wmo,悪天候スーダン,2026-07-28T05:31:00+00:00,Sudan,0.2625569347794366,1,1,ja,NEAF,Africa
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,双陽地区の地滑り,2026-07-14T05:14:00+00:00,China,0.2625028686804039,1,1,ja,EAS,Asia
