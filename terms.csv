@@ -127,6 +127,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.3049733554858742,0,1,ja,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ja,SPO,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
+'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,熱波キプロス,2026-07-12T05:43:00+00:00,Cyprus,0.3040403550557922,0,1,ja,MED,Europe
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,沿岸および沖合地域の高潮。,2026-07-31T05:51:00+00:00,Belize,0.30364536106792295,0,1,ja,SCA,North-America
+'56ec1d3897',extremes,Drought,#edc291,edo,ウガンダの干ばつ,2026-07-14T05:15:00+00:00,Uganda,0.3035247289999474,0,1,ja,SEAF,Africa
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,高潮アルゼンチン,2026-07-17T05:27:00+00:00,Argentina,0.30330973157447505,0,1,ja,SES,South-America
+'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,フロスト ミルフォード ロード SH94,2026-07-30T05:24:00+00:00,New Zealand,0.3031797024464573,0,1,ja,NZ,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-07-07T06:30:00+00:00,Mauritius,0.3031659619110949,0,1,ja,SIO,Indian Ocean
 'd61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-07-08T05:37:00+00:00,Chile,0.3031566766767615,0,1,ja,SWS,South-America
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,バヌアツ全海域の高潮。,2026-07-17T05:27:00+00:00,Vanuatu,0.3031528531299129,0,1,ja,SPO,Oceania
