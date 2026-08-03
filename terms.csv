@@ -112,8 +112,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
+'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,スーパータイフーンドルフィン,2026-07-30T05:24:00+00:00,,0.313006845704792,0,1,ja,NPO,Pacific Ocean
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
+'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン フィリピン,2026-07-24T05:36:00+00:00,Philippines,0.3098429816554349,0,1,ja,SEA,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 'cbd214af74',extremes,Drought,#edc291,edo,ウガンダの乾燥,2026-07-31T05:51:00+00:00,Uganda,0.3078907730281502,0,1,ja,SEAF,Africa
@@ -121,9 +123,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,カナダの雷雨,2026-07-19T05:37:00+00:00,Canada,0.3073113273222184,0,1,ja,NEN,North-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,豪雨,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,ja,NCA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,嵐エクアドル,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,ja,NWS,South-America
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-07-31T05:51:00+00:00,Tanzania,0.30555579134716654,0,1,ja,SEAF,Africa
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,高潮パラグアイ,2026-07-29T05:37:00+00:00,Paraguay,0.30554549846745993,0,1,ja,SES,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,高潮ブラジル,2026-07-18T05:10:00+00:00,Brazil,0.3052837859245118,0,1,ja,SAM,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.3049733554858742,0,1,ja,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,バヌアツ嵐,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,ja,SPO,Oceania
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 中程度,2026-08-01T05:42:00+00:00,Paraguay,0.3042484729144645,0,1,ja,SES,South-America
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,熱波キプロス,2026-07-12T05:43:00+00:00,Cyprus,0.3040403550557922,0,1,ja,MED,Europe
