@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-27T06:08:00+00:00,Japan,0.5753763547061245,6,3,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5598657096279077,1,3,ja,EAS,Asia
+'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.555076434244132,0,1,ja,EAS,Asia
 '5abf8a7952',extremes,Earthquake,#870007,usgs,地震つのう,2026-08-02T05:42:00+00:00,Japan,0.5522495425002655,1,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-01T05:42:00+00:00,Japan,0.5324831814895187,1,1,ja,EAS,Asia
@@ -33,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-07-04T05:59:00+00:00,Japan,0.440603407461524,2,1,ja,EAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-06-21T07:16:00+00:00,,0.440076457957499,1,3,ja,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-07-28T05:30:00+00:00,,0.4384937366069671,1,3,ja,,
+'96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.433441252199783,0,1,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-07-22T05:35:00+00:00,,0.4332363829303018,1,2,ja,,
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,雪なだれ,2026-06-21T07:16:00+00:00,,0.4299600351077816,1,3,ja,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-07-07T06:30:00+00:00,,0.4261813683697947,1,3,ja,,
@@ -68,10 +70,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-07-04T05:59:00+00:00,,0.3954631700719767,1,3,ja,,
 '3418113d1c',extremes,Earthquake,#870007,usgs,白浜地震,2026-07-10T06:27:00+00:00,Japan,0.394082454115689,1,1,ja,EAS,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-03T06:09:00+00:00,,0.3912696870546935,2,2,ja,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-07-21T05:36:00+00:00,,0.3901786501877474,0,1,ja,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-07-24T05:35:00+00:00,,0.3877969634900246,1,2,ja,,
 '31919931b3',extremes,Landslide,#572c03,wmo,土砂崩れ,2026-07-03T06:09:00+00:00,China,0.3867042640998654,1,3,ja,EAS,Asia
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-08-03T05:57:00+00:00,,0.3851752240726486,0,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-07-11T05:26:00+00:00,,0.3828097795079357,1,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-06-19T07:39:00+00:00,,0.3821684960833766,1,3,ja,,
+'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.38132042889197515,0,1,ja,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-07-20T05:54:00+00:00,,0.3810503127088914,1,2,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-06-28T06:44:00+00:00,Canada,0.3798603504280904,2,2,ja,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.379652290014894,1,3,ja,NEN,North-America
@@ -224,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,ナイジェリアの嵐,2026-07-28T05:31:00+00:00,Nigeria,0.259412190707697,1,1,ja,WAF,Africa
 '12775cc05a',extremes,Drought,#edc291,wmo,ブラジルの干ばつ,2026-07-07T06:30:00+00:00,Brazil,0.25935420846778,1,1,ja,SAM,South-America
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,雪チリ,2026-07-14T05:14:00+00:00,Chile,0.2592281779615636,1,1,ja,SWS,South-America
-'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.25922735216299303,1,1,ja,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,アルゼンチンの嵐,2026-07-17T05:27:00+00:00,Argentina,0.259227352162993,1,1,ja,SES,South-America
 '7f426032e8',extremes,Drought,#edc291,edo,日照り続くブータン,2026-07-04T05:59:00+00:00,Bhutan,0.2592247881870532,1,1,ja,TIB,Asia
 'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,悪天候 ベラルーシ,2026-07-13T05:53:00+00:00,Belarus,0.2591689678824961,1,1,ja,WCE,Europe
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,フロストチリ,2026-07-14T05:14:00+00:00,Chile,0.2591527613515249,1,1,ja,SWS,South-America
@@ -262,11 +267,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '863042ed44',extremes,Heat Wave,#c40202,wmo,熱波エジプト,2026-07-31T05:51:00+00:00,Egypt,0.257732181528002,1,1,ja,SAH,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,土砂降りブラジル,2026-07-15T05:15:00+00:00,Brazil,0.2577258056523597,1,1,ja,SAM,South-America
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,フロスト ミルフォード ロード SH94,2026-07-30T05:24:00+00:00,New Zealand,0.2577027470794887,1,1,ja,NZ,Oceania
-'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-07-07T06:30:00+00:00,Mauritius,0.25769106762443067,1,1,ja,SIO,Indian Ocean
-'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-07-08T05:37:00+00:00,Chile,0.25768317517524725,1,1,ja,SWS,South-America
+'6852666385',extremes,Earthquake,#870007,usgs,地震ポート マチュリン,2026-07-07T06:30:00+00:00,Mauritius,0.2576910676244306,1,1,ja,SIO,Indian Ocean
+'d61de81685',extremes,Storm,#b3b2b1,wmo,高潮チリ,2026-07-08T05:37:00+00:00,Chile,0.2576831751752472,1,1,ja,SWS,South-America
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,バヌアツ全海域の高潮。,2026-07-17T05:27:00+00:00,Vanuatu,0.257679925160426,1,1,ja,SPO,Oceania
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,ウルグアイの嵐,2026-07-19T05:37:00+00:00,Uruguay,0.2576766529949515,1,1,ja,SES,South-America
-'538094e890',extremes,Heat Wave,#c40202,wmo,熱波ムシラ,2026-07-26T05:46:00+00:00,Algeria,0.25763281778709224,1,1,ja,SAH,Africa
+'538094e890',extremes,Heat Wave,#c40202,wmo,熱波ムシラ,2026-07-26T05:46:00+00:00,Algeria,0.2576328177870922,1,1,ja,SAH,Africa
 '3336c980ab',extremes,Earthquake,#870007,usgs,セントヘレナ地震,2026-07-29T05:37:00+00:00,Saint Helena,0.2576201403500254,1,1,ja,EAO,Atlantic Ocean
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,東フィヨルドの嵐,2026-07-25T05:29:00+00:00,Iceland,0.257587753352122,1,1,ja,GIC,Europe
 'de55985e54',extremes,Earthquake,#870007,usgs,地震ハディブ,2026-07-19T05:37:00+00:00,Yemen,0.2575567254835213,1,1,ja,ARS,Indian Ocean
