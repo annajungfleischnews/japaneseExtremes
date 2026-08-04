@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-06-25T06:32:00+00:00,Japan,0.6219355802454849,4,3,ja,EAS,Asia
+'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6131300154711485,1,3,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-08-02T05:42:00+00:00,Japan,0.6012266828984738,1,2,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-06-27T06:08:00+00:00,Japan,0.5753763547061245,6,3,ja,EAS,Asia
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5598657096279077,1,3,ja,EAS,Asia
-'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.555076434244132,0,1,ja,EAS,Asia
 '5abf8a7952',extremes,Earthquake,#870007,usgs,地震つのう,2026-08-02T05:42:00+00:00,Japan,0.5522495425002655,1,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-01T05:42:00+00:00,Japan,0.5324831814895187,1,1,ja,EAS,Asia
@@ -76,7 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-08-03T05:57:00+00:00,,0.3851752240726486,0,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-07-11T05:26:00+00:00,,0.3828097795079357,1,1,ja,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-06-19T07:39:00+00:00,,0.3821684960833766,1,3,ja,,
-'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.38132042889197515,0,1,ja,,
+'82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.3813204288919751,0,1,ja,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-07-20T05:54:00+00:00,,0.3810503127088914,1,2,ja,,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,カナダの荒天,2026-06-28T06:44:00+00:00,Canada,0.3798603504280904,2,2,ja,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.379652290014894,1,3,ja,NEN,North-America
