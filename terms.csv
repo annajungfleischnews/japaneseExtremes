@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-06-25T06:32:00+00:00,Japan,0.6219355802454849,4,3,ja,EAS,Asia
+'29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-06-25T06:32:00+00:00,Japan,0.6517785013904803,5,3,ja,EAS,Asia
 '4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6131300154711485,1,3,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
@@ -169,7 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-07-10T06:27:00+00:00,,0.2789920996825707,1,1,ja,,
 '8626b81b9b',extremes,Flood,#030ba1,emdat,サモラ・チンチペの洪水,2026-07-21T05:36:00+00:00,Ecuador,0.2720064152251044,1,1,ja,NWS,South-America
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,野火ビクトリア,2026-07-04T05:59:00+00:00,Australia,0.269963471236045,1,1,ja,SAU,Oceania
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,嵐メルボルンビクトリア 2020,2026-08-05T05:31:00+00:00,Australia,0.26790993628801213,1,1,ja,SAU,Oceania
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,嵐メルボルンビクトリア 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,ja,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,暴風雨、ビクトリア州、2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,ja,SAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,オーストラリアの嵐,2026-07-17T05:27:00+00:00,Australia,0.2671478072876051,1,1,ja,EAU,Oceania
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極の海氷,2026-07-13T05:53:00+00:00,,0.266609260678225,1,1,ja,,
