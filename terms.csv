@@ -100,6 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-07-03T06:09:00+00:00,Palau,0.3404471751430926,1,1,ja,EPO,Pacific Ocean
 'c2865075a2',extremes,Drought,#edc291,edo,干ばつパラオ,2026-07-08T05:37:00+00:00,Palau,0.3369696686914954,1,1,ja,EPO,Pacific Ocean
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,熱帯低気圧米国,2026-07-20T05:54:00+00:00,United States,0.3367345308818004,1,2,ja,CNA,North-America
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,氷河湖の発生,2026-07-27T06:05:00+00:00,,0.33574709559110316,0,1,ja,,
 '7747997246',extremes,Fog,#d60d2b,wmo,霧ロシア,2026-06-26T06:36:00+00:00,Russia,0.3351205304581093,1,2,ja,ESB,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-07-05T06:24:00+00:00,,0.334931906599438,1,1,ja,,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,熱波東部地域,2026-07-16T05:25:00+00:00,North Macedonia,0.3342875756687645,1,2,ja,MED,Europe
@@ -110,9 +111,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,ダストデビル,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
+'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,嵐メルボルンビクトリア 2020,2026-08-05T05:31:00+00:00,Australia,0.3151881603388378,0,1,ja,SAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '8c2b565540',extremes,Drought,#edc291,edo,ウガンダ日照り,2026-07-16T05:25:00+00:00,Uganda,0.3111833638984103,0,1,ja,SEAF,Africa
+'fc1842c1fa',extremes,Drought,#edc291,edo,カンボジアの干ばつ,2026-08-04T05:32:00+00:00,Cambodia,0.3103805968440068,0,1,ja,SEA,Asia
+'3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.31035428005613186,0,1,ja,WAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-07-11T05:27:00+00:00,Palau,0.3082976675762176,1,1,ja,EPO,Pacific Ocean
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,凍てつくアルゼンチン,2026-07-08T05:37:00+00:00,Argentina,0.3073772856711504,0,1,ja,SES,South-America
