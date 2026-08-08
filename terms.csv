@@ -96,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-07-14T05:14:00+00:00,,0.3561366346747322,2,2,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-07-07T06:30:00+00:00,,0.3557325231322701,1,1,ja,,
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-07T04:37:00+00:00,,0.3531397668442019,0,1,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-07T06:30:00+00:00,,0.3527152194246455,1,1,ja,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-21T05:36:00+00:00,,0.3480653335483436,0,1,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
@@ -113,6 +114,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-08-03T05:57:00+00:00,,0.3275489554617513,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
+'9c704e4826',extremes,Wildfire,#d60d2b,effis,山火事 レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.31975751439977185,0,1,ja,MED,Asia
+'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,レバノンの山火事,2026-08-07T11:06:00+00:00,Lebanon,0.31975673338533467,0,1,ja,MED,Asia
+'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,山火事 サラフェンド レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.31975624818756754,0,1,ja,MED,Asia
+'2094eeff3e',extremes,Wildfire,#d60d2b,effis,野火ナビ youcheaa レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562420673727,0,1,ja,MED,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,山火事 マルディン ターキー,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,1,ja,WCA,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
