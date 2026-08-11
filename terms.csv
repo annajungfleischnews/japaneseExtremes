@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-07-18T05:10:00+00:00,Japan,0.8264323052540422,6,3,ja,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-07-18T05:10:00+00:00,Japan,0.8347080217386631,7,3,ja,EAS,Asia
 '4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6131300154711485,1,3,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
@@ -59,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b5264574',extremes,Heat Wave,#c40202,wmo,カナダの熱波,2026-07-01T06:52:00+00:00,Canada,0.4090347530655108,1,2,ja,NEN,North-America
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,霧の沿海地方,2026-07-06T06:52:00+00:00,Russia,0.4089401758745594,1,2,ja,ESB,Europe
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,北の海域の高潮。,2026-07-28T05:31:00+00:00,Vanuatu,0.4088338902724058,1,2,ja,SPO,Oceania
-'95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-07-01T06:52:00+00:00,Japan,0.4051374136842914,2,2,ja,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-07-03T06:09:00+00:00,,0.4020522457927519,1,2,ja,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-07-13T05:53:00+00:00,,0.4017334277442044,1,3,ja,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-07-04T05:59:00+00:00,,0.3954631700719767,1,3,ja,,
