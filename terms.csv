@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.625196172339233,0,1,ja,EAS,Asia
 '4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6131300154711485,1,3,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-06-29T07:12:00+00:00,,0.5898822627537212,4,3,ja,,
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
@@ -25,7 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-07-09T06:27:00+00:00,,0.4704411568188943,2,3,ja,,
 'df52c32116',extremes,Earthquake,#870007,usgs,天城地震,2026-08-01T05:41:00+00:00,Japan,0.4686134920821105,1,1,ja,EAS,Asia
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-07-24T05:35:00+00:00,Japan,0.4657834804196717,1,3,ja,EAS,Asia
-'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-08-01T05:41:00+00:00,,0.46376099633711143,1,3,ja,,
+'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-08-01T05:41:00+00:00,,0.4637609963371114,1,3,ja,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,気温が急落する,2026-08-04T05:31:00+00:00,,0.4632040801061619,1,2,ja,,
 '9a2d303145',extremes,Earthquake,#870007,usgs,女川町地震,2026-08-05T05:31:00+00:00,Japan,0.4625848567051147,1,2,ja,EAS,Asia
 'b6cef22543',extremes,Drought,#edc291,random,水分制限,2026-07-01T06:52:00+00:00,,0.4620956254528811,2,3,ja,,
@@ -129,6 +130,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71f51c063c',extremes,Wildfire,#d60d2b,effis,山火事バズーリアト レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562267777648,0,1,ja,MED,Asia
 'c86de2820d',extremes,Wildfire,#d60d2b,effis,山火事 エル・チャルキエ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562242846461,0,1,ja,MED,Asia
 'f7835c01c4',extremes,Wildfire,#d60d2b,effis,野火マラティヤ七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.3197562231087731,0,1,ja,MED,Asia
+'e2fcf07849',extremes,Wildfire,#d60d2b,effis,山火事 elazığ 七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.3197562220411564,0,1,ja,MED,Asia
+'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,山火事ナビ youcheaa レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.31975622164848283,0,1,ja,MED,Asia
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,野火 トゥルチャ ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.3197562211247619,0,1,ja,MED,Europe
+'81a6886100',extremes,Wildfire,#d60d2b,effis,森林火災オシェチコ・バラニスカ・ジュパニア、クロアチア,2026-08-07T11:06:00+00:00,Croatia,0.31975621875725246,0,1,ja,WCE,Europe
+'2f03e0c694',extremes,Wildfire,#d60d2b,effis,山火事 n.a.チュニジア,2026-08-07T09:56:00+00:00,Tunisia,0.3197562181328537,0,1,ja,MED,Africa
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 'fc1842c1fa',extremes,Drought,#edc291,edo,カンボジアの干ばつ,2026-08-04T05:32:00+00:00,Cambodia,0.3103805968440068,0,1,ja,SEA,Asia
@@ -204,7 +210,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b445ee6ee0',extremes,Drought,#edc291,edo,エルサルバドルの乾燥,2026-08-04T05:32:00+00:00,El Salvador,0.2647856107512875,1,1,ja,SCA,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,ウガンダ日照り,2026-07-16T05:25:00+00:00,Uganda,0.2645058593136487,1,1,ja,SEAF,Africa
 '393400b105',extremes,Drought,#edc291,edo,プエルトリコの乾燥,2026-07-13T05:53:00+00:00,Puerto Rico,0.2642612618177331,1,1,ja,CAR,North-America
-'3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.26380113804771205,1,1,ja,WAF,Africa
+'3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.263801138047712,1,1,ja,WAF,Africa
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-07-26T05:46:00+00:00,,0.2637961344478107,1,1,ja,,
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン フィリピン,2026-07-24T05:36:00+00:00,Philippines,0.2633665344071196,1,1,ja,SEA,Asia
 '02bc9c64a4',extremes,Drought,#edc291,edo,カンボジアの雨不足,2026-07-13T05:53:00+00:00,Cambodia,0.2629159129485525,1,1,ja,SEA,Asia
