@@ -101,25 +101,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-08-03T05:57:00+00:00,,0.3275489554617513,1,1,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-07-15T05:15:00+00:00,,0.3236522015973539,1,1,ja,,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
-'fed99381dc',extremes,Wildfire,#d60d2b,effis,森林火災 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.3197562276352914,0,1,ja,MED,Africa
-'a665c262d9',extremes,Wildfire,#d60d2b,effis,山火事 n.a.ウクライナ,2026-08-07T09:56:00+00:00,Ukraine,0.3197562274093369,0,1,ja,WCE,Europe
-'d60fadeea3',extremes,Wildfire,#d60d2b,effis,ポルトガルのポルト大都市圏の山火事,2026-08-07T09:56:00+00:00,Portugal,0.3197562268591683,0,1,ja,MED,Europe
-'71f51c063c',extremes,Wildfire,#d60d2b,effis,山火事バズーリアト レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562267777648,0,1,ja,MED,Asia
-'c86de2820d',extremes,Wildfire,#d60d2b,effis,山火事 エル・チャルキエ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562242846461,0,1,ja,MED,Asia
-'f7835c01c4',extremes,Wildfire,#d60d2b,effis,野火マラティヤ七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.3197562231087731,0,1,ja,MED,Asia
-'e2fcf07849',extremes,Wildfire,#d60d2b,effis,山火事 elazığ 七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.3197562220411564,0,1,ja,MED,Asia
-'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,山火事ナビ youcheaa レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197562216484828,0,1,ja,MED,Asia
-'62f5b29317',extremes,Wildfire,#d60d2b,effis,野火 トゥルチャ ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.3197562211247619,0,1,ja,MED,Europe
-'81a6886100',extremes,Wildfire,#d60d2b,effis,森林火災オシェチコ・バラニスカ・ジュパニア、クロアチア,2026-08-07T11:06:00+00:00,Croatia,0.3197562187572524,0,1,ja,WCE,Europe
-'2f03e0c694',extremes,Wildfire,#d60d2b,effis,山火事 n.a.チュニジア,2026-08-07T09:56:00+00:00,Tunisia,0.3197562181328537,0,1,ja,MED,Africa
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
-'fc1842c1fa',extremes,Drought,#edc291,edo,カンボジアの干ばつ,2026-08-04T05:32:00+00:00,Cambodia,0.3103805968440068,0,1,ja,SEA,Asia
-'fe5ac6d3b6',extremes,Drought,#edc291,edo,スロバキアの雨不足,2026-08-04T05:32:00+00:00,Slovakia,0.3102524043083745,0,1,ja,WCE,Europe
-'5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,アイスポーターパス sh73,2026-08-03T05:57:00+00:00,New Zealand,0.3098514489704584,0,1,ja,NZ,Oceania
-'22055e4283',extremes,Drought,#edc291,edo,干ばつニカラグア,2026-07-25T05:29:00+00:00,Nicaragua,0.3097790153869247,0,1,ja,SCA,North-America
-'221e658bfd',extremes,Drought,#edc291,edo,乾燥 ルクセンブルク,2026-07-29T05:38:00+00:00,Luxembourg,0.3097506207187343,0,1,ja,WCE,Europe
 '85c98951d6',extremes,Drought,#edc291,edo,雨不足 モンテネグロ,2026-07-23T05:40:00+00:00,Montenegro,0.3089010734162973,0,1,ja,MED,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,ハンガリーの乾燥,2026-08-03T05:58:00+00:00,Hungary,0.3085611404475101,0,1,ja,WCE,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
@@ -191,6 +175,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53e43a28d5',extremes,Wildfire,#d60d2b,effis,山火事エルクフォーレバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927951996813,1,1,ja,MED,Asia
 '3b374ddaaa',extremes,Wildfire,#d60d2b,effis,北マケドニアの山火事,2026-08-07T11:06:00+00:00,North Macedonia,0.27179279516426,1,1,ja,MED,Europe
 '8d9d2cdcb4',extremes,Wildfire,#d60d2b,effis,山火事 ハレット ジャンダル レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927938540961,1,1,ja,MED,Asia
+'fed99381dc',extremes,Wildfire,#d60d2b,effis,森林火災 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.2717927934899977,1,1,ja,MED,Africa
+'a665c262d9',extremes,Wildfire,#d60d2b,effis,山火事 n.a.ウクライナ,2026-08-07T09:56:00+00:00,Ukraine,0.2717927932979364,1,1,ja,WCE,Europe
+'d60fadeea3',extremes,Wildfire,#d60d2b,effis,ポルトガルのポルト大都市圏の山火事,2026-08-07T09:56:00+00:00,Portugal,0.27179279283029306,1,1,ja,MED,Europe
+'71f51c063c',extremes,Wildfire,#d60d2b,effis,山火事バズーリアト レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927927611001,1,1,ja,MED,Asia
+'c86de2820d',extremes,Wildfire,#d60d2b,effis,山火事 エル・チャルキエ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.27179279064194917,1,1,ja,MED,Asia
+'f7835c01c4',extremes,Wildfire,#d60d2b,effis,野火マラティヤ七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.2717927896424571,1,1,ja,MED,Asia
+'e2fcf07849',extremes,Wildfire,#d60d2b,effis,山火事 elazığ 七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.2717927887349829,1,1,ja,MED,Asia
+'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,山火事ナビ youcheaa レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.27179278840121035,1,1,ja,MED,Asia
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,野火 トゥルチャ ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.2717927879560476,1,1,ja,MED,Europe
+'81a6886100',extremes,Wildfire,#d60d2b,effis,森林火災オシェチコ・バラニスカ・ジュパニア、クロアチア,2026-08-07T11:06:00+00:00,Croatia,0.2717927859436645,1,1,ja,WCE,Europe
+'2f03e0c694',extremes,Wildfire,#d60d2b,effis,山火事 n.a.チュニジア,2026-08-07T09:56:00+00:00,Tunisia,0.2717927854129256,1,1,ja,MED,Africa
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,嵐メルボルンビクトリア 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,ja,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,暴風雨、ビクトリア州、2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,ja,SAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2026-07-22T05:35:00+00:00,Australia,0.2674430133272083,1,1,ja,EAU,Oceania
@@ -206,9 +201,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b445ee6ee0',extremes,Drought,#edc291,edo,エルサルバドルの乾燥,2026-08-04T05:32:00+00:00,El Salvador,0.2647856107512875,1,1,ja,SCA,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,ウガンダ日照り,2026-07-16T05:25:00+00:00,Uganda,0.2645058593136487,1,1,ja,SEAF,Africa
 '393400b105',extremes,Drought,#edc291,edo,プエルトリコの乾燥,2026-07-13T05:53:00+00:00,Puerto Rico,0.2642612618177331,1,1,ja,CAR,North-America
+'fc1842c1fa',extremes,Drought,#edc291,edo,カンボジアの干ばつ,2026-08-04T05:32:00+00:00,Cambodia,0.2638235073174058,1,1,ja,SEA,Asia
 '3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.263801138047712,1,1,ja,WAF,Africa
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-07-26T05:46:00+00:00,,0.2637961344478107,1,1,ja,,
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,スロバキアの雨不足,2026-08-04T05:32:00+00:00,Slovakia,0.2637145436621183,1,1,ja,WCE,Europe
+'5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,アイスポーターパス sh73,2026-08-03T05:57:00+00:00,New Zealand,0.26337373162488964,1,1,ja,NZ,Oceania
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,ハリケーン フィリピン,2026-07-24T05:36:00+00:00,Philippines,0.2633665344071196,1,1,ja,SEA,Asia
+'22055e4283',extremes,Drought,#edc291,edo,干ばつニカラグア,2026-07-25T05:29:00+00:00,Nicaragua,0.263312163078886,1,1,ja,SCA,North-America
+'221e658bfd',extremes,Drought,#edc291,edo,乾燥 ルクセンブルク,2026-07-29T05:38:00+00:00,Luxembourg,0.2632880276109242,1,1,ja,WCE,Europe
 '02bc9c64a4',extremes,Drought,#edc291,edo,カンボジアの雨不足,2026-07-13T05:53:00+00:00,Cambodia,0.2629159129485525,1,1,ja,SEA,Asia
 'e7f7b79e1f',extremes,Drought,#edc291,edo,ボスニア・ヘルツェゴビナの干ばつ,2026-07-21T05:36:00+00:00,Bosnia and Herzegovina,0.2628356323984567,1,1,ja,MED,Europe
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,フロスト アーサーズ パス sh73,2026-07-30T05:24:00+00:00,New Zealand,0.2627266193417514,1,1,ja,NZ,Oceania
