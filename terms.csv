@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6545674496701662,1,3,ja,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6204421713105503,2,3,ja,EAS,Asia
 '4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6131300154711485,1,3,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
 '35fa509b3e',extremes,Earthquake,#870007,emdat,地震熊本県,2026-08-07T04:37:00+00:00,Japan,0.5602368161120298,1,3,ja,EAS,Asia
@@ -106,11 +106,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,イラン万歳,2026-07-24T05:36:00+00:00,Iran,0.3199343432412139,1,1,ja,WCA,Asia
 '52eade2718',extremes,Wildfire,#d60d2b,effis,野火アズルー モロッコ,2026-08-07T11:06:00+00:00,Morocco,0.3197562174850181,0,1,ja,MED,Africa
 '046de84cff',extremes,Wildfire,#d60d2b,effis,山火事イズミール七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197562168683661,0,1,ja,MED,Asia
-'9074be8300',extremes,Wildfire,#d60d2b,effis,イズミール七面鳥の山火事,2026-08-07T09:56:00+00:00,Turkey,0.31975621519165687,0,1,ja,MED,Asia
+'9074be8300',extremes,Wildfire,#d60d2b,effis,イズミール七面鳥の山火事,2026-08-07T09:56:00+00:00,Turkey,0.3197562151916568,0,1,ja,MED,Asia
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,山火事 アンカラ トルコ,2026-08-07T11:06:00+00:00,Turkey,0.3197562150106203,0,1,ja,MED,Asia
 '19e2e5e511',extremes,Wildfire,#d60d2b,effis,山火事イズパルタ トルコ,2026-08-07T09:56:00+00:00,Turkey,0.3197562132398012,0,1,ja,MED,Asia
-'eec56caa4e',extremes,Wildfire,#d60d2b,effis,山火事カラシュ・セヴェリン ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.31975621192348225,0,1,ja,WCE,Europe
-'f931fb4985',extremes,Wildfire,#d60d2b,effis,山火事 монтана ブルガリア,2026-08-07T09:56:00+00:00,Bulgaria,0.31975621019379613,0,1,ja,MED,Europe
+'eec56caa4e',extremes,Wildfire,#d60d2b,effis,山火事カラシュ・セヴェリン ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.3197562119234822,0,1,ja,WCE,Europe
+'f931fb4985',extremes,Wildfire,#d60d2b,effis,山火事 монтана ブルガリア,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,ja,MED,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,山火事 разка област セルビア,2026-08-07T11:06:00+00:00,Serbia,0.3197562101351033,0,1,ja,MED,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
