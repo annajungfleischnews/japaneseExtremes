@@ -58,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,沿岸の暴風雨地域,2026-07-03T06:09:00+00:00,Ecuador,0.4095809312315651,1,2,ja,NWS,South-America
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,霧の沿海地方,2026-07-06T06:52:00+00:00,Russia,0.4089401758745594,1,2,ja,ESB,Europe
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,北の海域の高潮。,2026-07-28T05:31:00+00:00,Vanuatu,0.4088338902724058,1,2,ja,SPO,Oceania
+'0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2026-07-19T05:37:00+00:00,Chile,0.4073891745468663,1,2,ja,SWS,South-America
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-08-12T04:22:00+00:00,,0.4048007349080668,1,3,ja,,
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-07-03T06:09:00+00:00,,0.4020522457927519,1,2,ja,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-07-13T05:53:00+00:00,,0.4017334277442044,1,3,ja,,
@@ -154,7 +155,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,熱波サウジアラビア,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3024762978511521,0,1,ja,ARP,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-07-21T05:36:00+00:00,Paraguay,0.3024751977179042,0,1,ja,SES,South-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,クウェートの嵐,2026-07-16T05:25:00+00:00,Kuwait,0.3024599701268262,0,1,ja,ARP,Asia
-'0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2026-07-19T05:37:00+00:00,Chile,0.3024578171139604,0,1,ja,SWS,South-America
 'aab7909052',extremes,Fog,#d60d2b,wmo,霧イスラエル,2026-07-24T05:36:00+00:00,Israel,0.3024430833995157,0,1,ja,MED,Asia
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,マダガスカルの嵐,2026-07-22T05:35:00+00:00,Madagascar,0.3024159733705609,0,1,ja,MDG,Africa
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,雪オーストラリア,2026-07-27T06:05:00+00:00,Australia,0.3023538691137918,0,1,ja,CAU,Oceania
