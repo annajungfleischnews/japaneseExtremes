@@ -84,9 +84,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-08-16T03:27:00+00:00,,0.3619964923666183,0,1,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-08T03:51:00+00:00,,0.3617647535085105,0,1,ja,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-07-20T05:54:00+00:00,,0.360732076194544,1,1,ja,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-08-03T05:57:00+00:00,,0.35961388486568574,0,1,ja,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-08-03T05:57:00+00:00,,0.3596138848656857,0,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-07-19T05:37:00+00:00,,0.359508508575641,2,1,ja,,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,熱波フランス,2026-07-04T05:59:00+00:00,France,0.3591179774029327,1,3,ja,WCE,Europe
+'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,全海域の高潮,2026-07-10T06:27:00+00:00,Solomon Islands,0.3577692911115014,1,2,ja,EPO,Oceania
 '135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-07-15T05:15:00+00:00,,0.3564952862396744,1,2,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-07-14T05:14:00+00:00,,0.3561366346747322,2,2,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,ja,,
@@ -123,7 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,野火 バルセロナ スペイン,2026-08-07T11:06:00+00:00,Spain,0.3197562003661338,0,1,ja,MED,Europe
 '56932be330',extremes,Wildfire,#d60d2b,effis,トルコの森林火災,2026-08-07T11:06:00+00:00,Turkey,0.3197561887556467,0,1,ja,MED,Asia
 'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,山火事 クリュチ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561870144654,0,1,ja,MED,Europe
-'0f5047d744',extremes,Wildfire,#d60d2b,effis,山火事 トゥルチャ ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.31975618656098237,0,1,ja,MED,Europe
+'0f5047d744',extremes,Wildfire,#d60d2b,effis,山火事 トゥルチャ ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.3197561865609823,0,1,ja,MED,Europe
 '718485342e',extremes,Wildfire,#d60d2b,effis,山火事 コニク ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561795368106,0,1,ja,MED,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3163386415919264,0,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
@@ -146,7 +147,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9e6ac9c1c',extremes,Flood,#030ba1,wmo,チュメニ地方の鉄砲水,2026-07-26T05:46:00+00:00,Russia,0.3028964013887081,0,1,ja,ESB,Europe
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,熱波ヴァル・デルス・コロンビエ,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,ja,WCE,Europe
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,フリージング ルイス パス sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,1,ja,NZ,Oceania
-'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,全海域の高潮,2026-07-10T06:27:00+00:00,Solomon Islands,0.3027285248370605,0,1,ja,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,凍結規制。 11 パタゴニア スバンディナ ノルテ,2026-07-17T05:27:00+00:00,Chile,0.302716644906378,0,1,ja,SWS,South-America
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,雪ダニーデンからウェイトティ ハイウェイ SH1 まで,2026-07-24T05:36:00+00:00,New Zealand,0.3027154915274246,0,1,ja,NZ,Oceania
 '7c1e10f7d0',extremes,Wildfire,#d60d2b,wmo,山火事ムルマンスク地域,2026-07-11T05:27:00+00:00,Russia,0.302710857026815,0,1,ja,ESB,Europe
