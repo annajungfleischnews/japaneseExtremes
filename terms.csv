@@ -75,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-12T05:43:00+00:00,,0.3792968343958668,1,2,ja,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,ヒートドーム,2026-07-22T05:35:00+00:00,,0.3782954659422609,1,2,ja,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3762585595712923,1,3,ja,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.37577284291035057,0,1,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,あられカナダ,2026-07-09T06:27:00+00:00,Canada,0.3736071006505909,2,3,ja,NEN,North-America
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.3711243217410673,1,2,ja,,
@@ -125,6 +126,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e87f54a50',extremes,Wildfire,#d60d2b,effis,山火事カセレス スペイン,2026-08-07T09:56:00+00:00,Spain,0.3197561670381981,0,1,ja,MED,Europe
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,山火事 ルーゴ スペイン,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,0,1,ja,MED,Europe
 'b1a02426c6',extremes,Wildfire,#d60d2b,effis,山火事 ドゥブロヴァチコ ネレトヴァンスカ ジュパニア クロアチア,2026-08-07T11:06:00+00:00,Croatia,0.3197561596345213,0,1,ja,MED,Europe
+'9da2e4d9fb',extremes,Wildfire,#d60d2b,effis,山火事 ヴェリカ・クラドゥシャ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561538493033,0,1,ja,WCE,Europe
+'e2609489f3',extremes,Wildfire,#d60d2b,effis,山火事 アンクネ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197561508900715,0,1,ja,MED,Asia
+'9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,アイルランド中西部の山火事,2026-08-07T11:06:00+00:00,Ireland,0.31975611669766524,0,1,ja,NEU,Europe
+'fe300e279f',extremes,Wildfire,#d60d2b,effis,山火事 n.a.コソボ,2026-08-07T09:56:00+00:00,Kosovo,0.31975611267282555,0,1,ja,MED,Europe
+'8fac42b03a',extremes,Wildfire,#d60d2b,effis,野火カフラマンマラシュ七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.31975608189326066,0,1,ja,MED,Asia
+'811df2b2bd',extremes,Wildfire,#d60d2b,effis,マラティヤ七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.31975607202041545,0,1,ja,MED,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '85c98951d6',extremes,Drought,#edc291,edo,雨不足 モンテネグロ,2026-07-23T05:40:00+00:00,Montenegro,0.3089010734162973,0,1,ja,MED,Europe
@@ -251,4 +258,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-07-21T05:36:00+00:00,Paraguay,0.2571039180602186,1,1,ja,SES,South-America
 '8626b81b9b',extremes,Flood,#030ba1,emdat,サモラ・チンチペの洪水,2026-07-21T05:36:00+00:00,Ecuador,0.2312054529413387,2,1,ja,NWS,South-America
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,森林火災 キリス・シリア,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,ja,MED,Asia
-'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,山火事ドウロポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.23102387986758172,2,1,ja,MED,Europe
+'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,山火事ドウロポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.2310238798675817,2,1,ja,MED,Europe
