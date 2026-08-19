@@ -3,10 +3,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6104161448529866,7,3,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
 '35fa509b3e',extremes,Earthquake,#870007,emdat,地震熊本県,2026-08-07T04:37:00+00:00,Japan,0.5602368161120298,1,3,ja,EAS,Asia
-'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5598657096279077,1,3,ja,EAS,Asia
 '5abf8a7952',extremes,Earthquake,#870007,usgs,地震つのう,2026-08-02T05:42:00+00:00,Japan,0.5522495425002655,1,3,ja,EAS,Asia
 '895eed8e89',extremes,Earthquake,#870007,usgs,大月地震,2026-07-08T05:37:00+00:00,Japan,0.5475445937018701,2,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
+'7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-07-13T05:53:00+00:00,Japan,0.5399277222746306,2,3,ja,EAS,Asia
 'a9d44fd12c',extremes,Earthquake,#870007,usgs,御船地震,2026-07-30T05:24:00+00:00,Japan,0.5382928099414402,2,2,ja,EAS,Asia
 '7c55bf2440',extremes,Earthquake,#870007,usgs,地震そうさ,2026-07-21T05:36:00+00:00,Japan,0.5370350927304254,2,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-08-05T05:31:00+00:00,Japan,0.5364391725584958,1,3,ja,EAS,Asia
@@ -164,7 +164,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7bc6211e3c',extremes,Wildfire,#d60d2b,effis,森林火災 n.a.シリア,2026-08-07T11:06:00+00:00,Syria,0.271792801026461,1,1,ja,MED,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,森林火災 n.a.チュニジア,2026-08-07T11:06:00+00:00,Tunisia,0.2717928000191434,1,1,ja,MED,Africa
 '9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,山火事のバブ・ベレッド・モロッコ,2026-08-07T09:56:00+00:00,Morocco,0.2717927999935221,1,1,ja,MED,Africa
-'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,山火事ドウロポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.2717927998442138,1,1,ja,MED,Europe
 'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,山火事 bchatfine レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927972883108,1,1,ja,MED,Asia
 'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,山火事 エルメリー レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927971681712,1,1,ja,MED,Asia
 '5fc209e2c8',extremes,Wildfire,#d60d2b,effis,山火事 アイン・ジャルファ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717927970562297,1,1,ja,MED,Asia
@@ -252,3 +251,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,高潮エリア 1 – 激しい,2026-07-21T05:36:00+00:00,Paraguay,0.2571039180602186,1,1,ja,SES,South-America
 '8626b81b9b',extremes,Flood,#030ba1,emdat,サモラ・チンチペの洪水,2026-07-21T05:36:00+00:00,Ecuador,0.2312054529413387,2,1,ja,NWS,South-America
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,森林火災 キリス・シリア,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,ja,MED,Asia
+'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,山火事ドウロポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.23102387986758172,2,1,ja,MED,Europe
