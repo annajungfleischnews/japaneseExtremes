@@ -132,6 +132,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,森林火災 マジデル・バーナ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,ja,MED,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.3197559730260551,0,1,ja,MED,Africa
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,南西アイルランドの山火事,2026-08-07T11:06:00+00:00,Ireland,0.3197559567312558,0,1,ja,NEU,Europe
+'50ab15c1e2',extremes,Wildfire,#d60d2b,effis,エスキシェヒル七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.3197559552493551,0,1,ja,MED,Asia
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.31975591711310014,0,1,ja,MED,Africa
+'42a77b6b7e',extremes,Wildfire,#d60d2b,effis,野火ポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.31975584284281533,0,1,ja,MED,Europe
+'da1ba9730c',extremes,Wildfire,#d60d2b,effis,シリアの山火事,2026-08-07T11:06:00+00:00,Syria,0.3197554577078092,0,1,ja,MED,Asia
+'1e3db537cb',extremes,Wildfire,#d60d2b,effis,山火事 niederösterreich süd オーストリア,2026-08-07T11:06:00+00:00,Austria,0.31975540375102374,0,1,ja,WCE,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
