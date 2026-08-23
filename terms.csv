@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6104161448529866,7,3,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-08-03T05:57:00+00:00,Japan,0.5812719762649602,1,2,ja,EAS,Asia
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-07-17T05:27:00+00:00,Japan,0.5739007969892884,2,2,ja,NPO,Pacific Ocean
-'b987e967b5',extremes,Earthquake,#870007,usgs,取手地震,2026-08-23T03:30:00+00:00,Japan,0.5641982110901973,0,1,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-07-16T05:25:00+00:00,Japan,0.5638502289258844,1,2,ja,EAS,Asia
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-08-23T03:30:00+00:00,Japan,0.5609284263524317,0,1,ja,EAS,Asia
 '35fa509b3e',extremes,Earthquake,#870007,emdat,地震熊本県,2026-08-07T04:37:00+00:00,Japan,0.5538929514224981,2,3,ja,EAS,Asia
@@ -14,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9d44fd12c',extremes,Earthquake,#870007,usgs,御船地震,2026-07-30T05:24:00+00:00,Japan,0.5382928099414402,2,2,ja,EAS,Asia
 '7c55bf2440',extremes,Earthquake,#870007,usgs,地震そうさ,2026-07-21T05:36:00+00:00,Japan,0.5370350927304254,2,3,ja,EAS,Asia
 '1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-08-05T05:31:00+00:00,Japan,0.5364391725584958,1,3,ja,EAS,Asia
+'b987e967b5',extremes,Earthquake,#870007,usgs,取手地震,2026-08-23T03:30:00+00:00,Japan,0.5345194394266677,1,2,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-01T05:42:00+00:00,Japan,0.5324831814895187,1,1,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-07-11T05:27:00+00:00,Japan,0.5285186497798778,1,3,ja,EAS,Asia
 '7923594be7',extremes,Earthquake,#870007,usgs,地震つなぎ,2026-07-30T05:24:00+00:00,Japan,0.5239689166985146,1,2,ja,EAS,Asia
