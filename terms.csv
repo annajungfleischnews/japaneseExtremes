@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-08-02T05:42:00+00:00,Japan,0.5110426954637027,2,1,ja,EAS,Asia
 '96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.5051941161879974,1,3,ja,EAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-07-31T05:51:00+00:00,,0.4835591565044183,1,3,ja,,
-'31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-08-22T03:22:00+00:00,Japan,0.4793764083271425,1,1,ja,EAS,Asia
 '79bf322d89',extremes,Earthquake,#870007,usgs,地震うき,2026-08-17T03:28:00+00:00,Japan,0.4733331252472125,1,3,ja,EAS,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,熱波,2026-07-09T06:27:00+00:00,,0.4704411568188943,2,3,ja,,
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2026-08-15T03:13:00+00:00,Japan,0.4694727818135618,1,2,ja,EAS,Asia
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,凍てつくニュージーランド,2026-07-24T05:36:00+00:00,New Zealand,0.412035916299601,1,2,ja,NZ,Oceania
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-07-31T05:51:00+00:00,,0.4102120086724556,1,2,ja,,
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,北の海域の高潮。,2026-07-28T05:31:00+00:00,Vanuatu,0.4088338902724058,1,2,ja,SPO,Oceania
+'31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-08-22T03:22:00+00:00,Japan,0.4077699770780711,2,1,ja,EAS,Asia
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,高潮規制。 4 山脈,2026-07-19T05:37:00+00:00,Chile,0.4073891745468663,1,2,ja,SWS,South-America
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-08-03T05:57:00+00:00,,0.4061218471358328,1,2,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-07-30T05:24:00+00:00,,0.4054702102780289,2,1,ja,,
@@ -136,7 +136,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85c98951d6',extremes,Drought,#edc291,edo,雨不足 モンテネグロ,2026-07-23T05:40:00+00:00,Montenegro,0.3089010734162973,0,1,ja,MED,Europe
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-06T05:33:00+00:00,Palau,0.3084817280309465,1,1,ja,EPO,Pacific Ocean
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,ブラジルの嵐,2026-07-26T05:46:00+00:00,Brazil,0.3083616999918502,1,1,ja,SAM,South-America
-'c4be795f03',extremes,Drought,#edc291,edo,雨不足 赤道ギニア,2026-08-01T05:42:00+00:00,Equatorial Guinea,0.3079179765260891,0,1,ja,WAF,Africa
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,ja,,
 'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,スノーポーターパス sh73,2026-07-30T05:24:00+00:00,New Zealand,0.3030071758248875,0,1,ja,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,霧カナダ,2026-07-21T05:36:00+00:00,Canada,0.3029665906790517,0,1,ja,NEN,North-America
@@ -213,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d3d1e5f58',extremes,Thunderstorm,#53785a,wmo,悪天候スーダン,2026-07-28T05:31:00+00:00,Sudan,0.2625569347794366,1,1,ja,NEAF,Africa
 '563b781620',extremes,Thunderstorm,#53785a,wmo,ナイジェリアの悪天候,2026-07-28T05:31:00+00:00,Nigeria,0.2622715850636635,1,1,ja,WAF,Africa
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ニュージーランドのフロスト,2026-07-25T05:29:00+00:00,New Zealand,0.2618741081988506,1,1,ja,NZ,Oceania
+'c4be795f03',extremes,Drought,#edc291,edo,雨不足 赤道ギニア,2026-08-01T05:42:00+00:00,Equatorial Guinea,0.26173028004717575,1,1,ja,WAF,Africa
 'cbd214af74',extremes,Drought,#edc291,edo,ウガンダの乾燥,2026-07-31T05:51:00+00:00,Uganda,0.2617071570739276,1,1,ja,SEAF,Africa
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,アイスクラウンレンジロード,2026-07-24T05:36:00+00:00,New Zealand,0.26119557177239,1,1,ja,NZ,Oceania
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,タンザニアの嵐,2026-07-31T05:51:00+00:00,Tanzania,0.2598724376450915,1,1,ja,SEAF,Africa
@@ -234,7 +234,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3336c980ab',extremes,Earthquake,#870007,usgs,セントヘレナ地震,2026-07-29T05:37:00+00:00,Saint Helena,0.2576201403500254,1,1,ja,EAO,Atlantic Ocean
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,東フィヨルドの嵐,2026-07-25T05:29:00+00:00,Iceland,0.257587753352122,1,1,ja,GIC,Europe
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,雪冠山脈道路,2026-07-31T05:51:00+00:00,New Zealand,0.2575388518138256,1,1,ja,NZ,Oceania
-'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,氷の登録。 4 山脈,2026-07-20T05:54:00+00:00,Chile,0.257520333578664,1,1,ja,SWS,South-America
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,アイスランド南東の嵐,2026-07-25T05:29:00+00:00,Iceland,0.2574703095061957,1,1,ja,GIC,Europe
 'f9e6ac9c1c',extremes,Flood,#030ba1,wmo,チュメニ地方の鉄砲水,2026-07-26T05:46:00+00:00,Russia,0.2574619411804019,1,1,ja,ESB,Europe
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,雪ダニーデンからウェイトティ ハイウェイ SH1 まで,2026-07-24T05:36:00+00:00,New Zealand,0.2573081677983109,1,1,ja,NZ,Oceania
