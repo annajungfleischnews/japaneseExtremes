@@ -53,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-07-07T06:30:00+00:00,,0.4261813683697947,1,3,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-24T05:35:00+00:00,,0.4258023665975458,1,2,ja,,
 '55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-07-24T05:35:00+00:00,Japan,0.4228436424190772,1,2,ja,EAS,Asia
+'59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-08-09T03:59:00+00:00,,0.4226491472835436,1,3,ja,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,暴風雨,2026-07-12T05:43:00+00:00,,0.4222499326381802,2,3,ja,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,最も寒い日,2026-07-08T05:37:00+00:00,,0.4177814592264092,1,3,ja,,
 '4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.41382761391291,1,1,ja,EAS,Asia
@@ -93,7 +94,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,熱波東部地域,2026-07-16T05:25:00+00:00,North Macedonia,0.3342875756687645,1,2,ja,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-08-12T04:22:00+00:00,,0.3333061843480178,1,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-07-21T05:36:00+00:00,,0.3318018676595852,1,1,ja,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-08-09T03:59:00+00:00,,0.3309815246116556,0,1,ja,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,ハブーブ,2026-07-30T05:24:00+00:00,,0.3309739965731573,1,1,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-08-06T05:33:00+00:00,,0.3304455735196924,0,1,ja,,
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,台風米国,2026-07-20T05:54:00+00:00,United States,0.3296436169843951,1,2,ja,CNA,North-America
