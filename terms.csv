@@ -67,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-08-03T05:57:00+00:00,,0.4061218471358328,1,2,ja,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,灼熱の温度,2026-07-30T05:24:00+00:00,,0.4054702102780289,2,1,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-08-12T04:22:00+00:00,,0.4048007349080668,1,3,ja,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-08-07T11:06:00+00:00,,0.4041689725634834,1,2,ja,,
 '31e6612618',extremes,Earthquake,#870007,usgs,恩納地震,2026-08-21T03:30:00+00:00,Japan,0.4018207574861823,1,1,ja,EAS,Asia
 'f9a3abc8c2',extremes,Landslide,#572c03,random,土石流,2026-07-13T05:53:00+00:00,,0.4017334277442044,1,3,ja,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-08-01T05:41:00+00:00,,0.4002549713579516,1,3,ja,,
@@ -81,11 +82,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3762585595712923,1,3,ja,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.3711243217410673,1,2,ja,,
-'51ecd0a2e9',extremes,Earthquake,#870007,usgs,地震 2026 年 UT 日本地震,2026-07-29T05:37:00+00:00,Japan,0.3678460477231264,1,1,ja,EAS,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-07-21T05:36:00+00:00,,0.3638723351827587,1,1,ja,,
-'056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-08-07T11:06:00+00:00,,0.363786885368804,0,1,ja,,
 '01cc23cc81',extremes,Earthquake,#870007,usgs,小瀬田地震,2026-08-07T04:37:00+00:00,Japan,0.3633640061041524,2,1,ja,EAS,Asia
-'538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-07-20T05:54:00+00:00,,0.360732076194544,1,1,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-07-29T05:37:00+00:00,,0.3598934346785966,2,1,ja,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-07-15T05:15:00+00:00,,0.3564952862396744,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-07-20T05:54:00+00:00,,0.3453851105326784,1,2,ja,,
@@ -131,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,ja,MED,Asia
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,山火事ルーマニア,2026-08-07T09:56:00+00:00,Romania,0.3197538738301362,0,1,ja,MED,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
+'51ecd0a2e9',extremes,Earthquake,#870007,usgs,地震 2026 年 UT 日本地震,2026-07-29T05:37:00+00:00,Japan,0.31266914056465744,2,1,ja,EAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,メディケーン,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,ja,,
 '85c98951d6',extremes,Drought,#edc291,edo,雨不足 モンテネグロ,2026-07-23T05:40:00+00:00,Montenegro,0.3089010734162973,0,1,ja,MED,Europe
