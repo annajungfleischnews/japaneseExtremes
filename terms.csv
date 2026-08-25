@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.661622268405256,6,3,ja,EAS,Asia
+'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6627856785990129,7,3,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6104161448529866,7,3,ja,EAS,Asia
 '01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-08-03T05:57:00+00:00,Japan,0.5812719762649602,1,2,ja,EAS,Asia
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-07-17T05:27:00+00:00,Japan,0.5739007969892884,2,2,ja,NPO,Pacific Ocean
@@ -195,11 +195,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,野火ポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.271792466416393,1,1,ja,MED,Europe
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,嵐メルボルンビクトリア 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,ja,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,暴風雨、ビクトリア州、2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,ja,SAU,Oceania
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2026-07-22T05:35:00+00:00,Australia,0.2674430133272083,1,1,ja,EAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,スーパータイフーンドルフィン,2026-07-30T05:24:00+00:00,,0.2660558188490732,1,1,ja,NPO,Pacific Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,タスマニアの山火事,2026-07-30T05:24:00+00:00,Australia,0.2659379747517909,1,1,ja,SAU,Oceania
-'656113a2f4',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン ファウスト,2026-07-22T05:35:00+00:00,,0.2658167465601694,1,1,ja,NPO,Pacific Ocean
-'ec51ecb5d3',extremes,Flood,#030ba1,acwe,タスマニア鉄砲水,2026-07-22T05:35:00+00:00,Australia,0.2656578194397277,1,1,ja,SAU,Oceania
 'b445ee6ee0',extremes,Drought,#edc291,edo,エルサルバドルの乾燥,2026-08-04T05:32:00+00:00,El Salvador,0.2647856107512875,1,1,ja,SCA,North-America
 'fc1842c1fa',extremes,Drought,#edc291,edo,カンボジアの干ばつ,2026-08-04T05:32:00+00:00,Cambodia,0.2638235073174058,1,1,ja,SEA,Asia
 '3e5f311da7',extremes,Drought,#edc291,edo,日照り続きのサントメ・プリンシペ,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.263801138047712,1,1,ja,WAF,Africa
