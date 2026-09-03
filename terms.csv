@@ -31,7 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.4819375011471792,2,3,ja,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-08-31T08:51:00+00:00,,0.4716053154536717,1,3,ja,,
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-08-23T03:30:00+00:00,Japan,0.4708924058879716,1,2,ja,EAS,Asia
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.46964397966147037,1,3,ja,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.4696439796614703,1,3,ja,,
 '8aaebccb9c',extremes,Earthquake,#870007,usgs,富岡地震,2026-08-15T03:13:00+00:00,Japan,0.4694727818135618,1,2,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-08-18T03:23:00+00:00,,0.4680448766560099,1,3,ja,,
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,地震ひらら,2026-07-24T05:35:00+00:00,Japan,0.4657834804196717,1,3,ja,EAS,Asia
@@ -108,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-08-27T13:00:00+00:00,,0.3300628054721654,0,1,ja,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,スノースラッシュ,2026-08-13T04:26:00+00:00,,0.3293551724630549,1,1,ja,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,雪塊,2026-08-03T05:57:00+00:00,,0.3275489554617513,1,1,ja,,
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-08-14T04:24:00+00:00,,0.3275282821651916,0,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-08-14T04:24:00+00:00,,0.3234902245643722,1,1,ja,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-07T04:37:00+00:00,,0.322647478246143,1,1,ja,,
 '27290ff5eb',extremes,Wildfire,#d60d2b,effis,山火事 クラダニ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197562083260734,0,1,ja,MED,Europe
@@ -128,7 +129,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197540477275936,0,1,ja,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,ja,MED,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
+'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,ja,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,ja,,
+'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン カリーナ,2026-08-31T08:51:00+00:00,,0.3178790642496082,0,1,ja,NPO,Pacific Ocean
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-08-27T13:00:00+00:00,,0.3119271824579374,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-06T05:33:00+00:00,Palau,0.3084817280309465,1,1,ja,EPO,Pacific Ocean
