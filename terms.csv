@@ -120,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.3197559171131001,0,1,ja,MED,Africa
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,山火事 niederösterreich süd オーストリア,2026-08-07T11:06:00+00:00,Austria,0.3197554037510237,0,1,ja,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197540477275936,0,1,ja,MED,Asia
-'5ab0a2836b',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,ja,MED,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
 '69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,ja,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,ja,NPO,Pacific Ocean
@@ -134,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,フリージング ルイス パス sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,1,ja,NZ,Oceania
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-08-22T03:22:00+00:00,,0.2762671066008588,1,1,ja,,
 '71c228acb5',extremes,Wildfire,#d60d2b,effis,野火の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.2719417983947457,1,1,ja,MED,Asia
+'5ab0a2836b',extremes,Wildfire,#d60d2b,effis,山火事の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.27194087219767266,1,1,ja,MED,Asia
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,山火事 レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.271793887239806,1,1,ja,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,レバノンの山火事,2026-08-07T11:06:00+00:00,Lebanon,0.2717932233775344,1,1,ja,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,山火事 サラフェンド レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.2717928109594323,1,1,ja,MED,Asia
@@ -200,4 +200,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,森林火災 キリス・シリア,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,ja,MED,Asia
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,山火事ドウロポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.2310238798675817,2,1,ja,MED,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,山火事 разка област セルビア,2026-08-07T11:06:00+00:00,Serbia,0.2310238618226121,2,1,ja,MED,Europe
-'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,山火事 クリュチ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.23102384511795127,2,1,ja,MED,Europe
+'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,山火事 クリュチ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2310238451179512,2,1,ja,MED,Europe
