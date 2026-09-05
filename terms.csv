@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4480d36d8a',extremes,Earthquake,#870007,emdat,九州地震,2026-08-04T05:32:00+00:00,Japan,0.6549248801116642,10,3,ja,EAS,Asia
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-08-28T14:31:00+00:00,Japan,0.6290708598521951,1,2,ja,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,日本地震,2026-08-07T09:56:00+00:00,Japan,0.6104161448529866,7,3,ja,EAS,Asia
 '5abf8a7952',extremes,Earthquake,#870007,usgs,地震つのう,2026-08-02T05:42:00+00:00,Japan,0.5970177101254754,4,3,ja,EAS,Asia
@@ -14,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9d44fd12c',extremes,Earthquake,#870007,usgs,御船地震,2026-07-30T05:24:00+00:00,Japan,0.5218490684502242,3,2,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-08-27T13:00:00+00:00,Japan,0.521324504668794,2,1,ja,EAS,Asia
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-08-31T08:51:00+00:00,Japan,0.5213205020877227,1,2,ja,EAS,Asia
-'7c55bf2440',extremes,Earthquake,#870007,usgs,地震そうさ,2026-07-21T05:36:00+00:00,Japan,0.5205230779117707,3,3,ja,EAS,Asia
 '96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.5161798844740835,2,3,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-01T05:42:00+00:00,Japan,0.5156110042660909,2,1,ja,EAS,Asia
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-09-01T07:57:00+00:00,Japan,0.513884963981587,1,3,ja,EAS,Asia
@@ -27,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-08-29T09:19:00+00:00,Japan,0.484402514498193,1,3,ja,EAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-07-31T05:51:00+00:00,,0.4835591565044183,1,3,ja,,
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.4819375011471792,2,3,ja,,
-'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-09-02T07:16:00+00:00,Japan,0.47959309911631837,0,1,ja,EAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-08-01T05:41:00+00:00,,0.4718796246138174,2,3,ja,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-08-31T08:51:00+00:00,,0.4716053154536717,1,3,ja,,
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-08-23T03:30:00+00:00,Japan,0.4708924058879716,1,2,ja,EAS,Asia
@@ -44,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-08-02T05:41:00+00:00,,0.4613720457066473,1,3,ja,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,台風,2026-07-19T05:37:00+00:00,,0.4604076097291286,1,3,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-31T05:51:00+00:00,,0.4601805719351169,2,2,ja,,
+'63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-09-02T07:16:00+00:00,Japan,0.45810417924887054,1,1,ja,EAS,Asia
 '255fda7b98',extremes,Earthquake,#870007,usgs,松橋地震,2026-08-02T05:42:00+00:00,Japan,0.4577702932044389,1,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-08-07T04:37:00+00:00,Japan,0.4573960432003082,2,3,ja,EAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,最も暑い日,2026-07-18T05:10:00+00:00,,0.4554418378178941,1,3,ja,,
@@ -60,13 +58,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-08-28T14:31:00+00:00,Japan,0.4321819802685554,1,1,ja,EAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,豪雨,2026-07-25T05:28:00+00:00,,0.4287136249996071,1,3,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-07-24T05:35:00+00:00,,0.4258023665975458,1,2,ja,,
-'55857b8473',extremes,Earthquake,#870007,usgs,地震たつごう,2026-07-24T05:35:00+00:00,Japan,0.4228436424190772,1,2,ja,EAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-08-09T03:59:00+00:00,,0.4226491472835436,1,3,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-08-06T05:33:00+00:00,,0.4221929288553748,1,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-08-30T08:29:00+00:00,Japan,0.4164972120761105,2,1,ja,EAS,Asia
 '4c2ed5079a',extremes,Earthquake,#870007,usgs,地震 uto,2026-07-31T05:51:00+00:00,Japan,0.41382761391291,1,1,ja,EAS,Asia
 'c1b1450575',extremes,Drought,#edc291,edo,ハンガリーの乾燥,2026-08-03T05:58:00+00:00,Hungary,0.4124269843803836,1,2,ja,WCE,Europe
-'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,凍てつくニュージーランド,2026-07-24T05:36:00+00:00,New Zealand,0.412035916299601,1,2,ja,NZ,Oceania
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-07-31T05:51:00+00:00,,0.4102120086724556,1,2,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-09-01T07:57:00+00:00,,0.4093614935621046,1,3,ja,,
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,北の海域の高潮。,2026-07-28T05:31:00+00:00,Vanuatu,0.4088338902724058,1,2,ja,SPO,Oceania
@@ -80,9 +76,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3985093789245659,1,2,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-08-02T05:41:00+00:00,,0.3984806979022736,1,3,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-08T03:51:00+00:00,,0.3942644311965196,1,2,ja,,
-'0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-07-24T05:35:00+00:00,,0.3877969634900246,1,2,ja,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-08-15T03:13:00+00:00,,0.3859280026744147,1,3,ja,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-09-01T07:57:00+00:00,,0.38230298258869616,0,1,ja,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-09-01T07:57:00+00:00,,0.3823029825886961,0,1,ja,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-08-10T04:13:00+00:00,,0.3808227564592636,0,1,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.3800898213017486,0,1,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.3796274173098498,0,1,ja,,
@@ -133,7 +128,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-06T05:33:00+00:00,Palau,0.3084817280309465,1,1,ja,EPO,Pacific Ocean
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,フリージング ルイス パス sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,1,ja,NZ,Oceania
-'30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-08-04T05:32:00+00:00,Palau,0.2971902742646701,2,1,ja,EPO,Pacific Ocean
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-08-22T03:22:00+00:00,,0.2762671066008588,1,1,ja,,
 '71c228acb5',extremes,Wildfire,#d60d2b,effis,野火の七面鳥,2026-08-07T09:56:00+00:00,Turkey,0.2719417983947457,1,1,ja,MED,Asia
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,山火事 レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.271793887239806,1,1,ja,MED,Asia
