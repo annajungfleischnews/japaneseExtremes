@@ -70,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-08-12T04:22:00+00:00,,0.4048007349080668,1,3,ja,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,最も寒い冬,2026-08-07T11:06:00+00:00,,0.4041689725634834,1,2,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-08-28T14:31:00+00:00,,0.4016609513165604,1,2,ja,,
+'69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-09-03T07:20:00+00:00,,0.4010971754796345,1,2,ja,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,熱帯低気圧,2026-08-01T05:41:00+00:00,,0.4002549713579516,1,3,ja,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3985093789245659,1,2,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-08-02T05:41:00+00:00,,0.3984806979022736,1,3,ja,,
@@ -110,10 +111,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,マラティヤ七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.3197560720204154,0,1,ja,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,山火事ハルフ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197560483109282,0,1,ja,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,森林火災 マジデル・バーナ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,ja,MED,Asia
-'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.3197559171131001,0,1,ja,MED,Africa
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,山火事 niederösterreich süd オーストリア,2026-08-07T11:06:00+00:00,Austria,0.3197554037510237,0,1,ja,WCE,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
-'69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,ja,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,ja,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,ja,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン マリー,2026-09-04T07:23:00+00:00,,0.3179343136353981,0,1,ja,NPO,Pacific Ocean
@@ -184,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.2717925770721468,1,1,ja,MED,Africa
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,南西アイルランドの山火事,2026-08-07T11:06:00+00:00,Ireland,0.2717925632215674,1,1,ja,NEU,Europe
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,エスキシェヒル七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.2717925619619518,1,1,ja,MED,Asia
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.2717925295461351,1,1,ja,MED,Africa
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,野火ポルトガル,2026-08-07T09:56:00+00:00,Portugal,0.271792466416393,1,1,ja,MED,Europe
 'da1ba9730c',extremes,Wildfire,#d60d2b,effis,シリアの山火事,2026-08-07T11:06:00+00:00,Syria,0.2717921390516378,1,1,ja,MED,Asia
 '38c3444fa0',extremes,Wildfire,#d60d2b,effis,山火事 мачванска област ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2717920701442872,1,1,ja,MED,Europe
