@@ -17,13 +17,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.5161798844740835,2,3,ja,EAS,Asia
 'b987e967b5',extremes,Earthquake,#870007,usgs,取手地震,2026-08-23T03:30:00+00:00,Japan,0.5138379980581221,2,2,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-08-11T04:01:00+00:00,,0.5134118335681561,3,3,ja,,
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-08-26T03:33:00+00:00,Japan,0.5113174699810094,0,1,ja,EAS,Asia
 '79bf322d89',extremes,Earthquake,#870007,usgs,地震うき,2026-08-17T03:28:00+00:00,Japan,0.5027430269146761,2,3,ja,EAS,Asia
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-08-31T08:51:00+00:00,Japan,0.4899943838023342,1,3,ja,EAS,Asia
 '09027d828e',extremes,Earthquake,#870007,usgs,多良間地震,2026-08-28T14:31:00+00:00,Japan,0.4884189305576346,2,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.4852353908849169,1,3,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-08-29T09:19:00+00:00,Japan,0.484402514498193,1,3,ja,EAS,Asia
 '82d648b882',extremes,Drought,#edc291,random,干ばつ,2026-08-04T05:31:00+00:00,,0.4819375011471792,2,3,ja,,
+'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-08-26T03:33:00+00:00,Japan,0.481119999483858,1,1,ja,EAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-09-01T07:57:00+00:00,,0.4755575952003916,1,2,ja,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-08-10T04:13:00+00:00,,0.4738493579903741,1,2,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.4735833947133723,1,2,ja,,
@@ -40,11 +40,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,洪水,2026-08-02T05:41:00+00:00,,0.4613720457066473,1,3,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-07-31T05:51:00+00:00,,0.4601805719351169,2,2,ja,,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-09-02T07:16:00+00:00,Japan,0.4581041792488705,1,1,ja,EAS,Asia
-'255fda7b98',extremes,Earthquake,#870007,usgs,松橋地震,2026-08-02T05:42:00+00:00,Japan,0.4577702932044389,1,1,ja,EAS,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,山田地震,2026-08-07T04:37:00+00:00,Japan,0.4573960432003082,2,3,ja,EAS,Asia
 'a810e68ad7',extremes,Earthquake,#870007,usgs,館山地震,2026-08-23T03:30:00+00:00,Japan,0.4539793838729652,2,1,ja,EAS,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-08-16T03:27:00+00:00,,0.4535567694207165,1,3,ja,,
-'d1b76ff32a',extremes,Earthquake,#870007,usgs,宮古地震,2026-08-04T05:31:00+00:00,Japan,0.4526216639220875,2,1,ja,EAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,悪天候,2026-08-23T03:30:00+00:00,,0.449660916263929,1,3,ja,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,雷雨,2026-07-28T05:30:00+00:00,,0.4384937366069671,1,3,ja,,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-09-01T07:57:00+00:00,Japan,0.4368026993843489,2,2,ja,EAS,Asia
@@ -64,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,水銀滴,2026-07-31T05:51:00+00:00,,0.4102120086724556,1,2,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-09-01T07:57:00+00:00,,0.4093614935621046,1,3,ja,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-08-26T03:33:00+00:00,,0.4092556011548167,1,3,ja,,
-'1b98918e9b',extremes,Storm,#b3b2b1,wmo,北の海域の高潮。,2026-07-28T05:31:00+00:00,Vanuatu,0.4088338902724058,1,2,ja,SPO,Oceania
 '31b8dc87be',extremes,Earthquake,#870007,usgs,宮古島地震,2026-08-22T03:22:00+00:00,Japan,0.4077699770780711,2,1,ja,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,北極海氷,2026-08-03T05:57:00+00:00,,0.4061218471358328,1,2,ja,,
 '52af874334',extremes,Drought,#edc291,random,乾燥,2026-08-12T04:22:00+00:00,,0.4048007349080668,1,3,ja,,
@@ -76,10 +73,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,土壌水分,2026-08-05T05:31:00+00:00,,0.3985093789245659,1,2,ja,,
 '20741ce7eb',extremes,Tsunami,#690191,random,津波,2026-08-02T05:41:00+00:00,,0.3984806979022736,1,3,ja,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-08T03:51:00+00:00,,0.3942644311965196,1,2,ja,,
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.39337217992282303,0,1,ja,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.393372179922823,0,1,ja,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-08-15T03:13:00+00:00,,0.3859280026744147,1,3,ja,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,最も寒い年,2026-07-25T05:28:00+00:00,,0.3762585595712923,1,3,ja,,
-'ef54296dab',extremes,Snow&Ice,#d60d2b,random,流氷,2026-07-23T05:39:00+00:00,,0.3743639939049034,1,3,ja,,
 '30f1b4395e',extremes,Drought,#edc291,edo,パラオの雨不足,2026-08-25T03:27:00+00:00,Palau,0.3737755661687011,0,1,ja,EPO,Pacific Ocean
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,激しい降水量,2026-07-30T05:24:00+00:00,,0.3711243217410673,1,2,ja,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,水銀低下,2026-08-15T03:13:00+00:00,,0.3707768792213805,0,1,ja,,
@@ -109,10 +105,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,山火事 アンクネ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197561508900715,0,1,ja,MED,Asia
 'fe300e279f',extremes,Wildfire,#d60d2b,effis,山火事 n.a.コソボ,2026-08-07T09:56:00+00:00,Kosovo,0.3197561126728255,0,1,ja,MED,Europe
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,マラティヤ七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.3197560720204154,0,1,ja,MED,Asia
-'3efcf61c61',extremes,Wildfire,#d60d2b,effis,山火事ハルフ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197560483109282,0,1,ja,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,森林火災 マジデル・バーナ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,ja,MED,Asia
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,山火事 niederösterreich süd オーストリア,2026-08-07T11:06:00+00:00,Austria,0.3197554037510237,0,1,ja,WCE,Europe
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,ja,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,ja,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,ja,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン マリー,2026-09-04T07:23:00+00:00,,0.3179343136353981,0,1,ja,NPO,Pacific Ocean
@@ -181,6 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9da2e4d9fb',extremes,Wildfire,#d60d2b,effis,山火事 ヴェリカ・クラドゥシャ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2717927307719078,1,1,ja,WCE,Europe
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,アイルランド中西部の山火事,2026-08-07T11:06:00+00:00,Ireland,0.2717926991930154,1,1,ja,NEU,Europe
 '8fac42b03a',extremes,Wildfire,#d60d2b,effis,野火カフラマンマラシュ七面鳥,2026-08-07T11:06:00+00:00,Turkey,0.2717926696092715,1,1,ja,MED,Asia
+'3efcf61c61',extremes,Wildfire,#d60d2b,effis,山火事ハルフ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.27179264106428896,1,1,ja,MED,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,山火事 n.a.アルジェリア,2026-08-07T09:56:00+00:00,Algeria,0.2717925770721468,1,1,ja,MED,Africa
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,南西アイルランドの山火事,2026-08-07T11:06:00+00:00,Ireland,0.2717925632215674,1,1,ja,NEU,Europe
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,エスキシェヒル七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.2717925619619518,1,1,ja,MED,Asia
