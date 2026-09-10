@@ -121,6 +121,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧バンラン,2026-08-31T08:51:00+00:00,,0.3169554391479997,0,1,ja,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2026-09-01T07:58:00+00:00,Australia,0.3165343851226193,0,1,ja,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.316472337097205,0,1,ja,,
+'41f3b5b396',extremes,Storm,#b3b2b1,aidr,暴風雨、ビクトリア州、2024,2026-08-27T13:01:00+00:00,Australia,0.3164082035295365,0,1,ja,SAU,Oceania
+'ec98366bcb',extremes,Flood,#030ba1,aidr,2016 年オーストラリア南東部の洪水,2026-08-30T08:30:00+00:00,Australia,0.3161416931685712,0,1,ja,SAU,Oceania
+'a320301f76',extremes,Wildfire,#d60d2b,effis,アルジェリアの山火事,2026-08-27T13:00:00+00:00,Algeria,0.3159927465131042,0,1,ja,MED,Africa
+'e09a5222d3',extremes,Wildfire,#d60d2b,effis,アルジェリアの山火事,2026-08-27T13:00:00+00:00,Algeria,0.31593061882222817,0,1,ja,MED,Africa
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,チュニジアの山火事,2026-08-27T13:00:00+00:00,Tunisia,0.3157890047204932,0,1,ja,MED,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-08-27T13:00:00+00:00,,0.3119271824579374,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-06T05:33:00+00:00,Palau,0.3084817280309465,1,1,ja,EPO,Pacific Ocean
