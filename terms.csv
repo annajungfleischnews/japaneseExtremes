@@ -12,8 +12,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5252909732789175,1,1,ja,EAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-07-31T05:51:00+00:00,,0.5250675421196646,2,3,ja,,
 '7923594be7',extremes,Earthquake,#870007,usgs,地震つなぎ,2026-07-30T05:24:00+00:00,Japan,0.5239689166985146,1,2,ja,EAS,Asia
-'657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-08-25T03:27:00+00:00,Japan,0.5238733150916279,2,3,ja,EAS,Asia
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-08-31T08:51:00+00:00,Japan,0.5213205020877227,1,2,ja,EAS,Asia
+'657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-08-25T03:27:00+00:00,Japan,0.518424991009702,3,3,ja,EAS,Asia
 '96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.5161798844740835,2,3,ja,EAS,Asia
 'b987e967b5',extremes,Earthquake,#870007,usgs,取手地震,2026-08-23T03:30:00+00:00,Japan,0.5138379980581221,2,2,ja,EAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-08-11T04:01:00+00:00,,0.5134118335681561,3,3,ja,,
@@ -101,7 +101,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-08-23T03:30:00+00:00,Palau,0.3249068833696765,1,1,ja,EPO,Pacific Ocean
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-08-30T08:29:00+00:00,,0.3243818809054661,1,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-08-14T04:24:00+00:00,,0.3234902245643722,1,1,ja,,
-'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-07T04:37:00+00:00,,0.322647478246143,1,1,ja,,
 '27290ff5eb',extremes,Wildfire,#d60d2b,effis,山火事 クラダニ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197562083260734,0,1,ja,MED,Europe
 '10760f7299',extremes,Wildfire,#d60d2b,effis,ディヤルバクル七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.3197561679132065,0,1,ja,MED,Asia
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,山火事 アンクネ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197561508900715,0,1,ja,MED,Asia
