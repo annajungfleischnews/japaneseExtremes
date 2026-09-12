@@ -56,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-08-09T03:59:00+00:00,,0.4226491472835436,1,3,ja,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,記録的な暑さ,2026-08-06T05:33:00+00:00,,0.4221929288553748,1,3,ja,,
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧バンラン,2026-08-31T08:51:00+00:00,,0.4195621382757997,1,2,ja,NPO,Pacific Ocean
+'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-09-05T07:04:00+00:00,,0.4175580205621205,1,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-08-30T08:29:00+00:00,Japan,0.4164972120761105,2,1,ja,EAS,Asia
 '255fda7b98',extremes,Earthquake,#870007,usgs,松橋地震,2026-08-24T03:32:00+00:00,Japan,0.4164009710192903,1,1,ja,EAS,Asia
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-08-26T03:33:00+00:00,,0.4161140968289943,1,2,ja,,
@@ -80,11 +81,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f3a536d6e',extremes,Earthquake,#870007,usgs,高槻地震,2026-08-21T03:30:00+00:00,Japan,0.3687554961414175,2,1,ja,EAS,Asia
 '8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-08-28T14:31:00+00:00,Japan,0.3675046982282721,2,1,ja,EAS,Asia
 '3c5ef78b9c',extremes,Drought,#edc291,edo,日照りパラオ,2026-08-20T03:26:00+00:00,Palau,0.362561187115932,1,1,ja,EPO,Pacific Ocean
-'62084daeb0',extremes,Earthquake,#870007,random,地震,2026-09-05T07:04:00+00:00,,0.3517191669714787,0,1,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-08-25T03:27:00+00:00,,0.3486207939742862,0,1,ja,,
 '31e6612618',extremes,Earthquake,#870007,usgs,恩納地震,2026-08-21T03:30:00+00:00,Japan,0.3418476738632549,2,1,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.3397086707349938,0,1,ja,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.33748024562272866,1,1,ja,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.3374802456227286,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,ja,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,イナゴ,2026-08-12T04:22:00+00:00,,0.3333061843480178,1,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-29T09:18:00+00:00,,0.3314845134614493,0,1,ja,,
@@ -124,5 +124,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-08-22T03:22:00+00:00,,0.2762671066008588,1,1,ja,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン マリー,2026-09-04T07:23:00+00:00,,0.2702441665900884,1,1,ja,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ジュリオ,2026-08-26T03:33:00+00:00,,0.2699318845849655,1,1,ja,NPO,Pacific Ocean
-'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧モーク,2026-08-25T03:27:00+00:00,,0.26990008344651845,1,1,ja,NPO,Pacific Ocean
+'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧モーク,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,ja,NPO,Pacific Ocean
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,チュニジアの山火事,2026-08-27T13:00:00+00:00,Tunisia,0.2684206540124192,1,1,ja,MED,Africa
