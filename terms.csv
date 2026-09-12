@@ -86,7 +86,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-09-05T07:04:00+00:00,,0.3517191669714787,0,1,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-08-25T03:27:00+00:00,,0.3486207939742862,0,1,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.3441445797242186,0,1,ja,,
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.3419148439396143,0,1,ja,,
 '31e6612618',extremes,Earthquake,#870007,usgs,恩納地震,2026-08-21T03:30:00+00:00,Japan,0.3418476738632549,2,1,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.3397086707349938,0,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,ja,,
@@ -99,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2865075a2',extremes,Drought,#edc291,edo,パラオの干ばつ,2026-08-23T03:30:00+00:00,Palau,0.3249068833696765,1,1,ja,EPO,Pacific Ocean
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-08-30T08:29:00+00:00,,0.3243818809054661,1,1,ja,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,霧氷の冬,2026-08-14T04:24:00+00:00,,0.3234902245643722,1,1,ja,,
-'27290ff5eb',extremes,Wildfire,#d60d2b,effis,山火事 クラダニ ボスニア・ヘルツェゴビナ,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197562083260734,0,1,ja,MED,Europe
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,山火事 アンクネ レバノン,2026-08-07T11:06:00+00:00,Lebanon,0.3197561508900715,0,1,ja,MED,Asia
 'fe300e279f',extremes,Wildfire,#d60d2b,effis,山火事 n.a.コソボ,2026-08-07T09:56:00+00:00,Kosovo,0.3197561126728255,0,1,ja,MED,Europe
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,マラティヤ七面鳥の山火事,2026-08-07T11:06:00+00:00,Turkey,0.3197560720204154,0,1,ja,MED,Asia
@@ -126,6 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-08-27T13:00:00+00:00,,0.3119271824579374,1,1,ja,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,国立ハリケーン センター,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,ja,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.3092609442135924,1,1,ja,,
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.29077763234867215,1,1,ja,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,夜霜,2026-08-14T04:24:00+00:00,,0.2783990398404128,1,1,ja,,
 'c948617fef',extremes,Heat Wave,#c40202,random,極度の熱への曝露,2026-08-22T03:22:00+00:00,,0.2762671066008588,1,1,ja,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン マリー,2026-09-04T07:23:00+00:00,,0.2702441665900884,1,1,ja,NPO,Pacific Ocean
