@@ -2,14 +2,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-08-31T08:51:00+00:00,,0.5998990271198232,3,3,ja,,
 '07d309ac2d',extremes,Earthquake,#870007,usgs,勝浦地震,2026-08-16T03:27:00+00:00,Japan,0.5860673903315842,2,1,ja,NPO,Pacific Ocean
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-09-09T07:32:00+00:00,Japan,0.5641918734411026,3,2,ja,NPO,Pacific Ocean
+'1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-08-05T05:31:00+00:00,Japan,0.563771962761678,2,3,ja,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,凍結,2026-08-18T03:23:00+00:00,,0.5575075234698257,3,3,ja,,
 '35fa509b3e',extremes,Earthquake,#870007,emdat,地震熊本県,2026-08-07T04:37:00+00:00,Japan,0.5538929514224981,2,3,ja,EAS,Asia
 'b11f76bc85',extremes,Earthquake,#870007,usgs,地震本町,2026-07-30T05:24:00+00:00,Japan,0.5464697010945277,1,3,ja,EAS,Asia
-'1ed244aa82',extremes,Earthquake,#870007,usgs,地震本町,2026-08-05T05:31:00+00:00,Japan,0.5364391725584958,1,3,ja,EAS,Asia
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-08-28T14:31:00+00:00,Japan,0.5347102758743658,2,1,ja,EAS,Asia
 '87fcc8f43f',extremes,Earthquake,#870007,usgs,根室市地震,2026-08-27T13:00:00+00:00,Japan,0.5338759039684748,3,2,ja,EAS,Asia
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5252909732789175,1,1,ja,EAS,Asia
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,山火事,2026-07-31T05:51:00+00:00,,0.5250675421196646,2,3,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-08-31T08:51:00+00:00,Japan,0.5213205020877227,1,2,ja,EAS,Asia
 '657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-08-25T03:27:00+00:00,Japan,0.518424991009702,3,3,ja,EAS,Asia
 '96db16de94',extremes,Earthquake,#870007,usgs,地震 2026 年熊本地方日本地震,2026-08-04T05:31:00+00:00,Japan,0.5161798844740835,2,3,ja,EAS,Asia
@@ -29,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,穏やかな冬,2026-08-10T04:13:00+00:00,,0.4738493579903741,1,2,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.4735833947133723,1,2,ja,,
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.4733763781064863,1,2,ja,,
-'4d9577e33d',extremes,Volcano,#b83202,random,火山,2026-08-01T05:41:00+00:00,,0.4718796246138174,2,3,ja,,
 '82c064e83d',extremes,Earthquake,#870007,usgs,浦河地震,2026-08-23T03:30:00+00:00,Japan,0.4708924058879716,1,2,ja,EAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.4696439796614703,1,3,ja,,
 'f90601fa23',extremes,Volcano,#b83202,random,火山の噴火,2026-08-15T03:13:00+00:00,,0.4655907613652601,1,2,ja,,
