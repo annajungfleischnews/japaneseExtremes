@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5613975672870799,2,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
+'2fdeaffad3',extremes,Earthquake,#870007,usgs,いわき地震,2026-09-11T07:27:00+00:00,Japan,0.552942800179528,3,3,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.5526699513905133,2,2,ja,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.5450572236213407,2,3,ja,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,川の氾濫,2026-08-31T08:51:00+00:00,,0.5408391000363545,8,3,ja,,
@@ -14,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,天気前線,2026-08-09T03:59:00+00:00,,0.514204355191012,2,3,ja,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,最も暑い年,2026-08-11T04:01:00+00:00,,0.5134118335681561,3,3,ja,,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-08-29T09:18:00+00:00,Japan,0.5115049460752832,2,3,ja,EAS,Asia
-'2fdeaffad3',extremes,Earthquake,#870007,usgs,いわき地震,2026-09-11T07:27:00+00:00,Japan,0.5056587435267175,2,3,ja,EAS,Asia
 '62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-08-28T14:31:00+00:00,Japan,0.5049537794932109,3,1,ja,EAS,Asia
 '79bf322d89',extremes,Earthquake,#870007,usgs,地震うき,2026-08-17T03:28:00+00:00,Japan,0.5027430269146761,2,3,ja,EAS,Asia
 'b987e967b5',extremes,Earthquake,#870007,usgs,取手地震,2026-08-23T03:30:00+00:00,Japan,0.4904064630969931,4,2,ja,EAS,Asia
