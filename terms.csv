@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '255fda7b98',extremes,Earthquake,#870007,usgs,松橋地震,2026-08-24T03:32:00+00:00,Japan,0.3542408553663967,2,1,ja,EAS,Asia
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-08-22T03:22:00+00:00,,0.3456949241345831,1,2,ja,,
 '8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-08-28T14:31:00+00:00,Japan,0.3125290084940312,3,1,ja,EAS,Asia
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2907776323486721,1,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,ja,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,ウェットスペル,2026-08-25T03:27:00+00:00,,0.2812140219255804,2,1,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
@@ -75,6 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-27T13:00:00+00:00,Palau,0.2684710949464046,2,1,ja,EPO,Pacific Ocean
 '1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-08-27T13:00:00+00:00,,0.2651381050892468,2,1,ja,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,ja,,
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.24731100249637128,2,1,ja,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.2298681502608158,2,1,ja,NPO,Pacific Ocean
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ローウェル,2026-08-31T08:51:00+00:00,,0.2296266861108309,2,1,ja,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ジュリオ,2026-08-26T03:33:00+00:00,,0.2294421018972206,2,1,ja,NPO,Pacific Ocean
