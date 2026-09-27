@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.7871124802290516,6,3,ja,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.8195920086492393,7,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5613975672870799,2,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-08-15T03:13:00+00:00,,0.3859280026744147,1,3,ja,,
 '54927bfe65',extremes,Flood,#030ba1,random,沿岸の洪水,2026-08-22T03:22:00+00:00,,0.3691407155143956,2,2,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.3566901919611374,2,1,ja,,
-'8d705b7f40',extremes,Earthquake,#870007,usgs,静内古川町地震,2026-08-28T14:31:00+00:00,Japan,0.3125290084940312,3,1,ja,EAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-08-30T08:29:00+00:00,,0.2757245987696461,2,1,ja,,
@@ -67,7 +66,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ローウェル,2026-08-31T08:51:00+00:00,,0.2296266861108309,2,1,ja,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2026-09-01T07:58:00+00:00,Australia,0.2288236060010924,2,1,ja,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.2286512635527305,2,1,ja,,
-'41f3b5b396',extremes,Storm,#b3b2b1,aidr,暴風雨、ビクトリア州、2024,2026-08-27T13:01:00+00:00,Australia,0.22860492705009,2,1,ja,SAU,Oceania
-'be6eea75ee',extremes,Wildfire,#d60d2b,effis,チュニジアの山火事,2026-08-27T13:00:00+00:00,Tunisia,0.2281575559105563,2,1,ja,MED,Africa
-'3ca745d421',extremes,Wildfire,#d60d2b,effis,アルジェリアの山火事,2026-08-27T13:00:00+00:00,Algeria,0.2281378628882396,2,1,ja,MED,Africa
-'3438303391',extremes,Wildfire,#d60d2b,effis,山火事 モンテネグロ,2026-08-27T13:00:00+00:00,Montenegro,0.2281245214552128,2,1,ja,MED,Europe
