@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.8790716899990755,9,3,ja,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.9023010664992142,10,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5613975672870799,2,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
@@ -56,8 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン カリーナ,2026-08-31T08:51:00+00:00,,0.2701972046121669,1,1,ja,NPO,Pacific Ocean
 'a320301f76',extremes,Wildfire,#d60d2b,effis,アルジェリアの山火事,2026-08-27T13:00:00+00:00,Algeria,0.2685938345361385,1,1,ja,MED,Africa
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,アルジェリアの山火事,2026-08-27T13:00:00+00:00,Algeria,0.2685410259988939,1,1,ja,MED,Africa
-'f95afcb139',extremes,Drought,#edc291,edo,乾燥パラオ,2026-08-27T13:00:00+00:00,Palau,0.2684710949464046,2,1,ja,EPO,Pacific Ocean
-'1c38b19449',extremes,Storm,#b3b2b1,random,ダストボウル,2026-08-27T13:00:00+00:00,,0.2651381050892468,2,1,ja,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2473110024963712,2,1,ja,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.2298681502608158,2,1,ja,NPO,Pacific Ocean
