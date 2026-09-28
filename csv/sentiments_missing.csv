@@ -337,12 +337,12 @@ last year's,last year's,DATE,,,en,7.461904761904762
 ◎,◎,CARDINAL,,,en,7.344444444444445
 February 21st,February 21st,DATE,,,en,7.341666666666668
 2027,2027,DATE,,,en,7.323015873015874
-18 m,18 m,QUANTITY,,,en,7.300000000000001
-3.3,3.3,CARDINAL,,,en,7.300000000000001
-June 26th,June 26th,DATE,,,en,7.300000000000001
 2019,2019,DATE,,,en,7.300000000000001
-one week,one week,DATE,,,en,7.300000000000001
 200 mm,200 mm,QUANTITY,,,en,7.300000000000001
+one week,one week,DATE,,,en,7.300000000000001
+3.3,3.3,CARDINAL,,,en,7.300000000000001
+18 m,18 m,QUANTITY,,,en,7.300000000000001
+June 26th,June 26th,DATE,,,en,7.300000000000001
 European,European,NORP,,,en,7.2666666666666675
 7.1,7.1,CARDINAL,,,en,7.225
 nine,nine,CARDINAL,,,en,7.213636363636363
@@ -795,8 +795,8 @@ January 6th,January 6th,DATE,,,en,3.4916666666666667
 five days,five days,DATE,,,en,3.4774225774225775
 August 10th,August 10th,DATE,,,en,3.4714285714285715
 rainy season,rainy season,DATE,,,en,3.4714285714285715
-the early morning,the early morning,TIME,,,en,3.4666666666666663
 20km,20km,QUANTITY,,,en,3.4666666666666663
+the early morning,the early morning,TIME,,,en,3.4666666666666663
 [Milan Olympics],[Milan Olympics],EVENT,,,en,3.4619047619047616
 year-end,year-end,DATE,,,en,3.458730158730159
 AEON Mall Kumamoto,AEON Mall Kumamoto,PRODUCT,,,en,3.45
@@ -805,13 +805,13 @@ AEON Mall Kumamoto,AEON Mall Kumamoto,PRODUCT,,,en,3.45
 February 20th,February 20th,DATE,,,en,3.4333333333333336
 April 1st,April 1st,DATE,,,en,3.429411764705882
 more than 30,more than 30,CARDINAL,,,en,3.428571428571429
-January 13th,January 13th,DATE,,,en,3.425
 June 13th,June 13th,DATE,,,en,3.425
+January 13th,January 13th,DATE,,,en,3.425
 the NTT Aomori Hachinohe Building,the NTT Aomori Hachinohe Building,FAC,,,en,3.424175824175824
 May 16th,May 16th,DATE,,,en,3.4142857142857146
 the holidays,the holidays,DATE,,,en,3.406043956043956
-43rd,43rd,ORDINAL,,,en,3.4
 Hungarian,Hungarian,NORP,,,en,3.4
+43rd,43rd,ORDINAL,,,en,3.4
 May 25th,May 25th,DATE,,,en,3.4
 January 7th,January 7th,DATE,,,en,3.3833333333333333
 "10,000 yen","10,000 yen",MONEY,,,en,3.376190476190476
@@ -824,8 +824,8 @@ March 6th,March 6th,DATE,,,en,3.340909090909091
 five years,five years,DATE,,,en,3.3249999999999997
 64th,64th,ORDINAL,,,en,3.3117647058823527
 Zero,Zero,CARDINAL,,,en,3.304761904761905
-July 4th,July 4th,DATE,,,en,3.3
 Season 2,Season 2,DATE,,,en,3.3
+July 4th,July 4th,DATE,,,en,3.3
 2026/02/03,2026/02/03,CARDINAL,,,en,3.3
 January 6,January 6,DATE,,,en,3.3
 the 15 years,the 15 years,DATE,,,en,3.3
@@ -865,33 +865,34 @@ the New Year,the New Year,EVENT,,,en,3.1889110889110888
 Eight,Eight,CARDINAL,,,en,3.172727272727273
 the hottest of the year,the hottest of the year,DATE,,,en,3.1666666666666665
 2013,2013,DATE,,,en,3.1523809523809527
-700 yen,700 yen,MONEY,,,en,3.15
 the past few days,the past few days,DATE,,,en,3.15
+700 yen,700 yen,MONEY,,,en,3.15
 41,41,CARDINAL,,,en,3.1470588235294117
-Takusa Brothers,Takusa Brothers,WORK_OF_ART,,,en,3.1357142857142857
 TBS Friday,TBS Friday,DATE,,,en,3.1357142857142857
-February 22,February 22,DATE,,,en,3.1333333333333333
-early evening,early evening,TIME,,,en,3.1333333333333333
+Takusa Brothers,Takusa Brothers,WORK_OF_ART,,,en,3.1357142857142857
 4.6 billion,4.6 billion,MONEY,,,en,3.1333333333333333
+early evening,early evening,TIME,,,en,3.1333333333333333
+February 22,February 22,DATE,,,en,3.1333333333333333
 May 17th,May 17th,DATE,,,en,3.1000000000000005
-May 7th,May 7th,DATE,,,en,3.1
 December 26th,December 26th,DATE,,,en,3.1
 January 31,January 31,DATE,,,en,3.1
+May 7th,May 7th,DATE,,,en,3.1
 "Monday, holiday","Monday, holiday",DATE,,,en,3.0999999999999996
 South Korean,South Korean,NORP,,,en,3.0857142857142854
-September 4th,September 4th,DATE,,,en,3.0857142857142854
 July 2024,July 2024,DATE,,,en,3.0857142857142854
+September 4th,September 4th,DATE,,,en,3.0857142857142854
 "June 1, 2026","June 1, 2026",DATE,,,en,3.083333333333333
 June 29th,June 29th,DATE,,,en,3.0678571428571426
 Orcan,Orcan,NORP,0.7454545454545455,2.851995920745921,en,3.066666666666667
 April 15th,April 15th,DATE,,,en,3.0666666666666664
+66,66,CARDINAL,,,en,3.0666666666666664
+These days,These days,DATE,,,en,3.0666666666666664
 3rd week,3rd week,DATE,,,en,3.0666666666666664
 only one,only one,CARDINAL,,,en,3.0666666666666664
-These days,These days,DATE,,,en,3.0666666666666664
-66,66,CARDINAL,,,en,3.0666666666666664
-"approximately 5,500 meters","approximately 5,500 meters",QUANTITY,,,en,3.05
-Joetsu,Joetsu,NORP,-0.07390012845215156,0.2327994540783558,en,3.05
 the day after,the day after,DATE,,,en,3.05
+"approximately 5,500 meters","approximately 5,500 meters",QUANTITY,,,en,3.05
+January 17th,January 17th,DATE,,,en,3.05
+Joetsu,Joetsu,NORP,-0.07390012845215156,0.2327994540783558,en,3.05
 March 25th,March 25th,DATE,,,en,3.033333333333333
 May 27th,May 27th,DATE,,,en,3.025
 This weekend,This weekend,DATE,,,en,3.022222222222222
@@ -899,11 +900,11 @@ This weekend,This weekend,DATE,,,en,3.022222222222222
 this winter,this winter,DATE,,,en,3.0000000000000004
 Model,Model,NORP,,,en,3.0
 the following day,the following day,DATE,,,en,3.0
-last month's,last month's,DATE,,,en,3.0
-"1,490 yen","1,490 yen",MONEY,,,en,3.0
 an hour,an hour,TIME,,,en,3.0
 the night of the 8th,the night of the 8th,TIME,,,en,3.0
+"1,490 yen","1,490 yen",MONEY,,,en,3.0
 August 15th,August 15th,DATE,,,en,3.0
+last month's,last month's,DATE,,,en,3.0
 the first half of the year,the first half of the year,DATE,,,en,2.988888888888889
 50s,50s,DATE,,,en,2.9883116883116885
 the evening of the 28th,the evening of the 28th,TIME,,,en,2.975
@@ -913,31 +914,30 @@ March 5th,March 5th,DATE,,,en,2.95
 sixth,sixth,ORDINAL,,,en,2.9428571428571426
 the 21st (Tuesday,the 21st (Tuesday,DATE,,,en,2.9326923076923075
 April 11th,April 11th,DATE,,,en,2.9288461538461537
-January 17th,January 17th,DATE,,,en,2.925
 6.5,6.5,CARDINAL,,,en,2.925
 50 cm,50 cm,QUANTITY,,,en,2.925
 Asahiyama Zoo,Asahiyama Zoo,FAC,0.23333333333333334,0.6833333333333335,en,2.923809523809524
 New Year,New Year,EVENT,,,en,2.9111111111111114
 the 19th (Sunday,the 19th (Sunday,DATE,,,en,2.911111111111111
-around 11:15 pm on the 8th,around 11:15 pm on the 8th,TIME,,,en,2.9000000000000004
 "2,980 yen","2,980 yen",MONEY,,,en,2.9000000000000004
-June 20th,June 20th,DATE,,,en,2.9
-October 2023,October 2023,DATE,,,en,2.9
-July 29,July 29,DATE,,,en,2.9
-40 km,40 km,QUANTITY,,,en,2.9
+around 11:15 pm on the 8th,around 11:15 pm on the 8th,TIME,,,en,2.9000000000000004
+2 to 3 days,2 to 3 days,DATE,,,en,2.9
 normal years,normal years,DATE,,,en,2.9
 Afternoon,Afternoon,TIME,,,en,2.9
-iRobot,iRobot,PRODUCT,,,en,2.9
-78,78,CARDINAL,,,en,2.9
-the 10th,the 10th,DATE,,,en,2.9
-2 to 3 days,2 to 3 days,DATE,,,en,2.9
 New Year's Day 2024,New Year's Day 2024,EVENT,,,en,2.9
-Constitution Day,Constitution Day,DATE,,,en,2.9
+the 10th,the 10th,DATE,,,en,2.9
+78,78,CARDINAL,,,en,2.9
+40 km,40 km,QUANTITY,,,en,2.9
+July 2020,July 2020,DATE,,,en,2.9
 May 4,May 4,DATE,,,en,2.9
+iRobot,iRobot,PRODUCT,,,en,2.9
 the night of the 28th,the night of the 28th,TIME,,,en,2.9
+October 2023,October 2023,DATE,,,en,2.9
+June 20th,June 20th,DATE,,,en,2.9
+Constitution Day,Constitution Day,DATE,,,en,2.9
 11:30 p.m.,11:30 p.m.,TIME,,,en,2.9
 tomorrow night,tomorrow night,TIME,,,en,2.9
-July 2020,July 2020,DATE,,,en,2.9
+July 29,July 29,DATE,,,en,2.9
 2026/05/26,2026/05/26,CARDINAL,,,en,2.8999999999999995
 the Kyushu Expressway,the Kyushu Expressway,FAC,,,en,2.89010989010989
 "50,000 yen","50,000 yen",MONEY,,,en,2.871428571428571
@@ -954,39 +954,39 @@ the beginning of 2026,the beginning of 2026,DATE,,,en,2.833333333333334
 March 28th,March 28th,DATE,,,en,2.8318181818181816
 40 years,40 years,DATE,,,en,2.828877005347594
 4 years,4 years,DATE,,,en,2.81038961038961
-2nd day,2nd day,DATE,,,en,2.8000000000000003
-Last week,Last week,DATE,,,en,2.8000000000000003
 Dutch,Dutch,NORP,,,en,2.8000000000000003
-the end of the week,the end of the week,DATE,,,en,2.8
-6.7,6.7,CARDINAL,,,en,2.8
-[Breaking News] Earthquake,[Breaking News] Earthquake,WORK_OF_ART,,,en,2.8
-April 20,April 20,DATE,,,en,2.8
-5.8,5.8,CARDINAL,,,en,2.8
-"24,550","24,550",CARDINAL,,,en,2.8
-8:00 a.m.,8:00 a.m.,TIME,,,en,2.8
-9:05 a.m.,9:05 a.m.,TIME,,,en,2.8
-4.5,4.5,CARDINAL,,,en,2.8
-60 m/s,60 m/s,QUANTITY,,,en,2.8
-80 km,80 km,QUANTITY,,,en,2.8
-80cm,80cm,QUANTITY,,,en,2.8
-Yokohama Stadium,Yokohama Stadium,FAC,0.18977272727272726,0.4033333333333333,en,2.8
-[Kumamoto Earthquake Intensity 7,[Kumamoto Earthquake Intensity 7,EVENT,,,en,2.8
+Last week,Last week,DATE,,,en,2.8000000000000003
+2nd day,2nd day,DATE,,,en,2.8000000000000003
+winter season,winter season,DATE,,,en,2.8
 around 8:38 a.m.,around 8:38 a.m.,TIME,,,en,2.8
+Typhoon egg,Typhoon egg,FAC,,,en,2.8
+15:00,15:00,TIME,,,en,2.8
+Bible,Bible,WORK_OF_ART,,,en,2.8
+the morning of the 27th,the morning of the 27th,TIME,,,en,2.8
+30 m/s,30 m/s,MONEY,,,en,2.8
+February 6,February 6,DATE,,,en,2.8
+the end of the week,the end of the week,DATE,,,en,2.8
+Yokohama Stadium,Yokohama Stadium,FAC,0.18977272727272726,0.4033333333333333,en,2.8
+6.7,6.7,CARDINAL,,,en,2.8
+April 20,April 20,DATE,,,en,2.8
+4.5,4.5,CARDINAL,,,en,2.8
+9:05 a.m.,9:05 a.m.,TIME,,,en,2.8
+"24,550","24,550",CARDINAL,,,en,2.8
+80 km,80 km,QUANTITY,,,en,2.8
+[Breaking News] Earthquake,[Breaking News] Earthquake,WORK_OF_ART,,,en,2.8
+5.8,5.8,CARDINAL,,,en,2.8
+[Kumamoto Earthquake Intensity 7,[Kumamoto Earthquake Intensity 7,EVENT,,,en,2.8
+8:00 a.m.,8:00 a.m.,TIME,,,en,2.8
 April 26th,April 26th,DATE,,,en,2.8
 the middle of the week,the middle of the week,DATE,,,en,2.8
-Bible,Bible,WORK_OF_ART,,,en,2.8
-less than,less than,QUANTITY,,,en,2.8
-15:00,15:00,TIME,,,en,2.8
-February 09,February 09,DATE,,,en,2.8
+60 m/s,60 m/s,QUANTITY,,,en,2.8
+80cm,80cm,QUANTITY,,,en,2.8
 July 23,July 23,DATE,,,en,2.8
-30 m/s,30 m/s,MONEY,,,en,2.8
-winter season,winter season,DATE,,,en,2.8
-Typhoon egg,Typhoon egg,FAC,,,en,2.8
 February 3,February 3,DATE,,,en,2.8
-the Tomei Expressway,the Tomei Expressway,FAC,,,en,2.8
-the morning of the 27th,the morning of the 27th,TIME,,,en,2.8
-7 a.m.,7 a.m.,TIME,,,en,2.8
 2026/06/16,2026/06/16,CARDINAL,,,en,2.8
+7 a.m.,7 a.m.,TIME,,,en,2.8
+February 09,February 09,DATE,,,en,2.8
+the Tomei Expressway,the Tomei Expressway,FAC,,,en,2.8
 every 3 hours,every 3 hours,TIME,,,en,2.8
 1.6%,1.6%,PERCENT,,,en,2.8
 the 21st to the 25th,the 21st to the 25th,DATE,,,en,2.8
@@ -1008,8 +1008,8 @@ last-minute,last-minute,TIME,,,en,2.8
 Ten years ago,Ten years ago,DATE,,,en,2.8
 nearly 40 degrees Celsius,nearly 40 degrees Celsius,QUANTITY,,,en,2.8
 the evening of the 14th,the evening of the 14th,TIME,,,en,2.8
-late night,late night,TIME,,,en,2.8
 "15,901","15,901",CARDINAL,,,en,2.8
+late night,late night,TIME,,,en,2.8
 10 yen,10 yen,MONEY,,,en,2.8
 6:00 a.m.,6:00 a.m.,TIME,,,en,2.8
 80 m,80 m,QUANTITY,,,en,2.8
@@ -1026,7 +1026,7 @@ a sunny day,a sunny day,DATE,,,en,2.8
 around 8:42 pm on the 21st,around 8:42 pm on the 21st,TIME,,,en,2.8
 220 km,220 km,QUANTITY,,,en,2.8
 a normal year,a normal year,DATE,,,en,2.8
-the long weekend,the long weekend,DATE,,,en,2.8
+23 m/s,23 m/s,QUANTITY,,,en,2.8
 150 mm,150 mm,QUANTITY,,,en,2.8
 more than 100 mm,more than 100 mm,QUANTITY,,,en,2.8
 150mm,150mm,QUANTITY,,,en,2.8
@@ -1057,57 +1057,58 @@ the White House,the White House,FAC,,,en,2.8
 over 10 years,over 10 years,DATE,,,en,2.8
 around 8:58 pm on the 25th,around 8:58 pm on the 25th,TIME,,,en,2.8
 "More than 5,000","More than 5,000",CARDINAL,,,en,2.8
-23 m/s,23 m/s,QUANTITY,,,en,2.8
+less than,less than,QUANTITY,,,en,2.8
 Otsuchi Town,Otsuchi Town,FAC,-0.025641025641025637,0.23076923076923073,en,2.8
 July 10th,July 10th,DATE,,,en,2.8
-April 2016,April 2016,DATE,,,en,2.8
 75%,75%,PERCENT,,,en,2.8
-"6,380 yen","6,380 yen",MONEY,,,en,2.8
-the 30th (Saturday,the 30th (Saturday,DATE,,,en,2.8
 3.7,3.7,CARDINAL,,,en,2.8
-2026/08/09,2026/08/09,CARDINAL,,,en,2.8
-150,150,CARDINAL,,,en,2.8
+the 30th (Saturday,the 30th (Saturday,DATE,,,en,2.8
+Philippine,Philippine,NORP,,,en,2.8
 around 8:22 pm on the 15th,around 8:22 pm on the 15th,TIME,,,en,2.8
-Tuesday to Wednesday,Tuesday to Wednesday,DATE,,,en,2.8
 140.1 degrees,140.1 degrees,QUANTITY,,,en,2.8
 approximately 50 kilometers,approximately 50 kilometers,QUANTITY,,,en,2.8
 the 8th (Friday,the 8th (Friday,DATE,,,en,2.8
+The next Saturday,The next Saturday,DATE,,,en,2.8
+300th,300th,ORDINAL,,,en,2.8
+sunny day,sunny day,DATE,,,en,2.8
+the long weekend,the long weekend,DATE,,,en,2.8
+Tuesday to Wednesday,Tuesday to Wednesday,DATE,,,en,2.8
+11:11am,11:11am,CARDINAL,,,en,2.8
+150,150,CARDINAL,,,en,2.8
+30 billion yen,30 billion yen,MONEY,,,en,2.8
 2026/01/23,2026/01/23,CARDINAL,,,en,2.8
 the early hours of the 27th,the early hours of the 27th,TIME,,,en,2.8
+1.3,1.3,CARDINAL,,,en,2.8
 the evening of the 27th,the evening of the 27th,TIME,,,en,2.8
 a very hot day,a very hot day,DATE,,,en,2.8
 up to 19 hours,up to 19 hours,TIME,,,en,2.8
-300th,300th,ORDINAL,,,en,2.8
-The next Saturday,The next Saturday,DATE,,,en,2.8
-11:11am,11:11am,CARDINAL,,,en,2.8
-Philippine,Philippine,NORP,,,en,2.8
 25 meters,25 meters,QUANTITY,,,en,2.8
-an extremely hot day,an extremely hot day,DATE,,,en,2.8
 the 21st (Thursday,the 21st (Thursday,DATE,,,en,2.8
-sunny day,sunny day,DATE,,,en,2.8
-1.3,1.3,CARDINAL,,,en,2.8
-"Today, Wednesday","Today, Wednesday",DATE,,,en,2.8
-30 billion yen,30 billion yen,MONEY,,,en,2.8
-January 22nd,January 22nd,DATE,,,en,2.8
-the afternoon of the 12th,the afternoon of the 12th,TIME,,,en,2.8
-140.6 degrees,140.6 degrees,QUANTITY,,,en,2.8
-36.3 degrees,36.3 degrees,QUANTITY,,,en,2.8
-around 6:19 a.m.,around 6:19 a.m.,TIME,,,en,2.8
-the first half of next week,the first half of next week,DATE,,,en,2.8
-September 2,September 2,DATE,,,en,2.8
-autumn/spring,autumn/spring,DATE,,,en,2.8
-Titania Frost,Titania Frost,EVENT,,,en,2.8
-42,42,DATE,,,en,2.8
-Uber,Uber,NORP,,,en,2.8
-the last day of January,the last day of January,DATE,,,en,2.8
-Next Generation Beautiful Girl x Strategy RPG,Next Generation Beautiful Girl x Strategy RPG,WORK_OF_ART,,,en,2.8
-Last Origin,Last Origin,WORK_OF_ART,,,en,2.8
 the afternoon and evening,the afternoon and evening,TIME,,,en,2.8
+2026/08/09,2026/08/09,CARDINAL,,,en,2.8
+"6,380 yen","6,380 yen",MONEY,,,en,2.8
+Last Origin,Last Origin,WORK_OF_ART,,,en,2.8
+the last day of January,the last day of January,DATE,,,en,2.8
+Uber,Uber,NORP,,,en,2.8
+42,42,DATE,,,en,2.8
+autumn/spring,autumn/spring,DATE,,,en,2.8
+the first half of next week,the first half of next week,DATE,,,en,2.8
+the afternoon of the 12th,the afternoon of the 12th,TIME,,,en,2.8
+Titania Frost,Titania Frost,EVENT,,,en,2.8
+around 6:19 a.m.,around 6:19 a.m.,TIME,,,en,2.8
+"Today, Wednesday","Today, Wednesday",DATE,,,en,2.8
+Next Generation Beautiful Girl x Strategy RPG,Next Generation Beautiful Girl x Strategy RPG,WORK_OF_ART,,,en,2.8
+140.6 degrees,140.6 degrees,QUANTITY,,,en,2.8
+an extremely hot day,an extremely hot day,DATE,,,en,2.8
+36.3 degrees,36.3 degrees,QUANTITY,,,en,2.8
+April 2016,April 2016,DATE,,,en,2.8
 the 12th (Tuesday,the 12th (Tuesday,DATE,,,en,2.8
+January 22nd,January 22nd,DATE,,,en,2.8
+September 2,September 2,DATE,,,en,2.8
 February 28,February 28,DATE,,,en,2.797832817337461
 Mentsuyu,Mentsuyu,PRODUCT,,,en,2.7928571428571427
-Hatena Bookmark,Hatena Bookmark,WORK_OF_ART,,,en,2.7892857142857146
 Every month,Every month,DATE,,,en,2.7892857142857146
+Hatena Bookmark,Hatena Bookmark,WORK_OF_ART,,,en,2.7892857142857146
 "April 24, 2026","April 24, 2026",DATE,,,en,2.788888888888889
 "100,000","100,000",CARDINAL,,,en,2.788655462184874
 2:00 p.m.,2:00 p.m.,TIME,,,en,2.7738095238095237
@@ -1116,25 +1117,25 @@ Approximately 15 minutes,Approximately 15 minutes,TIME,,,en,2.7694444444444444
 980 yen,980 yen,MONEY,,,en,2.7641025641025645
 October 2025,October 2025,DATE,,,en,2.7596491228070175
 3:30 a.m.,3:30 a.m.,TIME,,,en,2.7571428571428567
-August 18,August 18,DATE,,,en,2.75
-March 14th,March 14th,DATE,,,en,2.75
 Love Live,Love Live,WORK_OF_ART,,,en,2.75
 February 6th,February 6th,DATE,,,en,2.75
 2036,2036,DATE,,,en,2.75
+March 14th,March 14th,DATE,,,en,2.75
+August 18,August 18,DATE,,,en,2.75
 30s,30s,DATE,,,en,2.7472222222222222
 two-day,two-day,DATE,,,en,2.7333333333333334
 2026/06/27,2026/06/27,CARDINAL,,,en,2.7333333333333334
 April 5th,April 5th,DATE,,,en,2.7214285714285715
 6 p.m.,6 p.m.,TIME,,,en,2.7142857142857144
-Hamnet,Hamnet,WORK_OF_ART,,,en,2.7142857142857144
 four years ago,four years ago,DATE,,,en,2.7142857142857144
+Hamnet,Hamnet,WORK_OF_ART,,,en,2.7142857142857144
 Kosugi Core Park,Kosugi Core Park,FAC,,,en,2.711621711621712
 07,07,CARDINAL,,,en,2.7058823529411766
 2559,2559,CARDINAL,,,en,2.7043859649122806
-around 11:15 p.m.,around 11:15 p.m.,TIME,,,en,2.7
+Tsunami,Tsunami,NORP,,,en,2.7
 August 4th,August 4th,DATE,,,en,2.7
 Indonesian,Indonesian,NORP,,,en,2.7
-Tsunami,Tsunami,NORP,,,en,2.7
+around 11:15 p.m.,around 11:15 p.m.,TIME,,,en,2.7
 990 yen,990 yen,MONEY,,,en,2.6995115995115997
 "5,000 yen","5,000 yen",MONEY,,,en,2.6991341991341993
 1/2,1/2,CARDINAL,,,en,2.688888888888889
@@ -1153,21 +1154,21 @@ last month,last month,DATE,,,en,2.644444444444445
 December 8th,December 8th,DATE,,,en,2.642857142857143
 13th,13th,ORDINAL,,,en,2.626143790849673
 [Latest article_2],[Latest article_2],WORK_OF_ART,,,en,2.6213622291021674
-August 31st,August 31st,DATE,,,en,2.6142857142857143
-11:00,11:00,TIME,,,en,2.6142857142857143
 14 years,14 years,DATE,,,en,2.6142857142857143
+11:00,11:00,TIME,,,en,2.6142857142857143
+August 31st,August 31st,DATE,,,en,2.6142857142857143
 Tonight,Tonight,TIME,,,en,2.611111111111111
 March 3rd,March 3rd,DATE,,,en,2.6069444444444447
-MCP,MCP,PRODUCT,,,en,2.6
 at least one,at least one,CARDINAL,,,en,2.6
 May 9th,May 9th,DATE,,,en,2.6
+MCP,MCP,PRODUCT,,,en,2.6
 May 23rd,May 23rd,DATE,,,en,2.58939393939394
 "6,000 yen","6,000 yen",MONEY,,,en,2.5858585858585856
 March 1,March 1,DATE,,,en,2.5833333333333335
 Women's World Cup,Women's World Cup,EVENT,,,en,2.583333333333333
 March 20th,March 20th,DATE,,,en,2.5727272727272728
-+5%,+5%,PERCENT,,,en,2.5666666666666664
 August 26,August 26,DATE,,,en,2.5666666666666664
++5%,+5%,PERCENT,,,en,2.5666666666666664
 November 2025,November 2025,DATE,,,en,2.5583333333333336
 the night of the 23rd,the night of the 23rd,TIME,,,en,2.5545454545454547
 seconds,seconds,TIME,,,en,2.5500000000000003
@@ -1184,29 +1185,30 @@ Tuesdays,Tuesdays,DATE,,,en,2.5142857142857142
 Claude Code,Claude Code,LAW,,,en,2.5079365079365075
 100m,100m,QUANTITY,,,en,2.5076923076923086
 February 14th,February 14th,DATE,,,en,2.5041666666666664
-3rd day,3rd day,DATE,,,en,2.5
-July 15th,July 15th,DATE,,,en,2.5
-many summer days,many summer days,DATE,,,en,2.5
-Haconese,Haconese,NORP,,,en,2.5
-Comfort Braking,Comfort Braking,WORK_OF_ART,,,en,2.5
-December 31st,December 31st,DATE,,,en,2.5
-these days,these days,DATE,,,en,2.5
-April 2,April 2,DATE,,,en,2.5
-January 31st,January 31st,DATE,,,en,2.5
-Daihoji Temple,Daihoji Temple,FAC,,,en,2.5
 Wonder Festival 2026,Wonder Festival 2026,EVENT,,,en,2.5
-the 2nd (Monday,the 2nd (Monday,DATE,,,en,2.5
-Narita Airport,Narita Airport,FAC,,,en,2.5
+many summer days,many summer days,DATE,,,en,2.5
+April 2,April 2,DATE,,,en,2.5
+Daihoji Temple,Daihoji Temple,FAC,,,en,2.5
+January 31st,January 31st,DATE,,,en,2.5
+3rd day,3rd day,DATE,,,en,2.5
+Haconese,Haconese,NORP,,,en,2.5
 around 6:01 pm on the 25th,around 6:01 pm on the 25th,TIME,,,en,2.5
+Comfort Braking,Comfort Braking,WORK_OF_ART,,,en,2.5
+these days,these days,DATE,,,en,2.5
 "June 10, 2026","June 10, 2026",DATE,,,en,2.5
+Narita Airport,Narita Airport,FAC,,,en,2.5
+July 15th,July 15th,DATE,,,en,2.5
+December 31st,December 31st,DATE,,,en,2.5
+the 2nd (Monday,the 2nd (Monday,DATE,,,en,2.5
 2026/05/09,2026/05/09,CARDINAL,,,en,2.4999999999999996
 Third,Third,ORDINAL,,,en,2.4952380952380953
 AmiAmi,AmiAmi,PRODUCT,,,en,2.4935064935064934
 50th,50th,ORDINAL,,,en,2.4916666666666667
+"January 17, 1995","January 17, 1995",DATE,,,en,2.4833333333333334
 the past 30 years,the past 30 years,DATE,,,en,2.4761904761904763
 the second week,the second week,DATE,,,en,2.476190476190476
-"1,000","1,000",CARDINAL,,,en,2.4714285714285715
 the second half of 2026,the second half of 2026,DATE,,,en,2.4714285714285715
+"1,000","1,000",CARDINAL,,,en,2.4714285714285715
 one minute,one minute,TIME,,,en,2.4714285714285715
 Osaka/Kansai Expo,Osaka/Kansai Expo,EVENT,,,en,2.4714285714285715
 AEON MALL Kumamoto,AEON MALL Kumamoto,PRODUCT,,,en,2.471428571428571
@@ -1216,8 +1218,8 @@ July 18th,July 18th,DATE,,,en,2.4535714285714283
 1990,1990,DATE,,,en,2.4499999999999997
 2030,2030,DATE,,,en,2.4428571428571426
 51,51,CARDINAL,,,en,2.4428571428571426
-April 7th,April 7th,DATE,,,en,2.4333333333333336
 May 31st,May 31st,DATE,,,en,2.4333333333333336
+April 7th,April 7th,DATE,,,en,2.4333333333333336
 A few years ago,A few years ago,DATE,,,en,2.433333333333333
 millions,millions,CARDINAL,,,en,2.429411764705882
 5/3,5/3,CARDINAL,,,en,2.428571428571429
@@ -1228,38 +1230,38 @@ August 8th,August 8th,DATE,,,en,2.425
 "1,500 yen","1,500 yen",MONEY,,,en,2.422222222222222
 Saturday Edition,Saturday Edition,WORK_OF_ART,,,en,2.4214285714285713
 500 yen,500 yen,MONEY,,,en,2.4191919191919196
+the Great Hanshin Earthquake,the Great Hanshin Earthquake,EVENT,,,en,2.4178571428571427
 2010,2010,DATE,,,en,2.4107142857142856
 hours,hours,TIME,,,en,2.4000000000000004
 "March 3, 2026","March 3, 2026",DATE,,,en,2.4000000000000004
-Shichinohe Town,Shichinohe Town,FAC,,,en,2.4
-1/3,1/3,CARDINAL,,,en,2.4
-February 13th,February 13th,DATE,,,en,2.4
+Hachinohe,Hachinohe,EVENT,0.0,0.0,en,2.4
 February 5th,February 5th,DATE,,,en,2.4
-May.,May.,DATE,0.1871212121212121,0.36818181818181817,en,2.4
 May 16,May 16,DATE,,,en,2.4
 10:00 a.m.,10:00 a.m.,TIME,,,en,2.4
-the long holidays,the long holidays,DATE,,,en,2.4
+May.,May.,DATE,0.1871212121212121,0.36818181818181817,en,2.4
 3-day weekend,3-day weekend,DATE,,,en,2.4
-Hachinohe,Hachinohe,EVENT,0.0,0.0,en,2.4
-14%,14%,PERCENT,,,en,2.4
-Morning,Morning,TIME,,,en,2.4
 74,74,CARDINAL,,,en,2.4
-9:30 a.m.,9:30 a.m.,TIME,,,en,2.4
 1931,1931,DATE,,,en,2.4
+Shichinohe Town,Shichinohe Town,FAC,,,en,2.4
+1/3,1/3,CARDINAL,,,en,2.4
+Morning,Morning,TIME,,,en,2.4
+February 13th,February 13th,DATE,,,en,2.4
+14%,14%,PERCENT,,,en,2.4
+9:30 a.m.,9:30 a.m.,TIME,,,en,2.4
+the long holidays,the long holidays,DATE,,,en,2.4
 60s,60s,CARDINAL,,,en,2.392857142857143
 Ginga no Vote,Ginga no Vote,WORK_OF_ART,,,en,2.3833333333333333
 6583 yards,6583 yards,QUANTITY,,,en,2.3777777777777778
-2026-27,2026-27,DATE,,,en,2.375
 7.7,7.7,CARDINAL,,,en,2.375
+2026-27,2026-27,DATE,,,en,2.375
 about 110 yen,about 110 yen,MONEY,,,en,2.375
 Uvance Todoroki Stadium,Uvance Todoroki Stadium,FAC,,,en,2.372549019607843
 First day,First day,DATE,,,en,2.3714285714285714
 122,122,CARDINAL,,,en,2.3666666666666667
 next month,next month,DATE,,,en,2.3583333333333334
-"January 17, 1995","January 17, 1995",DATE,,,en,2.3583333333333334
 December 19th,December 19th,DATE,,,en,2.3571428571428568
-800,800,CARDINAL,,,en,2.3444444444444446
 9:45 a.m.,9:45 a.m.,TIME,,,en,2.3444444444444446
+800,800,CARDINAL,,,en,2.3444444444444446
 June 22nd,June 22nd,DATE,,,en,2.344444444444444
 the same period last year,the same period last year,DATE,,,en,2.344444444444444
 up to 60%,up to 60%,PERCENT,,,en,2.3380952380952382
@@ -1267,10 +1269,10 @@ Matsuya,Matsuya,NORP,0.9171536796536797,2.014321789321789,en,2.3380952380952382
 500,500,CARDINAL,,,en,2.3333333333333335
 200km,200km,QUANTITY,,,en,2.333333333333333
 mid-August,mid-August,DATE,,,en,2.331818181818182
+March 2023,March 2023,DATE,,,en,2.3285714285714283
+47%,47%,PERCENT,,,en,2.3285714285714283
 180,180,CARDINAL,,,en,2.3285714285714283
 Autumn,Autumn,DATE,,,en,2.3285714285714283
-47%,47%,PERCENT,,,en,2.3285714285714283
-March 2023,March 2023,DATE,,,en,2.3285714285714283
 "February 13, 2026","February 13, 2026",DATE,,,en,2.316666666666667
 40cm,40cm,QUANTITY,,,en,2.3125
 2 days,2 days,DATE,,,en,2.3111111111111113
@@ -1279,21 +1281,19 @@ the spring,the spring,DATE,,,en,2.307142857142857
 Yuru Camp△,Yuru Camp△,WORK_OF_ART,,,en,2.3055555555555554
 Tokyo Tower,Tokyo Tower,FAC,,,en,2.3035714285714284
 2026/03/17,2026/03/17,CARDINAL,,,en,2.3000000000000007
+August 2,August 2,DATE,,,en,2.3
+99,99,CARDINAL,,,en,2.3
+August 7,August 7,DATE,,,en,2.3
+January 11th,January 11th,DATE,,,en,2.3
 May 22nd,May 22nd,DATE,,,en,2.3
 10 cm,10 cm,QUANTITY,,,en,2.3
-99,99,CARDINAL,,,en,2.3
-February 6,February 6,DATE,,,en,2.3
 5 cm,5 cm,QUANTITY,,,en,2.3
-January 11th,January 11th,DATE,,,en,2.3
-August 2,August 2,DATE,,,en,2.3
-August 7,August 7,DATE,,,en,2.3
 "You, Gata, Dokosa","You, Gata, Dokosa",WORK_OF_ART,,,en,2.2976190476190474
 100 yen,100 yen,MONEY,,,en,2.2954545454545454
-the Great Hanshin Earthquake,the Great Hanshin Earthquake,EVENT,,,en,2.2928571428571427
 3x,3x,CARDINAL,,,en,2.2928571428571427
 April 2nd,April 2nd,DATE,,,en,2.2888888888888888
-June 2023,June 2023,DATE,,,en,2.285714285714285
 Tomoe Sakura,Tomoe Sakura,WORK_OF_ART,,,en,2.285714285714285
+June 2023,June 2023,DATE,,,en,2.285714285714285
 February 25th,February 25th,DATE,,,en,2.2852272727272727
 MUFG Stadium,MUFG Stadium,FAC,,,en,2.283333333333333
 about 5 minutes,about 5 minutes,TIME,,,en,2.280952380952381
@@ -1301,104 +1301,104 @@ about 5 minutes,about 5 minutes,TIME,,,en,2.280952380952381
 June 22,June 22,DATE,,,en,2.275
 Touhou Project,Touhou Project,WORK_OF_ART,,,en,2.2727272727272725
 Approximately 10 minutes,Approximately 10 minutes,TIME,,,en,2.267857142857143
+"1,980 yen","1,980 yen",MONEY,,,en,2.2666666666666666
 mid-March,mid-March,DATE,,,en,2.2666666666666666
 The days,The days,DATE,,,en,2.2666666666666666
-"1,980 yen","1,980 yen",MONEY,,,en,2.2666666666666666
 87,87,CARDINAL,,,en,2.266666666666666
 Tsuda,Tsuda,PRODUCT,,,en,2.2607142857142857
 142.3 degrees,142.3 degrees,QUANTITY,,,en,2.257142857142857
-Amazon,Amazon,PRODUCT,,,en,2.25
 the 29th to the 30th,the 29th to the 30th,DATE,,,en,2.25
+Amazon,Amazon,PRODUCT,,,en,2.25
 August 17th,August 17th,DATE,,,en,2.25
 seventh,seventh,ORDINAL,,,en,2.25
-1.5,1.5,CARDINAL,,,en,2.25
 200m,200m,QUANTITY,,,en,2.25
+1.5,1.5,CARDINAL,,,en,2.25
 the night of the 7th,the night of the 7th,TIME,,,en,2.25
 January 12th,January 12th,DATE,,,en,2.25
 Google Pixel,Google Pixel,PRODUCT,,,en,2.242857142857143
 June 14th,June 14th,DATE,,,en,2.242857142857143
 "March 11, 2026","March 11, 2026",DATE,,,en,2.2337662337662336
 25%,25%,PERCENT,,,en,2.233333333333334
-January 1st,January 1st,DATE,,,en,2.2333333333333334
-Muslims,Muslims,NORP,,,en,2.2333333333333334
-"2,000","2,000",CARDINAL,,,en,2.2333333333333334
-February of this year,February of this year,DATE,,,en,2.2333333333333334
-last summer,last summer,DATE,,,en,2.2333333333333334
 "April 27, 2026","April 27, 2026",DATE,,,en,2.2333333333333334
+last summer,last summer,DATE,,,en,2.2333333333333334
+"2,000","2,000",CARDINAL,,,en,2.2333333333333334
+winter to spring,winter to spring,DATE,,,en,2.2333333333333334
 6 months,6 months,DATE,,,en,2.2333333333333334
 January 20th,January 20th,DATE,,,en,2.2333333333333334
-winter to spring,winter to spring,DATE,,,en,2.2333333333333334
+January 1st,January 1st,DATE,,,en,2.2333333333333334
+February of this year,February of this year,DATE,,,en,2.2333333333333334
+Muslims,Muslims,NORP,,,en,2.2333333333333334
 Two-week,Two-week,DATE,,,en,2.230769230769231
 40th,40th,ORDINAL,,,en,2.2222689075630253
 July 7th,July 7th,DATE,,,en,2.2222222222222223
 "`Kaze, Kaoru''","`Kaze, Kaoru''",WORK_OF_ART,,,en,2.214285714285714
-2.5%,2.5%,PERCENT,,,en,2.2
 50mm,50mm,QUANTITY,,,en,2.2
-the same month last year,the same month last year,DATE,,,en,2.2
 September 30th,September 30th,DATE,,,en,2.2
+the same month last year,the same month last year,DATE,,,en,2.2
 The day before,The day before,DATE,,,en,2.2
+2.5%,2.5%,PERCENT,,,en,2.2
 Shocking Meal,Shocking Meal,WORK_OF_ART,,,en,2.2
 the Onagawa Nuclear Power Plant,the Onagawa Nuclear Power Plant,FAC,,,en,2.1999999999999997
 just 10 minutes,just 10 minutes,TIME,,,en,2.199175824175824
 1 teaspoon,1 teaspoon,QUANTITY,,,en,2.1944444444444446
 March 02,March 02,DATE,,,en,2.1875
-the night of the 1st,the night of the 1st,TIME,,,en,2.1857142857142855
 June 29,June 29,DATE,,,en,2.1857142857142855
 about an hour,about an hour,TIME,,,en,2.1857142857142855
 July 7,July 7,DATE,,,en,2.1857142857142855
+the night of the 1st,the night of the 1st,TIME,,,en,2.1857142857142855
 the afternoon of the 31st,the afternoon of the 31st,TIME,,,en,2.1857142857142855
 every month,every month,DATE,,,en,2.1857142857142855
 51st,51st,ORDINAL,,,en,2.183333333333333
 "June 22, 2026","June 22, 2026",DATE,,,en,2.172727272727273
 "less than 1,000 yen","less than 1,000 yen",MONEY,,,en,2.170940170940171
 the FIFA World Cup 2026,the FIFA World Cup 2026,EVENT,,,en,2.1705882352941175
-Fifteen years,Fifteen years,DATE,,,en,2.1666666666666665
-Brazilian,Brazilian,NORP,,,en,2.1666666666666665
-January 24th,January 24th,DATE,,,en,2.1666666666666665
 64,64,DATE,,,en,2.1666666666666665
+January 24th,January 24th,DATE,,,en,2.1666666666666665
+Brazilian,Brazilian,NORP,,,en,2.1666666666666665
+Fifteen years,Fifteen years,DATE,,,en,2.1666666666666665
 hot days,hot days,DATE,,,en,2.1634920634920634
 seasons,seasons,DATE,,,en,2.1587301587301586
 60,60,CARDINAL,,,en,2.158333333333333
 around 10:29 a.m.,around 10:29 a.m.,TIME,,,en,2.157142857142857
 iOS 27,iOS 27,PRODUCT,,,en,2.1555555555555554
 the hottest day of the year,the hottest day of the year,DATE,,,en,2.1500000000000004
-this time of year,this time of year,DATE,,,en,2.15
 2026/08/03,2026/08/03,CARDINAL,,,en,2.15
+Wednesday night,Wednesday night,TIME,,,en,2.15
+the night of the 3rd,the night of the 3rd,TIME,,,en,2.15
 "67,100 yen","67,100 yen",MONEY,,,en,2.15
 2 million,2 million,CARDINAL,,,en,2.15
-the night of the 3rd,the night of the 3rd,TIME,,,en,2.15
-Wednesday night,Wednesday night,TIME,,,en,2.15
 70 cm,70 cm,QUANTITY,,,en,2.15
+this time of year,this time of year,DATE,,,en,2.15
 more than 10 years,more than 10 years,DATE,,,en,2.15
-"July 3, 2026","July 3, 2026",DATE,,,en,2.142857142857143
 13:30~,13:30~,CARDINAL,,,en,2.142857142857143
+"July 3, 2026","July 3, 2026",DATE,,,en,2.142857142857143
 the daylight hours,the daylight hours,TIME,,,en,2.1428571428571423
 1000 yen,1000 yen,MONEY,,,en,2.1333333333333333
 spring 2026,spring 2026,DATE,,,en,2.125
-April 6th,April 6th,DATE,,,en,2.125
 Regulus,Regulus,PRODUCT,,,en,2.125
+April 6th,April 6th,DATE,,,en,2.125
 the 18th (Thursday,the 18th (Thursday,DATE,,,en,2.1222222222222222
 52,52,DATE,,,en,2.119047619047619
 Amazon Smile,Amazon Smile,PRODUCT,,,en,2.1142857142857143
 every night,every night,TIME,,,en,2.114285714285714
 Megami Device,Megami Device,WORK_OF_ART,,,en,2.1111111111111107
 each year,each year,DATE,,,en,2.1052631578947367
-86,86,CARDINAL,,,en,2.1
-March 15th,March 15th,DATE,,,en,2.1
-August 28,August 28,DATE,,,en,2.1
-2 kg,2 kg,QUANTITY,,,en,2.1
-20cm,20cm,QUANTITY,,,en,2.1
-some extremely hot days,some extremely hot days,DATE,,,en,2.1
-Sundays,Sundays,DATE,,,en,2.1
-the Shimane Nuclear Power Plant,the Shimane Nuclear Power Plant,FAC,,,en,2.1
 the 20th (Tuesday,the 20th (Tuesday,DATE,,,en,2.1
-the next 10 years,the next 10 years,DATE,,,en,2.1
+86,86,CARDINAL,,,en,2.1
+Sundays,Sundays,DATE,,,en,2.1
 July 20th,July 20th,DATE,,,en,2.1
+the Shimane Nuclear Power Plant,the Shimane Nuclear Power Plant,FAC,,,en,2.1
+some extremely hot days,some extremely hot days,DATE,,,en,2.1
+March 15th,March 15th,DATE,,,en,2.1
 the Tokyo Marathon,the Tokyo Marathon,EVENT,,,en,2.1
+the next 10 years,the next 10 years,DATE,,,en,2.1
+20cm,20cm,QUANTITY,,,en,2.1
+2 kg,2 kg,QUANTITY,,,en,2.1
+August 28,August 28,DATE,,,en,2.1
 1 tablespoon,1 tablespoon,QUANTITY,,,en,2.0993589743589745
 1955,1955,DATE,,,en,2.090909090909091
-The day after tomorrow,The day after tomorrow,DATE,,,en,2.0875
 the night of the 24th,the night of the 24th,TIME,,,en,2.0875
+The day after tomorrow,The day after tomorrow,DATE,,,en,2.0875
 ​​western,​​western,DATE,,,en,2.0875
 15th anniversary,15th anniversary,DATE,,,en,2.081818181818182
 4 a.m.,4 a.m.,TIME,,,en,2.081818181818182
@@ -1407,14 +1407,14 @@ Musashikosugi 2026,Musashikosugi 2026,FAC,,,en,2.0769230769230766
 "May 1, 2026","May 1, 2026",DATE,,,en,2.0749999999999997
 March 9th,March 9th,DATE,,,en,2.067032967032967
 December 25th,December 25th,DATE,,,en,2.066666666666667
+around 15 degrees Celsius,around 15 degrees Celsius,QUANTITY,,,en,2.0666666666666664
+Kaze,Kaze,WORK_OF_ART,,,en,2.0666666666666664
+May 21,May 21,DATE,,,en,2.0666666666666664
+around 20 degrees Celsius,around 20 degrees Celsius,QUANTITY,,,en,2.0666666666666664
 16 years,16 years,DATE,,,en,2.0666666666666664
 2 p.m.,2 p.m.,TIME,,,en,2.0666666666666664
-around 20 degrees Celsius,around 20 degrees Celsius,QUANTITY,,,en,2.0666666666666664
-May 21,May 21,DATE,,,en,2.0666666666666664
-years ago,years ago,DATE,,,en,2.0666666666666664
 the first day of spring,the first day of spring,DATE,,,en,2.0666666666666664
-Kaze,Kaze,WORK_OF_ART,,,en,2.0666666666666664
-around 15 degrees Celsius,around 15 degrees Celsius,QUANTITY,,,en,2.0666666666666664
+years ago,years ago,DATE,,,en,2.0666666666666664
 2 years,2 years,DATE,,,en,2.057142857142857
 2026/07/28,2026/07/28,CARDINAL,,,en,2.0555555555555554
 The next day,The next day,DATE,,,en,2.0545454545454547
@@ -1424,60 +1424,60 @@ Latin American,Latin American,NORP,,,en,2.0461538461538464
 the Great Kanto Earthquake,the Great Kanto Earthquake,EVENT,,,en,2.0454545454545454
 Donki,Donki,WORK_OF_ART,,,en,2.0444444444444443
 ①,①,CARDINAL,,,en,2.042857142857143
-Twitter,Twitter,PRODUCT,,,en,2.0428571428571427
-September 6th,September 6th,DATE,,,en,2.0428571428571427
-Great East Japan Earthquake,Great East Japan Earthquake,EVENT,,,en,2.0428571428571427
 127,127,CARDINAL,,,en,2.0428571428571427
+Twitter,Twitter,PRODUCT,,,en,2.0428571428571427
+Great East Japan Earthquake,Great East Japan Earthquake,EVENT,,,en,2.0428571428571427
+September 6th,September 6th,DATE,,,en,2.0428571428571427
 3cm,3cm,QUANTITY,,,en,2.0416666666666665
 67th,67th,ORDINAL,,,en,2.0384615384615383
-the Tokyo Olympics,the Tokyo Olympics,EVENT,,,en,2.0250000000000004
 January 29th,January 29th,DATE,,,en,2.0250000000000004
-3 a.m.,3 a.m.,TIME,,,en,2.025
-April 16th,April 16th,DATE,,,en,2.025
-one-day,one-day,DATE,,,en,2.025
+the Tokyo Olympics,the Tokyo Olympics,EVENT,,,en,2.0250000000000004
 Fukushima Station,Fukushima Station,FAC,,,en,2.025
+April 16th,April 16th,DATE,,,en,2.025
 2026/01/20,2026/01/20,CARDINAL,,,en,2.025
+one-day,one-day,DATE,,,en,2.025
+3 a.m.,3 a.m.,TIME,,,en,2.025
 Our Society,Our Society,WORK_OF_ART,,,en,2.0190476190476185
-two months,two months,DATE,,,en,2.0
+840 yen,840 yen,MONEY,,,en,2.0
+"about 1,000","about 1,000",CARDINAL,,,en,2.0
+the age of 50,the age of 50,DATE,,,en,2.0
+a few days later,a few days later,DATE,,,en,2.0
+56%,56%,PERCENT,,,en,2.0
+Uto Station,Uto Station,FAC,,,en,2.0
+two hours,two hours,TIME,,,en,2.0
+"99,800 yen","99,800 yen",MONEY,,,en,2.0
+around 10:28 a.m.,around 10:28 a.m.,TIME,,,en,2.0
+2026/09/01,2026/09/01,CARDINAL,,,en,2.0
+the end of January,the end of January,DATE,,,en,2.0
+January 19th,January 19th,DATE,,,en,2.0
+more than five,more than five,CARDINAL,,,en,2.0
+less than 300 yen,less than 300 yen,MONEY,,,en,2.0
+[Comfortable Rooftop Terrace BBQ,[Comfortable Rooftop Terrace BBQ,WORK_OF_ART,,,en,2.0
 the last 16,the last 16,DATE,,,en,2.0
 May 7,May 7,DATE,,,en,2.0
-March 2,March 2,DATE,,,en,2.0
-February 3rd,February 3rd,DATE,,,en,2.0
-"August 28, 2026","August 28, 2026",DATE,,,en,2.0
-February 1st,February 1st,DATE,,,en,2.0
-two hours,two hours,TIME,,,en,2.0
-56%,56%,PERCENT,,,en,2.0
-Matsunoke,Matsunoke,WORK_OF_ART,,,en,2.0
-a few days later,a few days later,DATE,,,en,2.0
-2026/09/01,2026/09/01,CARDINAL,,,en,2.0
-Mandarin,Mandarin,NORP,,,en,2.0
-"99,800 yen","99,800 yen",MONEY,,,en,2.0
-the last eight,the last eight,DATE,,,en,2.0
-the end of January,the end of January,DATE,,,en,2.0
-840 yen,840 yen,MONEY,,,en,2.0
-59,59,DATE,,,en,2.0
-more than a week,more than a week,DATE,,,en,2.0
-around 10:28 a.m.,around 10:28 a.m.,TIME,,,en,2.0
-"about 1,000","about 1,000",CARDINAL,,,en,2.0
-Uto Station,Uto Station,FAC,,,en,2.0
-28 degrees Celsius,28 degrees Celsius,QUANTITY,,,en,2.0
-less than 300 yen,less than 300 yen,MONEY,,,en,2.0
-the night of the 2nd,the night of the 2nd,TIME,,,en,2.0
-the age of 50,the age of 50,DATE,,,en,2.0
-January 19th,January 19th,DATE,,,en,2.0
-"April 1, 2026","April 1, 2026",DATE,,,en,2.0
-her 70s,her 70s,DATE,,,en,2.0
-55,55,DATE,,,en,2.0
-[Comfortable Rooftop Terrace BBQ,[Comfortable Rooftop Terrace BBQ,WORK_OF_ART,,,en,2.0
-Peruvian,Peruvian,NORP,,,en,2.0
-50 years ago,50 years ago,DATE,,,en,2.0
-10 days,10 days,DATE,,,en,2.0
-June 8th,June 8th,DATE,,,en,2.0
-late March,late March,DATE,,,en,2.0
-the afternoon of the 28th,the afternoon of the 28th,TIME,,,en,2.0
-the next morning,the next morning,TIME,,,en,2.0
 the afternoon of today,the afternoon of today,TIME,,,en,2.0
-more than five,more than five,CARDINAL,,,en,2.0
+her 70s,her 70s,DATE,,,en,2.0
+March 2,March 2,DATE,,,en,2.0
+the night of the 2nd,the night of the 2nd,TIME,,,en,2.0
+more than a week,more than a week,DATE,,,en,2.0
+55,55,DATE,,,en,2.0
+10 days,10 days,DATE,,,en,2.0
+February 1st,February 1st,DATE,,,en,2.0
+the afternoon of the 28th,the afternoon of the 28th,TIME,,,en,2.0
+28 degrees Celsius,28 degrees Celsius,QUANTITY,,,en,2.0
+the next morning,the next morning,TIME,,,en,2.0
+late March,late March,DATE,,,en,2.0
+February 3rd,February 3rd,DATE,,,en,2.0
+Matsunoke,Matsunoke,WORK_OF_ART,,,en,2.0
+Peruvian,Peruvian,NORP,,,en,2.0
+"August 28, 2026","August 28, 2026",DATE,,,en,2.0
+"April 1, 2026","April 1, 2026",DATE,,,en,2.0
+two months,two months,DATE,,,en,2.0
+the last eight,the last eight,DATE,,,en,2.0
+Mandarin,Mandarin,NORP,,,en,2.0
+50 years ago,50 years ago,DATE,,,en,2.0
+59,59,DATE,,,en,2.0
+June 8th,June 8th,DATE,,,en,2.0
 "Urameshi, Kedo","Urameshi, Kedo",WORK_OF_ART,,,en,1.9999999999999996
 February 2025,February 2025,DATE,,,en,1.988888888888889
 February 7th,February 7th,DATE,,,en,1.988888888888889
@@ -1506,243 +1506,243 @@ Saturday Digest Edition,Saturday Digest Edition,WORK_OF_ART,,,en,1.9214285714285
 Itoshima Road,Itoshima Road,FAC,,,en,1.9090909090909092
 "Kaidan, Kaku","Kaidan, Kaku",WORK_OF_ART,,,en,1.9000000000000004
 "2,990 yen","2,990 yen",MONEY,,,en,1.9000000000000001
-the end of March,the end of March,DATE,,,en,1.9000000000000001
-8/2,8/2,CARDINAL,,,en,1.9000000000000001
-about 15 minutes,about 15 minutes,TIME,,,en,1.9000000000000001
 a year ago,a year ago,DATE,,,en,1.9000000000000001
-992,992,CARDINAL,,,en,1.9
-a first year,a first year,DATE,,,en,1.9
-Combo Robot + AutoWash Charging Station,Combo Robot + AutoWash Charging Station,PRODUCT,,,en,1.9
-2026/08/06,2026/08/06,CARDINAL,,,en,1.9
-Stick Handy Cleaner Cyclone,Stick Handy Cleaner Cyclone,WORK_OF_ART,,,en,1.9
-Mountain Day,Mountain Day,EVENT,0.0,0.0,en,1.9
-2022/02/26,2022/02/26,CARDINAL,,,en,1.9
-"today, Sunday","today, Sunday",DATE,,,en,1.9
-Aqunia Flood,Aqunia Flood,WORK_OF_ART,,,en,1.9
-18V,18V,CARDINAL,,,en,1.9
-Kumamoto Earthquake - Predictive,Kumamoto Earthquake - Predictive,EVENT,,,en,1.9
-the 21st of this month,the 21st of this month,DATE,,,en,1.9
-"More than 10,000","More than 10,000",CARDINAL,,,en,1.9
-36.6 degrees,36.6 degrees,QUANTITY,,,en,1.9
-37 degrees Celsius,37 degrees Celsius,QUANTITY,,,en,1.9
-Yatsushiro,Yatsushiro,NORP,0.03782924613987284,0.19868301544050862,en,1.9
-the Tokyo Metropolitan Earthquake,the Tokyo Metropolitan Earthquake,EVENT,,,en,1.9
-Robot Vacuum Cleaner,Robot Vacuum Cleaner,PRODUCT,,,en,1.9
-Honshu,Honshu,NORP,0.0008644319914679452,0.014629856582874157,en,1.9
-2026/07/14,2026/07/14,CARDINAL,,,en,1.9
-7pm,7pm,TIME,,,en,1.9
-last December,last December,DATE,,,en,1.9
-"99,394 yen","99,394 yen",MONEY,,,en,1.9
-the Imperial Palace,the Imperial Palace,FAC,,,en,1.9
-just before 6 a.m.,just before 6 a.m.,TIME,,,en,1.9
-the evening of the 30th,the evening of the 30th,TIME,,,en,1.9
-July last year,July last year,DATE,,,en,1.9
-89,89,CARDINAL,,,en,1.9
-the morning of tomorrow,the morning of tomorrow,TIME,,,en,1.9
-August 4th (Tuesday,August 4th (Tuesday,DATE,,,en,1.9
-0-2,0-2,CARDINAL,,,en,1.9
-242,242,CARDINAL,,,en,1.9
-63.7%,63.7%,PERCENT,,,en,1.9
-"8,105","8,105",CARDINAL,,,en,1.9
-the 13th to the 14th,the 13th to the 14th,DATE,,,en,1.9
-[July 14,[July 14,DATE,,,en,1.9
-185,185,CARDINAL,,,en,1.9
-around January 28th,around January 28th,DATE,,,en,1.9
-around 5:09 a.m.,around 5:09 a.m.,TIME,,,en,1.9
-2.9,2.9,CARDINAL,,,en,1.9
-the July 28 earthquake,the July 28 earthquake,EVENT,,,en,1.9
-July 13,July 13,DATE,,,en,1.9
-the Shin-Tomei Expressway,the Shin-Tomei Expressway,FAC,,,en,1.9
-the early hours of the 12th,the early hours of the 12th,TIME,,,en,1.9
-the afternoon of the 11th to the morning of the 12th,the afternoon of the 11th to the morning of the 12th,TIME,,,en,1.9
-July 31st to August 3rd,July 31st to August 3rd,DATE,,,en,1.9
-"more than 1,000","more than 1,000",CARDINAL,,,en,1.9
-months,months,DATE,,,en,1.9
-Hiroshima Expressway,Hiroshima Expressway,FAC,,,en,1.9
-6784 yards,6784 yards,QUANTITY,,,en,1.9
-the night of today,the night of today,TIME,,,en,1.9
-the beginning of this year,the beginning of this year,DATE,,,en,1.9
-2026/01/31,2026/01/31,DATE,,,en,1.9
-the morning of the 10th,the morning of the 10th,TIME,,,en,1.9
-approximately 60 km,approximately 60 km,QUANTITY,,,en,1.9
-5+,5+,PERCENT,,,en,1.9
-Mirai Rice Academy,Mirai Rice Academy,WORK_OF_ART,,,en,1.9
-38 degrees Celsius,38 degrees Celsius,QUANTITY,,,en,1.9
-over 30%,over 30%,PERCENT,,,en,1.9
-the morning of the 24th,the morning of the 24th,TIME,,,en,1.9
-the upcoming season,the upcoming season,DATE,,,en,1.9
-737-800,737-800,PRODUCT,,,en,1.9
-the age of 36,the age of 36,DATE,,,en,1.9
+8/2,8/2,CARDINAL,,,en,1.9000000000000001
+the end of March,the end of March,DATE,,,en,1.9000000000000001
+about 15 minutes,about 15 minutes,TIME,,,en,1.9000000000000001
 September 4,September 4,DATE,,,en,1.9
-Nazi,Nazi,NORP,,,en,1.9
-around 10:47 pm on the 30th,around 10:47 pm on the 30th,TIME,,,en,1.9
-Amakusa,Amakusa,NORP,,,en,1.9
-3pm,3pm,TIME,,,en,1.9
-32.7 degrees,32.7 degrees,QUANTITY,,,en,1.9
-19 trillion yen,19 trillion yen,MONEY,,,en,1.9
-the 24 hours,the 24 hours,TIME,,,en,1.9
-the evening of the 11th,the evening of the 11th,TIME,,,en,1.9
-a weekend,a weekend,DATE,,,en,1.9
-6936 yards,6936 yards,QUANTITY,,,en,1.9
-24 Hour,24 Hour,TIME,,,en,1.9
-all day long,all day long,DATE,,,en,1.9
-6:45 a.m.,6:45 a.m.,TIME,,,en,1.9
-"February 14, 2026","February 14, 2026",DATE,,,en,1.9
-"119,800 yen","119,800 yen",MONEY,,,en,1.9
-This winter,This winter,DATE,,,en,1.9
-9 days,9 days,DATE,,,en,1.9
-"November 25, 2025","November 25, 2025",DATE,,,en,1.9
-the J1 League,the J1 League,FAC,,,en,1.9
-the Great Kita,the Great Kita,EVENT,,,en,1.9
-November 25th,November 25th,DATE,,,en,1.9
-2032,2032,DATE,,,en,1.9
-over 50mm per hour,over 50mm per hour,QUANTITY,,,en,1.9
-the afternoon of the 11th,the afternoon of the 11th,TIME,,,en,1.9
-more than 10mm,more than 10mm,QUANTITY,,,en,1.9
-2026/08/01,2026/08/01,DATE,,,en,1.9
-Hiratsuka Stadium,Hiratsuka Stadium,FAC,,,en,1.9
-Shake News,Shake News,WORK_OF_ART,,,en,1.9
-September 3rd,September 3rd,DATE,,,en,1.9
-the 2025 season,the 2025 season,DATE,,,en,1.9
-Kumejima Airport,Kumejima Airport,FAC,,,en,1.9
-Yokosuka Stadium,Yokosuka Stadium,FAC,,,en,1.9
-Dolphin,Dolphin,WORK_OF_ART,,,en,1.9
-300 km,300 km,QUANTITY,,,en,1.9
-Section 1,Section 1,LAW,,,en,1.9
-July 30,July 30,DATE,,,en,1.9
-40 centimeters,40 centimeters,QUANTITY,,,en,1.9
-the Hyuga-nada Sea,the Hyuga-nada Sea,FAC,,,en,1.9
-"February 25, 2026","February 25, 2026",DATE,,,en,1.9
-mid-January,mid-January,DATE,,,en,1.9
-around 12:58 a.m.,around 12:58 a.m.,TIME,,,en,1.9
-the past 11 years,the past 11 years,DATE,,,en,1.9
-348 mm,348 mm,QUANTITY,,,en,1.9
-Memorial Park,Memorial Park,FAC,,,en,1.9
-the winter season,the winter season,DATE,,,en,1.9
-the previous day's,the previous day's,DATE,,,en,1.9
-Marine Sports Festival,Marine Sports Festival,EVENT,,,en,1.9
-6:30 a.m.,6:30 a.m.,TIME,,,en,1.9
-"1,583 yen","1,583 yen",MONEY,,,en,1.9
-0.2%,0.2%,PERCENT,,,en,1.9
-2.7%,2.7%,PERCENT,,,en,1.9
-around 7:59 a.m.,around 7:59 a.m.,TIME,,,en,1.9
-"33,000 yen","33,000 yen",MONEY,,,en,1.9
-More than half,More than half,CARDINAL,,,en,1.9
-her 40s,her 40s,DATE,,,en,1.9
-2.4%,2.4%,PERCENT,,,en,1.9
-32.5 degrees,32.5 degrees,QUANTITY,,,en,1.9
-the early afternoon,the early afternoon,TIME,,,en,1.9
-130.5 degrees,130.5 degrees,QUANTITY,,,en,1.9
-late on the night of the 15th,late on the night of the 15th,TIME,,,en,1.9
-the end of this season,the end of this season,DATE,,,en,1.9
-935.3 billion yen,935.3 billion yen,MONEY,,,en,1.9
-several days,several days,DATE,,,en,1.9
-two days later,two days later,DATE,,,en,1.9
-10:45 a.m.,10:45 a.m.,TIME,,,en,1.9
-"July 17, 2026","July 17, 2026",DATE,,,en,1.9
-the afternoon of the 18th,the afternoon of the 18th,TIME,,,en,1.9
-the beginning of the 19th,the beginning of the 19th,DATE,,,en,1.9
-the night of the 18th,the night of the 18th,TIME,,,en,1.9
-January 14th,January 14th,DATE,,,en,1.9
-129 meters,129 meters,QUANTITY,,,en,1.9
-"30,763.16 million yen","30,763.16 million yen",MONEY,,,en,1.9
-the 14th (Friday,the 14th (Friday,DATE,,,en,1.9
-around 11 a.m.,around 11 a.m.,TIME,,,en,1.9
-.1,.1,CARDINAL,,,en,1.9
-at least 20,at least 20,CARDINAL,,,en,1.9
-the night of the 22nd,the night of the 22nd,TIME,,,en,1.9
-below -36 degrees,below -36 degrees,QUANTITY,,,en,1.9
-around December 2020,around December 2020,DATE,,,en,1.9
-"January 1, 2024","January 1, 2024",DATE,,,en,1.9
-the evening of the 15th to late at night,the evening of the 15th to late at night,TIME,,,en,1.9
-3kg,3kg,QUANTITY,,,en,1.9
-9 o'clock,9 o'clock,TIME,,,en,1.9
-`Regular Concert,`Regular Concert,WORK_OF_ART,,,en,1.9
-Spring Festival,Spring Festival,EVENT,,,en,1.9
-Tower Man,Tower Man,FAC,,,en,1.9
-Festival,Festival,EVENT,,,en,1.9
-Morinaga Lactoferrin 200 Drink Type,Morinaga Lactoferrin 200 Drink Type,WORK_OF_ART,,,en,1.9
-September 12th,September 12th,DATE,,,en,1.9
-Nationwide,Nationwide,WORK_OF_ART,,,en,1.9
-every 30 years,every 30 years,DATE,,,en,1.9
-early on the night of the 27th,early on the night of the 27th,TIME,,,en,1.9
-2026/02/14,2026/02/14,CARDINAL,,,en,1.9
-12:03,12:03,TIME,,,en,1.9
-"January 15, 2025","January 15, 2025",DATE,,,en,1.9
-late at night on the 28th,late at night on the 28th,TIME,,,en,1.9
-131.5 meters,131.5 meters,QUANTITY,,,en,1.9
-420,420,CARDINAL,,,en,1.9
-January 28,January 28,DATE,,,en,1.9
-more than 170,more than 170,CARDINAL,,,en,1.9
-"More than 1,000","More than 1,000",CARDINAL,,,en,1.9
-the early hours of the 14th,the early hours of the 14th,TIME,,,en,1.9
-Kanagawa Prefecture,Kanagawa Prefecture,FAC,0.013168450555476574,0.05498405670532324,en,1.9
-the 12th (Thursday,the 12th (Thursday,DATE,,,en,1.9
-500km,500km,QUANTITY,,,en,1.9
-40 mm,40 mm,QUANTITY,,,en,1.9
-approximately 1 km,approximately 1 km,QUANTITY,,,en,1.9
-January 17,January 17,DATE,,,en,1.9
-tomorrow the 12th,tomorrow the 12th,DATE,,,en,1.9
-the age of 32,the age of 32,DATE,,,en,1.9
-30 mm,30 mm,QUANTITY,,,en,1.9
-3.9,3.9,CARDINAL,,,en,1.9
-the afternoon of January 23rd to the 24th,the afternoon of January 23rd to the 24th,TIME,,,en,1.9
 1006,1006,CARDINAL,,,en,1.9
-the next week or so,the next week or so,DATE,,,en,1.9
-"approximately 5,000 meters","approximately 5,000 meters",QUANTITY,,,en,1.9
-the hottest years,the hottest years,DATE,,,en,1.9
-115,115,CARDINAL,,,en,1.9
-February 8th to 9th,February 8th to 9th,DATE,,,en,1.9
-mid-November,mid-November,DATE,,,en,1.9
-many rainy days,many rainy days,DATE,,,en,1.9
+Nazi,Nazi,NORP,,,en,1.9
 25 m/s or more 220 km,25 m/s or more 220 km,QUANTITY,,,en,1.9
+Think The DAY,Think The DAY,WORK_OF_ART,,,en,1.9
+the morning of the 24th,the morning of the 24th,TIME,,,en,1.9
+the 24 hours,the 24 hours,TIME,,,en,1.9
+Mountain Day,Mountain Day,EVENT,0.0,0.0,en,1.9
+115,115,CARDINAL,,,en,1.9
+many rainy days,many rainy days,DATE,,,en,1.9
+9.9,9.9,CARDINAL,,,en,1.9
+mid-November,mid-November,DATE,,,en,1.9
 July 25th,July 25th,DATE,,,en,1.9
 9.0,9.0,CARDINAL,,,en,1.9
-Kashima Town,Kashima Town,FAC,-0.006024096385542168,0.004016064257028112,en,1.9
-Wednesday the 4th,Wednesday the 4th,DATE,,,en,1.9
-Kumamoto Technology Center,Kumamoto Technology Center,FAC,,,en,1.9
-9.9,9.9,CARDINAL,,,en,1.9
-winters,winters,DATE,,,en,1.9
-Think The DAY,Think The DAY,WORK_OF_ART,,,en,1.9
+the upcoming season,the upcoming season,DATE,,,en,1.9
+the Imperial Palace,the Imperial Palace,FAC,,,en,1.9
 11.1%,11.1%,PERCENT,,,en,1.9
-the evening of the 13th,the evening of the 13th,TIME,,,en,1.9
-the late evening of the 13th,the late evening of the 13th,TIME,,,en,1.9
+Honshu,Honshu,NORP,0.0008644319914679452,0.014629856582874157,en,1.9
+Combo Robot + AutoWash Charging Station,Combo Robot + AutoWash Charging Station,PRODUCT,,,en,1.9
+the early hours of the 12th,the early hours of the 12th,TIME,,,en,1.9
+2026/08/06,2026/08/06,CARDINAL,,,en,1.9
+the evening of the 11th,the evening of the 11th,TIME,,,en,1.9
+6936 yards,6936 yards,QUANTITY,,,en,1.9
+"More than 10,000","More than 10,000",CARDINAL,,,en,1.9
+36.6 degrees,36.6 degrees,QUANTITY,,,en,1.9
+the 21st of this month,the 21st of this month,DATE,,,en,1.9
+18V,18V,CARDINAL,,,en,1.9
+the Hyuga-nada Sea,the Hyuga-nada Sea,FAC,,,en,1.9
+the afternoon of January 23rd to the 24th,the afternoon of January 23rd to the 24th,TIME,,,en,1.9
+40 centimeters,40 centimeters,QUANTITY,,,en,1.9
+a first year,a first year,DATE,,,en,1.9
+July last year,July last year,DATE,,,en,1.9
+July 13,July 13,DATE,,,en,1.9
+38 degrees Celsius,38 degrees Celsius,QUANTITY,,,en,1.9
+all day long,all day long,DATE,,,en,1.9
+"119,800 yen","119,800 yen",MONEY,,,en,1.9
+9 days,9 days,DATE,,,en,1.9
+Yokosuka Stadium,Yokosuka Stadium,FAC,,,en,1.9
+Kumejima Airport,Kumejima Airport,FAC,,,en,1.9
+September 3rd,September 3rd,DATE,,,en,1.9
+Shake News,Shake News,WORK_OF_ART,,,en,1.9
+Hiratsuka Stadium,Hiratsuka Stadium,FAC,,,en,1.9
+"More than 1,000","More than 1,000",CARDINAL,,,en,1.9
+"February 25, 2026","February 25, 2026",DATE,,,en,1.9
+2032,2032,DATE,,,en,1.9
+37 degrees Celsius,37 degrees Celsius,QUANTITY,,,en,1.9
+Robot Vacuum Cleaner,Robot Vacuum Cleaner,PRODUCT,,,en,1.9
+over 30%,over 30%,PERCENT,,,en,1.9
+"more than 1,000","more than 1,000",CARDINAL,,,en,1.9
+Mirai Rice Academy,Mirai Rice Academy,WORK_OF_ART,,,en,1.9
+November 25th,November 25th,DATE,,,en,1.9
+Yatsushiro,Yatsushiro,NORP,0.03782924613987284,0.19868301544050862,en,1.9
+992,992,CARDINAL,,,en,1.9
+63.7%,63.7%,PERCENT,,,en,1.9
+around 5:09 a.m.,around 5:09 a.m.,TIME,,,en,1.9
+around January 28th,around January 28th,DATE,,,en,1.9
+approximately 60 km,approximately 60 km,QUANTITY,,,en,1.9
+185,185,CARDINAL,,,en,1.9
+the 13th to the 14th,the 13th to the 14th,DATE,,,en,1.9
+Aqunia Flood,Aqunia Flood,WORK_OF_ART,,,en,1.9
+2026/01/31,2026/01/31,DATE,,,en,1.9
+0-2,0-2,CARDINAL,,,en,1.9
+the morning of tomorrow,the morning of tomorrow,TIME,,,en,1.9
+89,89,CARDINAL,,,en,1.9
+"99,394 yen","99,394 yen",MONEY,,,en,1.9
+last December,last December,DATE,,,en,1.9
+the Tokyo Metropolitan Earthquake,the Tokyo Metropolitan Earthquake,EVENT,,,en,1.9
+2026/07/14,2026/07/14,CARDINAL,,,en,1.9
+7pm,7pm,TIME,,,en,1.9
+more than 10mm,more than 10mm,QUANTITY,,,en,1.9
+just before 6 a.m.,just before 6 a.m.,TIME,,,en,1.9
+the night of today,the night of today,TIME,,,en,1.9
+6784 yards,6784 yards,QUANTITY,,,en,1.9
+months,months,DATE,,,en,1.9
+"8,105","8,105",CARDINAL,,,en,1.9
+[July 14,[July 14,DATE,,,en,1.9
+30 mm,30 mm,QUANTITY,,,en,1.9
+19 trillion yen,19 trillion yen,MONEY,,,en,1.9
+"approximately 5,000 meters","approximately 5,000 meters",QUANTITY,,,en,1.9
+19:30,19:30,TIME,,,en,1.9
+500km,500km,QUANTITY,,,en,1.9
+January 17,January 17,DATE,,,en,1.9
+February 8th to 9th,February 8th to 9th,DATE,,,en,1.9
+tomorrow the 12th,tomorrow the 12th,DATE,,,en,1.9
+the age of 32,the age of 32,DATE,,,en,1.9
+the next week or so,the next week or so,DATE,,,en,1.9
+the hottest years,the hottest years,DATE,,,en,1.9
+Wednesday the 4th,Wednesday the 4th,DATE,,,en,1.9
+around 12:58 a.m.,around 12:58 a.m.,TIME,,,en,1.9
+Kashima Town,Kashima Town,FAC,-0.006024096385542168,0.004016064257028112,en,1.9
+Kumamoto Technology Center,Kumamoto Technology Center,FAC,,,en,1.9
+winters,winters,DATE,,,en,1.9
+Kanagawa Prefecture,Kanagawa Prefecture,FAC,0.013168450555476574,0.05498405670532324,en,1.9
+Stick Handy Cleaner Cyclone,Stick Handy Cleaner Cyclone,WORK_OF_ART,,,en,1.9
+242,242,CARDINAL,,,en,1.9
+the 12th (Thursday,the 12th (Thursday,DATE,,,en,1.9
+Last December,Last December,DATE,,,en,1.9
 over 15 degrees Celsius,over 15 degrees Celsius,QUANTITY,,,en,1.9
-210,210,CARDINAL,,,en,1.9
-Tohoku Weather],Tohoku Weather],WORK_OF_ART,,,en,1.9
-the Nankai Trough,the Nankai Trough,PRODUCT,-0.007720588235294118,0.08161764705882353,en,1.9
-Last week's,Last week's,DATE,,,en,1.9
+2026/08/11,2026/08/11,CARDINAL,,,en,1.9
 Approximately 90%,Approximately 90%,PERCENT,,,en,1.9
-between morning and evening,between morning and evening,TIME,,,en,1.9
-July 16,July 16,DATE,,,en,1.9
 77th,77th,ORDINAL,,,en,1.9
-More than 50,More than 50,CARDINAL,,,en,1.9
-the 16th to the 18th,the 16th to the 18th,DATE,,,en,1.9
 "a ""Spring Advance Sale","a ""Spring Advance Sale",EVENT,,,en,1.9
-40.7,40.7,CARDINAL,,,en,1.9
 last season's,last season's,DATE,,,en,1.9
-August 2020,August 2020,DATE,,,en,1.9
-March of this year,March of this year,DATE,,,en,1.9
+the 16th to the 18th,the 16th to the 18th,DATE,,,en,1.9
+40.7,40.7,CARDINAL,,,en,1.9
 around 10:25 a.m.,around 10:25 a.m.,TIME,,,en,1.9
 around 1:05 pm on the 12th,around 1:05 pm on the 12th,TIME,,,en,1.9
 "1,499 yen","1,499 yen",MONEY,,,en,1.9
+March of this year,March of this year,DATE,,,en,1.9
 33 years old,33 years old,DATE,,,en,1.9
 2050,2050,DATE,,,en,1.9
 June 6th,June 6th,DATE,,,en,1.9
-the afternoon of the 21st,the afternoon of the 21st,TIME,,,en,1.9
-tomorrow the 13th,tomorrow the 13th,DATE,,,en,1.9
-"around 80,000 yen","around 80,000 yen",MONEY,,,en,1.9
-2026/08/11,2026/08/11,CARDINAL,,,en,1.9
-Last December,Last December,DATE,,,en,1.9
-19:30,19:30,TIME,,,en,1.9
 "August 2, 2026","August 2, 2026",DATE,,,en,1.9
+tomorrow the 13th,tomorrow the 13th,DATE,,,en,1.9
+the evening of the 30th,the evening of the 30th,TIME,,,en,1.9
+2.9,2.9,CARDINAL,,,en,1.9
+August 4th (Tuesday,August 4th (Tuesday,DATE,,,en,1.9
+2022/02/26,2022/02/26,CARDINAL,,,en,1.9
+the afternoon of the 11th to the morning of the 12th,the afternoon of the 11th to the morning of the 12th,TIME,,,en,1.9
+July 31st to August 3rd,July 31st to August 3rd,DATE,,,en,1.9
+Hiroshima Expressway,Hiroshima Expressway,FAC,,,en,1.9
+the beginning of this year,the beginning of this year,DATE,,,en,1.9
+the morning of the 10th,the morning of the 10th,TIME,,,en,1.9
+5+,5+,PERCENT,,,en,1.9
+the Shin-Tomei Expressway,the Shin-Tomei Expressway,FAC,,,en,1.9
+3pm,3pm,TIME,,,en,1.9
+737-800,737-800,PRODUCT,,,en,1.9
+the age of 36,the age of 36,DATE,,,en,1.9
+around 10:47 pm on the 30th,around 10:47 pm on the 30th,TIME,,,en,1.9
+Amakusa,Amakusa,NORP,,,en,1.9
 5 trillion yen,5 trillion yen,MONEY,,,en,1.9
+Morinaga Lactoferrin 200 Drink Type,Morinaga Lactoferrin 200 Drink Type,WORK_OF_ART,,,en,1.9
+32.7 degrees,32.7 degrees,QUANTITY,,,en,1.9
+a weekend,a weekend,DATE,,,en,1.9
+24 Hour,24 Hour,TIME,,,en,1.9
+July 30,July 30,DATE,,,en,1.9
+This winter,This winter,DATE,,,en,1.9
+"today, Sunday","today, Sunday",DATE,,,en,1.9
+the Great Kita,the Great Kita,EVENT,,,en,1.9
+2026/08/01,2026/08/01,DATE,,,en,1.9
+Kumamoto Earthquake - Predictive,Kumamoto Earthquake - Predictive,EVENT,,,en,1.9
+6:45 a.m.,6:45 a.m.,TIME,,,en,1.9
+"February 14, 2026","February 14, 2026",DATE,,,en,1.9
+"November 25, 2025","November 25, 2025",DATE,,,en,1.9
+Section 1,Section 1,LAW,,,en,1.9
+the J1 League,the J1 League,FAC,,,en,1.9
+over 50mm per hour,over 50mm per hour,QUANTITY,,,en,1.9
+the afternoon of the 11th,the afternoon of the 11th,TIME,,,en,1.9
+the 2025 season,the 2025 season,DATE,,,en,1.9
+Dolphin,Dolphin,WORK_OF_ART,,,en,1.9
+300 km,300 km,QUANTITY,,,en,1.9
+Last week's,Last week's,DATE,,,en,1.9
+10:45 a.m.,10:45 a.m.,TIME,,,en,1.9
+3.9,3.9,CARDINAL,,,en,1.9
+the beginning of the 19th,the beginning of the 19th,DATE,,,en,1.9
+"July 17, 2026","July 17, 2026",DATE,,,en,1.9
+935.3 billion yen,935.3 billion yen,MONEY,,,en,1.9
+the end of this season,the end of this season,DATE,,,en,1.9
+130.5 degrees,130.5 degrees,QUANTITY,,,en,1.9
+the early afternoon,the early afternoon,TIME,,,en,1.9
+32.5 degrees,32.5 degrees,QUANTITY,,,en,1.9
+her 40s,her 40s,DATE,,,en,1.9
+More than half,More than half,CARDINAL,,,en,1.9
+"33,000 yen","33,000 yen",MONEY,,,en,1.9
+around 7:59 a.m.,around 7:59 a.m.,TIME,,,en,1.9
+"1,583 yen","1,583 yen",MONEY,,,en,1.9
+6:30 a.m.,6:30 a.m.,TIME,,,en,1.9
+Marine Sports Festival,Marine Sports Festival,EVENT,,,en,1.9
+the previous day's,the previous day's,DATE,,,en,1.9
+the winter season,the winter season,DATE,,,en,1.9
+the afternoon of the 18th,the afternoon of the 18th,TIME,,,en,1.9
+the night of the 18th,the night of the 18th,TIME,,,en,1.9
+two days later,two days later,DATE,,,en,1.9
+"30,763.16 million yen","30,763.16 million yen",MONEY,,,en,1.9
+mid-January,mid-January,DATE,,,en,1.9
+approximately 1 km,approximately 1 km,QUANTITY,,,en,1.9
+40 mm,40 mm,QUANTITY,,,en,1.9
+the evening of the 13th,the evening of the 13th,TIME,,,en,1.9
+the late evening of the 13th,the late evening of the 13th,TIME,,,en,1.9
+210,210,CARDINAL,,,en,1.9
+"around 80,000 yen","around 80,000 yen",MONEY,,,en,1.9
+the afternoon of the 21st,the afternoon of the 21st,TIME,,,en,1.9
+More than 50,More than 50,CARDINAL,,,en,1.9
+July 16,July 16,DATE,,,en,1.9
+between morning and evening,between morning and evening,TIME,,,en,1.9
+August 2020,August 2020,DATE,,,en,1.9
+the Nankai Trough,the Nankai Trough,PRODUCT,-0.007720588235294118,0.08161764705882353,en,1.9
+Tohoku Weather],Tohoku Weather],WORK_OF_ART,,,en,1.9
+the early hours of the 14th,the early hours of the 14th,TIME,,,en,1.9
+Memorial Park,Memorial Park,FAC,,,en,1.9
+January 14th,January 14th,DATE,,,en,1.9
+129 meters,129 meters,QUANTITY,,,en,1.9
+the 14th (Friday,the 14th (Friday,DATE,,,en,1.9
+Tower Man,Tower Man,FAC,,,en,1.9
+Nationwide,Nationwide,WORK_OF_ART,,,en,1.9
+early on the night of the 27th,early on the night of the 27th,TIME,,,en,1.9
+2026/02/14,2026/02/14,CARDINAL,,,en,1.9
+around 11 a.m.,around 11 a.m.,TIME,,,en,1.9
+late at night on the 28th,late at night on the 28th,TIME,,,en,1.9
+"January 15, 2025","January 15, 2025",DATE,,,en,1.9
+January 28,January 28,DATE,,,en,1.9
+the past 11 years,the past 11 years,DATE,,,en,1.9
+348 mm,348 mm,QUANTITY,,,en,1.9
+0.2%,0.2%,PERCENT,,,en,1.9
+2.7%,2.7%,PERCENT,,,en,1.9
+2.4%,2.4%,PERCENT,,,en,1.9
+late on the night of the 15th,late on the night of the 15th,TIME,,,en,1.9
+several days,several days,DATE,,,en,1.9
+`Regular Concert,`Regular Concert,WORK_OF_ART,,,en,1.9
+"January 1, 2024","January 1, 2024",DATE,,,en,1.9
+around December 2020,around December 2020,DATE,,,en,1.9
+9 o'clock,9 o'clock,TIME,,,en,1.9
+420,420,CARDINAL,,,en,1.9
+131.5 meters,131.5 meters,QUANTITY,,,en,1.9
+12:03,12:03,TIME,,,en,1.9
+every 30 years,every 30 years,DATE,,,en,1.9
+more than 170,more than 170,CARDINAL,,,en,1.9
+Spring Festival,Spring Festival,EVENT,,,en,1.9
+3kg,3kg,QUANTITY,,,en,1.9
+the night of the 22nd,the night of the 22nd,TIME,,,en,1.9
+the evening of the 15th to late at night,the evening of the 15th to late at night,TIME,,,en,1.9
+Festival,Festival,EVENT,,,en,1.9
+below -36 degrees,below -36 degrees,QUANTITY,,,en,1.9
+.1,.1,CARDINAL,,,en,1.9
+the July 28 earthquake,the July 28 earthquake,EVENT,,,en,1.9
+at least 20,at least 20,CARDINAL,,,en,1.9
+September 12th,September 12th,DATE,,,en,1.9
 "June 8, 2026","June 8, 2026",DATE,,,en,1.9
 `On the same day as today last year,`On the same day as today last year,WORK_OF_ART,,,en,1.9
 the 18th minute of the first half,the 18th minute of the first half,TIME,,,en,1.9
-approximately 30 km,approximately 30 km,QUANTITY,,,en,1.9
-January 01,January 01,DATE,,,en,1.9
+5000,5000,CARDINAL,,,en,1.9
 94,94,CARDINAL,,,en,1.9
+January 01,January 01,DATE,,,en,1.9
 this fiscal year,this fiscal year,DATE,,,en,1.9
 Dec. 9,Dec. 9,DATE,,,en,1.9
 300 mm,300 mm,QUANTITY,,,en,1.9
@@ -1751,15 +1751,15 @@ Machikane Fire Brigade,Machikane Fire Brigade,FAC,,,en,1.9
 12:06 a.m.,12:06 a.m.,TIME,,,en,1.9
 the night of the 27th,the night of the 27th,TIME,,,en,1.9
 11:05 a.m.,11:05 a.m.,TIME,,,en,1.9
+the 14th (Sunday,the 14th (Sunday,DATE,,,en,1.9
 10th Anniversary of the Kumamoto Earthquake,10th Anniversary of the Kumamoto Earthquake,DATE,,,en,1.9
 the evening of the 10th,the evening of the 10th,TIME,,,en,1.9
-the 14th (Sunday,the 14th (Sunday,DATE,,,en,1.9
 Okara Day,Okara Day,DATE,,,en,1.9
 January 2,January 2,DATE,,,en,1.9
 May 11th,May 11th,DATE,,,en,1.9
 385,385,CARDINAL,,,en,1.9
 6:45 am,6:45 am,TIME,,,en,1.9
-5000,5000,CARDINAL,,,en,1.9
+approximately 30 km,approximately 30 km,QUANTITY,,,en,1.9
 "approximately 3,000","approximately 3,000",CARDINAL,,,en,1.9
 approximately 150 km,approximately 150 km,QUANTITY,,,en,1.9
 70 meters,70 meters,QUANTITY,,,en,1.9
@@ -2033,8 +2033,8 @@ the early hours,the early hours,TIME,,,en,1.9
 more than 90,more than 90,CARDINAL,,,en,1.9
 461,461,CARDINAL,,,en,1.9
 around 10:18 a.m.,around 10:18 a.m.,TIME,,,en,1.9
-around 30 degrees Celsius,around 30 degrees Celsius,QUANTITY,,,en,1.9
 the evening of the 7th to the early morning of the 8th,the evening of the 7th to the early morning of the 8th,TIME,,,en,1.9
+around 30 degrees Celsius,around 30 degrees Celsius,QUANTITY,,,en,1.9
 3 hours,3 hours,TIME,,,en,1.9
 March 1st,March 1st,DATE,,,en,1.8958333333333333
 "7,000 yen","7,000 yen",MONEY,,,en,1.8952380952380952
@@ -2224,8 +2224,8 @@ Africans,Africans,NORP,,,en,1.625
 [Late March 2026,[Late March 2026,DATE,,,en,1.625
 International Biomass Exhibition,International Biomass Exhibition,EVENT,,,en,1.625
 95%,95%,PERCENT,,,en,1.625
-Five years,Five years,DATE,,,en,1.625
 the Beijing Olympics,the Beijing Olympics,EVENT,,,en,1.625
+Five years,Five years,DATE,,,en,1.625
 Na'vi,Na'vi,FAC,,,en,1.625
 February 2024,February 2024,DATE,,,en,1.625
 20 seconds,20 seconds,TIME,,,en,1.625
@@ -2454,22 +2454,22 @@ approximately 300 million,approximately 300 million,CARDINAL,,,en,1.4375
 Spring/Summer 2026,Spring/Summer 2026,DATE,,,en,1.4375
 spring/summer 2026,spring/summer 2026,DATE,,,en,1.4375
 10:00,10:00,TIME,,,en,1.4333333333333333
-8:00,8:00,TIME,,,en,1.4333333333333333
-"March 6, 2026","March 6, 2026",DATE,,,en,1.4333333333333333
+one night,one night,TIME,,,en,1.4333333333333333
 "Bakebake""","Bakebake""",WORK_OF_ART,,,en,1.4333333333333333
 Kumamon,Kumamon,WORK_OF_ART,0.07756563245823389,0.15513126491646778,en,1.4333333333333333
-one night,one night,TIME,,,en,1.4333333333333333
 "June 16, 2026","June 16, 2026",DATE,,,en,1.4333333333333333
-Sangen,Sangen,NORP,,,en,1.4285714285714284
-2009,2009,DATE,,,en,1.4285714285714284
-only 30 km,only 30 km,QUANTITY,,,en,1.4285714285714284
-"April 16, 2026","April 16, 2026",DATE,,,en,1.4285714285714284
+8:00,8:00,TIME,,,en,1.4333333333333333
+"March 6, 2026","March 6, 2026",DATE,,,en,1.4333333333333333
 "13,999 yen - Challenge","13,999 yen - Challenge",MONEY,,,en,1.4285714285714284
+"April 16, 2026","April 16, 2026",DATE,,,en,1.4285714285714284
 55th,55th,ORDINAL,,,en,1.4285714285714284
 "around 3,000 yen","around 3,000 yen",MONEY,,,en,1.4285714285714284
+2009,2009,DATE,,,en,1.4285714285714284
+Sangen,Sangen,NORP,,,en,1.4285714285714284
 Daiyuji Temple,Daiyuji Temple,FAC,,,en,1.4285714285714284
 638 yen,638 yen,MONEY,,,en,1.4285714285714284
 `Japan's Infrastructure Crisis'',`Japan's Infrastructure Crisis'',WORK_OF_ART,,,en,1.4285714285714284
+only 30 km,only 30 km,QUANTITY,,,en,1.4285714285714284
 December 15th,December 15th,DATE,,,en,1.4285714285714284
 Noto Airport,Noto Airport,FAC,,,en,1.4285714285714284
 "May 5, 2026","May 5, 2026",DATE,,,en,1.4285714285714284
@@ -2516,14 +2516,14 @@ one-two,one-two,CARDINAL,,,en,1.4
 ``SF and Futurology'',``SF and Futurology'',WORK_OF_ART,,,en,1.4
 dusk,dusk,TIME,,,en,1.4
 Setagaya Ward,Setagaya Ward,FAC,0.0,0.0,en,1.4
-Futako Bridge,Futako Bridge,FAC,,,en,1.4
+Kuroge Wagyu,Kuroge Wagyu,FAC,,,en,1.4
 "June 11, 2026","June 11, 2026",DATE,,,en,1.4
 Early in the new year,Early in the new year,WORK_OF_ART,,,en,1.4
 3930,3930,CARDINAL,,,en,1.4
-98 yen,98 yen,MONEY,,,en,1.4
+January 19,January 19,DATE,,,en,1.4
 October 4,October 4,DATE,,,en,1.4
 768 yen,768 yen,MONEY,,,en,1.4
-January 19,January 19,DATE,,,en,1.4
+98 yen,98 yen,MONEY,,,en,1.4
 ``Meiji Nightingale Ozeki Wa Monogatari'',``Meiji Nightingale Ozeki Wa Monogatari'',PRODUCT,,,en,1.4
 South African,South African,NORP,,,en,1.4
 Once,Once,WORK_OF_ART,,,en,1.4
@@ -2537,7 +2537,7 @@ approximately 27cm,approximately 27cm,QUANTITY,,,en,1.4
 the beginning of summer,the beginning of summer,DATE,,,en,1.4
 [Early Summer 2026,[Early Summer 2026,DATE,,,en,1.4
 around 8pm,around 8pm,TIME,,,en,1.4
-Kuroge Wagyu,Kuroge Wagyu,FAC,,,en,1.4
+Futako Bridge,Futako Bridge,FAC,,,en,1.4
 Ajax,Ajax,NORP,,,en,1.4
 July 19th,July 19th,DATE,,,en,1.4
 Last spring,Last spring,DATE,,,en,1.4
@@ -2588,8 +2588,8 @@ Ikaho Onsen,Ikaho Onsen,FAC,0.25,0.3333333333333333,en,1.375
 the Bizen Osafune Sword Museum,the Bizen Osafune Sword Museum,FAC,,,en,1.375
 Misaka Shrine,Misaka Shrine,FAC,,,en,1.375
 April to May,April to May,DATE,,,en,1.375
-`100mm,`100mm,QUANTITY,,,en,1.375
 8 years,8 years,DATE,,,en,1.375
+`100mm,`100mm,QUANTITY,,,en,1.375
 CHAdeMO,CHAdeMO,WORK_OF_ART,,,en,1.375
 [Book Impressions],[Book Impressions],WORK_OF_ART,,,en,1.375
 "2,999 yen","2,999 yen",MONEY,,,en,1.375
@@ -2696,49 +2696,49 @@ Cat Day,Cat Day,WORK_OF_ART,,,en,1.3095238095238093
 "3,900 yen","3,900 yen",MONEY,,,en,1.3076923076923077
 Punch,Punch,WORK_OF_ART,,,en,1.3076923076923077
 Mare,Mare,WORK_OF_ART,,,en,1.3076923076923077
-"More than 30,000","More than 30,000",CARDINAL,,,en,1.3000000000000003
-551,551,CARDINAL,,,en,1.3000000000000003
-Communist,Communist,NORP,,,en,1.3000000000000003
-2026/02/11,2026/02/11,CARDINAL,,,en,1.3000000000000003
-Belgian,Belgian,NORP,,,en,1.3000000000000003
-19%,19%,PERCENT,,,en,1.3000000000000003
-"1,999 yen","1,999 yen",MONEY,,,en,1.3000000000000003
-the end of this month,the end of this month,DATE,,,en,1.3000000000000003
 2026/02/16,2026/02/16,CARDINAL,,,en,1.3000000000000003
+Communist,Communist,NORP,,,en,1.3000000000000003
+"1,999 yen","1,999 yen",MONEY,,,en,1.3000000000000003
+Belgian,Belgian,NORP,,,en,1.3000000000000003
+the end of this month,the end of this month,DATE,,,en,1.3000000000000003
+551,551,CARDINAL,,,en,1.3000000000000003
 3rd Avenue,3rd Avenue,FAC,,,en,1.3000000000000003
+"More than 30,000","More than 30,000",CARDINAL,,,en,1.3000000000000003
+19%,19%,PERCENT,,,en,1.3000000000000003
 "June 20, 2026","June 20, 2026",DATE,,,en,1.3000000000000003
+2026/02/11,2026/02/11,CARDINAL,,,en,1.3000000000000003
 4 nights and 5 days,4 nights and 5 days,DATE,,,en,1.3000000000000003
-Pixel,Pixel,LAW,,,en,1.3
-third week,third week,DATE,,,en,1.3
-This morning,This morning,TIME,,,en,1.3
 (National Stadium,(National Stadium,FAC,,,en,1.3
+Pixel,Pixel,LAW,,,en,1.3
+This morning,This morning,TIME,,,en,1.3
 Summer 2026,Summer 2026,DATE,,,en,1.3
 "May 2, 2026","May 2, 2026",DATE,,,en,1.3
+third week,third week,DATE,,,en,1.3
 Approximately 30%,Approximately 30%,PERCENT,,,en,1.3
-11.76 million yen,11.76 million yen,MONEY,,,en,1.3
-Americans,Americans,NORP,,,en,1.3
-day of the year,day of the year,DATE,,,en,1.3
+a busy day,a busy day,DATE,,,en,1.3
 Asue Arena,Asue Arena,FAC,,,en,1.3
+day of the year,day of the year,DATE,,,en,1.3
+13:00~,13:00~,CARDINAL,,,en,1.3
 310,310,CARDINAL,,,en,1.3
-December 23rd,December 23rd,DATE,,,en,1.3
 November 16,November 16,DATE,,,en,1.3
+December 23rd,December 23rd,DATE,,,en,1.3
+"670,000","670,000",CARDINAL,,,en,1.3
+24-26,24-26,DATE,,,en,1.3
 2026/05/29,2026/05/29,CARDINAL,,,en,1.3
-June 2025,June 2025,DATE,,,en,1.3
 April 19th,April 19th,DATE,,,en,1.3
 Obsidian,Obsidian,PRODUCT,,,en,1.3
-24-26,24-26,DATE,,,en,1.3
-"670,000","670,000",CARDINAL,,,en,1.3
-a busy day,a busy day,DATE,,,en,1.3
+11.76 million yen,11.76 million yen,MONEY,,,en,1.3
+the first quarter,the first quarter,DATE,,,en,1.3
 Pixel 11,Pixel 11,PRODUCT,,,en,1.3
-13:00~,13:00~,CARDINAL,,,en,1.3
+Americans,Americans,NORP,,,en,1.3
 3-4 minutes,3-4 minutes,TIME,,,en,1.3
 the Yamanote Line,the Yamanote Line,FAC,,,en,1.3
 "May 4, 2026","May 4, 2026",DATE,,,en,1.3
 the 1%,the 1%,PERCENT,,,en,1.3
 the 18th (Monday,the 18th (Monday,DATE,,,en,1.3
 2007,2007,DATE,,,en,1.3
-Seasonal,Seasonal,DATE,,,en,1.3
 2026/05/08,2026/05/08,CARDINAL,,,en,1.3
+Seasonal,Seasonal,DATE,,,en,1.3
 18 degrees Celsius,18 degrees Celsius,QUANTITY,,,en,1.3
 Yokohama K Arena,Yokohama K Arena,FAC,,,en,1.3
 12:01,12:01,TIME,,,en,1.3
@@ -2748,12 +2748,12 @@ Yokohama K Arena,Yokohama K Arena,FAC,,,en,1.3
 Cape Verde,Cape Verde,PRODUCT,0.0815018315018315,0.42124542124542125,en,1.3
 Argentine,Argentine,NORP,,,en,1.3
 CiON,CiON,PRODUCT,,,en,1.3
-the first quarter,the first quarter,DATE,,,en,1.3
-2026/02/04,2026/02/04,CARDINAL,,,en,1.3
 series,series,EVENT,,,en,1.3
+2026/02/04,2026/02/04,CARDINAL,,,en,1.3
+June 2025,June 2025,DATE,,,en,1.3
 Around noon,Around noon,TIME,,,en,1.2916666666666665
-the end of August 2026,the end of August 2026,DATE,,,en,1.2857142857142856
 AmiAmi Akihabara Figure Tower Store,AmiAmi Akihabara Figure Tower Store,WORK_OF_ART,,,en,1.2857142857142856
+the end of August 2026,the end of August 2026,DATE,,,en,1.2857142857142856
 December 2nd,December 2nd,DATE,,,en,1.2857142857142856
 February 1,February 1,DATE,,,en,1.2857142857142856
 the 2000s,the 2000s,DATE,,,en,1.2857142857142856
@@ -2761,9 +2761,9 @@ mid-November last year,mid-November last year,DATE,,,en,1.2857142857142856
 Early morning,Early morning,TIME,,,en,1.2857142857142856
 Intellectual Property Lightning Talks,Intellectual Property Lightning Talks,EVENT,,,en,1.2857142857142856
 around the 8th,around the 8th,DATE,,,en,1.2857142857142856
-QA,QA,NORP,0.0,0.0,en,1.2857142857142856
 today to 6th,today to 6th,DATE,,,en,1.2857142857142856
 Android 16,Android 16,PRODUCT,,,en,1.2857142857142856
+QA,QA,NORP,0.0,0.0,en,1.2857142857142856
 more than 50,more than 50,CARDINAL,,,en,1.2857142857142856
 the fiscal year ending March 2026,the fiscal year ending March 2026,DATE,,,en,1.2857142857142856
 my first year,my first year,DATE,,,en,1.2857142857142856
@@ -2786,39 +2786,39 @@ Reunion,Reunion,WORK_OF_ART,,,en,1.2857142857142856
 the Relay Blog,the Relay Blog,PRODUCT,,,en,1.2857142857142856
 Thunderbird,Thunderbird,PRODUCT,,,en,1.2857142857142856
 Metroidvania,Metroidvania,PRODUCT,,,en,1.2857142857142856
-199,199,CARDINAL,,,en,1.2857142857142856
 the New Year holidays,the New Year holidays,DATE,,,en,1.2857142857142856
+199,199,CARDINAL,,,en,1.2857142857142856
 Two days,Two days,DATE,,,en,1.2857142857142856
 late autumn to winter,late autumn to winter,DATE,,,en,1.2857142857142856
 2026'',2026'',DATE,,,en,1.281818181818182
-his 60s,his 60s,DATE,,,en,1.281818181818182
 Ichiyoshi,Ichiyoshi,WORK_OF_ART,,,en,1.281818181818182
+his 60s,his 60s,DATE,,,en,1.281818181818182
+Graph,Graph,WORK_OF_ART,,,en,1.2777777777777777
 1978,1978,DATE,,,en,1.2777777777777777
 the end of June,the end of June,DATE,,,en,1.2777777777777777
-Graph,Graph,WORK_OF_ART,,,en,1.2777777777777777
+Staminaen,Staminaen,WORK_OF_ART,,,en,1.2727272727272727
 3 million,3 million,CARDINAL,,,en,1.2727272727272727
+the 26th (Thursday,the 26th (Thursday,DATE,,,en,1.2727272727272727
 Monday/holiday,Monday/holiday,DATE,,,en,1.2727272727272727
 Tsukko,Tsukko,PRODUCT,,,en,1.2727272727272727
-the 26th (Thursday,the 26th (Thursday,DATE,,,en,1.2727272727272727
-Staminaen,Staminaen,WORK_OF_ART,,,en,1.2727272727272727
 2:00 pm,2:00 pm,TIME,,,en,1.2678571428571428
 July 22nd,July 22nd,DATE,,,en,1.2678571428571428
-"May 7, 2026","May 7, 2026",DATE,,,en,1.2666666666666666
-Horizume Station,Horizume Station,FAC,,,en,1.2666666666666666
+1959,1959,DATE,,,en,1.2666666666666666
 about 30 minutes,about 30 minutes,TIME,,,en,1.2666666666666666
+"May 7, 2026","May 7, 2026",DATE,,,en,1.2666666666666666
+17:00-23:00,17:00-23:00,TIME,,,en,1.2666666666666666
+Horizume Station,Horizume Station,FAC,,,en,1.2666666666666666
 2-3 days,2-3 days,DATE,,,en,1.2666666666666666
 Enkei,Enkei,PRODUCT,,,en,1.2666666666666666
-17:00-23:00,17:00-23:00,TIME,,,en,1.2666666666666666
-1959,1959,DATE,,,en,1.2666666666666666
-3000m,3000m,QUANTITY,,,en,1.25
-13.21 seconds,13.21 seconds,TIME,,,en,1.25
-Silva Barrel Line,Silva Barrel Line,WORK_OF_ART,,,en,1.25
-2km,2km,QUANTITY,,,en,1.25
-the past 20 years,the past 20 years,DATE,,,en,1.25
-9am,9am,TIME,,,en,1.25
-15 minutes,15 minutes,TIME,,,en,1.25
 Sandwich Man,Sandwich Man,WORK_OF_ART,,,en,1.25
 Gobo Station,Gobo Station,FAC,,,en,1.25
+13.21 seconds,13.21 seconds,TIME,,,en,1.25
+15 minutes,15 minutes,TIME,,,en,1.25
+2km,2km,QUANTITY,,,en,1.25
+the past 20 years,the past 20 years,DATE,,,en,1.25
+3000m,3000m,QUANTITY,,,en,1.25
+9am,9am,TIME,,,en,1.25
+Silva Barrel Line,Silva Barrel Line,WORK_OF_ART,,,en,1.25
 January 11th to 12th,January 11th to 12th,DATE,,,en,1.25
 the Soccer World Cup,the Soccer World Cup,EVENT,,,en,1.25
 Yakitori,Yakitori,NORP,,,en,1.25
@@ -2858,239 +2858,254 @@ the Tokyu Line,the Tokyu Line,FAC,,,en,1.25
 the 2026-27 season,the 2026-27 season,DATE,,,en,1.25
 Galaxy S26,Galaxy S26,PRODUCT,,,en,1.25
 Taiheiki,Taiheiki,NORP,,,en,1.25
-March to May,March to May,DATE,,,en,1.25
-95,95,CARDINAL,,,en,1.25
+3/22,3/22,CARDINAL,,,en,1.25
+7480 yards,7480 yards,QUANTITY,,,en,1.25
+"Tuesday, February 10, 2026","Tuesday, February 10, 2026",DATE,,,en,1.25
+2025/12/31,2025/12/31,DATE,,,en,1.25
 Yazaru Street,Yazaru Street,FAC,,,en,1.25
-4XL,4XL,CARDINAL,,,en,1.25
 June 2022,June 2022,DATE,,,en,1.25
 9/6,9/6,CARDINAL,,,en,1.25
 January 29,January 29,DATE,,,en,1.25
-1-10,1-10,CARDINAL,,,en,1.25
-Daydream,Daydream,WORK_OF_ART,,,en,1.25
-8/19,8/19,CARDINAL,,,en,1.25
-Fifteen years ago,Fifteen years ago,DATE,,,en,1.25
 "19,810 yen","19,810 yen",MONEY,,,en,1.25
-7480 yards,7480 yards,QUANTITY,,,en,1.25
+4XL,4XL,CARDINAL,,,en,1.25
 Hinamatsuri,Hinamatsuri,WORK_OF_ART,0.275,0.3960000000000001,en,1.25
+Fifteen years ago,Fifteen years ago,DATE,,,en,1.25
+8/19,8/19,CARDINAL,,,en,1.25
+[31 years,[31 years,DATE,,,en,1.25
+Daydream,Daydream,WORK_OF_ART,,,en,1.25
+31st,31st,ORDINAL,,,en,1.25
+95,95,CARDINAL,,,en,1.25
 Amazon Manga Weekend Festival,Amazon Manga Weekend Festival,WORK_OF_ART,,,en,1.25
-2025/12/31,2025/12/31,DATE,,,en,1.25
-RubyKaigi,RubyKaigi,PRODUCT,,,en,1.25
-"January 25, 2026","January 25, 2026",DATE,,,en,1.25
-21.7,21.7,CARDINAL,,,en,1.25
 1 kg,1 kg,QUANTITY,,,en,1.25
-3/22,3/22,CARDINAL,,,en,1.25
-"Tuesday, February 10, 2026","Tuesday, February 10, 2026",DATE,,,en,1.25
-December 16th,December 16th,DATE,,,en,1.2428571428571429
+"January 25, 2026","January 25, 2026",DATE,,,en,1.25
+March to May,March to May,DATE,,,en,1.25
+21.7,21.7,CARDINAL,,,en,1.25
+1-10,1-10,CARDINAL,,,en,1.25
+RubyKaigi,RubyKaigi,PRODUCT,,,en,1.25
 4.8 million,4.8 million,CARDINAL,,,en,1.2428571428571429
+December 16th,December 16th,DATE,,,en,1.2428571428571429
 "240,000 yen","240,000 yen",MONEY,,,en,1.2428571428571429
 8 hours,8 hours,TIME,,,en,1.2361111111111112
 ``iOS 26.4'',``iOS 26.4'',WORK_OF_ART,,,en,1.2352941176470589
-Last night,Last night,TIME,,,en,1.2307692307692306
 17 years later,17 years later,DATE,,,en,1.2307692307692306
-Akutagawa Prize Presentation Ceremony Speech,Akutagawa Prize Presentation Ceremony Speech,WORK_OF_ART,,,en,1.2222222222222223
-July 21st (Tuesday,July 21st (Tuesday,DATE,,,en,1.2222222222222223
-34%,34%,PERCENT,,,en,1.2222222222222223
-Mongolian,Mongolian,NORP,,,en,1.2222222222222223
+Last night,Last night,TIME,,,en,1.2307692307692306
 Chapter 12,Chapter 12,LAW,,,en,1.2222222222222223
-3 days,3 days,DATE,,,en,1.2222222222222223
-`Winter Sonata Japan Special Edition,`Winter Sonata Japan Special Edition,WORK_OF_ART,,,en,1.2222222222222223
-Nakahara Peace Park,Nakahara Peace Park,FAC,,,en,1.2222222222222223
-Apple Creator Studio,Apple Creator Studio,WORK_OF_ART,,,en,1.2222222222222223
-This month,This month,DATE,,,en,1.2222222222222223
-up to 80%,up to 80%,PERCENT,,,en,1.2222222222222223
+34%,34%,PERCENT,,,en,1.2222222222222223
 [Summer 2026,[Summer 2026,DATE,,,en,1.2222222222222223
-Smile Fest Tokyo,Smile Fest Tokyo,FAC,,,en,1.2222222222222223
+July 21st (Tuesday,July 21st (Tuesday,DATE,,,en,1.2222222222222223
+up to 80%,up to 80%,PERCENT,,,en,1.2222222222222223
+3 days,3 days,DATE,,,en,1.2222222222222223
 Google I/O,Google I/O,PRODUCT,,,en,1.2222222222222223
-Sweet,Sweet,PRODUCT,,,en,1.2222222222222223
+Akutagawa Prize Presentation Ceremony Speech,Akutagawa Prize Presentation Ceremony Speech,WORK_OF_ART,,,en,1.2222222222222223
+Smile Fest Tokyo,Smile Fest Tokyo,FAC,,,en,1.2222222222222223
+Apple Creator Studio,Apple Creator Studio,WORK_OF_ART,,,en,1.2222222222222223
+Nakahara Peace Park,Nakahara Peace Park,FAC,,,en,1.2222222222222223
+This month,This month,DATE,,,en,1.2222222222222223
 0 2nd,0 2nd,DATE,,,en,1.2222222222222223
+`Winter Sonata Japan Special Edition,`Winter Sonata Japan Special Edition,WORK_OF_ART,,,en,1.2222222222222223
+Sweet,Sweet,PRODUCT,,,en,1.2222222222222223
+Mongolian,Mongolian,NORP,,,en,1.2222222222222223
 Fukushima Prefecture,Fukushima Prefecture,FAC,0.004940736119775426,0.009698482012892503,en,1.2142857142857142
 Wajima-nuri,Wajima-nuri,WORK_OF_ART,,,en,1.2142857142857142
 her 30s,her 30s,DATE,,,en,1.2142857142857142
-minutes,minutes,TIME,,,en,1.2000000000000002
-`How,`How,WORK_OF_ART,,,en,1.2000000000000002
-19 years old,19 years old,DATE,,,en,1.2000000000000002
-"12,980 yen","12,980 yen",MONEY,,,en,1.2000000000000002
-the Tokyo World Championships,the Tokyo World Championships,EVENT,,,en,1.2000000000000002
-1 billion yen,1 billion yen,MONEY,,,en,1.2000000000000002
-Smile River Festival,Smile River Festival,WORK_OF_ART,,,en,1.2000000000000002
-"February 1, 2026","February 1, 2026",DATE,,,en,1.2000000000000002
-250 yen,250 yen,MONEY,,,en,1.2000000000000002
-200 million yen,200 million yen,MONEY,,,en,1.2000000000000002
 approximately 1.19 billion yen,approximately 1.19 billion yen,MONEY,,,en,1.2000000000000002
+Six months,Six months,DATE,,,en,1.2000000000000002
 02,02,CARDINAL,,,en,1.2000000000000002
+"February 1, 2026","February 1, 2026",DATE,,,en,1.2000000000000002
+`How,`How,WORK_OF_ART,,,en,1.2000000000000002
+Disaster Prevention Day,Disaster Prevention Day,EVENT,,,en,1.2000000000000002
+"Tuesday, March 17th","Tuesday, March 17th",DATE,,,en,1.2000000000000002
+Shirase,Shirase,WORK_OF_ART,,,en,1.2000000000000002
+`THE PATH COFFEE'',`THE PATH COFFEE'',WORK_OF_ART,,,en,1.2000000000000002
+Maruko Bridge,Maruko Bridge,FAC,,,en,1.2000000000000002
+his 80s,his 80s,DATE,,,en,1.2000000000000002
+the Tokyo World Championships,the Tokyo World Championships,EVENT,,,en,1.2000000000000002
+Smile River Festival,Smile River Festival,WORK_OF_ART,,,en,1.2000000000000002
+2026/03/29,2026/03/29,CARDINAL,,,en,1.2000000000000002
+250 yen,250 yen,MONEY,,,en,1.2000000000000002
+2026/1,2026/1,CARDINAL,,,en,1.2000000000000002
+around 7:05 pm on the 12th,around 7:05 pm on the 12th,TIME,,,en,1.2000000000000002
+48 years,48 years,DATE,,,en,1.2000000000000002
+2025/11/11,2025/11/11,CARDINAL,,,en,1.2000000000000002
+Itadakimasu,Itadakimasu,WORK_OF_ART,,,en,1.2000000000000002
+Amarume,Amarume,PRODUCT,,,en,1.2000000000000002
+19 years old,19 years old,DATE,,,en,1.2000000000000002
+48th,48th,ORDINAL,,,en,1.2000000000000002
+2023/05/25,2023/05/25,CARDINAL,,,en,1.2000000000000002
+"March 2, 2026","March 2, 2026",DATE,,,en,1.2000000000000002
+`Gravity's Rainbow,`Gravity's Rainbow,WORK_OF_ART,,,en,1.2000000000000002
+[Breaking News] Fire,[Breaking News] Fire,WORK_OF_ART,,,en,1.2000000000000002
+200 million yen,200 million yen,MONEY,,,en,1.2000000000000002
+2026/08/04,2026/08/04,CARDINAL,,,en,1.2000000000000002
+10 kg,10 kg,QUANTITY,,,en,1.2000000000000002
+minutes,minutes,TIME,,,en,1.2000000000000002
+1 billion yen,1 billion yen,MONEY,,,en,1.2000000000000002
+September 1st to 13th,September 1st to 13th,DATE,,,en,1.2000000000000002
+``Bathroom Girl'',``Bathroom Girl'',WORK_OF_ART,,,en,1.2000000000000002
+"12,980 yen","12,980 yen",MONEY,,,en,1.2000000000000002
+Shannon,Shannon,FAC,,,en,1.2000000000000002
 the past 60 days,the past 60 days,DATE,,,en,1.2000000000000002
 August 9th to 19th,August 9th to 19th,DATE,,,en,1.2000000000000002
-Shirase,Shirase,WORK_OF_ART,,,en,1.2000000000000002
-Maruko Bridge,Maruko Bridge,FAC,,,en,1.2000000000000002
-"Tuesday, March 17th","Tuesday, March 17th",DATE,,,en,1.2000000000000002
-`THE PATH COFFEE'',`THE PATH COFFEE'',WORK_OF_ART,,,en,1.2000000000000002
-`Gravity's Rainbow,`Gravity's Rainbow,WORK_OF_ART,,,en,1.2000000000000002
-"March 2, 2026","March 2, 2026",DATE,,,en,1.2000000000000002
-2026/03/29,2026/03/29,CARDINAL,,,en,1.2000000000000002
-Six months,Six months,DATE,,,en,1.2000000000000002
-[Breaking News] Fire,[Breaking News] Fire,WORK_OF_ART,,,en,1.2000000000000002
-``Bathroom Girl'',``Bathroom Girl'',WORK_OF_ART,,,en,1.2000000000000002
-Shannon,Shannon,FAC,,,en,1.2000000000000002
-Amarume,Amarume,PRODUCT,,,en,1.2000000000000002
-2026/08/04,2026/08/04,CARDINAL,,,en,1.2000000000000002
-his 80s,his 80s,DATE,,,en,1.2000000000000002
-September 1st to 13th,September 1st to 13th,DATE,,,en,1.2000000000000002
-2023/05/25,2023/05/25,CARDINAL,,,en,1.2000000000000002
-Disaster Prevention Day,Disaster Prevention Day,EVENT,,,en,1.2000000000000002
-48th,48th,ORDINAL,,,en,1.2000000000000002
-around 7:05 pm on the 12th,around 7:05 pm on the 12th,TIME,,,en,1.2000000000000002
-10 kg,10 kg,QUANTITY,,,en,1.2000000000000002
-2025/11/11,2025/11/11,CARDINAL,,,en,1.2000000000000002
-48 years,48 years,DATE,,,en,1.2000000000000002
-2026/1,2026/1,CARDINAL,,,en,1.2000000000000002
-Itadakimasu,Itadakimasu,WORK_OF_ART,,,en,1.2000000000000002
-over 50%,over 50%,PERCENT,,,en,1.2
-six years,six years,DATE,,,en,1.2
-"January 30, 2026","January 30, 2026",DATE,,,en,1.2
+tomorrow the 19th,tomorrow the 19th,DATE,,,en,1.2
 "November 1, 2025","November 1, 2025",DATE,,,en,1.2
+999 yen,999 yen,MONEY,,,en,1.2
+Two months,Two months,DATE,,,en,1.2
+Veronica Sweetheart Swimsuit,Veronica Sweetheart Swimsuit,WORK_OF_ART,,,en,1.2
+"40,000 yen","40,000 yen",MONEY,,,en,1.2
+"2,200 yen","2,200 yen",MONEY,,,en,1.2
+October last year,October last year,DATE,,,en,1.2
+"January 30, 2026","January 30, 2026",DATE,,,en,1.2
+six years,six years,DATE,,,en,1.2
+over 50%,over 50%,PERCENT,,,en,1.2
+April 23rd,April 23rd,DATE,,,en,1.2
 February 21,February 21,DATE,,,en,1.2
 "February 12, 2026","February 12, 2026",DATE,,,en,1.2
-452,452,CARDINAL,,,en,1.2
-April 23rd,April 23rd,DATE,,,en,1.2
-"40,000 yen","40,000 yen",MONEY,,,en,1.2
-04,04,CARDINAL,,,en,1.2
-April 9,April 9,DATE,,,en,1.2
-Veronica Sweetheart Swimsuit,Veronica Sweetheart Swimsuit,WORK_OF_ART,,,en,1.2
-999 yen,999 yen,MONEY,,,en,1.2
 March 17,March 17,DATE,,,en,1.2
-"2,200 yen","2,200 yen",MONEY,,,en,1.2
-Continuous Photo,Continuous Photo,WORK_OF_ART,,,en,1.2
-"8,799 yen","8,799 yen",MONEY,,,en,1.2
-December 18,December 18,DATE,,,en,1.2
-a great day,a great day,DATE,,,en,1.2
-October last year,October last year,DATE,,,en,1.2
-December 7,December 7,DATE,,,en,1.2
-February 13,February 13,DATE,,,en,1.2
-Civic,Civic,PRODUCT,,,en,1.2
-Two months,Two months,DATE,,,en,1.2
-tomorrow the 19th,tomorrow the 19th,DATE,,,en,1.2
+452,452,CARDINAL,,,en,1.2
 "230,000 yen","230,000 yen",MONEY,,,en,1.2
+December 18,December 18,DATE,,,en,1.2
+"8,799 yen","8,799 yen",MONEY,,,en,1.2
+Continuous Photo,Continuous Photo,WORK_OF_ART,,,en,1.2
+April 9,April 9,DATE,,,en,1.2
 over 80%,over 80%,PERCENT,,,en,1.2
+Civic,Civic,PRODUCT,,,en,1.2
+February 13,February 13,DATE,,,en,1.2
+a great day,a great day,DATE,,,en,1.2
+December 7,December 7,DATE,,,en,1.2
+04,04,CARDINAL,,,en,1.2
 around the 8th (Sunday,around the 8th (Sunday,DATE,,,en,1.1875
-April 23,April 23,DATE,,,en,1.1818181818181819
-Gizmodo Time Machine,Gizmodo Time Machine,WORK_OF_ART,,,en,1.1818181818181819
+Musashikosugi Disaster Prevention Festival 2026,Musashikosugi Disaster Prevention Festival 2026,WORK_OF_ART,,,en,1.1818181818181819
+Musashikosugi☆Disaster Prevention Festival 2026,Musashikosugi☆Disaster Prevention Festival 2026,WORK_OF_ART,,,en,1.1818181818181819
 Tower Hall Funabori,Tower Hall Funabori,FAC,,,en,1.1818181818181819
 "Wednesday, March 11, 2026","Wednesday, March 11, 2026",DATE,,,en,1.1818181818181819
+Gizmodo Time Machine,Gizmodo Time Machine,WORK_OF_ART,,,en,1.1818181818181819
 Minatogawa Koen Station,Minatogawa Koen Station,FAC,,,en,1.1818181818181819
-Musashikosugi☆Disaster Prevention Festival 2026,Musashikosugi☆Disaster Prevention Festival 2026,WORK_OF_ART,,,en,1.1818181818181819
-Musashikosugi Disaster Prevention Festival 2026,Musashikosugi Disaster Prevention Festival 2026,WORK_OF_ART,,,en,1.1818181818181819
-26.4,26.4,CARDINAL,,,en,1.1764705882352942
+April 23,April 23,DATE,,,en,1.1818181818181819
 250th,250th,ORDINAL,,,en,1.1764705882352942
 Apple Vision Pro,Apple Vision Pro,WORK_OF_ART,,,en,1.1764705882352942
-211,211,CARDINAL,,,en,1.1666666666666665
-499 yen,499 yen,MONEY,,,en,1.1666666666666665
-2026/01/29,2026/01/29,CARDINAL,,,en,1.1666666666666665
-6:30 p.m.,6:30 p.m.,TIME,,,en,1.1666666666666665
+26.4,26.4,CARDINAL,,,en,1.1764705882352942
+300 million yen,300 million yen,MONEY,,,en,1.1666666666666665
+the Fuchu Canal,the Fuchu Canal,FAC,,,en,1.1666666666666665
++20%,+20%,PERCENT,,,en,1.1666666666666665
 2026/04/25,2026/04/25,CARDINAL,,,en,1.1666666666666665
 August 12,August 12,DATE,,,en,1.1666666666666665
-the 15th year,the 15th year,DATE,,,en,1.1666666666666665
-Ryobi Bus,Ryobi Bus,PRODUCT,,,en,1.1666666666666665
-125,125,CARDINAL,,,en,1.1666666666666665
 approximately 40 minutes,approximately 40 minutes,TIME,,,en,1.1666666666666665
-580 yen,580 yen,MONEY,,,en,1.1666666666666665
-34.3,34.3,CARDINAL,,,en,1.1666666666666665
-January 23,January 23,DATE,,,en,1.1666666666666665
-the age of AI,the age of AI,DATE,,,en,1.1666666666666665
 Osaka,Osaka,NORP,0.017084222064894038,0.027306720012354437,en,1.1666666666666665
-+20%,+20%,PERCENT,,,en,1.1666666666666665
-300 million yen,300 million yen,MONEY,,,en,1.1666666666666665
+499 yen,499 yen,MONEY,,,en,1.1666666666666665
+34.3,34.3,CARDINAL,,,en,1.1666666666666665
+the 15th year,the 15th year,DATE,,,en,1.1666666666666665
+January 23,January 23,DATE,,,en,1.1666666666666665
 three years ago,three years ago,DATE,,,en,1.1666666666666665
+6:30 p.m.,6:30 p.m.,TIME,,,en,1.1666666666666665
+580 yen,580 yen,MONEY,,,en,1.1666666666666665
+the age of AI,the age of AI,DATE,,,en,1.1666666666666665
+2026/01/29,2026/01/29,CARDINAL,,,en,1.1666666666666665
+Ryobi Bus,Ryobi Bus,PRODUCT,,,en,1.1666666666666665
+211,211,CARDINAL,,,en,1.1666666666666665
 `Saturday Digest Edition,`Saturday Digest Edition,WORK_OF_ART,,,en,1.1666666666666665
-the Fuchu Canal,the Fuchu Canal,FAC,,,en,1.1666666666666665
+125,125,CARDINAL,,,en,1.1666666666666665
 2005,2005,DATE,,,en,1.1666666666666665
 over 250,over 250,CARDINAL,,,en,1.1666666666666665
-May 28,May 28,DATE,,,en,1.1666666666666665
-a fun night,a fun night,TIME,,,en,1.1666666666666665
-1st week,1st week,DATE,,,en,1.1666666666666665
-2026-01-08,2026-01-08,DATE,,,en,1.1666666666666665
-early-season,early-season,DATE,,,en,1.1666666666666665
-cold day,cold day,DATE,,,en,1.1666666666666665
-1.15 million yen,1.15 million yen,MONEY,,,en,1.1666666666666665
-GeGeGe no Kitaro,GeGeGe no Kitaro,WORK_OF_ART,,,en,1.1666666666666665
-Tuesday the 19th,Tuesday the 19th,DATE,,,en,1.1666666666666665
 Amagi,Amagi,NORP,,,en,1.1666666666666665
-``Ghost Stories'',``Ghost Stories'',WORK_OF_ART,,,en,1.1666666666666665
-Week 10,Week 10,DATE,,,en,1.1666666666666665
 300-350,300-350,MONEY,,,en,1.1666666666666665
+``Ghost Stories'',``Ghost Stories'',WORK_OF_ART,,,en,1.1666666666666665
+May 28,May 28,DATE,,,en,1.1666666666666665
+Week 10,Week 10,DATE,,,en,1.1666666666666665
 Trifune,Trifune,WORK_OF_ART,,,en,1.1666666666666665
 January 8th,January 8th,DATE,,,en,1.1666666666666665
+1st week,1st week,DATE,,,en,1.1666666666666665
+GeGeGe no Kitaro,GeGeGe no Kitaro,WORK_OF_ART,,,en,1.1666666666666665
+early-season,early-season,DATE,,,en,1.1666666666666665
+2026-01-08,2026-01-08,DATE,,,en,1.1666666666666665
+1.15 million yen,1.15 million yen,MONEY,,,en,1.1666666666666665
+a fun night,a fun night,TIME,,,en,1.1666666666666665
+cold day,cold day,DATE,,,en,1.1666666666666665
+Tuesday the 19th,Tuesday the 19th,DATE,,,en,1.1666666666666665
 Tuesday the 10th,Tuesday the 10th,DATE,,,en,1.1538461538461537
-about 3 seconds,about 3 seconds,TIME,,,en,1.1428571428571428
-January 5,January 5,DATE,,,en,1.1428571428571428
-the number of days,the number of days,DATE,,,en,1.1428571428571428
-holiday of this year,holiday of this year,DATE,,,en,1.1428571428571428
-early spring,early spring,DATE,,,en,1.1428571428571428
+38 degrees,38 degrees,QUANTITY,,,en,1.1428571428571428
 1 trillion yen,1 trillion yen,MONEY,,,en,1.1428571428571428
+the number of days,the number of days,DATE,,,en,1.1428571428571428
+about 3 seconds,about 3 seconds,TIME,,,en,1.1428571428571428
+holiday of this year,holiday of this year,DATE,,,en,1.1428571428571428
+September 22nd,September 22nd,DATE,,,en,1.1428571428571428
+a month and a half,a month and a half,DATE,,,en,1.1428571428571428
+7:25,7:25,TIME,,,en,1.1428571428571428
+Marriage Registration Ordinance,Marriage Registration Ordinance,LAW,,,en,1.1428571428571428
 Tanikou,Tanikou,NORP,,,en,1.1428571428571428
-August 28th,August 28th,DATE,,,en,1.1428571428571428
 Banetsu Expressway,Banetsu Expressway,FAC,,,en,1.1428571428571428
-"70,000","70,000",CARDINAL,,,en,1.1428571428571428
+2025/12/27,2025/12/27,CARDINAL,,,en,1.1428571428571428
+1.5cm,1.5cm,QUANTITY,,,en,1.1428571428571428
 Tsukimi Pudding Crepe,Tsukimi Pudding Crepe,WORK_OF_ART,,,en,1.1428571428571428
 early summer 2026,early summer 2026,DATE,,,en,1.1428571428571428
-2025/12/27,2025/12/27,CARDINAL,,,en,1.1428571428571428
-7:25,7:25,TIME,,,en,1.1428571428571428
 36 years old,36 years old,DATE,,,en,1.1428571428571428
-the Battle of Ichinotani,the Battle of Ichinotani,EVENT,,,en,1.1428571428571428
-2 months,2 months,DATE,,,en,1.1428571428571428
-1.5cm,1.5cm,QUANTITY,,,en,1.1428571428571428
-The second week,The second week,DATE,,,en,1.1428571428571428
-"1,999 yen - Challenge","1,999 yen - Challenge",MONEY,,,en,1.1428571428571428
-38 degrees,38 degrees,QUANTITY,,,en,1.1428571428571428
-a month and a half,a month and a half,DATE,,,en,1.1428571428571428
+August 28th,August 28th,DATE,,,en,1.1428571428571428
 "1,590 yen","1,590 yen",MONEY,,,en,1.1428571428571428
-September 22nd,September 22nd,DATE,,,en,1.1428571428571428
-"2,480 yen","2,480 yen",MONEY,,,en,1.1428571428571428
+January 5,January 5,DATE,,,en,1.1428571428571428
 70s,70s,DATE,,,en,1.1428571428571428
-Marriage Registration Ordinance,Marriage Registration Ordinance,LAW,,,en,1.1428571428571428
+early spring,early spring,DATE,,,en,1.1428571428571428
+2 months,2 months,DATE,,,en,1.1428571428571428
+"1,999 yen - Challenge","1,999 yen - Challenge",MONEY,,,en,1.1428571428571428
+The second week,The second week,DATE,,,en,1.1428571428571428
+"70,000","70,000",CARDINAL,,,en,1.1428571428571428
+the Battle of Ichinotani,the Battle of Ichinotani,EVENT,,,en,1.1428571428571428
+"2,480 yen","2,480 yen",MONEY,,,en,1.1428571428571428
 2026.5,2026.5,CARDINAL,,,en,1.1333333333333333
-the TEPCO Fukushima Daiichi Nuclear Power Plant,the TEPCO Fukushima Daiichi Nuclear Power Plant,FAC,,,en,1.125
-Last year's,Last year's,DATE,,,en,1.125
 the Referendum Law,the Referendum Law,LAW,,,en,1.125
-this April,this April,DATE,,,en,1.125
-40°,40°,QUANTITY,,,en,1.125
-3/3,3/3,CARDINAL,,,en,1.125
-9:30 p.m.,9:30 p.m.,TIME,,,en,1.125
-31st,31st,ORDINAL,,,en,1.125
-Seigen,Seigen,NORP,,,en,1.125
-"December 1, 2025","December 1, 2025",DATE,,,en,1.125
-Article 9 of the Constitution,Article 9 of the Constitution,LAW,,,en,1.125
-November 13,November 13,DATE,,,en,1.125
-2026/02/24,2026/02/24,CARDINAL,,,en,1.125
 13 days,13 days,DATE,,,en,1.125
-[31 years,[31 years,DATE,,,en,1.125
+9:30 p.m.,9:30 p.m.,TIME,,,en,1.125
+3/3,3/3,CARDINAL,,,en,1.125
+Article 9 of the Constitution,Article 9 of the Constitution,LAW,,,en,1.125
+40°,40°,QUANTITY,,,en,1.125
+the TEPCO Fukushima Daiichi Nuclear Power Plant,the TEPCO Fukushima Daiichi Nuclear Power Plant,FAC,,,en,1.125
+"December 1, 2025","December 1, 2025",DATE,,,en,1.125
+2026/02/24,2026/02/24,CARDINAL,,,en,1.125
+Seigen,Seigen,NORP,,,en,1.125
+Last year's,Last year's,DATE,,,en,1.125
+November 13,November 13,DATE,,,en,1.125
 April 12,April 12,DATE,,,en,1.125
-30 years ago,30 years ago,DATE,,,en,1.125
 the early hours of the 8th,the early hours of the 8th,TIME,,,en,1.125
 [15 years,[15 years,DATE,,,en,1.125
+30 years ago,30 years ago,DATE,,,en,1.125
 Evening Fuji,Evening Fuji,FAC,,,en,1.125
+this April,this April,DATE,,,en,1.125
 the 25th and 26th,the 25th and 26th,DATE,,,en,1.1176470588235294
 2026/07/29,2026/07/29,CARDINAL,,,en,1.1176470588235294
+the 30th (Monday,the 30th (Monday,DATE,,,en,1.1111111111111112
 48%,48%,PERCENT,,,en,1.1111111111111112
+Approximately 20 minutes Storage period,Approximately 20 minutes Storage period,TIME,,,en,1.1111111111111112
 Last month,Last month,DATE,,,en,1.1111111111111112
 The weekend,The weekend,DATE,,,en,1.1111111111111112
-the 30th (Monday,the 30th (Monday,DATE,,,en,1.1111111111111112
-"Week 27, 2026","Week 27, 2026",DATE,,,en,1.1111111111111112
 3 years old,3 years old,DATE,,,en,1.1111111111111112
+"Week 27, 2026","Week 27, 2026",DATE,,,en,1.1111111111111112
 up to 220,up to 220,CARDINAL,,,en,1.1111111111111112
-Approximately 20 minutes Storage period,Approximately 20 minutes Storage period,TIME,,,en,1.1111111111111112
-50 million yen,50 million yen,MONEY,,,en,1.1
-2026/01/14,2026/01/14,CARDINAL,,,en,1.1
-Wednesday 4th,Wednesday 4th,DATE,,,en,1.1
-the Food Sanitation Act,the Food Sanitation Act,LAW,,,en,1.1
-February 17,February 17,DATE,,,en,1.1
-the end of February 2026,the end of February 2026,DATE,,,en,1.1
-Goen Rakuichi 2025,Goen Rakuichi 2025,WORK_OF_ART,,,en,1.1
-85,85,CARDINAL,,,en,1.1
+midsummer day,midsummer day,DATE,,,en,1.1
+Elise Toshima FC,Elise Toshima FC,PRODUCT,,,en,1.1
+"Wednesday, April 8, 2026","Wednesday, April 8, 2026",DATE,,,en,1.1
 "Bakebake”
 ","Bakebake”
 ",WORK_OF_ART,,,en,1.1
+600W,600W,QUANTITY,,,en,1.1
+2026.7,2026.7,CARDINAL,,,en,1.1
+9 trillion yen,9 trillion yen,MONEY,,,en,1.1
+2026/08/07,2026/08/07,CARDINAL,,,en,1.1
+24 years,24 years,DATE,,,en,1.1
+2025/12/10,2025/12/10,CARDINAL,,,en,1.1
+8:30 AM,8:30 AM,TIME,,,en,1.1
+2045,2045,DATE,,,en,1.1
+Terra,Terra,NORP,,,en,1.1
+2nd week,2nd week,DATE,,,en,1.1
+the second consecutive year,the second consecutive year,DATE,,,en,1.1
+every morning,every morning,TIME,,,en,1.1
+2026/03/31,2026/03/31,DATE,,,en,1.1
 [July 29,[July 29,DATE,,,en,1.1
-age 55,age 55,DATE,,,en,1.1
+Season,Season,DATE,,,en,1.1
+139,139,CARDINAL,,,en,1.1
+1:00 pm,1:00 pm,TIME,,,en,1.1
+20 years old,20 years old,DATE,,,en,1.1
+"more than 20,000","more than 20,000",CARDINAL,,,en,1.1
+105 yen,105 yen,MONEY,,,en,1.1
+3 ZERO,3 ZERO,QUANTITY,,,en,1.1
+1.8 billion yen,1.8 billion yen,MONEY,,,en,1.1
 Double Serum Foundation,Double Serum Foundation,WORK_OF_ART,,,en,1.1
 last weekend,last weekend,DATE,,,en,1.1
 Shinfu Buki Koro,Shinfu Buki Koro,WORK_OF_ART,,,en,1.1
@@ -3100,117 +3115,102 @@ the Japan Championship,the Japan Championship,EVENT,,,en,1.1
 around 11:44 a.m.,around 11:44 a.m.,TIME,,,en,1.1
 300 years,300 years,DATE,,,en,1.1
 Parasite,Parasite,WORK_OF_ART,,,en,1.1
+Christian,Christian,NORP,,,en,1.1
 Victoria Station,Victoria Station,FAC,,,en,1.1
+the morning of the 25th,the morning of the 25th,TIME,,,en,1.1
 Donbe,Donbe,WORK_OF_ART,,,en,1.1
+GIFT,GIFT,WORK_OF_ART,,,en,1.1
 June 2024,June 2024,DATE,,,en,1.1
 the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.1
 240,240,CARDINAL,,,en,1.1
+age 55,age 55,DATE,,,en,1.1
 a second year,a second year,DATE,,,en,1.1
-20 years old,20 years old,DATE,,,en,1.1
+1),1),CARDINAL,,,en,1.1
 Gusto,Gusto,NORP,,,en,1.1
+1957/1971,1957/1971,DATE,,,en,1.1
+"December 9, 2025","December 9, 2025",DATE,,,en,1.1
 "7,030","7,030",CARDINAL,,,en,1.1
 190,190,CARDINAL,,,en,1.1
 second-year,second-year,DATE,,,en,1.1
-105 yen,105 yen,MONEY,,,en,1.1
-3 ZERO,3 ZERO,QUANTITY,,,en,1.1
-"more than 20,000","more than 20,000",CARDINAL,,,en,1.1
-2026.7,2026.7,CARDINAL,,,en,1.1
-600W,600W,QUANTITY,,,en,1.1
-Elise Toshima FC,Elise Toshima FC,PRODUCT,,,en,1.1
-8:30 AM,8:30 AM,TIME,,,en,1.1
-Terra,Terra,NORP,,,en,1.1
-2nd week,2nd week,DATE,,,en,1.1
-every morning,every morning,TIME,,,en,1.1
-Amazon ECS Managed Instances,Amazon ECS Managed Instances,PRODUCT,,,en,1.1
-Christian,Christian,NORP,,,en,1.1
-$1.8 trillion,$1.8 trillion,MONEY,,,en,1.1
-2026/03/31,2026/03/31,DATE,,,en,1.1
-Siberian,Siberian,NORP,,,en,1.1
-below 50%,below 50%,PERCENT,,,en,1.1
-January 26,January 26,DATE,,,en,1.1
-1986,1986,DATE,,,en,1.1
-6+ in,6+ in,MONEY,,,en,1.1
-About a month,About a month,DATE,,,en,1.1
-the past two weeks,the past two weeks,DATE,,,en,1.1
-1973,1973,DATE,,,en,1.1
-7/1,7/1,CARDINAL,,,en,1.1
+50 million yen,50 million yen,MONEY,,,en,1.1
 fiscal 2026,fiscal 2026,DATE,,,en,1.1
-the end of August,the end of August,DATE,,,en,1.1
-"Over 120,000","Over 120,000",CARDINAL,,,en,1.1
-1:00 pm,1:00 pm,TIME,,,en,1.1
-139,139,CARDINAL,,,en,1.1
-GIFT,GIFT,WORK_OF_ART,,,en,1.1
-12:40 a.m.,12:40 a.m.,TIME,,,en,1.1
-2025/12/10,2025/12/10,CARDINAL,,,en,1.1
-Season,Season,DATE,,,en,1.1
-2026/08/07,2026/08/07,CARDINAL,,,en,1.1
-"Wednesday, April 8, 2026","Wednesday, April 8, 2026",DATE,,,en,1.1
-midsummer day,midsummer day,DATE,,,en,1.1
-the second consecutive year,the second consecutive year,DATE,,,en,1.1
-9 trillion yen,9 trillion yen,MONEY,,,en,1.1
-2045,2045,DATE,,,en,1.1
-"December 9, 2025","December 9, 2025",DATE,,,en,1.1
-1957/1971,1957/1971,DATE,,,en,1.1
-1.8 billion yen,1.8 billion yen,MONEY,,,en,1.1
-the morning of the 25th,the morning of the 25th,TIME,,,en,1.1
+Wednesday 4th,Wednesday 4th,DATE,,,en,1.1
+iPad Air,iPad Air,PRODUCT,,,en,1.1
 1 to 2 days,1 to 2 days,DATE,,,en,1.1
-1),1),CARDINAL,,,en,1.1
-"Kaku, No, Human","Kaku, No, Human",WORK_OF_ART,,,en,1.1
-Neapolitan,Neapolitan,NORP,-0.20833333333333331,0.6249999999999999,en,1.1
-10x,10x,CARDINAL,,,en,1.1
-hour,hour,TIME,,,en,1.1
-January 3rd,January 3rd,DATE,,,en,1.1
-the 28th of last month,the 28th of last month,DATE,,,en,1.1
-198 yen,198 yen,MONEY,,,en,1.1
-"More than 20,000","More than 20,000",CARDINAL,,,en,1.1
-"800,000 yen","800,000 yen",MONEY,,,en,1.1
-three months,three months,DATE,,,en,1.1
-7/22,7/22,CARDINAL,,,en,1.1
-"9,735 yen","9,735 yen",MONEY,,,en,1.1
+the United Nations Charter,the United Nations Charter,LAW,,,en,1.1
 the Science Museum,the Science Museum,FAC,,,en,1.1
 December 11th,December 11th,DATE,,,en,1.1
+Neapolitan,Neapolitan,NORP,-0.20833333333333331,0.6249999999999999,en,1.1
 2026.3,2026.3,CARDINAL,,,en,1.1
 1982,1982,DATE,,,en,1.1
+hour,hour,TIME,,,en,1.1
 up to 7 days,up to 7 days,DATE,,,en,1.1
+10x,10x,CARDINAL,,,en,1.1
 April 4th,April 4th,DATE,,,en,1.1
 2.5 billion yen,2.5 billion yen,MONEY,,,en,1.1
-iPad Air,iPad Air,PRODUCT,,,en,1.1
+"800,000 yen","800,000 yen",MONEY,,,en,1.1
 Yamabiko Street,Yamabiko Street,FAC,,,en,1.1
-"Thursday, July 23, 2026","Thursday, July 23, 2026",DATE,,,en,1.1
-5 million,5 million,CARDINAL,,,en,1.1
-2/15 minutes,2/15 minutes,TIME,,,en,1.1
-"up to 18,000","up to 18,000",CARDINAL,,,en,1.1
-"over 34,000","over 34,000",CARDINAL,,,en,1.1
-The end of the rainy season,The end of the rainy season,DATE,,,en,1.1
-M4,M4,CARDINAL,,,en,1.1
-24 years,24 years,DATE,,,en,1.1
-the Genpei War,the Genpei War,EVENT,,,en,1.1
-March 13,March 13,DATE,,,en,1.1
 7 consecutive days,7 consecutive days,DATE,,,en,1.1
+"Thursday, July 23, 2026","Thursday, July 23, 2026",DATE,,,en,1.1
 1936,1936,DATE,,,en,1.1
-the United Nations Charter,the United Nations Charter,LAW,,,en,1.1
+2/15 minutes,2/15 minutes,TIME,,,en,1.1
+5 million,5 million,CARDINAL,,,en,1.1
+March 13,March 13,DATE,,,en,1.1
+the Genpei War,the Genpei War,EVENT,,,en,1.1
+Siberian,Siberian,NORP,,,en,1.1
+M4,M4,CARDINAL,,,en,1.1
+"up to 18,000","up to 18,000",CARDINAL,,,en,1.1
+7/22,7/22,CARDINAL,,,en,1.1
+"More than 20,000","More than 20,000",CARDINAL,,,en,1.1
+the Food Sanitation Act,the Food Sanitation Act,LAW,,,en,1.1
+1973,1973,DATE,,,en,1.1
+February 17,February 17,DATE,,,en,1.1
+"over 34,000","over 34,000",CARDINAL,,,en,1.1
+the end of February 2026,the end of February 2026,DATE,,,en,1.1
+2026/01/14,2026/01/14,CARDINAL,,,en,1.1
+85,85,CARDINAL,,,en,1.1
+Goen Rakuichi 2025,Goen Rakuichi 2025,WORK_OF_ART,,,en,1.1
+"Over 120,000","Over 120,000",CARDINAL,,,en,1.1
+$1.8 trillion,$1.8 trillion,MONEY,,,en,1.1
+Amazon ECS Managed Instances,Amazon ECS Managed Instances,PRODUCT,,,en,1.1
+the end of August,the end of August,DATE,,,en,1.1
+7/1,7/1,CARDINAL,,,en,1.1
+12:40 a.m.,12:40 a.m.,TIME,,,en,1.1
+198 yen,198 yen,MONEY,,,en,1.1
+the past two weeks,the past two weeks,DATE,,,en,1.1
+6+ in,6+ in,MONEY,,,en,1.1
+January 3rd,January 3rd,DATE,,,en,1.1
+About a month,About a month,DATE,,,en,1.1
+1986,1986,DATE,,,en,1.1
+the 28th of last month,the 28th of last month,DATE,,,en,1.1
+below 50%,below 50%,PERCENT,,,en,1.1
+three months,three months,DATE,,,en,1.1
+January 26,January 26,DATE,,,en,1.1
+"Kaku, No, Human","Kaku, No, Human",WORK_OF_ART,,,en,1.1
+The end of the rainy season,The end of the rainy season,DATE,,,en,1.1
+"9,735 yen","9,735 yen",MONEY,,,en,1.1
 the previous business day,the previous business day,DATE,,,en,1.1
 "[June 9, 2026","[June 9, 2026",DATE,,,en,1.1
 Golden Kamuy,Golden Kamuy,WORK_OF_ART,,,en,1.1
 "70,000 yen","70,000 yen",MONEY,,,en,1.1
 "41,000","41,000",CARDINAL,,,en,1.1
-Pokemon,Pokemon,PRODUCT,,,en,1.1
 400m,400m,QUANTITY,,,en,1.1
 Sword Art,Sword Art,WORK_OF_ART,,,en,1.1
 the entire day,the entire day,DATE,,,en,1.1
 IfCv,IfCv,LAW,0.06,0.6799999999999999,en,1.1
 Wall Hanger,Wall Hanger,FAC,,,en,1.1
-the Yonezaka Line,the Yonezaka Line,FAC,,,en,1.1
 Customer Appreciation Sale,Customer Appreciation Sale,WORK_OF_ART,,,en,1.1
 the end of summer,the end of summer,DATE,,,en,1.1
+the Yonezaka Line,the Yonezaka Line,FAC,,,en,1.1
 6:38,6:38,TIME,,,en,1.1
 7:09,7:09,TIME,,,en,1.1
 6:01,6:01,TIME,,,en,1.1
-6:31,6:31,TIME,,,en,1.1
 11:40 a.m.,11:40 a.m.,TIME,,,en,1.1
-"May 12, 2026","May 12, 2026",DATE,,,en,1.1
+6:31,6:31,TIME,,,en,1.1
 Friday the 22nd,Friday the 22nd,DATE,,,en,1.1
-8:30,8:30,TIME,,,en,1.1
+"May 12, 2026","May 12, 2026",DATE,,,en,1.1
+cold days,cold days,DATE,,,en,1.1
+`Water,`Water,WORK_OF_ART,,,en,1.1
 2025/12/28,2025/12/28,CARDINAL,,,en,1.1
 32.3,32.3,CARDINAL,,,en,1.1
 Last season,Last season,DATE,,,en,1.1
@@ -3233,13 +3233,13 @@ Milk Hall,Milk Hall,FAC,,,en,1.1
 "June 19, 2026","June 19, 2026",DATE,,,en,1.1
 winter day,winter day,DATE,,,en,1.1
 24-28cm,24-28cm,QUANTITY,,,en,1.1
-cold days,cold days,DATE,,,en,1.1
-`Water,`Water,WORK_OF_ART,,,en,1.1
 Melonbooks,Melonbooks,NORP,,,en,1.1
+one-fourth,one-fourth,CARDINAL,,,en,1.1
+Genji,Genji,NORP,,,en,1.1
 just over two weeks,just over two weeks,DATE,,,en,1.1
 [Summary article],[Summary article],WORK_OF_ART,,,en,1.1
-Galaxy S27,Galaxy S27,PRODUCT,,,en,1.1
 only two,only two,CARDINAL,,,en,1.1
+Galaxy S27,Galaxy S27,PRODUCT,,,en,1.1
 Nori Special,Nori Special,WORK_OF_ART,,,en,1.1
 "60,000 yen","60,000 yen",MONEY,,,en,1.1
 the Galaxy S27 Ultra,the Galaxy S27 Ultra,PRODUCT,,,en,1.1
@@ -3258,87 +3258,88 @@ the Medium series,the Medium series,EVENT,,,en,1.1
 2026/05/19,2026/05/19,CARDINAL,,,en,1.1
 790 yen,790 yen,MONEY,,,en,1.1
 ROUTEPAY Rincon,ROUTEPAY Rincon,WORK_OF_ART,,,en,1.1
-2026/06/18,2026/06/18,CARDINAL,,,en,1.1
-one-fourth,one-fourth,CARDINAL,,,en,1.1
+April this year,April this year,DATE,,,en,1.1
+8:30,8:30,TIME,,,en,1.1
 `Predator: Badlands,`Predator: Badlands,WORK_OF_ART,,,en,1.1
-Genji,Genji,NORP,,,en,1.1
 Library Pilgrimage,Library Pilgrimage,FAC,,,en,1.1
 2%,2%,PERCENT,,,en,1.1
 a backup day,a backup day,DATE,,,en,1.1
+Pokemon,Pokemon,PRODUCT,,,en,1.1
 Iced Yuzu Citrus Tea,Iced Yuzu Citrus Tea,WORK_OF_ART,,,en,1.1
 day of the week,day of the week,DATE,,,en,1.1
 Nagasaki,Nagasaki,WORK_OF_ART,0.01595837961068568,0.0,en,1.1
 July 18th to 19th,July 18th to 19th,DATE,,,en,1.1
 39.7%,39.7%,PERCENT,,,en,1.1
-``Nintama Rantaro,``Nintama Rantaro,WORK_OF_ART,,,en,1.1
+2026/06/18,2026/06/18,CARDINAL,,,en,1.1
 about three,about three,CARDINAL,,,en,1.1
 "20,000 yen","20,000 yen",MONEY,,,en,1.1
 next season's,next season's,DATE,,,en,1.1
 drama series,drama series,EVENT,,,en,1.1
 August 24th,August 24th,DATE,,,en,1.1
-April this year,April this year,DATE,,,en,1.1
 December 19,December 19,DATE,,,en,1.1
 1:30 a.m.,1:30 a.m.,TIME,,,en,1.1
+``Nintama Rantaro,``Nintama Rantaro,WORK_OF_ART,,,en,1.1
 Toyotomi Brothers,Toyotomi Brothers,WORK_OF_ART,,,en,1.1
 December 10th last year,December 10th last year,DATE,,,en,1.1
-51 seconds,51 seconds,TIME,,,en,1.1
-"[June 25, 2026","[June 25, 2026",DATE,,,en,1.1
-the 25th (Monday,the 25th (Monday,DATE,,,en,1.1
-80th,80th,ORDINAL,,,en,1.1
-4:27 pm on the 28th,4:27 pm on the 28th,TIME,,,en,1.1
-Garlic marinated eggplant'',Garlic marinated eggplant'',WORK_OF_ART,,,en,1.1
-Nokuchi Station,Nokuchi Station,FAC,,,en,1.1
+33 degrees,33 degrees,QUANTITY,,,en,1.1
+This day,This day,DATE,,,en,1.1
 about 1kg,about 1kg,QUANTITY,,,en,1.1
 March 29,March 29,DATE,,,en,1.1
-56V,56V,CARDINAL,,,en,1.1
+Vertex Originals Elf Village,Vertex Originals Elf Village,WORK_OF_ART,,,en,1.1
+"[June 25, 2026","[June 25, 2026",DATE,,,en,1.1
+4 months,4 months,DATE,,,en,1.1
 2008,2008,DATE,,,en,1.1
-Ogawara Port,Ogawara Port,FAC,,,en,1.1
 45 degrees,45 degrees,QUANTITY,,,en,1.1
 16th day,16th day,DATE,,,en,1.1
-"the 10,000m","the 10,000m",QUANTITY,,,en,1.1
-Vertex Originals Elf Village,Vertex Originals Elf Village,WORK_OF_ART,,,en,1.1
-Spider,Spider,PRODUCT,,,en,1.1
-4 months,4 months,DATE,,,en,1.1
-Set me free feat,Set me free feat,WORK_OF_ART,,,en,1.1
 Karajan Square,Karajan Square,FAC,,,en,1.1
-2025.12,2025.12,CARDINAL,,,en,1.1
-293,293,CARDINAL,,,en,1.1
-the end of November 2025,the end of November 2025,DATE,,,en,1.1
-"5,980 yen","5,980 yen",MONEY,,,en,1.1
-"January 15, 2026","January 15, 2026",DATE,,,en,1.1
-Hakata Station,Hakata Station,FAC,,,en,1.1
-Heian,Heian,NORP,,,en,1.1
-SWAV Original Tactical Bride ',SWAV Original Tactical Bride ',WORK_OF_ART,,,en,1.1
-One night,One night,TIME,,,en,1.1
-June 19th (Friday,June 19th (Friday,DATE,,,en,1.1
-33 degrees,33 degrees,QUANTITY,,,en,1.1
-"2,034 yen","2,034 yen",MONEY,,,en,1.1
-Sendai Nuclear Power Plant,Sendai Nuclear Power Plant,FAC,,,en,1.1
-Zootopia 2,Zootopia 2,WORK_OF_ART,,,en,1.1
+Set me free feat,Set me free feat,WORK_OF_ART,,,en,1.1
+80th,80th,ORDINAL,,,en,1.1
+"the 10,000m","the 10,000m",QUANTITY,,,en,1.1
+Ogawara Port,Ogawara Port,FAC,,,en,1.1
 Paris Olympics,Paris Olympics,EVENT,,,en,1.1
+Spider,Spider,PRODUCT,,,en,1.1
+4:27 pm on the 28th,4:27 pm on the 28th,TIME,,,en,1.1
+56V,56V,CARDINAL,,,en,1.1
 August 25th,August 25th,DATE,,,en,1.1
-41%,41%,PERCENT,,,en,1.1
-Wednesday 25th,Wednesday 25th,DATE,,,en,1.1
 scarab,scarab,NORP,,,en,1.1
+Hakata Station,Hakata Station,FAC,,,en,1.1
+Nokuchi Station,Nokuchi Station,FAC,,,en,1.1
+2025.12,2025.12,CARDINAL,,,en,1.1
+51 seconds,51 seconds,TIME,,,en,1.1
+Wednesday 25th,Wednesday 25th,DATE,,,en,1.1
+Sendai Nuclear Power Plant,Sendai Nuclear Power Plant,FAC,,,en,1.1
+"5,980 yen","5,980 yen",MONEY,,,en,1.1
+Zootopia 2,Zootopia 2,WORK_OF_ART,,,en,1.1
+June 19th (Friday,June 19th (Friday,DATE,,,en,1.1
+One night,One night,TIME,,,en,1.1
+SWAV Original Tactical Bride ',SWAV Original Tactical Bride ',WORK_OF_ART,,,en,1.1
+41%,41%,PERCENT,,,en,1.1
+Heian,Heian,NORP,,,en,1.1
+"2,034 yen","2,034 yen",MONEY,,,en,1.1
 300 yen,300 yen,MONEY,,,en,1.1
 "May 13, 2026","May 13, 2026",DATE,,,en,1.1
+293,293,CARDINAL,,,en,1.1
+the 25th (Monday,the 25th (Monday,DATE,,,en,1.1
+the end of November 2025,the end of November 2025,DATE,,,en,1.1
 12%,12%,PERCENT,,,en,1.1
-This day,This day,DATE,,,en,1.1
+"January 15, 2026","January 15, 2026",DATE,,,en,1.1
+Garlic marinated eggplant'',Garlic marinated eggplant'',WORK_OF_ART,,,en,1.1
+June 6th 12:34,June 6th 12:34,DATE,,,en,1.0
 2026 Live,2026 Live,WORK_OF_ART,,,en,1.0
 approximately 3.8 trillion yen,approximately 3.8 trillion yen,MONEY,,,en,1.0
-`Nico☆Petit'',`Nico☆Petit'',WORK_OF_ART,,,en,1.0
-©2019,©2019,WORK_OF_ART,,,en,1.0
-shortly after 11:50 p.m.,shortly after 11:50 p.m.,TIME,,,en,1.0
-Aeon Mall Sendai Uesugi,Aeon Mall Sendai Uesugi,FAC,,,en,1.0
-$24 billion,$24 billion,MONEY,,,en,1.0
 6/14,6/14,CARDINAL,,,en,1.0
-3.8 trillion yen,3.8 trillion yen,MONEY,,,en,1.0
-Cube-kun,Cube-kun,WORK_OF_ART,,,en,1.0
+©2019,©2019,WORK_OF_ART,,,en,1.0
+$24 billion,$24 billion,MONEY,,,en,1.0
 11:23 p.m.,11:23 p.m.,TIME,,,en,1.0
+Aeon Mall Sendai Uesugi,Aeon Mall Sendai Uesugi,FAC,,,en,1.0
+Cube-kun,Cube-kun,WORK_OF_ART,,,en,1.0
+3.8 trillion yen,3.8 trillion yen,MONEY,,,en,1.0
+rurudo original illustration Eve LOVECALL,rurudo original illustration Eve LOVECALL,WORK_OF_ART,,,en,1.0
 Cutiful,Cutiful,WORK_OF_ART,,,en,1.0
-To LOVE-Ru”,To LOVE-Ru”,WORK_OF_ART,,,en,1.0
+shortly after 11:50 p.m.,shortly after 11:50 p.m.,TIME,,,en,1.0
+``Trends for the first half of 2026'',``Trends for the first half of 2026'',WORK_OF_ART,,,en,1.0
 about 80,about 80,CARDINAL,,,en,1.0
-`Beware of earthquakes,`Beware of earthquakes,WORK_OF_ART,,,en,1.0
+May AmiAmi Figure Ranking,May AmiAmi Figure Ranking,WORK_OF_ART,,,en,1.0
 "8,661 yen","8,661 yen",MONEY,,,en,1.0
 Saturday the 13th as midsummer days,Saturday the 13th as midsummer days,DATE,,,en,1.0
 about 50,about 50,CARDINAL,,,en,1.0
@@ -3352,23 +3353,22 @@ Togarashi Dragon no Shin,Togarashi Dragon no Shin,WORK_OF_ART,,,en,1.0
 Paimon Meat Tsumitsumi,Paimon Meat Tsumitsumi,WORK_OF_ART,,,en,1.0
 Disaster Prevention Event,Disaster Prevention Event,EVENT,,,en,1.0
 6-day,6-day,CARDINAL,,,en,1.0
-"Sunday, June 28th","Sunday, June 28th",DATE,,,en,1.0
+`Beware of earthquakes,`Beware of earthquakes,WORK_OF_ART,,,en,1.0
 Saturday 6th to Sunday 7th,Saturday 6th to Sunday 7th,DATE,,,en,1.0
-May AmiAmi Figure Ranking,May AmiAmi Figure Ranking,WORK_OF_ART,,,en,1.0
 `At 11:16 p.m.,`At 11:16 p.m.,TIME,,,en,1.0
+"Sunday, June 28th","Sunday, June 28th",DATE,,,en,1.0
 The JR Hachinohe Line,The JR Hachinohe Line,LAW,,,en,1.0
 `The Heart of LifeWear'',`The Heart of LifeWear'',WORK_OF_ART,,,en,1.0
 Dragon Ball,Dragon Ball,WORK_OF_ART,,,en,1.0
 Third Avenue Early Summer Disaster Prevention Event,Third Avenue Early Summer Disaster Prevention Event,WORK_OF_ART,,,en,1.0
 "over 1,400","over 1,400",CARDINAL,,,en,1.0
-rurudo original illustration Eve LOVECALL,rurudo original illustration Eve LOVECALL,WORK_OF_ART,,,en,1.0
 "Sunday, June 28","Sunday, June 28",DATE,,,en,1.0
 10:00~,10:00~,CARDINAL,,,en,1.0
 the Japan Maritime Self-Defense Force,the Japan Maritime Self-Defense Force,EVENT,,,en,1.0
 The FIFA World Cup,The FIFA World Cup,EVENT,,,en,1.0
-4:34 p.m.,4:34 p.m.,TIME,,,en,1.0
+To LOVE-Ru”,To LOVE-Ru”,WORK_OF_ART,,,en,1.0
 ``The first victim on the island is a famous detective,``The first victim on the island is a famous detective,WORK_OF_ART,,,en,1.0
-June 6th 12:34,June 6th 12:34,DATE,,,en,1.0
+`The Way of the Househusband,`The Way of the Househusband,WORK_OF_ART,,,en,1.0
 more than 1 million,more than 1 million,CARDINAL,,,en,1.0
 73m,73m,QUANTITY,,,en,1.0
 "1,350 yen - Challenge","1,350 yen - Challenge",MONEY,,,en,1.0
@@ -3392,37 +3392,37 @@ Uehonmachi Tower,Uehonmachi Tower,FAC,,,en,1.0
 "3,498 yen","3,498 yen",MONEY,,,en,1.0
 only a few minutes,only a few minutes,TIME,,,en,1.0
 127°,127°,MONEY,,,en,1.0
-``Trends for the first half of 2026'',``Trends for the first half of 2026'',WORK_OF_ART,,,en,1.0
-1st year,1st year,DATE,,,en,1.0
+"ARTICLE June 6, 20","ARTICLE June 6, 20",LAW,,,en,1.0
 Nico☆Petit,Nico☆Petit,WORK_OF_ART,,,en,1.0
-apply).My,apply).My,CARDINAL,,,en,1.0
+1st year,1st year,DATE,,,en,1.0
 Girls Lab,Girls Lab,WORK_OF_ART,,,en,1.0
+apply).My,apply).My,CARDINAL,,,en,1.0
 late on the night of the 12th,late on the night of the 12th,TIME,,,en,1.0
 June 7,June 7,DATE,,,en,1.0
-`The Way of the Househusband,`The Way of the Househusband,WORK_OF_ART,,,en,1.0
+Bakusho,Bakusho,WORK_OF_ART,,,en,1.0
 Approximately 16 minutes,Approximately 16 minutes,TIME,,,en,1.0
-7569 yards,7569 yards,QUANTITY,,,en,1.0
+Aeon Mall Sendai Uesugi - 2nd store,Aeon Mall Sendai Uesugi - 2nd store,FAC,,,en,1.0
 `The Great Library Wizard,`The Great Library Wizard,WORK_OF_ART,,,en,1.0
 Ragna Crimson'',Ragna Crimson'',WORK_OF_ART,,,en,1.0
-Bakusho,Bakusho,WORK_OF_ART,,,en,1.0
-Aeon Mall Sendai Uesugi - 2nd store,Aeon Mall Sendai Uesugi - 2nd store,FAC,,,en,1.0
-"ARTICLE June 6, 20","ARTICLE June 6, 20",LAW,,,en,1.0
-`One of the characters,`One of the characters,WORK_OF_ART,,,en,1.0
 090,090,CARDINAL,,,en,1.0
-around 1 p.m.,around 1 p.m.,TIME,,,en,1.0
+`Nico☆Petit'',`Nico☆Petit'',WORK_OF_ART,,,en,1.0
 410,410,CARDINAL,,,en,1.0
+`One of the characters,`One of the characters,WORK_OF_ART,,,en,1.0
 "5,200 yen","5,200 yen",MONEY,,,en,1.0
+around 1 p.m.,around 1 p.m.,TIME,,,en,1.0
 around 4 p.m.,around 4 p.m.,TIME,,,en,1.0
 about 15 years,about 15 years,DATE,,,en,1.0
 644,644,CARDINAL,,,en,1.0
 7/20,7/20,CARDINAL,,,en,1.0
 June 26th 12:25,June 26th 12:25,DATE,,,en,1.0
+4:34 p.m.,4:34 p.m.,TIME,,,en,1.0
 "13,490 yen - Challenge","13,490 yen - Challenge",MONEY,,,en,1.0
-IP65,IP65,NORP,,,en,1.0
 17:00-22:00,17:00-22:00,TIME,,,en,1.0
-around 9:53 a.m. on the 12th,around 9:53 a.m. on the 12th,TIME,,,en,1.0
+IP65,IP65,NORP,,,en,1.0
 Both Sunny and Rainy Days,Both Sunny and Rainy Days,WORK_OF_ART,,,en,1.0
+around 9:53 a.m. on the 12th,around 9:53 a.m. on the 12th,TIME,,,en,1.0
 11:00-23:00,11:00-23:00,TIME,,,en,1.0
+7569 yards,7569 yards,QUANTITY,,,en,1.0
 11:00-21:00,11:00-21:00,TIME,,,en,1.0
 "1,148 yen - Challenge","1,148 yen - Challenge",MONEY,,,en,1.0
 fall/winter 2024,fall/winter 2024,DATE,,,en,1.0
@@ -3827,7 +3827,7 @@ the 14th minute of the first half,the 14th minute of the first half,TIME,,,en,1.
 More than 45%,More than 45%,PERCENT,,,en,1.0
 the Algerian War,the Algerian War,EVENT,,,en,1.0
 GO,GO,WORK_OF_ART,,,en,1.0
-approximately 110km,approximately 110km,QUANTITY,,,en,1.0
+Takarazuka Kinen,Takarazuka Kinen,EVENT,,,en,1.0
 up to 40 km/hour,up to 40 km/hour,QUANTITY,,,en,1.0
 the Okinawa Observatory,the Okinawa Observatory,FAC,,,en,1.0
 40 km per hour,40 km per hour,QUANTITY,,,en,1.0
@@ -3837,13 +3837,13 @@ WTT Contenders Zagreb,WTT Contenders Zagreb,WORK_OF_ART,,,en,1.0
 126.5%,126.5%,PERCENT,,,en,1.0
 "61,857","61,857",CARDINAL,,,en,1.0
 111.9%,111.9%,PERCENT,,,en,1.0
+approximately 110km,approximately 110km,QUANTITY,,,en,1.0
 "29,390,524,400 yen","29,390,524,400 yen",MONEY,,,en,1.0
 "June 14, 2026","June 14, 2026",DATE,,,en,1.0
-Takarazuka Kinen,Takarazuka Kinen,EVENT,,,en,1.0
 the FA Cup,the FA Cup,EVENT,,,en,1.0
 the summer of 1993,the summer of 1993,DATE,,,en,1.0
-the summer of 2017,the summer of 2017,DATE,,,en,1.0
 "8,711","8,711",CARDINAL,,,en,1.0
+the summer of 2017,the summer of 2017,DATE,,,en,1.0
 "4,192","4,192",CARDINAL,,,en,1.0
 29 years old,29 years old,DATE,,,en,1.0
 "February 12, 2020","February 12, 2020",DATE,,,en,1.0
@@ -3969,9 +3969,9 @@ December 26,December 26,DATE,,,en,1.0
 "251,000","251,000",CARDINAL,,,en,1.0
 3.29 million,3.29 million,CARDINAL,,,en,1.0
 their 20s,their 20s,DATE,,,en,1.0
-As South Koreans,As South Koreans,NORP,,,en,1.0
 over 500mm,over 500mm,QUANTITY,,,en,1.0
-Desktop Cute,Desktop Cute,WORK_OF_ART,,,en,1.0
+As South Koreans,As South Koreans,NORP,,,en,1.0
+yesterday 24th to today 25th,yesterday 24th to today 25th,DATE,,,en,1.0
 "February 5, 2020","February 5, 2020",DATE,,,en,1.0
 Cannes Lions 2026,Cannes Lions 2026,EVENT,,,en,1.0
 "February 2, 2020","February 2, 2020",DATE,,,en,1.0
@@ -4003,9 +4003,9 @@ approximately 1.5 km,approximately 1.5 km,QUANTITY,,,en,1.0
 June 18th 11:59,June 18th 11:59,DATE,,,en,1.0
 around 30km,around 30km,QUANTITY,,,en,1.0
 06/18 11:56,06/18 11:56,TIME,,,en,1.0
+Desktop Cute,Desktop Cute,WORK_OF_ART,,,en,1.0
+the Hachinohe Interchange,the Hachinohe Interchange,FAC,,,en,1.0
 Witch's Journey,Witch's Journey,WORK_OF_ART,,,en,1.0
-Nukitashi THE ANIMATION,Nukitashi THE ANIMATION,WORK_OF_ART,,,en,1.0
-yesterday 24th to today 25th,yesterday 24th to today 25th,DATE,,,en,1.0
 Gekisaka June 16,Gekisaka June 16,WORK_OF_ART,,,en,1.0
 8:30 a.m,8:30 a.m,TIME,,,en,1.0
 "6,664 yen","6,664 yen",MONEY,,,en,1.0
@@ -4034,9 +4034,9 @@ only half,only half,CARDINAL,,,en,1.0
 "Tuesday, June 16, 2026","Tuesday, June 16, 2026",DATE,,,en,1.0
 8:15 a.m.,8:15 a.m.,TIME,,,en,1.0
 94 days,94 days,DATE,,,en,1.0
-2026-06-17 08:30,2026-06-17 08:30,DATE,,,en,1.0
+Nukitashi THE ANIMATION,Nukitashi THE ANIMATION,WORK_OF_ART,,,en,1.0
 last Sunday,last Sunday,DATE,,,en,1.0
-the Hachinohe Interchange,the Hachinohe Interchange,FAC,,,en,1.0
+2026-06-17 08:30,2026-06-17 08:30,DATE,,,en,1.0
 Current Judgment DI,Current Judgment DI,WORK_OF_ART,,,en,1.0
 "the ""2026","the ""2026",EVENT,,,en,1.0
 Super Formula Summer Festival,Super Formula Summer Festival,WORK_OF_ART,,,en,1.0
@@ -4276,7 +4276,7 @@ a season,a season,DATE,,,en,1.0
 ``Science of Disaster,``Science of Disaster,WORK_OF_ART,,,en,1.0
 [Breaking News,[Breaking News,WORK_OF_ART,,,en,1.0
 "3,780 yen","3,780 yen",MONEY,,,en,1.0
-"``Global Market Size, Share, Trends, and Growth Analysis Report for Electric Dryers 2026-2034'' (Value Market)","``Global Market Size, Share, Trends, and Growth Analysis Report for Electric Dryers 2026-2034'' (Value Market)",WORK_OF_ART,,,en,1.0
+``Aya Megu Booster Oil'',``Aya Megu Booster Oil'',WORK_OF_ART,,,en,1.0
 `The Kidnapping Genius Girl and the Perfect Crime'',`The Kidnapping Genius Girl and the Perfect Crime'',WORK_OF_ART,,,en,1.0
 Kidnapping,Kidnapping,WORK_OF_ART,,,en,1.0
 My first day,My first day,DATE,,,en,1.0
@@ -4291,7 +4291,7 @@ Shanghai Motor Show,Shanghai Motor Show,EVENT,,,en,1.0
 May 22nd to June 4th,May 22nd to June 4th,DATE,,,en,1.0
 "over 10,000","over 10,000",CARDINAL,,,en,1.0
 "January 17, 2021","January 17, 2021",DATE,,,en,1.0
-``Aya Megu Booster Oil'',``Aya Megu Booster Oil'',WORK_OF_ART,,,en,1.0
+"``Global Market Size, Share, Trends, and Growth Analysis Report for Electric Dryers 2026-2034'' (Value Market)","``Global Market Size, Share, Trends, and Growth Analysis Report for Electric Dryers 2026-2034'' (Value Market)",WORK_OF_ART,,,en,1.0
 ``Ready Player One'',``Ready Player One'',WORK_OF_ART,,,en,1.0
 "January 24, 2021","January 24, 2021",DATE,,,en,1.0
 "January 31, 2021","January 31, 2021",DATE,,,en,1.0
@@ -4306,8 +4306,8 @@ approximately 1 kg,approximately 1 kg,QUANTITY,,,en,1.0
 `Ingredients Tantan Udon'',`Ingredients Tantan Udon'',WORK_OF_ART,,,en,1.0
 `Forza Horizon 6'',`Forza Horizon 6'',WORK_OF_ART,,,en,1.0
 `PC games,`PC games,WORK_OF_ART,,,en,1.0
-the end of the year'',the end of the year'',DATE,,,en,1.0
 "May 20th to August 31, 2026","May 20th to August 31, 2026",DATE,,,en,1.0
+the end of the year'',the end of the year'',DATE,,,en,1.0
 12:45 p.m,12:45 p.m,TIME,,,en,1.0
 early last year,early last year,DATE,,,en,1.0
 11:18 a.m.,11:18 a.m.,TIME,,,en,1.0
@@ -4827,8 +4827,8 @@ Ssassasassa,Ssassasassa,PRODUCT,,,en,1.0
 "September 13, 2020","September 13, 2020",DATE,,,en,1.0
 Waterway ①,Waterway ①,FAC,,,en,1.0
 around 11:52 pm on the 10th,around 11:52 pm on the 10th,TIME,,,en,1.0
+Bomb Price,Bomb Price,WORK_OF_ART,,,en,1.0
 2025.11,2025.11,CARDINAL,,,en,1.0
-"tomorrow, June 5th","tomorrow, June 5th",DATE,,,en,1.0
 12:04:52.405ID,12:04:52.405ID,CARDINAL,,,en,1.0
 2025 to 2026,2025 to 2026,DATE,,,en,1.0
 1 minute 35 seconds,1 minute 35 seconds,TIME,,,en,1.0
@@ -4862,7 +4862,7 @@ few sunny days,few sunny days,DATE,,,en,1.0
 "March 28, 2025","March 28, 2025",DATE,,,en,1.0
 `Chinese TikTok Folklore'' @ ``Robot Newspaper'' Book Review,`Chinese TikTok Folklore'' @ ``Robot Newspaper'' Book Review,WORK_OF_ART,,,en,1.0
 Switch 2,Switch 2,PRODUCT,,,en,1.0
-Bomb Price,Bomb Price,WORK_OF_ART,,,en,1.0
+"tomorrow, June 5th","tomorrow, June 5th",DATE,,,en,1.0
 Last One Prize,Last One Prize,WORK_OF_ART,,,en,1.0
 "Thursday, June 4th","Thursday, June 4th",DATE,,,en,1.0
 "more than 130,000","more than 130,000",CARDINAL,,,en,1.0
@@ -4915,8 +4915,8 @@ Fantastic,Fantastic,WORK_OF_ART,,,en,1.0
 "2,996 yen","2,996 yen",MONEY,,,en,1.0
 74 days,74 days,DATE,,,en,1.0
 365 Days of Paper Planes,365 Days of Paper Planes,WORK_OF_ART,,,en,1.0
-over 15 years,over 15 years,DATE,,,en,1.0
 May/June 2026,May/June 2026,DATE,,,en,1.0
+over 15 years,over 15 years,DATE,,,en,1.0
 Week 11/Digest,Week 11/Digest,DATE,,,en,1.0
 today 27th,today 27th,DATE,,,en,1.0
 05/27 12:18,05/27 12:18,DATE,,,en,1.0
@@ -5317,16 +5317,16 @@ Krispy Kreme,Krispy Kreme,WORK_OF_ART,,,en,1.0
 "6,455","6,455",CARDINAL,,,en,1.0
 "15,318","15,318",CARDINAL,,,en,1.0
 138 degrees 25 minutes,138 degrees 25 minutes,QUANTITY,,,en,1.0
-Kumamoto Earthquake,Kumamoto Earthquake,EVENT,,,en,1.0
+"267,745 yen","267,745 yen",MONEY,,,en,1.0
 the night of the 11th to the early morning of the 12th,the night of the 11th to the early morning of the 12th,TIME,,,en,1.0
 up to 10 minutes earlier,up to 10 minutes earlier,TIME,,,en,1.0
 Miyazaki Prefecture,Miyazaki Prefecture,FAC,0.0,0.0,en,1.0
 the year-end and New Year holidays,the year-end and New Year holidays,DATE,,,en,1.0
 2026-08-09,2026-08-09,DATE,,,en,1.0
-"July 26, 2026","July 26, 2026",DATE,,,en,1.0
 Hino Station,Hino Station,FAC,,,en,1.0
+"July 26, 2026","July 26, 2026",DATE,,,en,1.0
 990,990,CARDINAL,,,en,1.0
-"267,745 yen","267,745 yen",MONEY,,,en,1.0
+Kumamoto Earthquake,Kumamoto Earthquake,EVENT,,,en,1.0
 ``The Structure of Literary Creation'',``The Structure of Literary Creation'',WORK_OF_ART,,,en,1.0
 August 10,August 10,DATE,,,en,1.0
 Upstage Solar License,Upstage Solar License,LAW,,,en,1.0
@@ -6279,10 +6279,10 @@ Article 76,Article 76,LAW,,,en,1.0
 September of last year,September of last year,DATE,,,en,1.0
 500 million,500 million,CARDINAL,,,en,1.0
 about 5 weeks,about 5 weeks,DATE,,,en,1.0
+Tomorrow August,Tomorrow August,DATE,,,en,1.0
 the day Three,the day Three,DATE,,,en,1.0
 the current summer,the current summer,DATE,,,en,1.0
 8/10,8/10,CARDINAL,,,en,1.0
-Tomorrow August,Tomorrow August,DATE,,,en,1.0
 Lotte ``Coolish'',Lotte ``Coolish'',WORK_OF_ART,,,en,1.0
 "Recovering Land, Reviving Hope","Recovering Land, Reviving Hope",WORK_OF_ART,,,en,1.0
 the Disaster Countermeasures Basic Act,the Disaster Countermeasures Basic Act,LAW,,,en,1.0
@@ -6530,14 +6530,14 @@ nearly 70%,nearly 70%,PERCENT,,,en,1.0
 55 km/h,55 km/h,QUANTITY,,,en,1.0
 550 meters,550 meters,QUANTITY,,,en,1.0
 Korakuen Amusement Park,Korakuen Amusement Park,FAC,,,en,1.0
-478 yen,478 yen,MONEY,,,en,1.0
+0.014%,0.014%,PERCENT,,,en,1.0
 `Trying:,`Trying:,WORK_OF_ART,,,en,1.0
 "today, July 8, 2026","today, July 8, 2026",DATE,,,en,1.0
+478 yen,478 yen,MONEY,,,en,1.0
+399 yen,399 yen,MONEY,,,en,1.0
 0.006%,0.006%,PERCENT,,,en,1.0
 200 kHz,200 kHz,QUANTITY,,,en,1.0
-0.014%,0.014%,PERCENT,,,en,1.0
 1 MHz,1 MHz,QUANTITY,,,en,1.0
-399 yen,399 yen,MONEY,,,en,1.0
 11 days earlier,11 days earlier,DATE,,,en,1.0
 `Futanari Wedding (Kari,`Futanari Wedding (Kari,WORK_OF_ART,,,en,1.0
 Sosai Girls Garden,Sosai Girls Garden,WORK_OF_ART,,,en,1.0
@@ -7121,13 +7121,13 @@ Nyuzen Town,Nyuzen Town,FAC,,,en,1.0
 Up to 60 mm,Up to 60 mm,QUANTITY,,,en,1.0
 690 yen - Challenge,690 yen - Challenge,MONEY,,,en,1.0
 Thin,Thin,PRODUCT,,,en,1.0
-1 minute,1 minute,TIME,,,en,1.0
-"over 15,000","over 15,000",CARDINAL,,,en,1.0
 National Showa Kinen Park Fireworks Festival,National Showa Kinen Park Fireworks Festival,EVENT,,,en,1.0
 Tachikawa Festival,Tachikawa Festival,EVENT,,,en,1.0
 Showa Kinen Park Fireworks Festival,Showa Kinen Park Fireworks Festival,EVENT,,,en,1.0
 "Saturday, July 25th","Saturday, July 25th",DATE,,,en,1.0
 Tachikawa Festival Showa Kinen Park Fireworks Festival,Tachikawa Festival Showa Kinen Park Fireworks Festival,EVENT,,,en,1.0
+1 minute,1 minute,TIME,,,en,1.0
+"over 15,000","over 15,000",CARDINAL,,,en,1.0
 ``Kageru Course'',``Kageru Course'',WORK_OF_ART,,,en,1.0
 "Diary of the Chief Editor"" -","Diary of the Chief Editor"" -",WORK_OF_ART,,,en,1.0
 1971,1971,DATE,,,en,1.0
@@ -7618,13 +7618,13 @@ the 11th to 6:00 p.m.,the 11th to 6:00 p.m.,TIME,,,en,1.0
 December 2025 to March 2026,December 2025 to March 2026,DATE,,,en,1.0
 1°C,1°C,MONEY,,,en,1.0
 February 25th 12:45,February 25th 12:45,DATE,,,en,1.0
-`Simmering yam grilled,`Simmering yam grilled,WORK_OF_ART,,,en,1.0
+"today, January 11th","today, January 11th",DATE,,,en,1.0
 about three and a half months,about three and a half months,CARDINAL,,,en,1.0
-``Naga yam steak with garlic and soy sauce,``Naga yam steak with garlic and soy sauce,WORK_OF_ART,,,en,1.0
+Sunday Theater,Sunday Theater,WORK_OF_ART,,,en,1.0
 about 3 and a half months,about 3 and a half months,CARDINAL,,,en,1.0
 Today (25th,Today (25th,DATE,,,en,1.0
 the morning of the 25th today,the morning of the 25th today,TIME,,,en,1.0
-"today, January 11th","today, January 11th",DATE,,,en,1.0
+`Simmering yam grilled,`Simmering yam grilled,WORK_OF_ART,,,en,1.0
 the evening of the 25th,the evening of the 25th,TIME,,,en,1.0
 More than 80 mm,More than 80 mm,QUANTITY,,,en,1.0
 24.7 meters,24.7 meters,QUANTITY,,,en,1.0
@@ -7666,7 +7666,7 @@ Widow's Bay,Widow's Bay,WORK_OF_ART,,,en,1.0
 7:40 a.m.,7:40 a.m.,TIME,,,en,1.0
 ``The Kitano Hotel Tokyo,``The Kitano Hotel Tokyo,WORK_OF_ART,,,en,1.0
 Market Share and Ranking of Global Earthquake Data Recorder Top Companies 2026,Market Share and Ranking of Global Earthquake Data Recorder Top Companies 2026,WORK_OF_ART,,,en,1.0
-Sunday Theater,Sunday Theater,WORK_OF_ART,,,en,1.0
+``Naga yam steak with garlic and soy sauce,``Naga yam steak with garlic and soy sauce,WORK_OF_ART,,,en,1.0
 8000,8000,CARDINAL,,,en,1.0
 "Tuesday, February 24, 2026","Tuesday, February 24, 2026",DATE,,,en,1.0
 1.15 million,1.15 million,CARDINAL,,,en,1.0
@@ -7911,10 +7911,10 @@ the Mommy War'',the Mommy War'',EVENT,,,en,1.0
 Darling in the Franxx,Darling in the Franxx,WORK_OF_ART,,,en,1.0
 cold weather life,cold weather life,WORK_OF_ART,,,en,1.0
 Prevention of Hallucination,Prevention of Hallucination,WORK_OF_ART,,,en,1.0
+634,634,CARDINAL,,,en,1.0
+Monday/Holiday,Monday/Holiday,DATE,,,en,1.0
 today (13th,today (13th,DATE,,,en,1.0
 13th].According,13th].According,CARDINAL,,,en,1.0
-Monday/Holiday,Monday/Holiday,DATE,,,en,1.0
-"just under 250,000 yen","just under 250,000 yen",MONEY,,,en,1.0
 "1,757 yen","1,757 yen",MONEY,,,en,1.0
 AI Anno,AI Anno,WORK_OF_ART,,,en,1.0
 NG,NG,WORK_OF_ART,,,en,1.0
@@ -7925,15 +7925,15 @@ Rosanjin's Kamado,Rosanjin's Kamado,WORK_OF_ART,,,en,1.0
 "1,585 yen","1,585 yen",MONEY,,,en,1.0
 every Tuesday,every Tuesday,DATE,,,en,1.0
 10:45pm,10:45pm,CARDINAL,,,en,1.0
+"220,000 yen","220,000 yen",MONEY,,,en,1.0
 nearly three hours,nearly three hours,TIME,,,en,1.0
 "Collaborative Disaster Training in Sugito ""Disaster Prevention DX2.0","Collaborative Disaster Training in Sugito ""Disaster Prevention DX2.0",EVENT,,,en,1.0
 Kintetsu Nara Station,Kintetsu Nara Station,FAC,,,en,1.0
 30 years'',30 years'',DATE,,,en,1.0
-634,634,CARDINAL,,,en,1.0
 fewer sunny days,fewer sunny days,DATE,,,en,1.0
 February 21st to February 27th,February 21st to February 27th,DATE,,,en,1.0
 late February to early March,late February to early March,DATE,,,en,1.0
-"220,000 yen","220,000 yen",MONEY,,,en,1.0
+"just under 250,000 yen","just under 250,000 yen",MONEY,,,en,1.0
 $1.4 billion,$1.4 billion,MONEY,,,en,1.0
 Machi Naka Art 2026 WINTER,Machi Naka Art 2026 WINTER,WORK_OF_ART,,,en,1.0
 February 22-23,February 22-23,DATE,,,en,1.0
@@ -8666,7 +8666,7 @@ Japan Championship Women's Full Text,Japan Championship Women's Full Text,EVENT,
 [6 years ago,[6 years ago,DATE,,,en,1.0
 January 2020,January 2020,DATE,,,en,1.0
 ``Convenient?,``Convenient?,WORK_OF_ART,,,en,1.0
-"89,650 yen","89,650 yen",MONEY,,,en,1.0
+"7,980 yen","7,980 yen",MONEY,,,en,1.0
 244cm,244cm,QUANTITY,,,en,1.0
 280cm,280cm,QUANTITY,,,en,1.0
 Takada,Takada,FAC,,,en,1.0
@@ -8796,8 +8796,8 @@ the 90 days,the 90 days,DATE,,,en,1.0
 yesterday 2nd,yesterday 2nd,DATE,,,en,1.0
 the Kanto region.・The,the Kanto region.・The,FAC,,,en,1.0
 lull.・Cold northerly,lull.・Cold northerly,QUANTITY,,,en,1.0
-Cat Day Bag,Cat Day Bag,WORK_OF_ART,,,en,1.0
 6 days,6 days,DATE,,,en,1.0
+Cat Day Bag,Cat Day Bag,WORK_OF_ART,,,en,1.0
 Ishiba,Ishiba,PRODUCT,,,en,1.0
 the first day of the first day of the year in 2026,the first day of the first day of the year in 2026,DATE,,,en,1.0
 Snow Moon,Snow Moon,WORK_OF_ART,,,en,1.0
@@ -8847,7 +8847,7 @@ Chainsaw Man,Chainsaw Man,WORK_OF_ART,,,en,1.0
 Jujutsu Kaisen Season 1,Jujutsu Kaisen Season 1,WORK_OF_ART,,,en,1.0
 year'',year'',DATE,,,en,1.0
 the Toyama International Conference Center,the Toyama International Conference Center,FAC,,,en,1.0
-39.77%,39.77%,PERCENT,,,en,1.0
+20.05%,20.05%,PERCENT,,,en,1.0
 `'Sendai's Commuter Train' and 'Akita's Commuter Train',`'Sendai's Commuter Train' and 'Akita's Commuter Train',WORK_OF_ART,,,en,1.0
 around 3:21 a.m.,around 3:21 a.m.,TIME,,,en,1.0
 96 kilograms,96 kilograms,QUANTITY,,,en,1.0
@@ -9031,9 +9031,9 @@ Day 2026,Day 2026,DATE,,,en,1.0
 Black BS131,Black BS131,PRODUCT,,,en,1.0
 321 days,321 days,DATE,,,en,1.0
 about 3cm,about 3cm,QUANTITY,,,en,1.0
-20.05%,20.05%,PERCENT,,,en,1.0
+39.77%,39.77%,PERCENT,,,en,1.0
 "Wednesday, February 4th","Wednesday, February 4th",DATE,,,en,1.0
-"7,980 yen","7,980 yen",MONEY,,,en,1.0
+"89,650 yen","89,650 yen",MONEY,,,en,1.0
 2026/01/29 Summer,2026/01/29 Summer,DATE,,,en,1.0
 40-75%,40-75%,PERCENT,,,en,1.0
 196,196,CARDINAL,,,en,1.0
@@ -9126,7 +9126,7 @@ the 13th year,the 13th year,DATE,,,en,1.0
 January 27,January 27,DATE,,,en,1.0
 4.5L,4.5L,CARDINAL,,,en,1.0
 5 months ago,5 months ago,DATE,,,en,1.0
-`Diversity,`Diversity,WORK_OF_ART,,,en,1.0
+``Can Good Managers Perform Good Management,``Can Good Managers Perform Good Management,WORK_OF_ART,,,en,1.0
 `Me Full Text Sports Hochi,`Me Full Text Sports Hochi,WORK_OF_ART,,,en,1.0
 Need Somebody,Need Somebody,WORK_OF_ART,,,en,1.0
 Astro,Astro,PRODUCT,,,en,1.0
@@ -9136,7 +9136,7 @@ above 110 yen,above 110 yen,MONEY,,,en,1.0
 75th,75th,ORDINAL,,,en,1.0
 Emmy Award,Emmy Award,WORK_OF_ART,,,en,1.0
 about 7 meters,about 7 meters,QUANTITY,,,en,1.0
-January 16th,January 16th,DATE,,,en,1.0
+PlayStation 5,PlayStation 5,PRODUCT,,,en,1.0
 `Yves Baron,`Yves Baron,WORK_OF_ART,,,en,1.0
 `Yves Baron'',`Yves Baron'',WORK_OF_ART,,,en,1.0
 the Guinness Book of World Records,the Guinness Book of World Records,EVENT,,,en,1.0
@@ -9156,24 +9156,24 @@ February 2nd to 10th,February 2nd to 10th,DATE,,,en,1.0
 Smile Covered Award,Smile Covered Award,WORK_OF_ART,,,en,1.0
 less than 500 yen,less than 500 yen,MONEY,,,en,1.0
 1998 to 2002,1998 to 2002,DATE,,,en,1.0
-the Great Hanshin Earthquake] Orix,the Great Hanshin Earthquake] Orix,EVENT,,,en,1.0
 Hikaru Ota,Hikaru Ota,PRODUCT,,,en,1.0
 Anti-Espionage Act,Anti-Espionage Act,LAW,,,en,1.0
 316,316,CARDINAL,,,en,1.0
+"229,780 yen","229,780 yen",MONEY,,,en,1.0
 approximately 96.5 kg,approximately 96.5 kg,QUANTITY,,,en,1.0
-Agent Teams,Agent Teams,WORK_OF_ART,,,en,1.0
+January 16th,January 16th,DATE,,,en,1.0
 "120,000","120,000",CARDINAL,,,en,1.0
-Hyaluronic Layer Soothing Ampoule,Hyaluronic Layer Soothing Ampoule,PRODUCT,,,en,1.0
+Wonder Festival,Wonder Festival,EVENT,,,en,1.0
 Adelaide First Day ◇ 12th,Adelaide First Day ◇ 12th,EVENT,,,en,1.0
 7071 yards,7071 yards,QUANTITY,,,en,1.0
 LIV Golf,LIV Golf,EVENT,,,en,1.0
-ITFU,ITFU,PRODUCT,,,en,1.0
 more than 2000 years old,more than 2000 years old,DATE,,,en,1.0
-Greek,Greek,NORP,,,en,1.0
 Koharu Shimoe,Koharu Shimoe,WORK_OF_ART,,,en,1.0
-PlayStation 5,PlayStation 5,PRODUCT,,,en,1.0
 "tomorrow, February 13th","tomorrow, February 13th",DATE,,,en,1.0
-Wonder Festival,Wonder Festival,EVENT,,,en,1.0
+ITFU,ITFU,PRODUCT,,,en,1.0
+Android Transfer,Android Transfer,PRODUCT,,,en,1.0
+Greek,Greek,NORP,,,en,1.0
+Hyaluronic Layer Soothing Ampoule,Hyaluronic Layer Soothing Ampoule,PRODUCT,,,en,1.0
 Tokaido,Tokaido,NORP,,,en,1.0
 35m/s,35m/s,QUANTITY,,,en,1.0
 Showa Station,Showa Station,FAC,,,en,1.0
@@ -9193,11 +9193,11 @@ Minou,Minou,WORK_OF_ART,,,en,1.0
 6362 yards,6362 yards,QUANTITY,,,en,1.0
 Milano Olympics,Milano Olympics,EVENT,,,en,1.0
 age 48,age 48,DATE,,,en,1.0
-Android Transfer,Android Transfer,PRODUCT,,,en,1.0
+Agent Teams,Agent Teams,WORK_OF_ART,,,en,1.0
 `We want to maintain the price,`We want to maintain the price,WORK_OF_ART,,,en,1.0
-"229,780 yen","229,780 yen",MONEY,,,en,1.0
 "1,337","1,337",CARDINAL,,,en,1.0
 ``Razer Boomslang 20th Anniversary Edition,``Razer Boomslang 20th Anniversary Edition,PRODUCT,,,en,1.0
+his third year,his third year,DATE,,,en,1.0
 "the 17th, 31 years","the 17th, 31 years",DATE,,,en,1.0
 "December 24, 2025 to January 5, 2026","December 24, 2025 to January 5, 2026",DATE,,,en,1.0
 "1,054","1,054",CARDINAL,,,en,1.0
@@ -9206,7 +9206,7 @@ Nanohata Road 2026,Nanohata Road 2026,FAC,,,en,1.0
 Ashigaike Agricultural Park,Ashigaike Agricultural Park,FAC,,,en,1.0
 "6,434","6,434",CARDINAL,,,en,1.0
 "about 1,200m","about 1,200m",QUANTITY,,,en,1.0
-1998 to 2003,1998 to 2003,DATE,,,en,1.0
+the Great Hanshin Earthquake] Orix,the Great Hanshin Earthquake] Orix,EVENT,,,en,1.0
 only 5 mm,only 5 mm,QUANTITY,,,en,1.0
 only 5.0 mm,only 5.0 mm,QUANTITY,,,en,1.0
 56.5 mm,56.5 mm,QUANTITY,,,en,1.0
@@ -9236,12 +9236,12 @@ JR Gobo Station,JR Gobo Station,FAC,,,en,1.0
 The second half ended,The second half ended,DATE,,,en,1.0
 Azan,Azan,WORK_OF_ART,,,en,1.0
 eternal summer,eternal summer,DATE,,,en,1.0
+1998 to 2003,1998 to 2003,DATE,,,en,1.0
 "November 28, 2024","November 28, 2024",DATE,,,en,1.0
 the age of 48,the age of 48,DATE,,,en,1.0
 the Middle Ages,the Middle Ages,DATE,,,en,1.0
 Kodansha,Kodansha,NORP,0.0,0.0,en,1.0
 `Rereading Japanese History,`Rereading Japanese History,WORK_OF_ART,,,en,1.0
-his third year,his third year,DATE,,,en,1.0
 3 minutes,3 minutes,TIME,,,en,1.0
 the past six months or so,the past six months or so,DATE,,,en,1.0
 Leica M7,Leica M7,PRODUCT,,,en,1.0
@@ -9407,7 +9407,7 @@ about 8 hours,about 8 hours,TIME,,,en,1.0
 about five years,about five years,DATE,,,en,1.0
 19 minutes,19 minutes,TIME,,,en,1.0
 598,598,CARDINAL,,,en,1.0
-``Can Good Managers Perform Good Management,``Can Good Managers Perform Good Management,WORK_OF_ART,,,en,1.0
+six consecutive years,six consecutive years,DATE,,,en,1.0
 10 centimeters,10 centimeters,QUANTITY,,,en,1.0
 Henrida Original Character Sports Festival Class 1A Misaki,Henrida Original Character Sports Festival Class 1A Misaki,WORK_OF_ART,,,en,1.0
 tournament/7th,tournament/7th,FAC,,,en,1.0
@@ -9513,7 +9513,7 @@ Oisix,Oisix,NORP,,,en,1.0
 the summer of 1985,the summer of 1985,DATE,,,en,1.0
 the age of 58,the age of 58,DATE,,,en,1.0
 Aiyanai Interchange,Aiyanai Interchange,FAC,,,en,1.0
-six consecutive years,six consecutive years,DATE,,,en,1.0
+`Diversity,`Diversity,WORK_OF_ART,,,en,1.0
 "3,999 yen - Challenge","3,999 yen - Challenge",MONEY,,,en,1.0
 6L,6L,CARDINAL,,,en,1.0
 Chuoko Shinsho Rakure 858,Chuoko Shinsho Rakure 858,PRODUCT,,,en,1.0
@@ -10015,12 +10015,12 @@ the 26th year,the 26th year,DATE,,,en,1.0
 2023-2025,2023-2025,DATE,,,en,1.0
 `Excellent Tumbler'',`Excellent Tumbler'',WORK_OF_ART,,,en,1.0
 Sanriku Railway,Sanriku Railway,FAC,,,en,1.0
-"over 100,000","over 100,000",CARDINAL,,,en,1.0
+This past week,This past week,DATE,,,en,1.0
 "2,388 yen","2,388 yen",MONEY,,,en,1.0
 "1,910 Yen","1,910 Yen",MONEY,,,en,1.0
 "April 20, 2026) Impressions","April 20, 2026) Impressions",DATE,,,en,1.0
+"over 100,000","over 100,000",CARDINAL,,,en,1.0
 "2,443","2,443",CARDINAL,,,en,1.0
-This past week,This past week,DATE,,,en,1.0
 1928-2026/4,1928-2026/4,DATE,,,en,1.0
 320 yen,320 yen,MONEY,,,en,1.0
 ``Fruit Taste Jelly - Domestic Apple'',``Fruit Taste Jelly - Domestic Apple'',WORK_OF_ART,,,en,1.0
@@ -10279,8 +10279,8 @@ the turn of the day,the turn of the day,DATE,,,en,1.0
 5pm on the 8th,5pm on the 8th,TIME,,,en,1.0
 the sweaty season,the sweaty season,DATE,,,en,1.0
 about two years ago,about two years ago,DATE,,,en,1.0
-World Media Festival 2026'',World Media Festival 2026'',EVENT,,,en,1.0
 about 250 million years ago,about 250 million years ago,DATE,,,en,1.0
+About 250 million years ago,About 250 million years ago,DATE,,,en,1.0
 the Banetsu Expressway,the Banetsu Expressway,FAC,,,en,1.0
 The Mystery of the Key,The Mystery of the Key,WORK_OF_ART,,,en,1.0
 3.8%,3.8%,PERCENT,,,en,1.0
@@ -10322,7 +10322,7 @@ Basketball King May 9th 13:10,Basketball King May 9th 13:10,WORK_OF_ART,,,en,1.0
 Quarterfinals,Quarterfinals,WORK_OF_ART,,,en,1.0
 Game 1 of,Game 1 of,LAW,,,en,1.0
 "December 21, 1946","December 21, 1946",DATE,,,en,1.0
-About 250 million years ago,About 250 million years ago,DATE,,,en,1.0
+World Media Festival 2026'',World Media Festival 2026'',EVENT,,,en,1.0
 ``The Angel Next Door Turned Me into a No-Good Person Before I Know'',``The Angel Next Door Turned Me into a No-Good Person Before I Know'',WORK_OF_ART,,,en,1.0
 Baseball Club-chan,Baseball Club-chan,WORK_OF_ART,,,en,1.0
 "30mL 2,300 yen","30mL 2,300 yen",MONEY,,,en,1.0
@@ -10600,10 +10600,10 @@ fewer than nine,fewer than nine,CARDINAL,,,en,1.0
 ``G Killer'',``G Killer'',WORK_OF_ART,,,en,1.0
 the Chevron Championship,the Chevron Championship,EVENT,,,en,1.0
 10:57 pm,10:57 pm,TIME,,,en,1.0
-Colema,Colema,WORK_OF_ART,,,en,1.0
 Fried Shiitake Mushrooms',Fried Shiitake Mushrooms',WORK_OF_ART,,,en,1.0
 Spicy Shiitake,Spicy Shiitake,WORK_OF_ART,,,en,1.0
 September to November,September to November,DATE,,,en,1.0
+Colema,Colema,WORK_OF_ART,,,en,1.0
 "April 28, 2026","April 28, 2026",DATE,,,en,1.0
 the age of 73,the age of 73,DATE,,,en,1.0
 Only spring and autumn,Only spring and autumn,DATE,,,en,1.0
@@ -10730,11 +10730,11 @@ every month this year,every month this year,DATE,,,en,1.0
 2024.Full,2024.Full,CARDINAL,,,en,1.0
 | Typhoon,| Typhoon,DATE,,,en,1.0
 [Beware of typhoons in May],[Beware of typhoons in May],WORK_OF_ART,,,en,1.0
+Meijin Tournament,Meijin Tournament,EVENT,,,en,1.0
+84th,84th,ORDINAL,,,en,1.0
 about 2 degrees Celsius,about 2 degrees Celsius,QUANTITY,,,en,1.0
 about 2 degrees colder,about 2 degrees colder,QUANTITY,,,en,1.0
 Ita Cold Stick,Ita Cold Stick,WORK_OF_ART,,,en,1.0
-Meijin Tournament,Meijin Tournament,EVENT,,,en,1.0
-84th,84th,ORDINAL,,,en,1.0
 Tiramisu,Tiramisu,WORK_OF_ART,,,en,1.0
 around 7:06 p.m.,around 7:06 p.m.,TIME,,,en,1.0
 around 7:06 pm,around 7:06 pm,TIME,,,en,1.0
@@ -10891,8 +10891,8 @@ the 16th day,the 16th day,DATE,,,en,1.0
 117th,117th,ORDINAL,,,en,1.0
 117/Week,117/Week,DATE,,,en,1.0
 The next morning,The next morning,TIME,,,en,1.0
-2026/1/6,2026/1/6,CARDINAL,,,en,1.0
 12:00 p.m.,12:00 p.m.,TIME,,,en,1.0
+2026/1/6,2026/1/6,CARDINAL,,,en,1.0
 Oscars,Oscars,PRODUCT,,,en,1.0
 over 5,over 5,CARDINAL,,,en,1.0
 3/17,3/17,CARDINAL,,,en,1.0
@@ -11191,11 +11191,11 @@ around 1:15 p.m.,around 1:15 p.m.,TIME,,,en,1.0
 Yusho 2034,Yusho 2034,WORK_OF_ART,,,en,1.0
 54.1%,54.1%,PERCENT,,,en,1.0
 Wednesday the 11th,Wednesday the 11th,DATE,,,en,1.0
+"the night of the 10th, ahead of the 15th anniversary of the","the night of the 10th, ahead of the 15th anniversary of the",TIME,,,en,1.0
 the Great East Japan Earthquake: Memorial,the Great East Japan Earthquake: Memorial,EVENT,,,en,1.0
 "Tomorrow, March 11th, 15 years","Tomorrow, March 11th, 15 years",DATE,,,en,1.0
 the Great East Japan Earthquake Memorial,the Great East Japan Earthquake Memorial,EVENT,,,en,1.0
 "Tsunami Memorial Ceremony"" - Miyagi Prefecture","Tsunami Memorial Ceremony"" - Miyagi Prefecture",EVENT,,,en,1.0
-[Iwate Prefecture] Memorial Ceremony ▼ Great East Japan Earthquake Tsunami Memorial Ceremony ▽ Date and time,[Iwate Prefecture] Memorial Ceremony ▼ Great East Japan Earthquake Tsunami Memorial Ceremony ▽ Date and time,WORK_OF_ART,,,en,1.0
 March 1 of this year,March 1 of this year,DATE,,,en,1.0
 2:46 pm,2:46 pm,TIME,,,en,1.0
 52 minutes,52 minutes,TIME,,,en,1.0
@@ -11213,8 +11213,8 @@ Love Power Kingdom 2,Love Power Kingdom 2,WORK_OF_ART,,,en,1.0
 around 3:28 pm,around 3:28 pm,TIME,,,en,1.0
 New Year Collection,New Year Collection,EVENT,,,en,1.0
 the 2026 New Year,the 2026 New Year,EVENT,,,en,1.0
+[Iwate Prefecture] Memorial Ceremony ▼ Great East Japan Earthquake Tsunami Memorial Ceremony ▽ Date and time,[Iwate Prefecture] Memorial Ceremony ▼ Great East Japan Earthquake Tsunami Memorial Ceremony ▽ Date and time,WORK_OF_ART,,,en,1.0
 March 10,March 10,DATE,,,en,1.0
-"the night of the 10th, ahead of the 15th anniversary of the","the night of the 10th, ahead of the 15th anniversary of the",TIME,,,en,1.0
 363 yen,363 yen,MONEY,,,en,1.0
 15:15,15:15,TIME,,,en,1.0
 2026-03-11,2026-03-11,DATE,,,en,1.0
@@ -11614,8 +11614,6 @@ a hundred years,a hundred years,DATE,,,en,1.0
 899,899,CARDINAL,,,en,1.0
 2026/04/14,2026/04/14,CARDINAL,,,en,1.0
 "2026.April 14, 2026","2026.April 14, 2026",DATE,,,en,1.0
-"Friday, April 17, 2020","Friday, April 17, 2020",DATE,,,en,1.0
-"the Kumamoto Earthquake ""Disaster Prevention Panel Exhibition","the Kumamoto Earthquake ""Disaster Prevention Panel Exhibition",EVENT,,,en,1.0
 "Thursday, April 16, 2020","Thursday, April 16, 2020",DATE,,,en,1.0
 the Soseki Sanbo Memorial Museum,the Soseki Sanbo Memorial Museum,FAC,,,en,1.0
 10 Years,10 Years,DATE,,,en,1.0
@@ -11623,9 +11621,11 @@ the Soseki Sanbo Memorial Museum,the Soseki Sanbo Memorial Museum,FAC,,,en,1.0
 the Kumamoto Earthquake - Panel Exhibition & Product Exhibition,the Kumamoto Earthquake - Panel Exhibition & Product Exhibition,EVENT,,,en,1.0
 April 16th and 17th,April 16th and 17th,DATE,,,en,1.0
 the Kumamoto Earthquake-Panel Exhibition & Product Exhibition,the Kumamoto Earthquake-Panel Exhibition & Product Exhibition,EVENT,,,en,1.0
-September 2025 to March 2026,September 2025 to March 2026,DATE,,,en,1.0
+"Friday, April 17, 2020","Friday, April 17, 2020",DATE,,,en,1.0
+"the Kumamoto Earthquake ""Disaster Prevention Panel Exhibition","the Kumamoto Earthquake ""Disaster Prevention Panel Exhibition",EVENT,,,en,1.0
 about 28 hours later,about 28 hours later,TIME,,,en,1.0
 around 9:26 p.m.,around 9:26 p.m.,TIME,,,en,1.0
+September 2025 to March 2026,September 2025 to March 2026,DATE,,,en,1.0
 73,73,DATE,,,en,1.0
 "6,348 yen","6,348 yen",MONEY,,,en,1.0
 around 12 degrees Celsius,around 12 degrees Celsius,QUANTITY,,,en,1.0
@@ -11668,7 +11668,7 @@ Up to 56%,Up to 56%,PERCENT,,,en,1.0
 "Saturday, April 18th","Saturday, April 18th",DATE,,,en,1.0
 only a quarter,only a quarter,CARDINAL,,,en,1.0
 Ghalibaf,Ghalibaf,WORK_OF_ART,,,en,1.0
-14.29 million square kilometers,14.29 million square kilometers,QUANTITY,,,en,1.0
+the next two to three weeks,the next two to three weeks,DATE,,,en,1.0
 Nightingale of the Meiji Era,Nightingale of the Meiji Era,WORK_OF_ART,,,en,1.0
 `At the Sankakuya Crossing'',`At the Sankakuya Crossing'',WORK_OF_ART,,,en,1.0
 the TEPCO Fukushima Daiichi Nuclear Disaster,the TEPCO Fukushima Daiichi Nuclear Disaster,FAC,,,en,1.0
@@ -11682,10 +11682,10 @@ the Kindle New Life Fair,the Kindle New Life Fair,FAC,,,en,1.0
 ``The Hated Director'',``The Hated Director'',WORK_OF_ART,,,en,1.0
 `Kindle Book New Life Fair Part,`Kindle Book New Life Fair Part,WORK_OF_ART,,,en,1.0
 "April 6, 2026","April 6, 2026",DATE,,,en,1.0
-the next two to three weeks,the next two to three weeks,DATE,,,en,1.0
 Operation Epic Fury,Operation Epic Fury,EVENT,,,en,1.0
 ``Kawasaki City Seven Lucky Gods Tour',``Kawasaki City Seven Lucky Gods Tour',PRODUCT,,,en,1.0
 Crosshole,Crosshole,PRODUCT,,,en,1.0
+14.29 million square kilometers,14.29 million square kilometers,QUANTITY,,,en,1.0
 a potential $100 billion,a potential $100 billion,MONEY,,,en,1.0
 $2 million,$2 million,MONEY,,,en,1.0
 more than 360%,more than 360%,PERCENT,,,en,1.0
@@ -11735,8 +11735,8 @@ the warm season,the warm season,DATE,,,en,1.0
 "May 8, 2022","May 8, 2022",DATE,,,en,1.0
 "May 14, 2022","May 14, 2022",DATE,,,en,1.0
 three weeks,three weeks,DATE,,,en,1.0
+Sweet and Spicy Chicken Steak,Sweet and Spicy Chicken Steak,WORK_OF_ART,,,en,1.0
 `Goethe Said Everything,`Goethe Said Everything,WORK_OF_ART,,,en,1.0
-the Akutagawa Prize,the Akutagawa Prize,WORK_OF_ART,,,en,1.0
 193.95,193.95,CARDINAL,,,en,1.0
 Roadside Station,Roadside Station,FAC,,,en,1.0
 Ikaho Onsen Yamba Dam,Ikaho Onsen Yamba Dam,FAC,,,en,1.0
@@ -11745,7 +11745,7 @@ the fall of 10 years ago,the fall of 10 years ago,DATE,,,en,1.0
 160.45 yen,160.45 yen,MONEY,,,en,1.0
 22.53 million,22.53 million,CARDINAL,,,en,1.0
 more than two-thirds,more than two-thirds,CARDINAL,,,en,1.0
-``Dialogue Fukushima'',``Dialogue Fukushima'',WORK_OF_ART,,,en,1.0
+the Akutagawa Prize,the Akutagawa Prize,WORK_OF_ART,,,en,1.0
 67.73,67.73,CARDINAL,,,en,1.0
 77.23 million,77.23 million,CARDINAL,,,en,1.0
 Viability before Sustainability,Viability before Sustainability,WORK_OF_ART,,,en,1.0
@@ -11773,7 +11773,7 @@ Typ 240,Typ 240,FAC,,,en,1.0
 Mor,Mor,NORP,,,en,1.0
 7:48,7:48,TIME,,,en,1.0
 the Toyohashi Live,the Toyohashi Live,FAC,,,en,1.0
-Sweet and Spicy Chicken Steak,Sweet and Spicy Chicken Steak,WORK_OF_ART,,,en,1.0
+``Dialogue Fukushima'',``Dialogue Fukushima'',WORK_OF_ART,,,en,1.0
 June 2000,June 2000,DATE,,,en,1.0
 the second night,the second night,TIME,,,en,1.0
 [10 years,[10 years,DATE,,,en,1.0

@@ -617,8 +617,8 @@ Kenji Yamazaki,Kenji Yamazaki,PERSON,0.7575757575757575,1.3636363636363635,en,1.
 Sayaka Murata,Sayaka Murata,PERSON,-0.1212121212121212,0.4848484848484848,en,1.1
 Aso En,Aso En,PERSON,-0.36363636363636365,0.6666666666666666,en,1.1
 Eisuke Kohinata,Eisuke Kohinata,PERSON,0.0,0.0,en,1.1
-Shinichi Tsutsumi,Shinichi Tsutsumi,PERSON,0.09090909090909091,0.6363636363636362,en,1.1
 Yamada Yuki,Yamada Yuki,PERSON,-0.18181818181818182,0.2727272727272727,en,1.1
+Shinichi Tsutsumi,Shinichi Tsutsumi,PERSON,0.09090909090909091,0.6363636363636362,en,1.1
 Kaho Miyake,Kaho Miyake,PERSON,0.18319559228650137,0.35812672176308535,en,1.1
 Sanoyama Okata,Sanoyama Okata,PERSON,0.22727272727272727,0.22727272727272727,en,1.1
 Kobunsha Amazon Kindle,Kobunsha Amazon Kindle,PERSON,0.45454545454545453,0.45454545454545453,en,1.1
@@ -1985,8 +1985,8 @@ story→Typhoon+earthquake+tsunami warning・time,story→Typhoon+earthquake+tsu
 evove BW109 - Compact,evove BW109 - Compact,PERSON,0.4,0.8,en,1.0
 Yoshiko Koteda,Yoshiko Koteda,PERSON,0.19999999999999998,0.358974358974359,en,1.0
 Yohiro Yoshikawa,Yohiro Yoshikawa,PERSON,0.16,0.5399999999999999,en,1.0
-Nobuhiro Ishizaki,Nobuhiro Ishizaki,PERSON,-0.0625,0.1875,en,1.0
 Nobuhiro Ishi,Nobuhiro Ishi,PERSON,-0.0625,0.1875,en,1.0
+Nobuhiro Ishizaki,Nobuhiro Ishizaki,PERSON,-0.0625,0.1875,en,1.0
 Tomomi Inada,Tomomi Inada,PERSON,0.0,0.0,en,1.0
 Wanderly YS001 - One,Wanderly YS001 - One,PERSON,0.0,0.0,en,1.0
 Fumiyuki Nakanishi,Fumiyuki Nakanishi,PERSON,0.1,0.7,en,1.0
@@ -2112,8 +2112,8 @@ Sakuyama Choco Jiro,Sakuyama Choco Jiro,PERSON,0.15000000000000002,0.825,en,1.0
 Doraemon the Movie,Doraemon the Movie,PERSON,0.15000000000000002,0.825,en,1.0
 Tiborang Grace,Tiborang Grace,PERSON,0.0,0.4,en,1.0
 Hideki Noda,Hideki Noda,PERSON,0.21428571428571427,0.45714285714285713,en,1.0
-Katsumi Yamazaki,Katsumi Yamazaki,PERSON,0.0,0.125,en,1.0
 Hanshin Bullpen,Hanshin Bullpen,PERSON,0.8,0.75,en,1.0
+Katsumi Yamazaki,Katsumi Yamazaki,PERSON,0.0,0.125,en,1.0
 Kishua Zelretch,Kishua Zelretch,PERSON,-0.2,0.4,en,1.0
 Hokuriku Direct,Hokuriku Direct,PERSON,0.1,0.4,en,1.0
 JR West,JR West,PERSON,0.1,0.4,en,1.0
@@ -2595,7 +2595,7 @@ Xiaomi 17 Ultra,Xiaomi 17 Ultra,PERSON,0.35,0.65,en,1.0
 Eiko Machida,Eiko Machida,PERSON,0.06666666666666667,0.3666666666666667,en,1.0
 Niagara Falls,Niagara Falls,PERSON,-0.25,0.4,en,1.0
 Iekei Sohonzan Yoshimura,Iekei Sohonzan Yoshimura,PERSON,-0.07142857142857142,0.14285714285714285,en,1.0
-Setsuko Ara,Setsuko Ara,PERSON,0.0,0.0,en,1.0
+Rereading ``Human History of Violence,Rereading ``Human History of Violence,PERSON,0.0,0.1,en,1.0
 Kisui Takahiro,Kisui Takahiro,PERSON,0.125,0.16666666666666666,en,1.0
 Takumi Shimada,Takumi Shimada,PERSON,0.0,0.0,en,1.0
 Ryunosuke Sugawara,Ryunosuke Sugawara,PERSON,0.0,0.0,en,1.0
@@ -2707,7 +2707,7 @@ Eiko Maeda,Eiko Maeda,PERSON,-0.08333333333333333,0.2833333333333333,en,1.0
 Nirareba Tei,Nirareba Tei,PERSON,-0.9,1.0,en,1.0
 Asagaya Tekute,Asagaya Tekute,PERSON,-0.05,0.75,en,1.0
 Santouka Taneda,Santouka Taneda,PERSON,0.4,0.7625,en,1.0
-Rereading ``Human History of Violence,Rereading ``Human History of Violence,PERSON,0.0,0.1,en,1.0
+Setsuko Ara,Setsuko Ara,PERSON,0.0,0.0,en,1.0
 Awich x iri,Awich x iri,PERSON,0.41071428571428575,0.6404761904761904,en,1.0
 Minoh Satsukian,Minoh Satsukian,PERSON,0.25,0.3333333333333333,en,1.0
 Yoshihide Muroya,Yoshihide Muroya,PERSON,0.0,0.0,en,1.0
@@ -2842,17 +2842,17 @@ Machiko Takahashi,Machiko Takahashi,PERSON,0.0,0.0,en,1.0
 Natsuka Kuze,Natsuka Kuze,PERSON,0.35,0.55,en,1.0
 Miyu Sato,Miyu Sato,PERSON,0.02777777777777778,0.4166666666666667,en,1.0
 Moyu Yamada,Moyu Yamada,PERSON,0.02777777777777778,0.4166666666666667,en,1.0
-Takeshi Nakamichi,Takeshi Nakamichi,PERSON,0.8,0.75,en,1.0
+Itsunori Onodera,Itsunori Onodera,PERSON,0.0,0.0,en,1.0
 Yohei Matsumoto,Yohei Matsumoto,PERSON,0.35,0.25,en,1.0
 Hitoshi Sato,Hitoshi Sato,PERSON,0.5333333333333333,0.5,en,1.0
 Sato Basketball King,Sato Basketball King,PERSON,0.35,0.55,en,1.0
 Makoto Otake,Makoto Otake,PERSON,0.0,0.0,en,1.0
 Mo Musume,Mo Musume,PERSON,0.0,0.0,en,1.0
 Hidekatsu Yoshii,Hidekatsu Yoshii,PERSON,0.4,0.375,en,1.0
-Takeshi Kai,Takeshi Kai,PERSON,0.05000000000000002,0.5,en,1.0
-YOIIYO BW111,YOIIYO BW111,PERSON,0.4,0.8,en,1.0
-Itsunori Onodera,Itsunori Onodera,PERSON,0.0,0.0,en,1.0
 Goten Onodera,Goten Onodera,PERSON,0.0,0.0,en,1.0
+YOIIYO BW111,YOIIYO BW111,PERSON,0.4,0.8,en,1.0
+Takeshi Nakamichi,Takeshi Nakamichi,PERSON,0.8,0.75,en,1.0
+Takeshi Kai,Takeshi Kai,PERSON,0.05000000000000002,0.5,en,1.0
 Junnosuke Oikawa,Junnosuke Oikawa,PERSON,0.0,0.0,en,1.0
 [Nekuhiro News],[Nekuhiro News],PERSON,0.5,0.75,en,1.0
 Nekuhiro Opening Round Starts,Nekuhiro Opening Round Starts,PERSON,-0.1,0.23333333333333334,en,1.0
