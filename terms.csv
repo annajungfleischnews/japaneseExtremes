@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.9613525690349938,14,3,ja,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,なだれ,2026-09-10T07:28:00+00:00,,0.9722400686797447,15,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5613975672870799,2,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
@@ -26,11 +26,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,暴風雨,2026-08-16T03:27:00+00:00,,0.4535567694207165,1,3,ja,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,砂嵐,2026-08-25T03:27:00+00:00,,0.4469277348781433,1,2,ja,,
 'a7023086f2',extremes,Earthquake,#870007,usgs,石垣島地震,2026-08-31T08:51:00+00:00,Japan,0.4431224267745643,2,1,ja,EAS,Asia
-'657d049939',extremes,Earthquake,#870007,usgs,地震平,2026-08-25T03:27:00+00:00,Japan,0.4406616623582466,4,2,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.4392024151247446,1,2,ja,,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-09-01T07:57:00+00:00,Japan,0.4368026993843489,2,2,ja,EAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-08-21T03:30:00+00:00,,0.433648795578595,1,3,ja,,
-'01b5d79fb9',extremes,Earthquake,#870007,usgs,野田地震,2026-08-26T03:33:00+00:00,Japan,0.4314306759898507,2,1,ja,EAS,Asia
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-08-27T13:00:00+00:00,,0.430959625105886,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-09-02T07:16:00+00:00,,0.4306865660049654,2,2,ja,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-09-06T07:16:00+00:00,,0.4286699658176711,1,2,ja,,
@@ -40,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-08-26T03:33:00+00:00,,0.4161140968289943,1,2,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-09-01T07:57:00+00:00,,0.4093614935621046,1,3,ja,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-09-11T07:26:00+00:00,,0.4060614692015957,1,2,ja,,
-'52af874334',extremes,Drought,#edc291,random,乾燥,2026-08-12T04:22:00+00:00,,0.4048007349080668,1,3,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-09-01T07:57:00+00:00,,0.4042240309203328,2,1,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-08-28T14:31:00+00:00,,0.4016609513165604,1,2,ja,,
 '69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-09-03T07:20:00+00:00,,0.4010971754796345,1,2,ja,,
