@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.5613975672870799,2,2,ja,EAS,Asia
+'22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.6301882321940179,3,2,ja,EAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
 '2fdeaffad3',extremes,Earthquake,#870007,usgs,いわき地震,2026-09-11T07:27:00+00:00,Japan,0.552942800179528,3,3,ja,EAS,Asia
@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29f31fa479',extremes,Earthquake,#870007,usgs,地震くじ,2026-08-29T09:18:00+00:00,Japan,0.5115049460752832,2,3,ja,EAS,Asia
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン ローウェル,2026-09-02T07:16:00+00:00,,0.5069797088053113,2,2,ja,NPO,Pacific Ocean
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-09-03T07:20:00+00:00,,0.506272396473408,2,3,ja,,
-'62d6d04c7b',extremes,Earthquake,#870007,usgs,大船渡地震,2026-08-28T14:31:00+00:00,Japan,0.5049537794932109,3,1,ja,EAS,Asia
 '79bf322d89',extremes,Earthquake,#870007,usgs,地震うき,2026-08-17T03:28:00+00:00,Japan,0.5027430269146761,2,3,ja,EAS,Asia
 '09027d828e',extremes,Earthquake,#870007,usgs,多良間地震,2026-08-28T14:31:00+00:00,Japan,0.4884189305576346,2,2,ja,EAS,Asia
 '28be44c1e2',extremes,Earthquake,#870007,usgs,和田地震,2026-09-09T07:32:00+00:00,Japan,0.4847966003111966,5,1,ja,NPO,Pacific Ocean
@@ -44,12 +43,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.3566901919611374,2,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,氷山の分娩,2026-08-30T08:29:00+00:00,,0.2757245987696461,2,1,ja,,
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン カリーナ,2026-08-31T08:51:00+00:00,,0.2701972046121669,1,1,ja,NPO,Pacific Ocean
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2473110024963712,2,1,ja,,
-'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧エタウ,2026-08-31T08:51:00+00:00,,0.2298681502608158,2,1,ja,NPO,Pacific Ocean
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン マリー,2026-09-04T07:23:00+00:00,,0.2297075416015751,2,1,ja,NPO,Pacific Ocean
-'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧ローウェル,2026-08-31T08:51:00+00:00,,0.2296266861108309,2,1,ja,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,オーストラリアの雷雨,2026-09-01T07:58:00+00:00,Australia,0.2288236060010924,2,1,ja,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.2286512635527305,2,1,ja,,
