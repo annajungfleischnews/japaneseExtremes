@@ -2,13 +2,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.6301882321940179,3,2,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.6200694886819362,3,2,ja,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.5537719086158157,2,3,ja,,
-'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,ハリケーン,2026-08-20T03:26:00+00:00,,0.5529959305063664,2,2,ja,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.5450572236213407,2,3,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-09-01T07:57:00+00:00,,0.5336836457091733,2,2,ja,,
 'd8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-08-31T08:51:00+00:00,Japan,0.5305371553228931,2,3,ja,EAS,Asia
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-08-30T08:30:00+00:00,Japan,0.5167164525033912,3,3,ja,EAS,Asia
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,ハリケーン ローウェル,2026-09-02T07:16:00+00:00,,0.5069797088053113,2,2,ja,NPO,Pacific Ocean
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-09-03T07:20:00+00:00,,0.506272396473408,2,3,ja,,
+'0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-08-26T03:33:00+00:00,,0.5050471173046451,2,2,ja,,
 '79bf322d89',extremes,Earthquake,#870007,usgs,地震うき,2026-08-17T03:28:00+00:00,Japan,0.5027430269146761,2,3,ja,EAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,竜巻,2026-08-21T03:30:00+00:00,,0.5024866038505014,2,3,ja,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,爆弾低気圧,2026-08-28T14:31:00+00:00,,0.4917118386190763,2,2,ja,,
@@ -24,18 +24,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-08-27T13:00:00+00:00,,0.430959625105886,1,3,ja,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-09-02T07:16:00+00:00,,0.4306865660049654,2,2,ja,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-09-06T07:16:00+00:00,,0.4286699658176711,1,2,ja,,
-'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧バンラン,2026-08-31T08:51:00+00:00,,0.4195621382757997,1,2,ja,NPO,Pacific Ocean
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-09-05T07:04:00+00:00,,0.4175580205621205,1,3,ja,,
 '142141a787',extremes,Earthquake,#870007,usgs,波崎地震,2026-08-30T08:29:00+00:00,Japan,0.4164972120761105,2,1,ja,EAS,Asia
-'0d261f252d',extremes,Storm,#b3b2b1,random,冬の強風,2026-08-26T03:33:00+00:00,,0.4161140968289943,1,2,ja,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,大気中の河川,2026-09-01T07:57:00+00:00,,0.4093614935621046,1,3,ja,,
-'135f8534c2',extremes,Precipitation,#d60d2b,random,より多くの降水量,2026-08-26T03:33:00+00:00,,0.4080775122661731,3,2,ja,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,サイクロン,2026-09-01T07:57:00+00:00,,0.4042240309203328,2,1,ja,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,寒波,2026-08-29T09:18:00+00:00,,0.3948618964422319,1,2,ja,,
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,土砂降り,2026-08-15T03:13:00+00:00,,0.3859280026744147,1,3,ja,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.3733221278560329,2,1,ja,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,南極の氷山,2026-08-30T08:29:00+00:00,,0.3566901919611374,2,1,ja,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-09-11T07:26:00+00:00,,0.34515230882135634,2,1,ja,,
+'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,熱帯低気圧バンラン,2026-08-31T08:51:00+00:00,,0.35662781753442974,2,1,ja,NPO,Pacific Ocean
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-09-11T07:26:00+00:00,,0.3451523088213563,2,1,ja,,
 '69791e5a17',extremes,Flood,#030ba1,random,鉄砲水,2026-09-03T07:20:00+00:00,,0.3409327491576893,2,1,ja,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,ja,,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
