@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.7387116095161878,5,3,ja,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,みぞれ,2026-08-26T03:33:00+00:00,,0.7828615130887595,6,3,ja,,
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.6894103723649152,4,3,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.6200694886819362,3,2,ja,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.5450572236213407,2,3,ja,,
@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fdeaffad3',extremes,Earthquake,#870007,usgs,いわき地震,2026-09-11T07:27:00+00:00,Japan,0.4700019651525988,4,2,ja,EAS,Asia
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-09-02T07:16:00+00:00,Japan,0.4646885823615399,2,2,ja,EAS,Asia
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-09-01T07:57:00+00:00,Japan,0.4368026993843489,2,2,ja,EAS,Asia
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,バッタ,2026-09-02T07:16:00+00:00,,0.4306865660049654,2,2,ja,,
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-09-03T07:20:00+00:00,,0.4303321670023968,3,2,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-08-29T09:19:00+00:00,Japan,0.411742542323464,2,2,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.3733221278560329,2,1,ja,,
@@ -30,5 +29,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2473110024963712,2,1,ja,,
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.24157968999510357,3,1,ja,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2415796899951035,3,1,ja,,
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.2286512635527305,2,1,ja,,
