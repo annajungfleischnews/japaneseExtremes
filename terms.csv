@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '22e2ffd58a',extremes,Drought,#edc291,edo,日本の雨不足,2026-08-27T13:00:00+00:00,Japan,0.6894103723649152,4,3,ja,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,蒸発散量,2026-08-28T14:31:00+00:00,,0.6200694886819362,3,2,ja,,
+'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-08-31T08:51:00+00:00,Japan,0.6057575570244591,3,3,ja,EAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,最低最低気温,2026-09-02T07:16:00+00:00,,0.5450572236213407,2,3,ja,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,氷河の分裂,2026-09-01T07:57:00+00:00,,0.5336836457091733,2,2,ja,,
-'d8567a337b',extremes,Drought,#edc291,edo,日照り続く日本,2026-08-31T08:51:00+00:00,Japan,0.5305371553228931,2,3,ja,EAS,Asia
 '9f0423d739',extremes,Drought,#edc291,random,乾燥,2026-08-27T13:00:00+00:00,,0.521266986340003,2,3,ja,,
 '5666648428',extremes,Drought,#edc291,edo,乾燥した日本,2026-08-30T08:30:00+00:00,Japan,0.5167164525033912,3,3,ja,EAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,地震,2026-09-05T07:04:00+00:00,,0.5098785174778024,2,3,ja,,
@@ -28,5 +28,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,スノースコール,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2473110024963712,2,1,ja,,
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,氷山アークティス,2026-09-08T07:23:00+00:00,,0.2415796899951035,3,1,ja,,
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.2286512635527305,2,1,ja,,
