@@ -16,11 +16,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fdeaffad3',extremes,Earthquake,#870007,usgs,いわき地震,2026-09-11T07:27:00+00:00,Japan,0.4700019651525988,4,2,ja,EAS,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,砂嵐,2026-09-05T07:04:00+00:00,,0.467923868677628,3,2,ja,,
 '63aea37e6c',extremes,Earthquake,#870007,usgs,陸奥地震,2026-09-02T07:16:00+00:00,Japan,0.4646885823615399,2,2,ja,EAS,Asia
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-09-06T07:16:00+00:00,,0.46166437280326733,3,2,ja,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,吹雪,2026-09-06T07:16:00+00:00,,0.4616643728032673,3,2,ja,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-09-11T07:26:00+00:00,,0.4441295374981528,3,2,ja,,
 '95ae531eb7',extremes,Earthquake,#870007,usgs,児島地震,2026-09-01T07:57:00+00:00,Japan,0.4368026993843489,2,2,ja,EAS,Asia
 'a652c78afc',extremes,Drought,#edc291,random,大干ばつ,2026-09-03T07:20:00+00:00,,0.4303321670023968,3,2,ja,,
 '7183b884b1',extremes,Drought,#edc291,edo,干ばつ日本,2026-08-29T09:19:00+00:00,Japan,0.411742542323464,2,2,ja,EAS,Asia
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,記録的な寒さ,2026-09-11T07:26:00+00:00,,0.3451523088213563,2,1,ja,,
-'0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.2797120878227479,2,1,ja,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,霧氷,2026-09-10T07:28:00+00:00,,0.2473110024963712,2,1,ja,,
+'0053afc92f',extremes,Volcano,#b83202,random,ラハル,2026-09-12T07:19:00+00:00,,0.23775527464933574,3,1,ja,,
 'ccefefc59e',extremes,Drought,#edc291,random,フラッシュ干ばつ,2026-09-08T07:23:00+00:00,,0.2286512635527305,2,1,ja,,
